@@ -1,0 +1,118 @@
+DOCUMENT:
+0: one perverse results irs lame overzealous possibly criminal behavior looking tax-exempt applications assorted advocacy groups lot safer scrutiny today yesterday
+1: irs mess government going rush take try regulate groups actually looking political operations overt covert
+2: um many
+3: real deal open secret washington groups spent huge amounts money presidential campaigns politically aligned
+4: whatever labels irs might call tax-exempt claim dealing issues rather elections
+5: policy political candidates
+6: heat general election policy politics anyone tell difference
+7: priorities usa democratic brand karl rove crossroads gps likely anything help gop
+8: gain tax-exempt status supposed promote social welfare
+9: exactly mean
+10: complicated question become infinitely complex wake supreme court citizens united decision allowed corporations start donating directly activist groups
+11: suddenly potential getting dibs considerable money grew larger
+12: groups designated 501 c 4 became perfect pots hold dough swelled literally figuratively
+13: irs much
+14: might better idea rather embarking seems like potentially criminal political fishing expedition actually take look huge amounts money spent open last campaign
+15: irs scrutinizing big fish asks paul ryan chief lawyer campaign legal center watchdog group pushed unsuccessfully irs investigate groups
+16: irs needs focused big fish little mom pop tea party groups certainly based political ideology
+17: ah exactly happened result groups according estimates collectively spent 250 million candidates last election still tax-exempt
+18: irs investigators silly clueless unaware appropriate role
+19: alas yes
+20: legal eagles reading interpreting irs laws obviously lot smarter
+21: description 501 c 4 category irs lays pretty plainly
+22: examples organizations statute would considered tax-exempt says civic associations volunteer fire companies
+23: exactly political way shape form
+24: irs also makes clear order qualify burden prove organization organized exclusively italics mine promote social welfare
+25: according ryan gremlins i.e. lawyers managed figure way get around
+26: new perceived line explains groups need spend less half money politics
+27: calls tax lawyer community interpretation
+28: running government
+29: groups spend less half money politically related activism dough collect big corporations donors used campaign activities without disclosure money came
+30: escaped notice congress especially democrats outgunned republican-leaning groups
+31: urge protect legitimate section 501 c 4 entities preventing non-conforming organizations focused federal election activities abusing tax code seven democratic u.s. senators wrote then-irs commissioner douglas shulman last year
+32: makes sense irs make sure laws followed
+33: citizens least expect government might know difference quashing political dissent legitimate inquiry
+34: fishing expeditions political-sounding names stupid venal
+35: obvious perverse consequence irs bungling made world safer tax lawyers
+36: taxpayer dollars work
+37: cnn kevin bohn contributed article
+
+=================================
+Gold summary:
+gloria borger irs scandal open season political nonprofits
+says agency wrong target conservative groups
+still irs needed keep political groups posing nonprofits says
+borger irs focused small fry left big organizations free spend politics
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1111
+		rouge-2: 0.0000
+		rouge-l: 0.1176
+	Summary: 
+		one perverse results irs lame overzealous possibly criminal behavior looking tax-exempt applications assorted advocacy groups lot safer scrutiny today yesterday
+		irs mess government going rush take try regulate groups actually looking political operations overt covert
+		um many
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 16, 22, 26
+	Results: 
+		rouge-1: 0.3333
+		rouge-2: 0.0000
+		rouge-l: 0.1765
+	Summary: 
+		irs needs focused big fish little mom pop tea party groups certainly based political ideology
+		examples organizations statute would considered tax-exempt says civic associations volunteer fire companies
+		new perceived line explains groups need spend less half money politics
+
+=================================
+GreedyOracle-rouge-1 predicted the following:
+	Sentences: 16, 22, 26
+	Results: 
+		rouge-1: 0.3333
+		rouge-2: 0.0000
+		rouge-l: 0.1765
+	Summary: 
+		irs needs focused big fish little mom pop tea party groups certainly based political ideology
+		examples organizations statute would considered tax-exempt says civic associations volunteer fire companies
+		new perceived line explains groups need spend less half money politics
+
+=================================
+GreedyOracle-rouge-2 predicted the following:
+	Sentences: 35, 36, 37
+	Results: 
+		rouge-1: 0.0370
+		rouge-2: 0.0000
+		rouge-l: 0.0294
+	Summary: 
+		obvious perverse consequence irs bungling made world safer tax lawyers
+		taxpayer dollars work
+		cnn kevin bohn contributed article
+
+=================================
+GreedyOracle-rouge-l predicted the following:
+	Sentences: 15, 16, 26
+	Results: 
+		rouge-1: 0.2593
+		rouge-2: 0.0000
+		rouge-l: 0.2353
+	Summary: 
+		irs scrutinizing big fish asks paul ryan chief lawyer campaign legal center watchdog group pushed unsuccessfully irs investigate groups
+		irs needs focused big fish little mom pop tea party groups certainly based political ideology
+		new perceived line explains groups need spend less half money politics
+
+=================================
+ExhaustiveOracle-mean predicted the following:
+	Sentences: 16, 22, 26
+	Results: 
+		rouge-1: 0.3333
+		rouge-2: 0.0000
+		rouge-l: 0.1765
+	Summary: 
+		irs needs focused big fish little mom pop tea party groups certainly based political ideology
+		examples organizations statute would considered tax-exempt says civic associations volunteer fire companies
+		new perceived line explains groups need spend less half money politics

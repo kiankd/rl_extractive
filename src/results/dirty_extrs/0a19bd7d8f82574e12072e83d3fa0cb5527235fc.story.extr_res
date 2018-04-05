@@ -1,0 +1,93 @@
+DOCUMENT:
+0: An American imprisoned for nearly a month in the United Arab Emirates for taking photos has been released from custody and returning home to Georgia , a family spokeswoman said .
+1: Robert Alan Black -- who 'd been in the UAE to speak at an international creativity conference -- had been held in Abu Dhabi 's Al Wathba prison since October 21 after being `` charged with taking pictures of restricted areas , '' said Rosemary Rein , the spokeswoman for Friends of Alan Black .
+2: A former architect , Black often takes photos of buildings , according to Rein .
+3: Doing so is prohibited in some parts of the UAE , particularly in and around government buildings , embassies , military facilities and other places that are considered sensitive .
+4: He made a brief court appearance Monday , and was released the following day .
+5: `` The court found that the action was committed with no ill-intention , and ordered the minimum fine of 500 -LRB- UAE dirhams or about US $ 135 -RRB- , '' according to Rein 's statement , which was posted to a `` Free Robert Alan Black '' Facebook page .
+6: After his release , the 70-year-old headed to his home in Athens , Georgia .
+7: `` We 're relieved and happy with this news , '' Rein said .
+8: `` The international creativity community was concerned about our dear friend and colleague , and we 're glad the matter has been resolved .
+9: Black characterizes himself as an architect , cartoonist , graphic designer , professor and creativity consultant on his website .
+10: He has given presentations at more more than 150 creativity conferences on six continents since 1978 , and has written more than 600 articles and a book , `` Broken Crayons : Break Your Crayons and Draw Outside the Lines .
+11: Rein has said Black 's next stop , after the Abu Dhabi conference , was supposed to be Malaysia .
+12: But after noticing he had n't posted to social media , she touched base with mutual acquaintances and learned that he 'd never made it to Malaysia .
+
+=================================
+Gold summary:
+`` We 're relieved and happy with this news , '' family spokeswoman says
+Family : Robert Alan Black was `` charged with taking pictures of restricted areas ''
+A court frees him after finding he had `` no ill-intention , '' says a spokeswoman
+The creativity consultant had been in the United Arab Emirates for a conference
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.6042
+		rouge-2: 0.3214
+		rouge-l: 0.3276
+	Summary: 
+		An American imprisoned for nearly a month in the United Arab Emirates for taking photos has been released from custody and returning home to Georgia , a family spokeswoman said .
+		Robert Alan Black -- who 'd been in the UAE to speak at an international creativity conference -- had been held in Abu Dhabi 's Al Wathba prison since October 21 after being `` charged with taking pictures of restricted areas , '' said Rosemary Rein , the spokeswoman for Friends of Alan Black .
+		A former architect , Black often takes photos of buildings , according to Rein .
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 1, 7
+	Results: 
+		rouge-1: 0.7083
+		rouge-2: 0.4821
+		rouge-l: 0.3276
+	Summary: 
+		An American imprisoned for nearly a month in the United Arab Emirates for taking photos has been released from custody and returning home to Georgia , a family spokeswoman said .
+		Robert Alan Black -- who 'd been in the UAE to speak at an international creativity conference -- had been held in Abu Dhabi 's Al Wathba prison since October 21 after being `` charged with taking pictures of restricted areas , '' said Rosemary Rein , the spokeswoman for Friends of Alan Black .
+		`` We 're relieved and happy with this news , '' Rein said .
+
+=================================
+GreedyOracle-rouge-1 predicted the following:
+	Sentences: 1, 5, 7
+	Results: 
+		rouge-1: 0.7292
+		rouge-2: 0.4286
+		rouge-l: 0.3103
+	Summary: 
+		Robert Alan Black -- who 'd been in the UAE to speak at an international creativity conference -- had been held in Abu Dhabi 's Al Wathba prison since October 21 after being `` charged with taking pictures of restricted areas , '' said Rosemary Rein , the spokeswoman for Friends of Alan Black .
+		`` The court found that the action was committed with no ill-intention , and ordered the minimum fine of 500 -LRB- UAE dirhams or about US $ 135 -RRB- , '' according to Rein 's statement , which was posted to a `` Free Robert Alan Black '' Facebook page .
+		`` We 're relieved and happy with this news , '' Rein said .
+
+=================================
+GreedyOracle-rouge-2 predicted the following:
+	Sentences: 0, 1, 7
+	Results: 
+		rouge-1: 0.7083
+		rouge-2: 0.4821
+		rouge-l: 0.3276
+	Summary: 
+		An American imprisoned for nearly a month in the United Arab Emirates for taking photos has been released from custody and returning home to Georgia , a family spokeswoman said .
+		Robert Alan Black -- who 'd been in the UAE to speak at an international creativity conference -- had been held in Abu Dhabi 's Al Wathba prison since October 21 after being `` charged with taking pictures of restricted areas , '' said Rosemary Rein , the spokeswoman for Friends of Alan Black .
+		`` We 're relieved and happy with this news , '' Rein said .
+
+=================================
+GreedyOracle-rouge-l predicted the following:
+	Sentences: 0, 1, 5
+	Results: 
+		rouge-1: 0.6875
+		rouge-2: 0.3571
+		rouge-l: 0.3793
+	Summary: 
+		An American imprisoned for nearly a month in the United Arab Emirates for taking photos has been released from custody and returning home to Georgia , a family spokeswoman said .
+		Robert Alan Black -- who 'd been in the UAE to speak at an international creativity conference -- had been held in Abu Dhabi 's Al Wathba prison since October 21 after being `` charged with taking pictures of restricted areas , '' said Rosemary Rein , the spokeswoman for Friends of Alan Black .
+		`` The court found that the action was committed with no ill-intention , and ordered the minimum fine of 500 -LRB- UAE dirhams or about US $ 135 -RRB- , '' according to Rein 's statement , which was posted to a `` Free Robert Alan Black '' Facebook page .
+
+=================================
+ExhaustiveOracle-mean predicted the following:
+	Sentences: 0, 1, 7
+	Results: 
+		rouge-1: 0.7083
+		rouge-2: 0.4821
+		rouge-l: 0.3276
+	Summary: 
+		An American imprisoned for nearly a month in the United Arab Emirates for taking photos has been released from custody and returning home to Georgia , a family spokeswoman said .
+		Robert Alan Black -- who 'd been in the UAE to speak at an international creativity conference -- had been held in Abu Dhabi 's Al Wathba prison since October 21 after being `` charged with taking pictures of restricted areas , '' said Rosemary Rein , the spokeswoman for Friends of Alan Black .
+		`` We 're relieved and happy with this news , '' Rein said .

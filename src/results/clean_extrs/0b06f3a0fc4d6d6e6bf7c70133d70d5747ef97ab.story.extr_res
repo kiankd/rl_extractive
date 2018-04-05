@@ -1,0 +1,134 @@
+DOCUMENT:
+0: summer best time outdoor musical festivals blasting music windows open
+1: done legwork compiled best albums season tent-worthy festivals organized region
+2: find ear candy suits taste best get busy listening
+3: queens stone age like clockwork due june 4
+4: band sixth album follow-up era vulgaris welcomes founding bassist nick oliveri back band includes guest spots dave grohl elton john trent reznor mark lanegan brody dalle jake shears among others
+5: one first meaty rock records summer heard
+6: lonely island wack album due june 11
+7: anecdote oh-so-earnest music andy samberg jorma taccone akiva schaffer back hilarity help friends solange maya rudolph t-pain adam levine lady gaga justin timberlake pharrell williams
+8: semicolon twisted update schoolhouse rock spring break anthem takes bromance logical conclusion
+9: kanye west yeezus due june 18
+10: follow-up beautiful dark twisted fantasy supposed game-changer hope mean many kim kardashian songs baby awesome played met ball adult swim upfront
+11: sneak peek tracks black skinhead new slaves saturday night live suggest listening lot dmx collaborators include daft punk skrillex john legend members odd future i.d. pusha chief keef
+12: potential tracks god celebrity also suggest ye leaving ego door
+13: 20 best summer 2013 movies
+14: sigur rã ³ kveikur due june 18
+15: multi-instrumentalist kjartan sveinsson left go compose elsewhere icelandic band sound transformed ambient music/dream-rock something harder darker indicated first-released tracks brennisteinn isjaki venture prog-metal
+16: worry gorgeous falsettos still intact
+17: mgmt mgmt june tba
+18: duo synth-heavy follow-up congratulations features influences aphex twin house music recorded longtime flaming lips producer dave fridmann mean one thing expect trippy
+19: first sneak peek track alien days released cassette record store day last month
+20: album expected include version faine jade garage rocker introspection well new track mystery disease
+21: new summer tv
+22: wu-tang clan better tomorrow july tba
+23: 20th anniversary enter wu-tang 36 chambers staten island hip-hop group new possibly final album named 1997 track better tomorrow
+24: rza told new york times group one last mission need one time completely efficiently properly represent brand ghostface killah told guardian got verses got ta make sure right
+25: take time
+26: m.i.a. mitangi summer tba
+27: full album supposed april sri lankan rapper gave us taste new music outside last year bad girls paris fashion week runway show japanese brand kenzo
+28: advance word mitangi upbeat usual come walk leaked track attention bit darker existence militant
+29: m.i.a. said twitter collabs album although worked producers hit-boy japan whose kyle edwards told mtv album lot bounce
+30: beyonce mrs. carter summer tba
+31: queen b treated us tracks far fifth studio album grown woman standing sun bow down/i know working
+32: question much remains done release since currently tour
+33: sure favorite artists tour summer beyonce jay-z justin timberlake taylor swift get bang buck check one many music festivals around country
+34: might even discover new fave artist
+35: west cost thereabouts might want go bumbershoot seattle august 31-september 2 labor day weekend
+36: lineup bumbershoot includes fun. death cab cutie mgmt bob mould breeders matt kim heart
+37: death cab cutie plans play 2003 album transatlanticism entirety
+38: know one seth poster wall o.c. also experience music project host electronic dance music stage
+39: farther south coast might want hit outside lands san francisco august 9-11 include red hot chili peppers yeah yeah yeahs vampire weekend willie nelson
+40: midwest thereabouts lollapalooza chicago grant park destination august 2-4
+41: lineup includes phoenix lana del rey queens stone age cure killers national postal service nine inch nails grizzly bear ellie goulding plus plenty
+42: granted lollapalooza actually toured country great one-stop shopping fulfill summer music needs
+43: also midwest kanrockas kansas city kansas june 28-29 kendrick lamar passion pit pretty lights tiesto yeah yeah yeahs
+44: folks east coast try luck governor ball new york june 7-9 kanye west headlining guns n roses slated make appearance never know axl rose
+45: also bill lumineers kendrick lamar kings leon
+46: little farther away big apple sure-to-be-eventful hot 97 summer jam june 2 east rutherford new jersey includes kendrick lamar plus a$ ap rocky wu-tang clan fabolous wale miguel
+47: firefly music festival dover delaware june 21-23 offers alabama shakes tom petty red hot chili peppers vampire weekend budweiser made america fest philadelphia august 31-september 1 beyonce leading lineup curated hubby jay-z public enemy phoenix emeli sande deadmau5 wiz khalifa nine inch nails queens stone age macklemore ryan lewis
+48: hova doc jay-z made america released first watch get amped
+49: south big festivals await
+50: bonnaroo manchester tennessee june 13-16 eclectic lineup year seasoned vets paul mccartney tom petty heartbreakers david byrne facing typical festival fare mumford sons wilco lumineers beyond norm choices bjã ¶ rk r. kelly wu-tang clan
+51: comedy lineup featuring david cross case get enough new season arrested development ed helms ditto hangover iii bob saget probably work blue
+52: meanwhile essence music festival new orleans july 4 weekend cool jill scott keyshia cole cool j maxwell brandy else beyonce
+53: mean wait little longer new album
+54: got summer
+
+=================================
+Gold summary:
+promising albums music festivals horizon
+releases expected everyone beyonce wu-tang clan
+festivals rockin usa bumbershoot west bonnaroo south
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1765
+		rouge-2: 0.0000
+		rouge-l: 0.1111
+	Summary: 
+		summer best time outdoor musical festivals blasting music windows open
+		done legwork compiled best albums season tent-worthy festivals organized region
+		find ear candy suits taste best get busy listening
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 33, 35, 50
+	Results: 
+		rouge-1: 0.4706
+		rouge-2: 0.1176
+		rouge-l: 0.2222
+	Summary: 
+		sure favorite artists tour summer beyonce jay-z justin timberlake taylor swift get bang buck check one many music festivals around country
+		west cost thereabouts might want go bumbershoot seattle august 31-september 2 labor day weekend
+		bonnaroo manchester tennessee june 13-16 eclectic lineup year seasoned vets paul mccartney tom petty heartbreakers david byrne facing typical festival fare mumford sons wilco lumineers beyond norm choices bjã ¶ rk r. kelly wu-tang clan
+
+=================================
+GreedyOracle-rouge-1 predicted the following:
+	Sentences: 33, 35, 50
+	Results: 
+		rouge-1: 0.4706
+		rouge-2: 0.1176
+		rouge-l: 0.2222
+	Summary: 
+		sure favorite artists tour summer beyonce jay-z justin timberlake taylor swift get bang buck check one many music festivals around country
+		west cost thereabouts might want go bumbershoot seattle august 31-september 2 labor day weekend
+		bonnaroo manchester tennessee june 13-16 eclectic lineup year seasoned vets paul mccartney tom petty heartbreakers david byrne facing typical festival fare mumford sons wilco lumineers beyond norm choices bjã ¶ rk r. kelly wu-tang clan
+
+=================================
+GreedyOracle-rouge-2 predicted the following:
+	Sentences: 33, 50, 54
+	Results: 
+		rouge-1: 0.3529
+		rouge-2: 0.1176
+		rouge-l: 0.2222
+	Summary: 
+		sure favorite artists tour summer beyonce jay-z justin timberlake taylor swift get bang buck check one many music festivals around country
+		bonnaroo manchester tennessee june 13-16 eclectic lineup year seasoned vets paul mccartney tom petty heartbreakers david byrne facing typical festival fare mumford sons wilco lumineers beyond norm choices bjã ¶ rk r. kelly wu-tang clan
+		got summer
+
+=================================
+GreedyOracle-rouge-l predicted the following:
+	Sentences: 33, 50, 52
+	Results: 
+		rouge-1: 0.3529
+		rouge-2: 0.1176
+		rouge-l: 0.2222
+	Summary: 
+		sure favorite artists tour summer beyonce jay-z justin timberlake taylor swift get bang buck check one many music festivals around country
+		bonnaroo manchester tennessee june 13-16 eclectic lineup year seasoned vets paul mccartney tom petty heartbreakers david byrne facing typical festival fare mumford sons wilco lumineers beyond norm choices bjã ¶ rk r. kelly wu-tang clan
+		meanwhile essence music festival new orleans july 4 weekend cool jill scott keyshia cole cool j maxwell brandy else beyonce
+
+=================================
+ExhaustiveOracle-mean predicted the following:
+	Sentences: 33, 35, 50
+	Results: 
+		rouge-1: 0.4706
+		rouge-2: 0.1176
+		rouge-l: 0.2222
+	Summary: 
+		sure favorite artists tour summer beyonce jay-z justin timberlake taylor swift get bang buck check one many music festivals around country
+		west cost thereabouts might want go bumbershoot seattle august 31-september 2 labor day weekend
+		bonnaroo manchester tennessee june 13-16 eclectic lineup year seasoned vets paul mccartney tom petty heartbreakers david byrne facing typical festival fare mumford sons wilco lumineers beyond norm choices bjã ¶ rk r. kelly wu-tang clan

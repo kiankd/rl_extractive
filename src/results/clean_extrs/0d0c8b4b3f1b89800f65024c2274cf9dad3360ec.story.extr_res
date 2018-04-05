@@ -1,0 +1,100 @@
+DOCUMENT:
+0: first search michael jackson bedroom day death found marijuana skin-bleaching hair-growing ointments anti-insomnia pills empty bottles several anti-anxiety drugs according court documents unsealed thursday
+1: documents reveal investigators found jackson bedroom day death
+2: substance initially suspected tar heroin proved narcotic according source knowledge investigation
+3: affidavit written los angeles detective orlando martinez used outline probable cause warrant search jackson holmby hills california home june 26
+4: martinez filed report found search five days later
+5: documents may provide insight jackson life appeared contain nothing would lend new insight death
+6: another sworn statement written martinez several weeks later made public earlier week provided extensive list drugs found investigators jackson bedside
+7: document also revealed toxicology tests led los angeles county coroner preliminary conclusion jackson died overdose propofol powerful sedative given help sleep
+8: latest release refers suspicions members jackson family hours june 25 death heroin might involved
+9: course investigation family members decedent notified -lsb- coroner investigator -rsb- chief -lsb- ed -rsb- winter located quantity tar heroin bag decedent bedroom located second floor residence martinez wrote
+10: used statement justify search jackson home may additional medications and/or narcotics location well necessity confiscate items safety minor children
+11: source knowledge probe told cnn thursday test later showed brown sticky substance found search heroin
+12: source asked named source authorized speak publicly
+13: addition listing two baggies marijuana detective report found jackson home listed three vials latanoprost plus solution liquid
+14: online search found medical journal references glaucoma medication also used stimulate hair growth
+15: jackson suffered permanent hair loss scalp caught fire taping pepsi commercial 1984
+16: known wear wigs public mishap
+17: also listed detective report benoquin ointment medication used lighten skin pigmentation people vitiligo skin condition
+18: jackson dermatologist dr. arnold klein said cnn larry king live last month treated jackson condition causes irregular patches white skin
+19: bad began get totally speckled look body klein said
+20: coroner announced two weeks ago report jackson death completed police asked withheld completion criminal probe
+
+=================================
+Gold summary:
+skin-bleaching hair-growth ointments also found day jackson death
+police searched jackson home family believed found tar heroin
+source substance heroin
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5882
+		rouge-2: 0.0526
+		rouge-l: 0.4000
+	Summary: 
+		first search michael jackson bedroom day death found marijuana skin-bleaching hair-growing ointments anti-insomnia pills empty bottles several anti-anxiety drugs according court documents unsealed thursday
+		documents reveal investigators found jackson bedroom day death
+		substance initially suspected tar heroin proved narcotic according source knowledge investigation
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 2, 20
+	Results: 
+		rouge-1: 0.6471
+		rouge-2: 0.1053
+		rouge-l: 0.3000
+	Summary: 
+		first search michael jackson bedroom day death found marijuana skin-bleaching hair-growing ointments anti-insomnia pills empty bottles several anti-anxiety drugs according court documents unsealed thursday
+		substance initially suspected tar heroin proved narcotic according source knowledge investigation
+		coroner announced two weeks ago report jackson death completed police asked withheld completion criminal probe
+
+=================================
+GreedyOracle-rouge-1 predicted the following:
+	Sentences: 0, 2, 20
+	Results: 
+		rouge-1: 0.6471
+		rouge-2: 0.1053
+		rouge-l: 0.3000
+	Summary: 
+		first search michael jackson bedroom day death found marijuana skin-bleaching hair-growing ointments anti-insomnia pills empty bottles several anti-anxiety drugs according court documents unsealed thursday
+		substance initially suspected tar heroin proved narcotic according source knowledge investigation
+		coroner announced two weeks ago report jackson death completed police asked withheld completion criminal probe
+
+=================================
+GreedyOracle-rouge-2 predicted the following:
+	Sentences: 9, 13, 20
+	Results: 
+		rouge-1: 0.4706
+		rouge-2: 0.1579
+		rouge-l: 0.2000
+	Summary: 
+		course investigation family members decedent notified -lsb- coroner investigator -rsb- chief -lsb- ed -rsb- winter located quantity tar heroin bag decedent bedroom located second floor residence martinez wrote
+		addition listing two baggies marijuana detective report found jackson home listed three vials latanoprost plus solution liquid
+		coroner announced two weeks ago report jackson death completed police asked withheld completion criminal probe
+
+=================================
+GreedyOracle-rouge-l predicted the following:
+	Sentences: 0, 1, 20
+	Results: 
+		rouge-1: 0.4118
+		rouge-2: 0.0526
+		rouge-l: 0.3500
+	Summary: 
+		first search michael jackson bedroom day death found marijuana skin-bleaching hair-growing ointments anti-insomnia pills empty bottles several anti-anxiety drugs according court documents unsealed thursday
+		documents reveal investigators found jackson bedroom day death
+		coroner announced two weeks ago report jackson death completed police asked withheld completion criminal probe
+
+=================================
+ExhaustiveOracle-mean predicted the following:
+	Sentences: 0, 9, 11
+	Results: 
+		rouge-1: 0.6471
+		rouge-2: 0.0526
+		rouge-l: 0.4000
+	Summary: 
+		first search michael jackson bedroom day death found marijuana skin-bleaching hair-growing ointments anti-insomnia pills empty bottles several anti-anxiety drugs according court documents unsealed thursday
+		course investigation family members decedent notified -lsb- coroner investigator -rsb- chief -lsb- ed -rsb- winter located quantity tar heroin bag decedent bedroom located second floor residence martinez wrote
+		source knowledge probe told cnn thursday test later showed brown sticky substance found search heroin

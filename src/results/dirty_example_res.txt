@@ -1,0 +1,1406 @@
+[Command: python3 -u /Users/kian/rl_final_proj/src/oracle_extraction.py]
+/Users/kian/rl_final_proj/examples/0b06f3a0fc4d6d6e6bf7c70133d70d5747ef97ab.story
+Lead-3 results:
+	rouge-1: {'f': '0.182', 'p': '0.149', 'r': '0.233'}
+	rouge-2: {'f': '0.000', 'p': '0.000', 'r': '0.000'}
+	rouge-l: {'f': '0.103', 'p': '0.092', 'r': '0.162'}
+Greedy results:
+	rouge-1: {'f': '0.239', 'p': '0.154', 'r': '0.533'}
+	rouge-2: {'f': '0.091', 'p': '0.057', 'r': '0.229'}
+	rouge-l: {'f': '0.081', 'p': '0.077', 'r': '0.297'}
+
+/Users/kian/rl_final_proj/examples/0d0c8b4b3f1b89800f65024c2274cf9dad3360ec.story
+Lead-3 results:
+	rouge-1: {'f': '0.308', 'p': '0.226', 'r': '0.480'}
+	rouge-2: {'f': '0.061', 'p': '0.043', 'r': '0.107'}
+	rouge-l: {'f': '0.124', 'p': '0.114', 'r': '0.300'}
+Greedy results:
+	rouge-1: {'f': '0.267', 'p': '0.175', 'r': '0.560'}
+	rouge-2: {'f': '0.072', 'p': '0.045', 'r': '0.179'}
+	rouge-l: {'f': '0.070', 'p': '0.067', 'r': '0.267'}
+
+/Users/kian/rl_final_proj/examples/0a1c0855f3f719a8c4e0ec1c84f25ea8765f1241.story
+Lead-3 results:
+	rouge-1: {'f': '0.345', 'p': '0.278', 'r': '0.455'}
+	rouge-2: {'f': '0.222', 'p': '0.172', 'r': '0.314'}
+	rouge-l: {'f': '0.216', 'p': '0.194', 'r': '0.361'}
+Greedy results:
+	rouge-1: {'f': '0.615', 'p': '0.483', 'r': '0.848'}
+	rouge-2: {'f': '0.491', 'p': '0.366', 'r': '0.743'}
+	rouge-l: {'f': '0.274', 'p': '0.247', 'r': '0.500'}
+
+/Users/kian/rl_final_proj/examples/0a19bd7d8f82574e12072e83d3fa0cb5527235fc.story
+Lead-3 results:
+	rouge-1: {'f': '0.479', 'p': '0.397', 'r': '0.604'}
+	rouge-2: {'f': '0.234', 'p': '0.184', 'r': '0.321'}
+	rouge-l: {'f': '0.210', 'p': '0.188', 'r': '0.328'}
+Greedy results:
+	rouge-1: {'f': '0.567', 'p': '0.472', 'r': '0.708'}
+	rouge-2: {'f': '0.358', 'p': '0.284', 'r': '0.482'}
+	rouge-l: {'f': '0.235', 'p': '0.210', 'r': '0.362'}
+
+/Users/kian/rl_final_proj/examples/0b0ff43891b42d7c9759cf8cbfb500a720cdaf86.story
+Lead-3 results:
+	rouge-1: {'f': '0.288', 'p': '0.227', 'r': '0.395'}
+	rouge-2: {'f': '0.110', 'p': '0.082', 'r': '0.167'}
+	rouge-l: {'f': '0.137', 'p': '0.124', 'r': '0.256'}
+Greedy results:
+	rouge-1: {'f': '0.346', 'p': '0.273', 'r': '0.474'}
+	rouge-2: {'f': '0.145', 'p': '0.104', 'r': '0.238'}
+	rouge-l: {'f': '0.198', 'p': '0.181', 'r': '0.442'}
+
+/Users/kian/rl_final_proj/examples/0c0531e58be44274dbfea947776465554c60f08e.story
+Lead-3 results:
+	rouge-1: {'f': '0.382', 'p': '0.279', 'r': '0.607'}
+	rouge-2: {'f': '0.093', 'p': '0.066', 'r': '0.161'}
+	rouge-l: {'f': '0.157', 'p': '0.145', 'r': '0.375'}
+Greedy results:
+	rouge-1: {'f': '0.404', 'p': '0.295', 'r': '0.643'}
+	rouge-2: {'f': '0.131', 'p': '0.092', 'r': '0.226'}
+	rouge-l: {'f': '0.204', 'p': '0.188', 'r': '0.469'}
+
+/Users/kian/rl_final_proj/examples/0a10dea37648dc0c47a40845ae6e18999f644eab.story
+Lead-3 results:
+	rouge-1: {'f': '0.237', 'p': '0.209', 'r': '0.275'}
+	rouge-2: {'f': '0.041', 'p': '0.033', 'r': '0.053'}
+	rouge-l: {'f': '0.109', 'p': '0.098', 'r': '0.155'}
+Greedy results:
+	rouge-1: {'f': '0.482', 'p': '0.443', 'r': '0.529'}
+	rouge-2: {'f': '0.164', 'p': '0.143', 'r': '0.193'}
+	rouge-l: {'f': '0.178', 'p': '0.160', 'r': '0.224'}
+
+/Users/kian/rl_final_proj/examples/0b0113839909f3a4662126e600dbc58402cf9bb0.story
+Lead-3 results:
+	rouge-1: {'f': '0.243', 'p': '0.200', 'r': '0.310'}
+	rouge-2: {'f': '0.014', 'p': '0.011', 'r': '0.018'}
+	rouge-l: {'f': '0.137', 'p': '0.122', 'r': '0.193'}
+Greedy results:
+	rouge-1: {'f': '0.265', 'p': '0.211', 'r': '0.357'}
+	rouge-2: {'f': '0.054', 'p': '0.043', 'r': '0.073'}
+	rouge-l: {'f': '0.173', 'p': '0.155', 'r': '0.263'}
+
+/Users/kian/rl_final_proj/examples/0b0b96f694fa9f9d758da2b1b1d8a22907ac6cd8.story
+Lead-3 results:
+	rouge-1: {'f': '0.439', 'p': '0.429', 'r': '0.450'}
+	rouge-2: {'f': '0.200', 'p': '0.200', 'r': '0.200'}
+	rouge-l: {'f': '0.259', 'p': '0.246', 'r': '0.278'}
+Greedy results:
+	rouge-1: {'f': '0.470', 'p': '0.360', 'r': '0.675'}
+	rouge-2: {'f': '0.252', 'p': '0.194', 'r': '0.360'}
+	rouge-l: {'f': '0.247', 'p': '0.221', 'r': '0.389'}
+
+/Users/kian/rl_final_proj/examples/0b05e161ff0583493df98b577662c39ca9fa280a.story
+Lead-3 results:
+	rouge-1: {'f': '0.218', 'p': '0.167', 'r': '0.314'}
+	rouge-2: {'f': '0.016', 'p': '0.011', 'r': '0.027'}
+	rouge-l: {'f': '0.082', 'p': '0.075', 'r': '0.179'}
+Greedy results:
+	rouge-1: {'f': '0.370', 'p': '0.298', 'r': '0.486'}
+	rouge-2: {'f': '0.154', 'p': '0.119', 'r': '0.216'}
+	rouge-l: {'f': '0.148', 'p': '0.132', 'r': '0.231'}
+
+/Users/kian/rl_final_proj/examples/0a1d53047d2f513e860630d13c7bd76fd6d31ff1.story
+Lead-3 results:
+	rouge-1: {'f': '0.500', 'p': '0.431', 'r': '0.596'}
+	rouge-2: {'f': '0.150', 'p': '0.130', 'r': '0.179'}
+	rouge-l: {'f': '0.246', 'p': '0.222', 'r': '0.316'}
+Greedy results:
+	rouge-1: {'f': '0.500', 'p': '0.431', 'r': '0.596'}
+	rouge-2: {'f': '0.150', 'p': '0.130', 'r': '0.179'}
+	rouge-l: {'f': '0.178', 'p': '0.160', 'r': '0.228'}
+
+/Users/kian/rl_final_proj/examples/0e0c58a088898008f0ad23486b5e99a419027504.story
+Lead-3 results:
+	rouge-1: {'f': '0.200', 'p': '0.160', 'r': '0.267'}
+	rouge-2: {'f': '0.052', 'p': '0.040', 'r': '0.074'}
+	rouge-l: {'f': '0.128', 'p': '0.114', 'r': '0.211'}
+Greedy results:
+	rouge-1: {'f': '0.400', 'p': '0.312', 'r': '0.556'}
+	rouge-2: {'f': '0.204', 'p': '0.155', 'r': '0.296'}
+	rouge-l: {'f': '0.147', 'p': '0.132', 'r': '0.246'}
+
+/Users/kian/rl_final_proj/examples/0e0e0f6d86365f11ce031ad7bafbfe395a0dac8e.story
+Lead-3 results:
+	rouge-1: {'f': '0.187', 'p': '0.135', 'r': '0.304'}
+	rouge-2: {'f': '0.074', 'p': '0.051', 'r': '0.136'}
+	rouge-l: {'f': '0.072', 'p': '0.067', 'r': '0.174'}
+Greedy results:
+	rouge-1: {'f': '0.346', 'p': '0.241', 'r': '0.609'}
+	rouge-2: {'f': '0.109', 'p': '0.071', 'r': '0.227'}
+	rouge-l: {'f': '0.120', 'p': '0.113', 'r': '0.348'}
+
+/Users/kian/rl_final_proj/examples/0c070fed61942d0ef2e4febb179ec5df82f69241.story
+Lead-3 results:
+	rouge-1: {'f': '0.330', 'p': '0.258', 'r': '0.459'}
+	rouge-2: {'f': '0.133', 'p': '0.095', 'r': '0.222'}
+	rouge-l: {'f': '0.151', 'p': '0.140', 'r': '0.378'}
+Greedy results:
+	rouge-1: {'f': '0.385', 'p': '0.292', 'r': '0.568'}
+	rouge-2: {'f': '0.172', 'p': '0.120', 'r': '0.306'}
+	rouge-l: {'f': '0.229', 'p': '0.211', 'r': '0.541'}
+
+/Users/kian/rl_final_proj/examples/0a18565199ddcfa6265e1c7fa1ef0d3e7cc4e3a4.story
+Lead-3 results:
+	rouge-1: {'f': '0.352', 'p': '0.308', 'r': '0.410'}
+	rouge-2: {'f': '0.144', 'p': '0.127', 'r': '0.167'}
+	rouge-l: {'f': '0.239', 'p': '0.219', 'r': '0.286'}
+Greedy results:
+	rouge-1: {'f': '0.446', 'p': '0.342', 'r': '0.641'}
+	rouge-2: {'f': '0.213', 'p': '0.161', 'r': '0.312'}
+	rouge-l: {'f': '0.197', 'p': '0.177', 'r': '0.347'}
+
+/Users/kian/rl_final_proj/examples/0a10d46e8d848941656352cdf58e587143896f2f.story
+Lead-3 results:
+	rouge-1: {'f': '0.351', 'p': '0.327', 'r': '0.378'}
+	rouge-2: {'f': '0.119', 'p': '0.101', 'r': '0.143'}
+	rouge-l: {'f': '0.237', 'p': '0.213', 'r': '0.308'}
+Greedy results:
+	rouge-1: {'f': '0.531', 'p': '0.441', 'r': '0.667'}
+	rouge-2: {'f': '0.261', 'p': '0.202', 'r': '0.367'}
+	rouge-l: {'f': '0.267', 'p': '0.239', 'r': '0.423'}
+
+/Users/kian/rl_final_proj/examples/0c05b250a7c76a92dfb2e5499e73021484580b61.story
+Lead-3 results:
+	rouge-1: {'f': '0.157', 'p': '0.132', 'r': '0.194'}
+	rouge-2: {'f': '0.038', 'p': '0.029', 'r': '0.056'}
+	rouge-l: {'f': '0.064', 'p': '0.057', 'r': '0.108'}
+Greedy results:
+	rouge-1: {'f': '0.466', 'p': '0.358', 'r': '0.667'}
+	rouge-2: {'f': '0.200', 'p': '0.143', 'r': '0.333'}
+	rouge-l: {'f': '0.246', 'p': '0.224', 'r': '0.514'}
+
+/Users/kian/rl_final_proj/examples/0b0a8f597b013b3624616d2328db643cb7129ed4.story
+Lead-3 results:
+	rouge-1: {'f': '0.282', 'p': '0.211', 'r': '0.429'}
+	rouge-2: {'f': '0.136', 'p': '0.097', 'r': '0.226'}
+	rouge-l: {'f': '0.101', 'p': '0.092', 'r': '0.219'}
+Greedy results:
+	rouge-1: {'f': '0.581', 'p': '0.529', 'r': '0.643'}
+	rouge-2: {'f': '0.384', 'p': '0.333', 'r': '0.452'}
+	rouge-l: {'f': '0.307', 'p': '0.279', 'r': '0.375'}
+
+/Users/kian/rl_final_proj/examples/0a05b14962b2e73bbff82086762e0e23d32b359f.story
+Lead-3 results:
+	rouge-1: {'f': '0.411', 'p': '0.373', 'r': '0.458'}
+	rouge-2: {'f': '0.128', 'p': '0.108', 'r': '0.157'}
+	rouge-l: {'f': '0.219', 'p': '0.197', 'r': '0.288'}
+Greedy results:
+	rouge-1: {'f': '0.569', 'p': '0.485', 'r': '0.688'}
+	rouge-2: {'f': '0.273', 'p': '0.222', 'r': '0.353'}
+	rouge-l: {'f': '0.259', 'p': '0.232', 'r': '0.365'}
+
+/Users/kian/rl_final_proj/examples/0d0801f691c202388496a21e37742d6bd3cfb291.story
+Lead-3 results:
+	rouge-1: {'f': '0.330', 'p': '0.243', 'r': '0.514'}
+	rouge-2: {'f': '0.116', 'p': '0.081', 'r': '0.205'}
+	rouge-l: {'f': '0.173', 'p': '0.159', 'r': '0.415'}
+Greedy results:
+	rouge-1: {'f': '0.495', 'p': '0.379', 'r': '0.714'}
+	rouge-2: {'f': '0.246', 'p': '0.181', 'r': '0.385'}
+	rouge-l: {'f': '0.161', 'p': '0.146', 'r': '0.317'}
+
+/Users/kian/rl_final_proj/examples/0b0c1b1ea6de8d3beafefd6badb262994ebfbc0d.story
+Lead-3 results:
+	rouge-1: {'f': '0.337', 'p': '0.314', 'r': '0.364'}
+	rouge-2: {'f': '0.101', 'p': '0.090', 'r': '0.115'}
+	rouge-l: {'f': '0.155', 'p': '0.141', 'r': '0.189'}
+Greedy results:
+	rouge-1: {'f': '0.394', 'p': '0.295', 'r': '0.591'}
+	rouge-2: {'f': '0.141', 'p': '0.102', 'r': '0.231'}
+	rouge-l: {'f': '0.167', 'p': '0.152', 'r': '0.358'}
+/Users/kian/rl_final_proj/examples/0b000cddbbe730c718370be09937307d2c1d6923.story
+Lead-3 results:
+	rouge-1: {'f': '0.317', 'p': '0.351', 'r': '0.289'}
+	rouge-2: {'f': '0.170', 'p': '0.184', 'r': '0.158'}
+	rouge-l: {'f': '0.212', 'p': '0.222', 'r': '0.203'}
+Greedy results:
+	rouge-1: {'f': '0.696', 'p': '0.681', 'r': '0.711'}
+	rouge-2: {'f': '0.603', 'p': '0.593', 'r': '0.614'}
+	rouge-l: {'f': '0.500', 'p': '0.492', 'r': '0.508'}
+
+/Users/kian/rl_final_proj/examples/0c0e36a877f38c5287605b127ef47369c9d8721c.story
+Lead-3 results:
+	rouge-1: {'f': '0.512', 'p': '0.386', 'r': '0.759'}
+	rouge-2: {'f': '0.318', 'p': '0.230', 'r': '0.515'}
+	rouge-l: {'f': '0.323', 'p': '0.293', 'r': '0.647'}
+Greedy results:
+	rouge-1: {'f': '0.658', 'p': '0.520', 'r': '0.897'}
+	rouge-2: {'f': '0.442', 'p': '0.339', 'r': '0.636'}
+	rouge-l: {'f': '0.497', 'p': '0.446', 'r': '0.853'}
+/Users/kian/rl_final_proj/examples/0c090b9038e7657b6578718e10a2b62e5a9cf3ed.story
+Lead-3 results:
+	rouge-1: {'f': '0.382', 'p': '0.315', 'r': '0.486'}
+	rouge-2: {'f': '0.214', 'p': '0.158', 'r': '0.333'}
+	rouge-l: {'f': '0.241', 'p': '0.218', 'r': '0.459'}
+Greedy results:
+	rouge-1: {'f': '0.897', 'p': '0.814', 'r': '1.000'}
+	rouge-2: {'f': '0.795', 'p': '0.702', 'r': '0.917'}
+	rouge-l: {'f': '0.592', 'p': '0.542', 'r': '0.703'}
+
+/Users/kian/rl_final_proj/examples/0a08d8320a95f442862bdd77eb94434f83bac0fb.story
+Lead-3 results:
+	rouge-1: {'f': '0.254', 'p': '0.208', 'r': '0.326'}
+	rouge-2: {'f': '0.015', 'p': '0.013', 'r': '0.018'}
+	rouge-l: {'f': '0.109', 'p': '0.099', 'r': '0.136'}
+Greedy results:
+	rouge-1: {'f': '0.421', 'p': '0.322', 'r': '0.609'}
+	rouge-2: {'f': '0.183', 'p': '0.140', 'r': '0.263'}
+	rouge-l: {'f': '0.152', 'p': '0.136', 'r': '0.254'}
+
+/Users/kian/rl_final_proj/examples/0e0f7590434192033091150e79ecfb37c7c97f5b.story
+Lead-3 results:
+	rouge-1: {'f': '0.441', 'p': '0.351', 'r': '0.591'}
+	rouge-2: {'f': '0.212', 'p': '0.167', 'r': '0.292'}
+	rouge-l: {'f': '0.254', 'p': '0.227', 'r': '0.400'}
+Greedy results:
+	rouge-1: {'f': '0.540', 'p': '0.415', 'r': '0.773'}
+	rouge-2: {'f': '0.324', 'p': '0.240', 'r': '0.500'}
+	rouge-l: {'f': '0.192', 'p': '0.173', 'r': '0.360'}
+
+/Users/kian/rl_final_proj/examples/0d00516f0c3eb1d43cfab31890c6fd75c7420187.story
+Lead-3 results:
+	rouge-1: {'f': '0.359', 'p': '0.280', 'r': '0.500'}
+	rouge-2: {'f': '0.127', 'p': '0.097', 'r': '0.184'}
+	rouge-l: {'f': '0.148', 'p': '0.133', 'r': '0.260'}
+Greedy results:
+	rouge-1: {'f': '0.450', 'p': '0.362', 'r': '0.595'}
+	rouge-2: {'f': '0.178', 'p': '0.140', 'r': '0.245'}
+	rouge-l: {'f': '0.178', 'p': '0.159', 'r': '0.280'}
+/Users/kian/rl_final_proj/examples/0e0fc592a73079468329a7ed5b132711ae1cc992.story
+Lead-3 results:
+	rouge-1: {'f': '0.229', 'p': '0.211', 'r': '0.250'}
+	rouge-2: {'f': '0.024', 'p': '0.022', 'r': '0.028'}
+	rouge-l: {'f': '0.138', 'p': '0.128', 'r': '0.158'}
+Greedy results:
+	rouge-1: {'f': '0.265', 'p': '0.197', 'r': '0.406'}
+	rouge-2: {'f': '0.048', 'p': '0.034', 'r': '0.083'}
+	rouge-l: {'f': '0.110', 'p': '0.100', 'r': '0.237'}
+
+/Users/kian/rl_final_proj/examples/0c06737a0ad74400b74c4e3219183c7302f48a09.story
+Lead-3 results:
+	rouge-1: {'f': '0.416', 'p': '0.340', 'r': '0.533'}
+	rouge-2: {'f': '0.213', 'p': '0.164', 'r': '0.303'}
+	rouge-l: {'f': '0.244', 'p': '0.219', 'r': '0.412'}
+Greedy results:
+	rouge-1: {'f': '0.477', 'p': '0.362', 'r': '0.700'}
+	rouge-2: {'f': '0.272', 'p': '0.200', 'r': '0.424'}
+	rouge-l: {'f': '0.313', 'p': '0.284', 'r': '0.618'}
+
+/Users/kian/rl_final_proj/examples/0a0b44620d0dec6fdfc1aa139ff51bcb36c56c51.story
+Lead-3 results:
+	rouge-1: {'f': '0.264', 'p': '0.222', 'r': '0.324'}
+	rouge-2: {'f': '0.034', 'p': '0.025', 'r': '0.051'}
+	rouge-l: {'f': '0.096', 'p': '0.086', 'r': '0.175'}
+Greedy results:
+	rouge-1: {'f': '0.442', 'p': '0.343', 'r': '0.622'}
+	rouge-2: {'f': '0.161', 'p': '0.118', 'r': '0.256'}
+	rouge-l: {'f': '0.127', 'p': '0.115', 'r': '0.250'}
+
+/Users/kian/rl_final_proj/examples/0d09938e97aea02c850532055b224bf34d3c800f.story
+Lead-3 results:
+	rouge-1: {'f': '0.036', 'p': '0.143', 'r': '0.021'}
+	rouge-2: {'f': '0.000', 'p': '0.000', 'r': '0.000'}
+	rouge-l: {'f': '0.035', 'p': '0.222', 'r': '0.034'}
+Greedy results:
+	rouge-1: {'f': '0.392', 'p': '0.388', 'r': '0.396'}
+	rouge-2: {'f': '0.126', 'p': '0.127', 'r': '0.125'}
+	rouge-l: {'f': '0.193', 'p': '0.196', 'r': '0.190'}
+
+/Users/kian/rl_final_proj/examples/0d065aab6e60b59c0a32124cb645dc17b9ed0246.story
+Lead-3 results:
+	rouge-1: {'f': '0.388', 'p': '0.292', 'r': '0.578'}
+	rouge-2: {'f': '0.203', 'p': '0.142', 'r': '0.360'}
+	rouge-l: {'f': '0.214', 'p': '0.197', 'r': '0.510'}
+Greedy results:
+	rouge-1: {'f': '0.484', 'p': '0.380', 'r': '0.667'}
+	rouge-2: {'f': '0.312', 'p': '0.231', 'r': '0.480'}
+	rouge-l: {'f': '0.217', 'p': '0.196', 'r': '0.412'}
+/Users/kian/rl_final_proj/examples/0b044de83879c5ef9b5a200d64347a2d7eef5038.story
+Lead-3 results:
+	rouge-1: {'f': '0.242', 'p': '0.174', 'r': '0.400'}
+	rouge-2: {'f': '0.016', 'p': '0.011', 'r': '0.031'}
+	rouge-l: {'f': '0.053', 'p': '0.050', 'r': '0.152'}
+Greedy results:
+	rouge-1: {'f': '0.643', 'p': '0.500', 'r': '0.900'}
+	rouge-2: {'f': '0.400', 'p': '0.302', 'r': '0.594'}
+	rouge-l: {'f': '0.383', 'p': '0.344', 'r': '0.667'}
+
+/Users/kian/rl_final_proj/examples/0c090f74bfa83eb245748d79b2abc76f4bc97d6d.story
+Lead-3 results:
+	rouge-1: {'f': '0.194', 'p': '0.189', 'r': '0.200'}
+	rouge-2: {'f': '0.015', 'p': '0.014', 'r': '0.016'}
+	rouge-l: {'f': '0.144', 'p': '0.137', 'r': '0.154'}
+Greedy results:
+	rouge-1: {'f': '0.341', 'p': '0.288', 'r': '0.420'}
+	rouge-2: {'f': '0.155', 'p': '0.130', 'r': '0.190'}
+	rouge-l: {'f': '0.222', 'p': '0.200', 'r': '0.292'}
+
+/Users/kian/rl_final_proj/examples/0a1348f35332d5c7795f9890eff8797f6135c925.story
+Lead-3 results:
+	rouge-1: {'f': '0.220', 'p': '0.174', 'r': '0.300'}
+	rouge-2: {'f': '0.000', 'p': '0.000', 'r': '0.000'}
+	rouge-l: {'f': '0.084', 'p': '0.076', 'r': '0.156'}
+Greedy results:
+	rouge-1: {'f': '0.396', 'p': '0.318', 'r': '0.525'}
+	rouge-2: {'f': '0.150', 'p': '0.112', 'r': '0.227'}
+	rouge-l: {'f': '0.122', 'p': '0.110', 'r': '0.222'}
+
+/Users/kian/rl_final_proj/examples/0c04e91bdf32cffa2af4de5c474e623372ab7034.story
+Lead-3 results:
+	rouge-1: {'f': '0.377', 'p': '0.400', 'r': '0.357'}
+	rouge-2: {'f': '0.364', 'p': '0.385', 'r': '0.345'}
+	rouge-l: {'f': '0.378', 'p': '0.393', 'r': '0.367'}
+Greedy results:
+	rouge-1: {'f': '0.918', 'p': '0.848', 'r': '1.000'}
+	rouge-2: {'f': '0.794', 'p': '0.692', 'r': '0.931'}
+	rouge-l: {'f': '0.807', 'p': '0.732', 'r': '1.000'}
+
+/Users/kian/rl_final_proj/examples/0c05333f16e1a2048028e4875a15ca10e7b3a9a5.story
+Lead-3 results:
+	rouge-1: {'f': '0.485', 'p': '0.393', 'r': '0.632'}
+	rouge-2: {'f': '0.320', 'p': '0.250', 'r': '0.444'}
+	rouge-l: {'f': '0.205', 'p': '0.184', 'r': '0.348'}
+Greedy results:
+	rouge-1: {'f': '0.667', 'p': '0.552', 'r': '0.842'}
+	rouge-2: {'f': '0.492', 'p': '0.390', 'r': '0.667'}
+	rouge-l: {'f': '0.331', 'p': '0.296', 'r': '0.522'}
+
+/Users/kian/rl_final_proj/examples/0e0c9d6f540659d8c0a1d0004d6b565549def2af.story
+Lead-3 results:
+	rouge-1: {'f': '0.563', 'p': '0.526', 'r': '0.606'}
+	rouge-2: {'f': '0.346', 'p': '0.311', 'r': '0.389'}
+	rouge-l: {'f': '0.426', 'p': '0.388', 'r': '0.514'}
+Greedy results:
+	rouge-1: {'f': '0.478', 'p': '0.373', 'r': '0.667'}
+	rouge-2: {'f': '0.296', 'p': '0.222', 'r': '0.444'}
+	rouge-l: {'f': '0.249', 'p': '0.226', 'r': '0.514'}
+
+/Users/kian/rl_final_proj/examples/0e0b866000039c418c1ea49eed702e24745c842b.story
+Lead-3 results:
+	rouge-1: {'f': '0.333', 'p': '0.265', 'r': '0.450'}
+	rouge-2: {'f': '0.085', 'p': '0.063', 'r': '0.130'}
+	rouge-l: {'f': '0.143', 'p': '0.129', 'r': '0.265'}
+Greedy results:
+	rouge-1: {'f': '0.423', 'p': '0.344', 'r': '0.550'}
+	rouge-2: {'f': '0.149', 'p': '0.114', 'r': '0.217'}
+	rouge-l: {'f': '0.194', 'p': '0.174', 'r': '0.327'}
+
+/Users/kian/rl_final_proj/examples/0a0c2f4e07ba05f3226e8afec1350ac82161cd2e.story
+Lead-3 results:
+	rouge-1: {'f': '0.383', 'p': '0.289', 'r': '0.564'}
+	rouge-2: {'f': '0.126', 'p': '0.095', 'r': '0.185'}
+	rouge-l: {'f': '0.194', 'p': '0.174', 'r': '0.339'}
+Greedy results:
+	rouge-1: {'f': '0.521', 'p': '0.439', 'r': '0.641'}
+	rouge-2: {'f': '0.248', 'p': '0.213', 'r': '0.296'}
+	rouge-l: {'f': '0.229', 'p': '0.208', 'r': '0.286'}
+
+/Users/kian/rl_final_proj/examples/0b03f882c5f99c34b62bc81e66e6333d1b33f137.story
+Lead-3 results:
+	rouge-1: {'f': '0.315', 'p': '0.293', 'r': '0.340'}
+	rouge-2: {'f': '0.144', 'p': '0.125', 'r': '0.169'}
+	rouge-l: {'f': '0.179', 'p': '0.163', 'r': '0.219'}
+Greedy results:
+	rouge-1: {'f': '0.551', 'p': '0.562', 'r': '0.540'}
+	rouge-2: {'f': '0.325', 'p': '0.328', 'r': '0.322'}
+	rouge-l: {'f': '0.370', 'p': '0.383', 'r': '0.359'}
+
+/Users/kian/rl_final_proj/examples/0b0d62e5cfc9705db1e93836d4dd4bdb74a8aae1.story
+Lead-3 results:
+	rouge-1: {'f': '0.229', 'p': '0.207', 'r': '0.255'}
+	rouge-2: {'f': '0.034', 'p': '0.031', 'r': '0.038'}
+	rouge-l: {'f': '0.096', 'p': '0.090', 'r': '0.107'}
+Greedy results:
+	rouge-1: {'f': '0.648', 'p': '0.586', 'r': '0.723'}
+	rouge-2: {'f': '0.393', 'p': '0.348', 'r': '0.453'}
+	rouge-l: {'f': '0.527', 'p': '0.486', 'r': '0.607'}
+
+/Users/kian/rl_final_proj/examples/0a1ea51684e15ddb091ddee7ede418f9d5ac45d6.story
+Lead-3 results:
+	rouge-1: {'f': '0.302', 'p': '0.235', 'r': '0.421'}
+	rouge-2: {'f': '0.140', 'p': '0.103', 'r': '0.222'}
+	rouge-l: {'f': '0.111', 'p': '0.100', 'r': '0.211'}
+Greedy results:
+	rouge-1: {'f': '0.325', 'p': '0.213', 'r': '0.684'}
+	rouge-2: {'f': '0.106', 'p': '0.066', 'r': '0.278'}
+	rouge-l: {'f': '0.095', 'p': '0.091', 'r': '0.368'}
+
+/Users/kian/rl_final_proj/examples/0a1c17d84f846eecce39356447e4d556ffdd07fa.story
+Lead-3 results:
+	rouge-1: {'f': '0.442', 'p': '0.424', 'r': '0.463'}
+	rouge-2: {'f': '0.153', 'p': '0.141', 'r': '0.167'}
+	rouge-l: {'f': '0.194', 'p': '0.181', 'r': '0.217'}
+Greedy results:
+	rouge-1: {'f': '0.422', 'p': '0.365', 'r': '0.500'}
+	rouge-2: {'f': '0.148', 'p': '0.125', 'r': '0.182'}
+	rouge-l: {'f': '0.156', 'p': '0.140', 'r': '0.203'}
+
+/Users/kian/rl_final_proj/examples/0e07e9a5e2670b05362390115dca09929598be70.story
+Lead-3 results:
+	rouge-1: {'f': '0.162', 'p': '0.136', 'r': '0.200'}
+	rouge-2: {'f': '0.016', 'p': '0.012', 'r': '0.022'}
+	rouge-l: {'f': '0.081', 'p': '0.072', 'r': '0.130'}
+Greedy results:
+	rouge-1: {'f': '0.242', 'p': '0.203', 'r': '0.300'}
+	rouge-2: {'f': '0.047', 'p': '0.037', 'r': '0.067'}
+	rouge-l: {'f': '0.141', 'p': '0.126', 'r': '0.239'}
+/Users/kian/rl_final_proj/examples/0c0ea7007fca853b8f0f6bad5d7ac0bed46d89b3.story
+Lead-3 results:
+	rouge-1: {'f': '0.232', 'p': '0.188', 'r': '0.302'}
+	rouge-2: {'f': '0.029', 'p': '0.023', 'r': '0.040'}
+	rouge-l: {'f': '0.123', 'p': '0.110', 'r': '0.185'}
+Greedy results:
+	rouge-1: {'f': '0.404', 'p': '0.344', 'r': '0.488'}
+	rouge-2: {'f': '0.150', 'p': '0.120', 'r': '0.200'}
+	rouge-l: {'f': '0.250', 'p': '0.224', 'r': '0.352'}
+
+/Users/kian/rl_final_proj/examples/0d0047deacd74ef50d81464ad73518ae0049a3a0.story
+Lead-3 results:
+	rouge-1: {'f': '0.454', 'p': '0.328', 'r': '0.733'}
+	rouge-2: {'f': '0.188', 'p': '0.133', 'r': '0.324'}
+	rouge-l: {'f': '0.143', 'p': '0.131', 'r': '0.314'}
+Greedy results:
+	rouge-1: {'f': '0.454', 'p': '0.328', 'r': '0.733'}
+	rouge-2: {'f': '0.188', 'p': '0.133', 'r': '0.324'}
+	rouge-l: {'f': '0.156', 'p': '0.143', 'r': '0.343'}
+
+/Users/kian/rl_final_proj/examples/0c067a27063446cbcc5b474d200db1148b9663ee.story
+Lead-3 results:
+	rouge-1: {'f': '0.195', 'p': '0.163', 'r': '0.242'}
+	rouge-2: {'f': '0.000', 'p': '0.000', 'r': '0.000'}
+	rouge-l: {'f': '0.106', 'p': '0.095', 'r': '0.150'}
+Greedy results:
+	rouge-1: {'f': '0.404', 'p': '0.321', 'r': '0.545'}
+	rouge-2: {'f': '0.185', 'p': '0.141', 'r': '0.270'}
+	rouge-l: {'f': '0.317', 'p': '0.284', 'r': '0.525'}
+
+/Users/kian/rl_final_proj/examples/0c048c8e387fb221b38fcdcd93072dba2d6dcfc5.story
+Lead-3 results:
+	rouge-1: {'f': '0.337', 'p': '0.308', 'r': '0.372'}
+	rouge-2: {'f': '0.200', 'p': '0.180', 'r': '0.224'}
+	rouge-l: {'f': '0.227', 'p': '0.210', 'r': '0.260'}
+Greedy results:
+	rouge-1: {'f': '0.619', 'p': '0.556', 'r': '0.698'}
+	rouge-2: {'f': '0.370', 'p': '0.314', 'r': '0.449'}
+	rouge-l: {'f': '0.339', 'p': '0.306', 'r': '0.440'}
+
+/Users/kian/rl_final_proj/examples/0d0735b0096127220c4e5b9a9285f154761f07f5.story
+Lead-3 results:
+	rouge-1: {'f': '0.303', 'p': '0.278', 'r': '0.333'}
+	rouge-2: {'f': '0.111', 'p': '0.095', 'r': '0.133'}
+	rouge-l: {'f': '0.190', 'p': '0.170', 'r': '0.258'}
+Greedy results:
+	rouge-1: {'f': '0.468', 'p': '0.321', 'r': '0.867'}
+	rouge-2: {'f': '0.178', 'p': '0.114', 'r': '0.400'}
+	rouge-l: {'f': '0.093', 'p': '0.088', 'r': '0.323'}
+
+/Users/kian/rl_final_proj/examples/0c0ff2daac320f59ecda5be3e5610d02d35109c6.story
+Lead-3 results:
+	rouge-1: {'f': '0.267', 'p': '0.222', 'r': '0.333'}
+	rouge-2: {'f': '0.072', 'p': '0.057', 'r': '0.098'}
+	rouge-l: {'f': '0.174', 'p': '0.156', 'r': '0.288'}
+Greedy results:
+	rouge-1: {'f': '0.651', 'p': '0.636', 'r': '0.667'}
+	rouge-2: {'f': '0.500', 'p': '0.491', 'r': '0.510'}
+	rouge-l: {'f': '0.373', 'p': '0.364', 'r': '0.385'}
+/Users/kian/rl_final_proj/examples/0c01189c1e87a7f5bc43cb4a8ed282698b79cec2.story
+Lead-3 results:
+	rouge-1: {'f': '0.330', 'p': '0.357', 'r': '0.306'}
+	rouge-2: {'f': '0.132', 'p': '0.135', 'r': '0.130'}
+	rouge-l: {'f': '0.185', 'p': '0.189', 'r': '0.182'}
+Greedy results:
+	rouge-1: {'f': '0.457', 'p': '0.429', 'r': '0.490'}
+	rouge-2: {'f': '0.219', 'p': '0.189', 'r': '0.259'}
+	rouge-l: {'f': '0.244', 'p': '0.221', 'r': '0.309'}
+
+/Users/kian/rl_final_proj/examples/0d018d44aa914ee70ec61a9aa4e11c44fa1501b9.story
+Lead-3 results:
+	rouge-1: {'f': '0.224', 'p': '0.193', 'r': '0.268'}
+	rouge-2: {'f': '0.079', 'p': '0.064', 'r': '0.104'}
+	rouge-l: {'f': '0.165', 'p': '0.148', 'r': '0.231'}
+Greedy results:
+	rouge-1: {'f': '0.412', 'p': '0.344', 'r': '0.512'}
+	rouge-2: {'f': '0.190', 'p': '0.154', 'r': '0.250'}
+	rouge-l: {'f': '0.234', 'p': '0.210', 'r': '0.327'}
+
+/Users/kian/rl_final_proj/examples/0b0b5f333a21bac8c7a25319389a532a70764963.story
+Lead-3 results:
+	rouge-1: {'f': '0.115', 'p': '0.143', 'r': '0.097'}
+	rouge-2: {'f': '0.000', 'p': '0.000', 'r': '0.000'}
+	rouge-l: {'f': '0.070', 'p': '0.083', 'r': '0.065'}
+Greedy results:
+	rouge-1: {'f': '0.288', 'p': '0.195', 'r': '0.548'}
+	rouge-2: {'f': '0.070', 'p': '0.045', 'r': '0.167'}
+	rouge-l: {'f': '0.083', 'p': '0.079', 'r': '0.290'}
+
+/Users/kian/rl_final_proj/examples/0a078513cee66db2ccaaca1b7b0755c96f0c5c8a.story
+Lead-3 results:
+	rouge-1: {'f': '0.333', 'p': '0.280', 'r': '0.412'}
+	rouge-2: {'f': '0.130', 'p': '0.104', 'r': '0.171'}
+	rouge-l: {'f': '0.144', 'p': '0.129', 'r': '0.214'}
+Greedy results:
+	rouge-1: {'f': '0.530', 'p': '0.449', 'r': '0.647'}
+	rouge-2: {'f': '0.317', 'p': '0.267', 'r': '0.390'}
+	rouge-l: {'f': '0.328', 'p': '0.295', 'r': '0.429'}
+
+/Users/kian/rl_final_proj/examples/0e0bf8dd47884ac3b4db2f0b7cf9cc4173704b34.story
+Lead-3 results:
+	rouge-1: {'f': '0.390', 'p': '0.375', 'r': '0.405'}
+	rouge-2: {'f': '0.110', 'p': '0.100', 'r': '0.122'}
+	rouge-l: {'f': '0.239', 'p': '0.218', 'r': '0.286'}
+Greedy results:
+	rouge-1: {'f': '0.561', 'p': '0.511', 'r': '0.622'}
+	rouge-2: {'f': '0.323', 'p': '0.276', 'r': '0.390'}
+	rouge-l: {'f': '0.275', 'p': '0.246', 'r': '0.381'}
+
+/Users/kian/rl_final_proj/examples/0d0b5b062f93b1ef497e660082ae980f87de3ee7.story
+Lead-3 results:
+	rouge-1: {'f': '0.422', 'p': '0.303', 'r': '0.697'}
+	rouge-2: {'f': '0.273', 'p': '0.188', 'r': '0.500'}
+	rouge-l: {'f': '0.249', 'p': '0.230', 'r': '0.622'}
+Greedy results:
+	rouge-1: {'f': '0.458', 'p': '0.306', 'r': '0.909'}
+	rouge-2: {'f': '0.306', 'p': '0.198', 'r': '0.667'}
+	rouge-l: {'f': '0.250', 'p': '0.236', 'r': '0.784'}
+
+/Users/kian/rl_final_proj/examples/0e0e6bde6266608419cad749698285c72cce9688.story
+Lead-3 results:
+	rouge-1: {'f': '0.436', 'p': '0.347', 'r': '0.586'}
+	rouge-2: {'f': '0.218', 'p': '0.162', 'r': '0.333'}
+	rouge-l: {'f': '0.265', 'p': '0.240', 'r': '0.514'}
+Greedy results:
+	rouge-1: {'f': '0.561', 'p': '0.434', 'r': '0.793'}
+	rouge-2: {'f': '0.333', 'p': '0.240', 'r': '0.545'}
+	rouge-l: {'f': '0.268', 'p': '0.244', 'r': '0.571'}
+
+/Users/kian/rl_final_proj/examples/0e0390ab1e0f144a4a5d63b5c1d1a6d8258b84c6.story
+Lead-3 results:
+	rouge-1: {'f': '0.311', 'p': '0.269', 'r': '0.368'}
+	rouge-2: {'f': '0.071', 'p': '0.059', 'r': '0.091'}
+	rouge-l: {'f': '0.191', 'p': '0.171', 'r': '0.267'}
+Greedy results:
+	rouge-1: {'f': '0.375', 'p': '0.267', 'r': '0.632'}
+	rouge-2: {'f': '0.073', 'p': '0.050', 'r': '0.136'}
+	rouge-l: {'f': '0.119', 'p': '0.110', 'r': '0.311'}
+/Users/kian/rl_final_proj/examples/0e0c32874d3d48a4276ac4430d238006c6424288.story
+Lead-3 results:
+	rouge-1: {'f': '0.288', 'p': '0.278', 'r': '0.300'}
+	rouge-2: {'f': '0.129', 'p': '0.125', 'r': '0.133'}
+	rouge-l: {'f': '0.204', 'p': '0.200', 'r': '0.210'}
+Greedy results:
+	rouge-1: {'f': '0.530', 'p': '0.463', 'r': '0.620'}
+	rouge-2: {'f': '0.392', 'p': '0.337', 'r': '0.467'}
+	rouge-l: {'f': '0.262', 'p': '0.238', 'r': '0.323'}
+
+/Users/kian/rl_final_proj/examples/0a0d11c125e4e4b061061f44b08f60cb5b8bf177.story
+Lead-3 results:
+	rouge-1: {'f': '0.306', 'p': '0.333', 'r': '0.283'}
+	rouge-2: {'f': '0.017', 'p': '0.019', 'r': '0.015'}
+	rouge-l: {'f': '0.170', 'p': '0.208', 'r': '0.155'}
+Greedy results:
+	rouge-1: {'f': '0.351', 'p': '0.295', 'r': '0.434'}
+	rouge-2: {'f': '0.069', 'p': '0.057', 'r': '0.088'}
+	rouge-l: {'f': '0.134', 'p': '0.120', 'r': '0.183'}
+
+/Users/kian/rl_final_proj/examples/0a1e9a3bd86791e6c8ed3943eb36daf676c87f39.story
+Lead-3 results:
+	rouge-1: {'f': '0.176', 'p': '0.174', 'r': '0.178'}
+	rouge-2: {'f': '0.000', 'p': '0.000', 'r': '0.000'}
+	rouge-l: {'f': '0.092', 'p': '0.086', 'r': '0.100'}
+Greedy results:
+	rouge-1: {'f': '0.296', 'p': '0.243', 'r': '0.378'}
+	rouge-2: {'f': '0.101', 'p': '0.078', 'r': '0.143'}
+	rouge-l: {'f': '0.196', 'p': '0.176', 'r': '0.320'}
+/Users/kian/rl_final_proj/examples/0a1ad82d161d90d758240407cb8c8fcebff4a212.story
+Lead-3 results:
+	rouge-1: {'f': '0.112', 'p': '0.098', 'r': '0.132'}
+	rouge-2: {'f': '0.000', 'p': '0.000', 'r': '0.000'}
+	rouge-l: {'f': '0.097', 'p': '0.087', 'r': '0.136'}
+Greedy results:
+	rouge-1: {'f': '0.627', 'p': '0.578', 'r': '0.684'}
+	rouge-2: {'f': '0.400', 'p': '0.365', 'r': '0.442'}
+	rouge-l: {'f': '0.527', 'p': '0.491', 'r': '0.591'}
+
+/Users/kian/rl_final_proj/examples/0a19ea2e18df791497a16b3efab1f9c6e02d16d6.story
+Lead-3 results:
+	rouge-1: {'f': '0.319', 'p': '0.242', 'r': '0.469'}
+	rouge-2: {'f': '0.073', 'p': '0.053', 'r': '0.114'}
+	rouge-l: {'f': '0.158', 'p': '0.143', 'r': '0.297'}
+Greedy results:
+	rouge-1: {'f': '0.414', 'p': '0.291', 'r': '0.719'}
+	rouge-2: {'f': '0.162', 'p': '0.106', 'r': '0.343'}
+	rouge-l: {'f': '0.116', 'p': '0.109', 'r': '0.351'}
+
+/Users/kian/rl_final_proj/examples/0a044ad1c5023c5437d67023376caa8d54d242dd.story
+Lead-3 results:
+	rouge-1: {'f': '0.218', 'p': '0.160', 'r': '0.343'}
+	rouge-2: {'f': '0.104', 'p': '0.072', 'r': '0.184'}
+	rouge-l: {'f': '0.121', 'p': '0.111', 'r': '0.275'}
+Greedy results:
+	rouge-1: {'f': '0.455', 'p': '0.377', 'r': '0.571'}
+	rouge-2: {'f': '0.242', 'p': '0.197', 'r': '0.316'}
+	rouge-l: {'f': '0.234', 'p': '0.210', 'r': '0.325'}
+
+/Users/kian/rl_final_proj/examples/0a11ec8a477bd8f68f4ca2df556f9871c12525ad.story
+Lead-3 results:
+	rouge-1: {'f': '0.350', 'p': '0.305', 'r': '0.409'}
+	rouge-2: {'f': '0.098', 'p': '0.081', 'r': '0.125'}
+	rouge-l: {'f': '0.191', 'p': '0.171', 'r': '0.265'}
+Greedy results:
+	rouge-1: {'f': '0.470', 'p': '0.380', 'r': '0.614'}
+	rouge-2: {'f': '0.136', 'p': '0.101', 'r': '0.208'}
+	rouge-l: {'f': '0.187', 'p': '0.168', 'r': '0.347'}
+/Users/kian/rl_final_proj/examples/0e01e8363b811df68c2f2604708b8019f2bbe763.story
+Lead-3 results:
+	rouge-1: {'f': '0.175', 'p': '0.233', 'r': '0.140'}
+	rouge-2: {'f': '0.000', 'p': '0.000', 'r': '0.000'}
+	rouge-l: {'f': '0.120', 'p': '0.206', 'r': '0.108'}
+Greedy results:
+	rouge-1: {'f': '0.637', 'p': '0.707', 'r': '0.580'}
+	rouge-2: {'f': '0.523', 'p': '0.636', 'r': '0.444'}
+	rouge-l: {'f': '0.530', 'p': '0.689', 'r': '0.477'}
+
+/Users/kian/rl_final_proj/examples/0a0aa464d262b903f44b0f8eaa67f13dd1946cfd.story
+Lead-3 results:
+	rouge-1: {'f': '0.368', 'p': '0.378', 'r': '0.359'}
+	rouge-2: {'f': '0.044', 'p': '0.043', 'r': '0.045'}
+	rouge-l: {'f': '0.189', 'p': '0.188', 'r': '0.191'}
+Greedy results:
+	rouge-1: {'f': '0.345', 'p': '0.268', 'r': '0.487'}
+	rouge-2: {'f': '0.104', 'p': '0.077', 'r': '0.159'}
+	rouge-l: {'f': '0.201', 'p': '0.181', 'r': '0.362'}
+
+/Users/kian/rl_final_proj/examples/0d06f9952dec72e497bcd2038cd76e7b032afba0.story
+Lead-3 results:
+	rouge-1: {'f': '0.400', 'p': '0.288', 'r': '0.655'}
+	rouge-2: {'f': '0.113', 'p': '0.080', 'r': '0.194'}
+	rouge-l: {'f': '0.168', 'p': '0.154', 'r': '0.375'}
+Greedy results:
+	rouge-1: {'f': '0.358', 'p': '0.247', 'r': '0.655'}
+	rouge-2: {'f': '0.100', 'p': '0.067', 'r': '0.194'}
+	rouge-l: {'f': '0.189', 'p': '0.176', 'r': '0.500'}
+
+/Users/kian/rl_final_proj/examples/0c02c38b194bbd734bd4ae2c3bdad6b045611055.story
+Lead-3 results:
+	rouge-1: {'f': '0.283', 'p': '0.214', 'r': '0.417'}
+	rouge-2: {'f': '0.043', 'p': '0.029', 'r': '0.079'}
+	rouge-l: {'f': '0.107', 'p': '0.099', 'r': '0.282'}
+Greedy results:
+	rouge-1: {'f': '0.454', 'p': '0.361', 'r': '0.611'}
+	rouge-2: {'f': '0.194', 'p': '0.140', 'r': '0.316'}
+	rouge-l: {'f': '0.175', 'p': '0.159', 'r': '0.359'}
+
+/Users/kian/rl_final_proj/examples/0d0706e0addbadda3dd94015b01bb47542be70ef.story
+Lead-3 results:
+	rouge-1: {'f': '0.246', 'p': '0.194', 'r': '0.333'}
+	rouge-2: {'f': '0.043', 'p': '0.033', 'r': '0.065'}
+	rouge-l: {'f': '0.095', 'p': '0.085', 'r': '0.170'}
+Greedy results:
+	rouge-1: {'f': '0.338', 'p': '0.240', 'r': '0.571'}
+	rouge-2: {'f': '0.135', 'p': '0.091', 'r': '0.261'}
+	rouge-l: {'f': '0.112', 'p': '0.104', 'r': '0.298'}
+
+/Users/kian/rl_final_proj/examples/0b0067abd9ba644e50ccf75dc644efe7881c6558.story
+Lead-3 results:
+	rouge-1: {'f': '0.137', 'p': '0.093', 'r': '0.263'}
+	rouge-2: {'f': '0.000', 'p': '0.000', 'r': '0.000'}
+	rouge-l: {'f': '0.059', 'p': '0.056', 'r': '0.190'}
+Greedy results:
+	rouge-1: {'f': '0.545', 'p': '0.417', 'r': '0.789'}
+	rouge-2: {'f': '0.344', 'p': '0.244', 'r': '0.579'}
+	rouge-l: {'f': '0.234', 'p': '0.213', 'r': '0.476'}
+
+/Users/kian/rl_final_proj/examples/0c0cfb6b48a4a9a9153313cd5b49029d4b862a4e.story
+Lead-3 results:
+	rouge-1: {'f': '0.293', 'p': '0.188', 'r': '0.667'}
+	rouge-2: {'f': '0.135', 'p': '0.081', 'r': '0.389'}
+	rouge-l: {'f': '0.141', 'p': '0.136', 'r': '0.632'}
+Greedy results:
+	rouge-1: {'f': '0.317', 'p': '0.203', 'r': '0.722'}
+	rouge-2: {'f': '0.148', 'p': '0.089', 'r': '0.444'}
+	rouge-l: {'f': '0.140', 'p': '0.135', 'r': '0.684'}
+
+/Users/kian/rl_final_proj/examples/0e0bdf77a264313fa9c706e2a02ce33b42e6494d.story
+Lead-3 results:
+	rouge-1: {'f': '0.253', 'p': '0.196', 'r': '0.355'}
+	rouge-2: {'f': '0.038', 'p': '0.028', 'r': '0.062'}
+	rouge-l: {'f': '0.106', 'p': '0.096', 'r': '0.212'}
+Greedy results:
+	rouge-1: {'f': '0.265', 'p': '0.194', 'r': '0.419'}
+	rouge-2: {'f': '0.051', 'p': '0.035', 'r': '0.094'}
+	rouge-l: {'f': '0.114', 'p': '0.105', 'r': '0.273'}
+
+/Users/kian/rl_final_proj/examples/0a05f1fb74f6e35a2ff5a82fa62ff670baa7c962.story
+Lead-3 results:
+	rouge-1: {'f': '0.324', 'p': '0.254', 'r': '0.450'}
+	rouge-2: {'f': '0.090', 'p': '0.067', 'r': '0.133'}
+	rouge-l: {'f': '0.135', 'p': '0.121', 'r': '0.224'}
+Greedy results:
+	rouge-1: {'f': '0.505', 'p': '0.403', 'r': '0.675'}
+	rouge-2: {'f': '0.234', 'p': '0.181', 'r': '0.333'}
+	rouge-l: {'f': '0.224', 'p': '0.200', 'r': '0.347'}
+
+/Users/kian/rl_final_proj/examples/0d0dd7cff9f1b4c97d78fe1a377bb17b2021b378.story
+Lead-3 results:
+	rouge-1: {'f': '0.237', 'p': '0.212', 'r': '0.269'}
+	rouge-2: {'f': '0.059', 'p': '0.049', 'r': '0.073'}
+	rouge-l: {'f': '0.067', 'p': '0.060', 'r': '0.089'}
+Greedy results:
+	rouge-1: {'f': '0.489', 'p': '0.405', 'r': '0.615'}
+	rouge-2: {'f': '0.131', 'p': '0.102', 'r': '0.182'}
+	rouge-l: {'f': '0.168', 'p': '0.150', 'r': '0.268'}
+
+/Users/kian/rl_final_proj/examples/0e029a3f67dc8df34eefc185ec5343cec72fb29d.story
+Lead-3 results:
+	rouge-1: {'f': '0.165', 'p': '0.130', 'r': '0.225'}
+	rouge-2: {'f': '0.015', 'p': '0.011', 'r': '0.021'}
+	rouge-l: {'f': '0.102', 'p': '0.092', 'r': '0.188'}
+Greedy results:
+	rouge-1: {'f': '0.317', 'p': '0.237', 'r': '0.475'}
+	rouge-2: {'f': '0.039', 'p': '0.028', 'r': '0.064'}
+	rouge-l: {'f': '0.100', 'p': '0.091', 'r': '0.208'}
+
+/Users/kian/rl_final_proj/examples/0a045dcc5d3fddad8617a17db4fb36e490921b75.story
+Lead-3 results:
+	rouge-1: {'f': '0.303', 'p': '0.209', 'r': '0.545'}
+	rouge-2: {'f': '0.123', 'p': '0.081', 'r': '0.257'}
+	rouge-l: {'f': '0.180', 'p': '0.168', 'r': '0.514'}
+Greedy results:
+	rouge-1: {'f': '0.325', 'p': '0.226', 'r': '0.576'}
+	rouge-2: {'f': '0.134', 'p': '0.088', 'r': '0.286'}
+	rouge-l: {'f': '0.091', 'p': '0.085', 'r': '0.270'}
+
+/Users/kian/rl_final_proj/examples/0e08cae0df009793b6f98539d6ec975432fedabb.story
+Lead-3 results:
+	rouge-1: {'f': '0.200', 'p': '0.167', 'r': '0.250'}
+	rouge-2: {'f': '0.023', 'p': '0.019', 'r': '0.029'}
+	rouge-l: {'f': '0.102', 'p': '0.091', 'r': '0.143'}
+Greedy results:
+	rouge-1: {'f': '0.343', 'p': '0.254', 'r': '0.531'}
+	rouge-2: {'f': '0.051', 'p': '0.036', 'r': '0.088'}
+	rouge-l: {'f': '0.103', 'p': '0.094', 'r': '0.229'}
+/Users/kian/rl_final_proj/examples/0b0e9e37289de587a9e633c1a5baab63fce66654.story
+Lead-3 results:
+	rouge-1: {'f': '0.258', 'p': '0.169', 'r': '0.545'}
+	rouge-2: {'f': '0.052', 'p': '0.033', 'r': '0.125'}
+	rouge-l: {'f': '0.078', 'p': '0.074', 'r': '0.280'}
+Greedy results:
+	rouge-1: {'f': '0.390', 'p': '0.267', 'r': '0.727'}
+	rouge-2: {'f': '0.144', 'p': '0.096', 'r': '0.292'}
+	rouge-l: {'f': '0.157', 'p': '0.147', 'r': '0.440'}
+
+/Users/kian/rl_final_proj/examples/0e09e19e28ad37e904397f7a1532a893a0e6f56e.story
+Lead-3 results:
+	rouge-1: {'f': '0.209', 'p': '0.153', 'r': '0.333'}
+	rouge-2: {'f': '0.019', 'p': '0.013', 'r': '0.034'}
+	rouge-l: {'f': '0.069', 'p': '0.063', 'r': '0.167'}
+Greedy results:
+	rouge-1: {'f': '0.241', 'p': '0.179', 'r': '0.370'}
+	rouge-2: {'f': '0.020', 'p': '0.014', 'r': '0.034'}
+	rouge-l: {'f': '0.145', 'p': '0.133', 'r': '0.333'}
+
+/Users/kian/rl_final_proj/examples/0a075b54c6af73ba416dfa2ba3398730aa15c454.story
+Lead-3 results:
+	rouge-1: {'f': '0.395', 'p': '0.288', 'r': '0.625'}
+	rouge-2: {'f': '0.091', 'p': '0.065', 'r': '0.154'}
+	rouge-l: {'f': '0.122', 'p': '0.111', 'r': '0.250'}
+Greedy results:
+	rouge-1: {'f': '0.457', 'p': '0.348', 'r': '0.667'}
+	rouge-2: {'f': '0.141', 'p': '0.102', 'r': '0.231'}
+	rouge-l: {'f': '0.184', 'p': '0.167', 'r': '0.357'}
+
+/Users/kian/rl_final_proj/examples/0a1825fafd53d101b2510293919bad051fbc4d62.story
+Lead-3 results:
+	rouge-1: {'f': '0.400', 'p': '0.340', 'r': '0.486'}
+	rouge-2: {'f': '0.036', 'p': '0.031', 'r': '0.043'}
+	rouge-l: {'f': '0.177', 'p': '0.159', 'r': '0.224'}
+Greedy results:
+	rouge-1: {'f': '0.629', 'p': '0.538', 'r': '0.757'}
+	rouge-2: {'f': '0.333', 'p': '0.279', 'r': '0.413'}
+	rouge-l: {'f': '0.250', 'p': '0.225', 'r': '0.327'}
+
+/Users/kian/rl_final_proj/examples/0e0834fdfd397a43586272c7a2c7101088710d6d.story
+Lead-3 results:
+	rouge-1: {'f': '0.385', 'p': '0.303', 'r': '0.526'}
+	rouge-2: {'f': '0.098', 'p': '0.074', 'r': '0.143'}
+	rouge-l: {'f': '0.177', 'p': '0.159', 'r': '0.302'}
+Greedy results:
+	rouge-1: {'f': '0.394', 'p': '0.281', 'r': '0.658'}
+	rouge-2: {'f': '0.090', 'p': '0.062', 'r': '0.167'}
+	rouge-l: {'f': '0.166', 'p': '0.154', 'r': '0.419'}
+/Users/kian/rl_final_proj/examples/0b05a710fcd80f15af29babf4dee8213e642363a.story
+Lead-3 results:
+	rouge-1: {'f': '0.483', 'p': '0.488', 'r': '0.477'}
+	rouge-2: {'f': '0.213', 'p': '0.217', 'r': '0.208'}
+	rouge-l: {'f': '0.312', 'p': '0.319', 'r': '0.306'}
+Greedy results:
+	rouge-1: {'f': '0.455', 'p': '0.354', 'r': '0.636'}
+	rouge-2: {'f': '0.173', 'p': '0.127', 'r': '0.271'}
+	rouge-l: {'f': '0.225', 'p': '0.204', 'r': '0.449'}
+
+/Users/kian/rl_final_proj/examples/0c0576263b2d0dd972fa901d787c0032e5961823.story
+Lead-3 results:
+	rouge-1: {'f': '0.097', 'p': '0.103', 'r': '0.091'}
+	rouge-2: {'f': '0.000', 'p': '0.000', 'r': '0.000'}
+	rouge-l: {'f': '0.059', 'p': '0.065', 'r': '0.056'}
+Greedy results:
+	rouge-1: {'f': '0.400', 'p': '0.316', 'r': '0.545'}
+	rouge-2: {'f': '0.078', 'p': '0.058', 'r': '0.118'}
+	rouge-l: {'f': '0.127', 'p': '0.114', 'r': '0.222'}
+
+/Users/kian/rl_final_proj/examples/0b03ca06b3368718e712a0fdebceb98cef562dc8.story
+Lead-3 results:
+	rouge-1: {'f': '0.448', 'p': '0.338', 'r': '0.667'}
+	rouge-2: {'f': '0.133', 'p': '0.096', 'r': '0.220'}
+	rouge-l: {'f': '0.218', 'p': '0.198', 'r': '0.442'}
+Greedy results:
+	rouge-1: {'f': '0.577', 'p': '0.444', 'r': '0.821'}
+	rouge-2: {'f': '0.295', 'p': '0.216', 'r': '0.463'}
+	rouge-l: {'f': '0.199', 'p': '0.180', 'r': '0.372'}
+
+/Users/kian/rl_final_proj/examples/0d03c47d1c61ee585da8cbdf7d7e6f384007d530.story
+Lead-3 results:
+	rouge-1: {'f': '0.361', 'p': '0.393', 'r': '0.333'}
+	rouge-2: {'f': '0.031', 'p': '0.034', 'r': '0.028'}
+	rouge-l: {'f': '0.196', 'p': '0.233', 'r': '0.179'}
+Greedy results:
+	rouge-1: {'f': '0.362', 'p': '0.279', 'r': '0.515'}
+	rouge-2: {'f': '0.072', 'p': '0.053', 'r': '0.111'}
+	rouge-l: {'f': '0.176', 'p': '0.158', 'r': '0.308'}
+
+/Users/kian/rl_final_proj/examples/0b032391fc4aa8da5b1678aa1f0e139b18af8527.story
+Lead-3 results:
+	rouge-1: {'f': '0.538', 'p': '0.464', 'r': '0.640'}
+	rouge-2: {'f': '0.270', 'p': '0.226', 'r': '0.333'}
+	rouge-l: {'f': '0.343', 'p': '0.308', 'r': '0.475'}
+Greedy results:
+	rouge-1: {'f': '0.554', 'p': '0.450', 'r': '0.720'}
+	rouge-2: {'f': '0.297', 'p': '0.235', 'r': '0.404'}
+	rouge-l: {'f': '0.315', 'p': '0.282', 'r': '0.492'}
+
+/Users/kian/rl_final_proj/examples/0c02e4ce8ec76f1c2b58cf23511e2a3ac67fe148.story
+Lead-3 results:
+	rouge-1: {'f': '0.422', 'p': '0.397', 'r': '0.451'}
+	rouge-2: {'f': '0.183', 'p': '0.176', 'r': '0.190'}
+	rouge-l: {'f': '0.279', 'p': '0.271', 'r': '0.288'}
+Greedy results:
+	rouge-1: {'f': '0.607', 'p': '0.557', 'r': '0.667'}
+	rouge-2: {'f': '0.327', 'p': '0.286', 'r': '0.381'}
+	rouge-l: {'f': '0.421', 'p': '0.382', 'r': '0.515'}
+
+/Users/kian/rl_final_proj/examples/0b06db092bbca8a143f9151bd07db7b4123f72e1.story
+Lead-3 results:
+	rouge-1: {'f': '0.361', 'p': '0.306', 'r': '0.440'}
+	rouge-2: {'f': '0.110', 'p': '0.086', 'r': '0.153'}
+	rouge-l: {'f': '0.120', 'p': '0.107', 'r': '0.200'}
+Greedy results:
+	rouge-1: {'f': '0.554', 'p': '0.500', 'r': '0.620'}
+	rouge-2: {'f': '0.388', 'p': '0.338', 'r': '0.458'}
+	rouge-l: {'f': '0.443', 'p': '0.400', 'r': '0.567'}
+/Users/kian/rl_final_proj/examples/0e0b300d2ae49eb4667cc31150f114a7e5198c7a.story
+Lead-3 results:
+	rouge-1: {'f': '0.356', 'p': '0.308', 'r': '0.421'}
+	rouge-2: {'f': '0.038', 'p': '0.034', 'r': '0.044'}
+	rouge-l: {'f': '0.219', 'p': '0.200', 'r': '0.261'}
+Greedy results:
+	rouge-1: {'f': '0.407', 'p': '0.300', 'r': '0.632'}
+	rouge-2: {'f': '0.079', 'p': '0.057', 'r': '0.133'}
+	rouge-l: {'f': '0.151', 'p': '0.138', 'r': '0.326'}
+
+/Users/kian/rl_final_proj/examples/0b000695f3f46d5be6292284b6d9ac63187dfb86.story
+Lead-3 results:
+	rouge-1: {'f': '0.443', 'p': '0.346', 'r': '0.614'}
+	rouge-2: {'f': '0.238', 'p': '0.181', 'r': '0.347'}
+	rouge-l: {'f': '0.252', 'p': '0.227', 'r': '0.440'}
+Greedy results:
+	rouge-1: {'f': '0.561', 'p': '0.476', 'r': '0.682'}
+	rouge-2: {'f': '0.390', 'p': '0.324', 'r': '0.490'}
+	rouge-l: {'f': '0.338', 'p': '0.303', 'r': '0.460'}
+
+/Users/kian/rl_final_proj/examples/0a02f8f34bbbce835d5c80bf79d9776b41462349.story
+Lead-3 results:
+	rouge-1: {'f': '0.383', 'p': '0.314', 'r': '0.489'}
+	rouge-2: {'f': '0.094', 'p': '0.073', 'r': '0.132'}
+	rouge-l: {'f': '0.188', 'p': '0.168', 'r': '0.315'}
+Greedy results:
+	rouge-1: {'f': '0.512', 'p': '0.393', 'r': '0.733'}
+	rouge-2: {'f': '0.313', 'p': '0.230', 'r': '0.491'}
+	rouge-l: {'f': '0.187', 'p': '0.169', 'r': '0.370'}
+
+/Users/kian/rl_final_proj/examples/0e041ec0094be51b003172badbffeeccf6e38744.story
+Lead-3 results:
+	rouge-1: {'f': '0.311', 'p': '0.237', 'r': '0.452'}
+	rouge-2: {'f': '0.173', 'p': '0.125', 'r': '0.281'}
+	rouge-l: {'f': '0.182', 'p': '0.164', 'r': '0.353'}
+Greedy results:
+	rouge-1: {'f': '0.545', 'p': '0.421', 'r': '0.774'}
+	rouge-2: {'f': '0.458', 'p': '0.344', 'r': '0.688'}
+	rouge-l: {'f': '0.199', 'p': '0.179', 'r': '0.353'}
+
+/Users/kian/rl_final_proj/examples/0e09fe4df80fa741e6d25702c43e0669077586a7.story
+Lead-3 results:
+	rouge-1: {'f': '0.295', 'p': '0.191', 'r': '0.643'}
+	rouge-2: {'f': '0.051', 'p': '0.031', 'r': '0.143'}
+	rouge-l: {'f': '0.092', 'p': '0.088', 'r': '0.400'}
+Greedy results:
+	rouge-1: {'f': '0.301', 'p': '0.186', 'r': '0.786'}
+	rouge-2: {'f': '0.022', 'p': '0.013', 'r': '0.071'}
+	rouge-l: {'f': '0.066', 'p': '0.064', 'r': '0.333'}
+
+/Users/kian/rl_final_proj/examples/0a138aa82389e17ba1784bdced99379d007cc45b.story
+Lead-3 results:
+	rouge-1: {'f': '0.239', 'p': '0.165', 'r': '0.438'}
+	rouge-2: {'f': '0.105', 'p': '0.071', 'r': '0.205'}
+	rouge-l: {'f': '0.156', 'p': '0.145', 'r': '0.415'}
+Greedy results:
+	rouge-1: {'f': '0.510', 'p': '0.379', 'r': '0.781'}
+	rouge-2: {'f': '0.222', 'p': '0.161', 'r': '0.359'}
+	rouge-l: {'f': '0.242', 'p': '0.220', 'r': '0.488'}
+
+/Users/kian/rl_final_proj/examples/0a0a4c90d59df9e36ffec4ba306b4f20f3ba4acb.story
+Lead-3 results:
+	rouge-1: {'f': '0.138', 'p': '0.167', 'r': '0.118'}
+	rouge-2: {'f': '0.000', 'p': '0.000', 'r': '0.000'}
+	rouge-l: {'f': '0.087', 'p': '0.094', 'r': '0.082'}
+Greedy results:
+	rouge-1: {'f': '0.404', 'p': '0.365', 'r': '0.451'}
+	rouge-2: {'f': '0.175', 'p': '0.152', 'r': '0.207'}
+	rouge-l: {'f': '0.178', 'p': '0.163', 'r': '0.213'}
+/Users/kian/rl_final_proj/examples/0a05715184ed236ada505e0540361cc7820b3b57.story
+Lead-3 results:
+	rouge-1: {'f': '0.168', 'p': '0.117', 'r': '0.300'}
+	rouge-2: {'f': '0.000', 'p': '0.000', 'r': '0.000'}
+	rouge-l: {'f': '0.078', 'p': '0.073', 'r': '0.229'}
+Greedy results:
+	rouge-1: {'f': '0.488', 'p': '0.375', 'r': '0.700'}
+	rouge-2: {'f': '0.224', 'p': '0.164', 'r': '0.353'}
+	rouge-l: {'f': '0.220', 'p': '0.200', 'r': '0.457'}
+
+/Users/kian/rl_final_proj/examples/0b013dbdaeae34a86504ba71e204e0031943bda7.story
+Lead-3 results:
+	rouge-1: {'f': '0.351', 'p': '0.233', 'r': '0.708'}
+	rouge-2: {'f': '0.102', 'p': '0.065', 'r': '0.231'}
+	rouge-l: {'f': '0.124', 'p': '0.117', 'r': '0.407'}
+Greedy results:
+	rouge-1: {'f': '0.351', 'p': '0.233', 'r': '0.708'}
+	rouge-2: {'f': '0.102', 'p': '0.065', 'r': '0.231'}
+	rouge-l: {'f': '0.124', 'p': '0.117', 'r': '0.407'}
+
+/Users/kian/rl_final_proj/examples/0c0bef61bab721e96d35867a44ee4469ba1976b2.story
+Lead-3 results:
+	rouge-1: {'f': '0.283', 'p': '0.220', 'r': '0.394'}
+	rouge-2: {'f': '0.057', 'p': '0.042', 'r': '0.091'}
+	rouge-l: {'f': '0.091', 'p': '0.082', 'r': '0.176'}
+Greedy results:
+	rouge-1: {'f': '0.364', 'p': '0.273', 'r': '0.545'}
+	rouge-2: {'f': '0.121', 'p': '0.084', 'r': '0.212'}
+	rouge-l: {'f': '0.130', 'p': '0.119', 'r': '0.294'}
+
+/Users/kian/rl_final_proj/examples/0e070991e7b2dccb274153174e74d6a91bf30d9b.story
+Lead-3 results:
+	rouge-1: {'f': '0.138', 'p': '0.143', 'r': '0.133'}
+	rouge-2: {'f': '0.000', 'p': '0.000', 'r': '0.000'}
+	rouge-l: {'f': '0.090', 'p': '0.097', 'r': '0.086'}
+Greedy results:
+	rouge-1: {'f': '0.329', 'p': '0.255', 'r': '0.467'}
+	rouge-2: {'f': '0.139', 'p': '0.104', 'r': '0.206'}
+	rouge-l: {'f': '0.206', 'p': '0.186', 'r': '0.371'}
+
+/Users/kian/rl_final_proj/examples/0a1ef61e85845fc03a2aad06aabad8d34e0b36ad.story
+Lead-3 results:
+	rouge-1: {'f': '0.216', 'p': '0.135', 'r': '0.545'}
+	rouge-2: {'f': '0.068', 'p': '0.041', 'r': '0.217'}
+	rouge-l: {'f': '0.049', 'p': '0.048', 'r': '0.250'}
+Greedy results:
+	rouge-1: {'f': '0.366', 'p': '0.239', 'r': '0.773'}
+	rouge-2: {'f': '0.151', 'p': '0.094', 'r': '0.391'}
+	rouge-l: {'f': '0.118', 'p': '0.113', 'r': '0.500'}
+
+/Users/kian/rl_final_proj/examples/0a061fb6e6d4a92232e782727879383aa3e08196.story
+Lead-3 results:
+	rouge-1: {'f': '0.500', 'p': '0.444', 'r': '0.571'}
+	rouge-2: {'f': '0.308', 'p': '0.265', 'r': '0.367'}
+	rouge-l: {'f': '0.371', 'p': '0.333', 'r': '0.490'}
+Greedy results:
+	rouge-1: {'f': '0.694', 'p': '0.607', 'r': '0.810'}
+	rouge-2: {'f': '0.444', 'p': '0.382', 'r': '0.531'}
+	rouge-l: {'f': '0.386', 'p': '0.347', 'r': '0.510'}
+/Users/kian/rl_final_proj/examples/0a000f521734500aa360bf6bb2bb31446e4d66cd.story
+Lead-3 results:
+	rouge-1: {'f': '0.500', 'p': '0.460', 'r': '0.548'}
+	rouge-2: {'f': '0.255', 'p': '0.219', 'r': '0.304'}
+	rouge-l: {'f': '0.310', 'p': '0.279', 'r': '0.396'}
+Greedy results:
+	rouge-1: {'f': '0.523', 'p': '0.431', 'r': '0.667'}
+	rouge-2: {'f': '0.272', 'p': '0.215', 'r': '0.370'}
+	rouge-l: {'f': '0.238', 'p': '0.212', 'r': '0.354'}
+
+/Users/kian/rl_final_proj/examples/0a13a16470a0aa1c8c7224d8c207698bdf456dbe.story
+Lead-3 results:
+	rouge-1: {'f': '0.275', 'p': '0.219', 'r': '0.368'}
+	rouge-2: {'f': '0.045', 'p': '0.034', 'r': '0.067'}
+	rouge-l: {'f': '0.118', 'p': '0.106', 'r': '0.213'}
+Greedy results:
+	rouge-1: {'f': '0.562', 'p': '0.466', 'r': '0.711'}
+	rouge-2: {'f': '0.322', 'p': '0.260', 'r': '0.422'}
+	rouge-l: {'f': '0.256', 'p': '0.229', 'r': '0.404'}
+
+/Users/kian/rl_final_proj/examples/0a03ba4e2d247acacfddd4e53270a008b5c1fff0.story
+Lead-3 results:
+	rouge-1: {'f': '0.362', 'p': '0.358', 'r': '0.365'}
+	rouge-2: {'f': '0.172', 'p': '0.162', 'r': '0.183'}
+	rouge-l: {'f': '0.180', 'p': '0.169', 'r': '0.197'}
+Greedy results:
+	rouge-1: {'f': '0.625', 'p': '0.583', 'r': '0.673'}
+	rouge-2: {'f': '0.338', 'p': '0.303', 'r': '0.383'}
+	rouge-l: {'f': '0.301', 'p': '0.275', 'r': '0.361'}
+
+/Users/kian/rl_final_proj/examples/0c0a6a6459a9fda3a5fdd3bfb15e26afb206d3f1.story
+Lead-3 results:
+	rouge-1: {'f': '0.228', 'p': '0.173', 'r': '0.333'}
+	rouge-2: {'f': '0.096', 'p': '0.067', 'r': '0.167'}
+	rouge-l: {'f': '0.129', 'p': '0.118', 'r': '0.302'}
+Greedy results:
+	rouge-1: {'f': '0.385', 'p': '0.300', 'r': '0.538'}
+	rouge-2: {'f': '0.125', 'p': '0.093', 'r': '0.190'}
+	rouge-l: {'f': '0.202', 'p': '0.182', 'r': '0.372'}
+
+/Users/kian/rl_final_proj/examples/0b04f21f5bf9fd5a47890d8b42e64b9c83915d4d.story
+Lead-3 results:
+	rouge-1: {'f': '0.310', 'p': '0.247', 'r': '0.419'}
+	rouge-2: {'f': '0.122', 'p': '0.088', 'r': '0.200'}
+	rouge-l: {'f': '0.152', 'p': '0.139', 'r': '0.326'}
+Greedy results:
+	rouge-1: {'f': '0.427', 'p': '0.367', 'r': '0.512'}
+	rouge-2: {'f': '0.159', 'p': '0.123', 'r': '0.222'}
+	rouge-l: {'f': '0.202', 'p': '0.181', 'r': '0.326'}
+
+/Users/kian/rl_final_proj/examples/0d05816c8a742a18966555c438949ed22b64351c.story
+Lead-3 results:
+	rouge-1: {'f': '0.187', 'p': '0.220', 'r': '0.164'}
+	rouge-2: {'f': '0.000', 'p': '0.000', 'r': '0.000'}
+	rouge-l: {'f': '0.085', 'p': '0.096', 'r': '0.079'}
+Greedy results:
+	rouge-1: {'f': '0.595', 'p': '0.545', 'r': '0.655'}
+	rouge-2: {'f': '0.378', 'p': '0.333', 'r': '0.435'}
+	rouge-l: {'f': '0.254', 'p': '0.232', 'r': '0.302'}
+
+/Users/kian/rl_final_proj/examples/0e0842e7b21a39d273def0713127f8465ee6c236.story
+Lead-3 results:
+	rouge-1: {'f': '0.296', 'p': '0.316', 'r': '0.279'}
+	rouge-2: {'f': '0.043', 'p': '0.043', 'r': '0.042'}
+	rouge-l: {'f': '0.122', 'p': '0.122', 'r': '0.122'}
+Greedy results:
+	rouge-1: {'f': '0.475', 'p': '0.414', 'r': '0.558'}
+	rouge-2: {'f': '0.140', 'p': '0.111', 'r': '0.188'}
+	rouge-l: {'f': '0.189', 'p': '0.169', 'r': '0.286'}
+
+/Users/kian/rl_final_proj/examples/0a0adc84ccbf9414613e145a3795dccc4828ddd4.story
+Lead-3 results:
+	rouge-1: {'f': '0.273', 'p': '0.242', 'r': '0.312'}
+	rouge-2: {'f': '0.065', 'p': '0.057', 'r': '0.075'}
+	rouge-l: {'f': '0.107', 'p': '0.097', 'r': '0.130'}
+Greedy results:
+	rouge-1: {'f': '0.418', 'p': '0.326', 'r': '0.583'}
+	rouge-2: {'f': '0.143', 'p': '0.104', 'r': '0.226'}
+	rouge-l: {'f': '0.139', 'p': '0.126', 'r': '0.278'}
+
+/Users/kian/rl_final_proj/examples/0a0f56ebc5a0a67ed18de79d99b40a42d8058d04.story
+Lead-3 results:
+	rouge-1: {'f': '0.194', 'p': '0.170', 'r': '0.225'}
+	rouge-2: {'f': '0.016', 'p': '0.014', 'r': '0.020'}
+	rouge-l: {'f': '0.127', 'p': '0.114', 'r': '0.176'}
+Greedy results:
+	rouge-1: {'f': '0.577', 'p': '0.491', 'r': '0.700'}
+	rouge-2: {'f': '0.453', 'p': '0.367', 'r': '0.592'}
+	rouge-l: {'f': '0.231', 'p': '0.207', 'r': '0.353'}
+
+/Users/kian/rl_final_proj/examples/0a1335c931d4b7a96296e04eab714925d6f4f4d8.story
+Lead-3 results:
+	rouge-1: {'f': '0.309', 'p': '0.235', 'r': '0.452'}
+	rouge-2: {'f': '0.055', 'p': '0.039', 'r': '0.095'}
+	rouge-l: {'f': '0.094', 'p': '0.086', 'r': '0.209'}
+Greedy results:
+	rouge-1: {'f': '0.509', 'p': '0.403', 'r': '0.690'}
+	rouge-2: {'f': '0.256', 'p': '0.193', 'r': '0.381'}
+	rouge-l: {'f': '0.170', 'p': '0.153', 'r': '0.302'}
+
+/Users/kian/rl_final_proj/examples/0a12bc9fb4ad7dca66b2072094b48a126e3efd0a.story
+Lead-3 results:
+	rouge-1: {'f': '0.371', 'p': '0.340', 'r': '0.409'}
+	rouge-2: {'f': '0.148', 'p': '0.134', 'r': '0.164'}
+	rouge-l: {'f': '0.168', 'p': '0.155', 'r': '0.193'}
+Greedy results:
+	rouge-1: {'f': '0.729', 'p': '0.673', 'r': '0.795'}
+	rouge-2: {'f': '0.562', 'p': '0.515', 'r': '0.618'}
+	rouge-l: {'f': '0.366', 'p': '0.343', 'r': '0.404'}
+
+/Users/kian/rl_final_proj/examples/0b0af0e1094c17f3b7c26b3c2894a6ede1f0aa7c.story
+Lead-3 results:
+	rouge-1: {'f': '0.300', 'p': '0.319', 'r': '0.283'}
+	rouge-2: {'f': '0.067', 'p': '0.070', 'r': '0.063'}
+	rouge-l: {'f': '0.131', 'p': '0.138', 'r': '0.125'}
+Greedy results:
+	rouge-1: {'f': '0.585', 'p': '0.494', 'r': '0.717'}
+	rouge-2: {'f': '0.429', 'p': '0.350', 'r': '0.556'}
+	rouge-l: {'f': '0.394', 'p': '0.353', 'r': '0.562'}
+
+/Users/kian/rl_final_proj/examples/0c03c3abf0db6a3cf8175532fa1bc3b7f352af10.story
+Lead-3 results:
+	rouge-1: {'f': '0.252', 'p': '0.192', 'r': '0.368'}
+	rouge-2: {'f': '0.101', 'p': '0.073', 'r': '0.167'}
+	rouge-l: {'f': '0.096', 'p': '0.087', 'r': '0.209'}
+Greedy results:
+	rouge-1: {'f': '0.500', 'p': '0.386', 'r': '0.711'}
+	rouge-2: {'f': '0.266', 'p': '0.198', 'r': '0.405'}
+	rouge-l: {'f': '0.332', 'p': '0.299', 'r': '0.605'}
+
+/Users/kian/rl_final_proj/examples/0d029b3147a3875e0b7ddae8e65eb22377a7268f.story
+Lead-3 results:
+	rouge-1: {'f': '0.167', 'p': '0.123', 'r': '0.259'}
+	rouge-2: {'f': '0.000', 'p': '0.000', 'r': '0.000'}
+	rouge-l: {'f': '0.088', 'p': '0.080', 'r': '0.182'}
+Greedy results:
+	rouge-1: {'f': '0.474', 'p': '0.367', 'r': '0.667'}
+	rouge-2: {'f': '0.176', 'p': '0.133', 'r': '0.258'}
+	rouge-l: {'f': '0.201', 'p': '0.180', 'r': '0.333'}
+
+/Users/kian/rl_final_proj/examples/0e030d4e7092d6ec7329dd9988e7934e09668410.story
+Lead-3 results:
+	rouge-1: {'f': '0.346', 'p': '0.310', 'r': '0.391'}
+	rouge-2: {'f': '0.063', 'p': '0.052', 'r': '0.082'}
+	rouge-l: {'f': '0.113', 'p': '0.101', 'r': '0.160'}
+Greedy results:
+	rouge-1: {'f': '0.421', 'p': '0.408', 'r': '0.435'}
+	rouge-2: {'f': '0.161', 'p': '0.143', 'r': '0.184'}
+	rouge-l: {'f': '0.213', 'p': '0.194', 'r': '0.260'}
+
+/Users/kian/rl_final_proj/examples/0c0db7e14064dd65368ed9eb5bbcf7398e3338ae.story
+Lead-3 results:
+	rouge-1: {'f': '0.600', 'p': '0.533', 'r': '0.686'}
+	rouge-2: {'f': '0.435', 'p': '0.364', 'r': '0.541'}
+	rouge-l: {'f': '0.497', 'p': '0.446', 'r': '0.658'}
+Greedy results:
+	rouge-1: {'f': '0.667', 'p': '0.525', 'r': '0.914'}
+	rouge-2: {'f': '0.523', 'p': '0.392', 'r': '0.784'}
+	rouge-l: {'f': '0.351', 'p': '0.316', 'r': '0.632'}
+
+/Users/kian/rl_final_proj/examples/0d02fb8f0d406db956b128a5c1cc7bf3f13860a6.story
+Lead-3 results:
+	rouge-1: {'f': '0.269', 'p': '0.186', 'r': '0.485'}
+	rouge-2: {'f': '0.064', 'p': '0.042', 'r': '0.132'}
+	rouge-l: {'f': '0.117', 'p': '0.109', 'r': '0.333'}
+Greedy results:
+	rouge-1: {'f': '0.356', 'p': '0.247', 'r': '0.636'}
+	rouge-2: {'f': '0.132', 'p': '0.088', 'r': '0.263'}
+	rouge-l: {'f': '0.151', 'p': '0.140', 'r': '0.410'}
+
+/Users/kian/rl_final_proj/examples/0e0d64fbb3556ff6777e7b3c379c54b4eca26a51.story
+Lead-3 results:
+	rouge-1: {'f': '0.198', 'p': '0.167', 'r': '0.242'}
+	rouge-2: {'f': '0.040', 'p': '0.034', 'r': '0.049'}
+	rouge-l: {'f': '0.164', 'p': '0.150', 'r': '0.196'}
+Greedy results:
+	rouge-1: {'f': '0.606', 'p': '0.455', 'r': '0.909'}
+	rouge-2: {'f': '0.553', 'p': '0.415', 'r': '0.829'}
+	rouge-l: {'f': '0.269', 'p': '0.241', 'r': '0.457'}
+
+/Users/kian/rl_final_proj/examples/0a1f92e7a3e3bb03e8d91014ce6f486508eb125e.story
+Lead-3 results:
+	rouge-1: {'f': '0.384', 'p': '0.333', 'r': '0.452'}
+	rouge-2: {'f': '0.082', 'p': '0.067', 'r': '0.106'}
+	rouge-l: {'f': '0.168', 'p': '0.150', 'r': '0.250'}
+Greedy results:
+	rouge-1: {'f': '0.713', 'p': '0.610', 'r': '0.857'}
+	rouge-2: {'f': '0.413', 'p': '0.329', 'r': '0.553'}
+	rouge-l: {'f': '0.224', 'p': '0.200', 'r': '0.333'}
+/Users/kian/rl_final_proj/examples/0e0ee624c9f156cc5309428e8eca62661cf129f6.story
+Lead-3 results:
+	rouge-1: {'f': '0.362', 'p': '0.321', 'r': '0.415'}
+	rouge-2: {'f': '0.106', 'p': '0.091', 'r': '0.128'}
+	rouge-l: {'f': '0.196', 'p': '0.176', 'r': '0.250'}
+Greedy results:
+	rouge-1: {'f': '0.541', 'p': '0.429', 'r': '0.732'}
+	rouge-2: {'f': '0.275', 'p': '0.209', 'r': '0.404'}
+	rouge-l: {'f': '0.367', 'p': '0.330', 'r': '0.646'}
+
+/Users/kian/rl_final_proj/examples/0c07b9f53448720eb9cf1e471e67fb86b297a18c.story
+Lead-3 results:
+	rouge-1: {'f': '0.264', 'p': '0.211', 'r': '0.353'}
+	rouge-2: {'f': '0.054', 'p': '0.039', 'r': '0.086'}
+	rouge-l: {'f': '0.110', 'p': '0.100', 'r': '0.222'}
+Greedy results:
+	rouge-1: {'f': '0.452', 'p': '0.380', 'r': '0.559'}
+	rouge-2: {'f': '0.226', 'p': '0.169', 'r': '0.343'}
+	rouge-l: {'f': '0.198', 'p': '0.178', 'r': '0.361'}
+
+/Users/kian/rl_final_proj/examples/0e0215e0e6f1533230958745d8d59c3a7c602e7c.story
+Lead-3 results:
+	rouge-1: {'f': '0.433', 'p': '0.396', 'r': '0.477'}
+	rouge-2: {'f': '0.175', 'p': '0.152', 'r': '0.208'}
+	rouge-l: {'f': '0.246', 'p': '0.221', 'r': '0.333'}
+Greedy results:
+	rouge-1: {'f': '0.505', 'p': '0.441', 'r': '0.591'}
+	rouge-2: {'f': '0.217', 'p': '0.173', 'r': '0.292'}
+	rouge-l: {'f': '0.200', 'p': '0.179', 'r': '0.333'}
+
+/Users/kian/rl_final_proj/examples/0c0310aef9c7e02e1d52f69e01c394249e4091f1.story
+Lead-3 results:
+	rouge-1: {'f': '0.216', 'p': '0.164', 'r': '0.314'}
+	rouge-2: {'f': '0.067', 'p': '0.049', 'r': '0.105'}
+	rouge-l: {'f': '0.120', 'p': '0.108', 'r': '0.225'}
+Greedy results:
+	rouge-1: {'f': '0.510', 'p': '0.397', 'r': '0.714'}
+	rouge-2: {'f': '0.202', 'p': '0.155', 'r': '0.289'}
+	rouge-l: {'f': '0.168', 'p': '0.151', 'r': '0.275'}
+/Users/kian/rl_final_proj/examples/0e0a7c28a2def0616225dfc02cf4cb0fbce9236a.story
+Lead-3 results:
+	rouge-1: {'f': '0.477', 'p': '0.382', 'r': '0.636'}
+	rouge-2: {'f': '0.288', 'p': '0.225', 'r': '0.400'}
+	rouge-l: {'f': '0.337', 'p': '0.301', 'r': '0.524'}
+Greedy results:
+	rouge-1: {'f': '0.495', 'p': '0.375', 'r': '0.727'}
+	rouge-2: {'f': '0.300', 'p': '0.225', 'r': '0.450'}
+	rouge-l: {'f': '0.271', 'p': '0.244', 'r': '0.476'}
+
+/Users/kian/rl_final_proj/examples/0e0702f03e74efdc4eb45b2a9225e9cfdd92ebb5.story
+Lead-3 results:
+	rouge-1: {'f': '0.426', 'p': '0.328', 'r': '0.606'}
+	rouge-2: {'f': '0.202', 'p': '0.149', 'r': '0.314'}
+	rouge-l: {'f': '0.241', 'p': '0.218', 'r': '0.459'}
+Greedy results:
+	rouge-1: {'f': '0.473', 'p': '0.338', 'r': '0.788'}
+	rouge-2: {'f': '0.203', 'p': '0.140', 'r': '0.371'}
+	rouge-l: {'f': '0.206', 'p': '0.189', 'r': '0.486'}
+
+/Users/kian/rl_final_proj/examples/0c0a7aea4e4f8a97e9bc15d27865bdebaa562b03.story
+Lead-3 results:
+	rouge-1: {'f': '0.519', 'p': '0.438', 'r': '0.636'}
+	rouge-2: {'f': '0.270', 'p': '0.222', 'r': '0.343'}
+	rouge-l: {'f': '0.243', 'p': '0.218', 'r': '0.333'}
+Greedy results:
+	rouge-1: {'f': '0.586', 'p': '0.439', 'r': '0.879'}
+	rouge-2: {'f': '0.397', 'p': '0.284', 'r': '0.657'}
+	rouge-l: {'f': '0.265', 'p': '0.241', 'r': '0.556'}
+
+/Users/kian/rl_final_proj/examples/0a06e1c26ef6cbadd8f508ec2ade220f755de6a8.story
+Lead-3 results:
+	rouge-1: {'f': '0.351', 'p': '0.302', 'r': '0.419'}
+	rouge-2: {'f': '0.115', 'p': '0.094', 'r': '0.147'}
+	rouge-l: {'f': '0.279', 'p': '0.250', 'r': '0.378'}
+Greedy results:
+	rouge-1: {'f': '0.505', 'p': '0.383', 'r': '0.742'}
+	rouge-2: {'f': '0.209', 'p': '0.148', 'r': '0.353'}
+	rouge-l: {'f': '0.217', 'p': '0.198', 'r': '0.459'}
+
+/Users/kian/rl_final_proj/examples/0a02013ba07cb3118e64f3e9aecab33687ad1fb9.story
+Lead-3 results:
+	rouge-1: {'f': '0.172', 'p': '0.170', 'r': '0.174'}
+	rouge-2: {'f': '0.017', 'p': '0.017', 'r': '0.017'}
+	rouge-l: {'f': '0.114', 'p': '0.115', 'r': '0.113'}
+Greedy results:
+	rouge-1: {'f': '0.440', 'p': '0.407', 'r': '0.478'}
+	rouge-2: {'f': '0.180', 'p': '0.175', 'r': '0.186'}
+	rouge-l: {'f': '0.252', 'p': '0.246', 'r': '0.258'}
+
+/Users/kian/rl_final_proj/examples/0a001b54b5b0ea17f11aa8d7acafb40ae7748ca6.story
+Lead-3 results:
+	rouge-1: {'f': '0.364', 'p': '0.263', 'r': '0.588'}
+	rouge-2: {'f': '0.182', 'p': '0.126', 'r': '0.324'}
+	rouge-l: {'f': '0.159', 'p': '0.146', 'r': '0.359'}
+Greedy results:
+	rouge-1: {'f': '0.404', 'p': '0.308', 'r': '0.588'}
+	rouge-2: {'f': '0.272', 'p': '0.193', 'r': '0.459'}
+	rouge-l: {'f': '0.167', 'p': '0.152', 'r': '0.359'}
+
+/Users/kian/rl_final_proj/examples/0a0b59738a88e97ef66322a8c866d22ebf079289.story
+Lead-3 results:
+	rouge-1: {'f': '0.191', 'p': '0.118', 'r': '0.500'}
+	rouge-2: {'f': '0.050', 'p': '0.029', 'r': '0.167'}
+	rouge-l: {'f': '0.059', 'p': '0.057', 'r': '0.316'}
+Greedy results:
+	rouge-1: {'f': '0.267', 'p': '0.175', 'r': '0.556'}
+	rouge-2: {'f': '0.103', 'p': '0.063', 'r': '0.278'}
+	rouge-l: {'f': '0.114', 'p': '0.110', 'r': '0.474'}
+
+/Users/kian/rl_final_proj/examples/0a050dbe85bff2aa1efd4dbeb4628bc6fc9f46f1.story
+Lead-3 results:
+	rouge-1: {'f': '0.246', 'p': '0.182', 'r': '0.378'}
+	rouge-2: {'f': '0.042', 'p': '0.029', 'r': '0.073'}
+	rouge-l: {'f': '0.093', 'p': '0.086', 'r': '0.214'}
+Greedy results:
+	rouge-1: {'f': '0.297', 'p': '0.209', 'r': '0.514'}
+	rouge-2: {'f': '0.036', 'p': '0.024', 'r': '0.073'}
+	rouge-l: {'f': '0.102', 'p': '0.095', 'r': '0.286'}
+
+/Users/kian/rl_final_proj/examples/0e0a65dd894fac8d7a521f13c13743f2d2fa4fb2.story
+Lead-3 results:
+	rouge-1: {'f': '0.342', 'p': '0.245', 'r': '0.565'}
+	rouge-2: {'f': '0.064', 'p': '0.045', 'r': '0.107'}
+	rouge-l: {'f': '0.197', 'p': '0.179', 'r': '0.400'}
+Greedy results:
+	rouge-1: {'f': '0.322', 'p': '0.219', 'r': '0.609'}
+	rouge-2: {'f': '0.101', 'p': '0.070', 'r': '0.179'}
+	rouge-l: {'f': '0.198', 'p': '0.181', 'r': '0.433'}
+
+/Users/kian/rl_final_proj/examples/0d08e6d9b7fefccafe4b86b349023ba3f02a51bc.story
+Lead-3 results:
+	rouge-1: {'f': '0.409', 'p': '0.316', 'r': '0.581'}
+	rouge-2: {'f': '0.234', 'p': '0.169', 'r': '0.382'}
+	rouge-l: {'f': '0.261', 'p': '0.237', 'r': '0.543'}
+Greedy results:
+	rouge-1: {'f': '0.520', 'p': '0.377', 'r': '0.839'}
+	rouge-2: {'f': '0.325', 'p': '0.225', 'r': '0.588'}
+	rouge-l: {'f': '0.283', 'p': '0.261', 'r': '0.686'}
+
+/Users/kian/rl_final_proj/examples/0a11ec5374add814d121adc9b9a9f1de8364f547.story
+Lead-3 results:
+	rouge-1: {'f': '0.512', 'p': '0.429', 'r': '0.636'}
+	rouge-2: {'f': '0.267', 'p': '0.215', 'r': '0.350'}
+	rouge-l: {'f': '0.284', 'p': '0.254', 'r': '0.415'}
+Greedy results:
+	rouge-1: {'f': '0.495', 'p': '0.368', 'r': '0.758'}
+	rouge-2: {'f': '0.307', 'p': '0.216', 'r': '0.525'}
+	rouge-l: {'f': '0.254', 'p': '0.232', 'r': '0.561'}
+
+/Users/kian/rl_final_proj/examples/0e09d7e425ad511e041399dd098175a1849abb89.story
+Lead-3 results:
+	rouge-1: {'f': '0.256', 'p': '0.213', 'r': '0.323'}
+	rouge-2: {'f': '0.083', 'p': '0.066', 'r': '0.114'}
+	rouge-l: {'f': '0.122', 'p': '0.109', 'r': '0.189'}
+Greedy results:
+	rouge-1: {'f': '0.404', 'p': '0.288', 'r': '0.677'}
+	rouge-2: {'f': '0.150', 'p': '0.102', 'r': '0.286'}
+	rouge-l: {'f': '0.153', 'p': '0.141', 'r': '0.378'}
+
+/Users/kian/rl_final_proj/examples/0b0e9d8b2466ea8b9e7672efe15e2443d60c9b79.story
+Lead-3 results:
+	rouge-1: {'f': '0.286', 'p': '0.308', 'r': '0.267'}
+	rouge-2: {'f': '0.020', 'p': '0.020', 'r': '0.020'}
+	rouge-l: {'f': '0.158', 'p': '0.160', 'r': '0.157'}
+Greedy results:
+	rouge-1: {'f': '0.455', 'p': '0.359', 'r': '0.622'}
+	rouge-2: {'f': '0.173', 'p': '0.124', 'r': '0.286'}
+	rouge-l: {'f': '0.203', 'p': '0.185', 'r': '0.431'}
+
+/Users/kian/rl_final_proj/examples/0a1e599f293a96eebec255ccc6d44134a6fc7720.story
+Lead-3 results:
+	rouge-1: {'f': '0.511', 'p': '0.533', 'r': '0.490'}
+	rouge-2: {'f': '0.215', 'p': '0.213', 'r': '0.217'}
+	rouge-l: {'f': '0.425', 'p': '0.415', 'r': '0.435'}
+Greedy results:
+	rouge-1: {'f': '0.653', 'p': '0.635', 'r': '0.673'}
+	rouge-2: {'f': '0.403', 'p': '0.377', 'r': '0.433'}
+	rouge-l: {'f': '0.451', 'p': '0.429', 'r': '0.484'}
+
+
+Lead-3 ROUGE Recall scores:
+	rouge-1: mean = 0.409, std = 0.153
+	rouge-2: mean = 0.151, std = 0.124
+	rouge-l: mean = 0.270, std = 0.129
+
+Greedy ROUGE Recall scores:
+	rouge-1: mean = 0.644, std = 0.132
+	rouge-2: mean = 0.342, std = 0.178
+	rouge-l: mean = 0.396, std = 0.136
+[Finished in 64.546s]

@@ -1,0 +1,112 @@
+DOCUMENT:
+0: less three months ago supreme court united states handed eagerly awaited rulings same-sex marriage voting rights affirmative action
+1: next month court begin new term likely deal controversial issues abortion campaign finance reform separation church state
+2: court middle term easy focus hard legal questions legal views individual justices consequences landmark decisions
+3: good time court recess take step back look institution
+4: lifetime long
+5: first supreme court justices judges world sit country highest court life tenure
+6: president nominates justices senate confirms american people elect justices vote office
+7: light crucial role court plays across spectrum social legal political issues question long justices serve re-examined
+8: supreme court justices often serve 25 years beyond time still fit perform duties
+9: example according renown author david garrow justices william o. douglas thurgood marshall remained bench well skills significantly diminished beyond point competence
+10: usual justification life tenure justices need independent branches government adequately perform duties
+11: need independence real compelling ways achieve goal
+12: countries use fixed terms retirement ages combination two achieve necessary independence
+13: simply persuasive reason allow governmental officials virtually unreviewable power hold offices life
+14: witnesses history
+15: second aspect supreme court needs changed lack television coverage oral arguments decision announcements
+16: shame last week june court handed read bench numerous important decisions including overturning defense marriage act formula section 5 voting rights act american people hear news indirectly media personalities instead justices
+17: similarly 2012 court held three days oral arguments president important piece legislation affordable care act public able witness arguments like lucky happened courtroom
+18: moreover close tragedy future generations absolutely video record court arguments decisions landmark cases
+19: would invaluable learning tool young americans today could see oral arguments brown v. board education roe v. wade
+20: 30 state supreme courts allow cameras courtroom great success
+21: supreme court justices john roberts anthony kennedy suggested presence television would lead grandstanding lawyers maybe even justices experiences state courts demonstrate concerns greatly exaggerated
+22: arkansas considering placing cameras courtroom justice robert l. brown conducted survey found state supreme courts blazed significant technological trail
+23: public response according state supreme courts provide video broadcasts border -lsb- ed -rsb- exuberant -lsb- n -rsb- state currently provides video oral arguments cites grandstanding problem
+24: arkansas joined majority states allow cameras courtrooms
+25: simply good reason supreme court exactly thing
+26: joke job interview
+27: finally something national farce supreme court nomination process
+28: sad spectacle senators asking questions drafted staffs allowing nominees duck give way serious conversations nominees views american people participate fully confirmation process
+29: almost everyone knows justices enormous discretion decide cases accordance personal political value systems
+30: differences justices antonin scalia ruth bader ginsburg constitutional questions nothing legal interpretation everything different backgrounds experiences values
+31: senate much better job requiring nominees answer hard questions values experiences nominees allowed sit highest court land
+32: opinions expressed commentary solely eric segall
+
+=================================
+Gold summary:
+eric segall life tenure allows justices serve past point competence
+segall court follow lead many states allow cameras courtroom
+supreme court nomination process farce adds
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1739
+		rouge-2: 0.0417
+		rouge-l: 0.1200
+	Summary: 
+		less three months ago supreme court united states handed eagerly awaited rulings same-sex marriage voting rights affirmative action
+		next month court begin new term likely deal controversial issues abortion campaign finance reform separation church state
+		court middle term easy focus hard legal questions legal views individual justices consequences landmark decisions
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 10, 24, 27
+	Results: 
+		rouge-1: 0.4783
+		rouge-2: 0.2500
+		rouge-l: 0.4000
+	Summary: 
+		usual justification life tenure justices need independent branches government adequately perform duties
+		arkansas joined majority states allow cameras courtrooms
+		finally something national farce supreme court nomination process
+
+=================================
+GreedyOracle-rouge-1 predicted the following:
+	Sentences: 10, 24, 27
+	Results: 
+		rouge-1: 0.4783
+		rouge-2: 0.2500
+		rouge-l: 0.4000
+	Summary: 
+		usual justification life tenure justices need independent branches government adequately perform duties
+		arkansas joined majority states allow cameras courtrooms
+		finally something national farce supreme court nomination process
+
+=================================
+GreedyOracle-rouge-2 predicted the following:
+	Sentences: 24, 27, 32
+	Results: 
+		rouge-1: 0.4348
+		rouge-2: 0.2500
+		rouge-l: 0.2800
+	Summary: 
+		arkansas joined majority states allow cameras courtrooms
+		finally something national farce supreme court nomination process
+		opinions expressed commentary solely eric segall
+
+=================================
+GreedyOracle-rouge-l predicted the following:
+	Sentences: 10, 24, 27
+	Results: 
+		rouge-1: 0.4783
+		rouge-2: 0.2500
+		rouge-l: 0.4000
+	Summary: 
+		usual justification life tenure justices need independent branches government adequately perform duties
+		arkansas joined majority states allow cameras courtrooms
+		finally something national farce supreme court nomination process
+
+=================================
+ExhaustiveOracle-mean predicted the following:
+	Sentences: 9, 20, 27
+	Results: 
+		rouge-1: 0.4783
+		rouge-2: 0.2500
+		rouge-l: 0.4000
+	Summary: 
+		example according renown author david garrow justices william o. douglas thurgood marshall remained bench well skills significantly diminished beyond point competence
+		30 state supreme courts allow cameras courtroom great success
+		finally something national farce supreme court nomination process

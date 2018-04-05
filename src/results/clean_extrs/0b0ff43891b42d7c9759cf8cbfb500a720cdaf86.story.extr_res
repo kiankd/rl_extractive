@@ -1,0 +1,96 @@
+DOCUMENT:
+0: indian diplomat whose arrest sparked testy exchange united states india dismissal federal indictment monday according court documents
+1: devyani khobragade arrested strip searched federal agents new york city december federal authorities accused khobragade lying visa application much paid housekeeper
+2: indicted january 9 federal grand jury one count visa fraud one count making false statements
+3: khobragade filed motion dismiss charges claiming cloaked diplomatic immunity time arrest according motion
+4: court agreed stating khobragade appointed counselor permanent mission india united nations position cloaked full diplomatic immunity according court documents
+5: appointed position january 8 day indicted
+6: even khobragade immunity time arrest none acquisition immunity pendency proceedings mandates dismissal u.s. district judge shira scheindlin wrote
+7: government may proceed indictment obtained khobragade immune jurisdiction court scheindlin continued
+8: khobragade attorney daniel arshack said statement khobragade pleased rule law prevailed
+9: heartened court agreed legal analysis rejected prosecution arguments dismissing case said
+10: india external affairs spokesman syed akbaruddin issued statement welcoming ruling
+11: james margolin spokesman united states attorney office southern district new york rule possibility charges
+12: court indicated decision devyani khobragade conceded currently bar new indictment alleged criminal conduct intend proceed accordingly said statement
+13: khobragade left united states january working indian ministry external affairs delhi
+14: case drew international attention indian officials demanding apologies washington united states announcing would withdraw one official embassy new delhi
+15: cnn allison malloy new york harmeet singh new delhi contributed report
+
+=================================
+Gold summary:
+new india welcomes ruling
+devyani khobragade accused lying visa application
+search sparked outrage india officials demanding apology
+khobragade diplomatic immunity charges ca stand judge finds
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3913
+		rouge-2: 0.1250
+		rouge-l: 0.2800
+	Summary: 
+		indian diplomat whose arrest sparked testy exchange united states india dismissal federal indictment monday according court documents
+		devyani khobragade arrested strip searched federal agents new york city december federal authorities accused khobragade lying visa application much paid housekeeper
+		indicted january 9 federal grand jury one count visa fraud one count making false statements
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 4, 14
+	Results: 
+		rouge-1: 0.5217
+		rouge-2: 0.2083
+		rouge-l: 0.3600
+	Summary: 
+		devyani khobragade arrested strip searched federal agents new york city december federal authorities accused khobragade lying visa application much paid housekeeper
+		court agreed stating khobragade appointed counselor permanent mission india united nations position cloaked full diplomatic immunity according court documents
+		case drew international attention indian officials demanding apologies washington united states announcing would withdraw one official embassy new delhi
+
+=================================
+GreedyOracle-rouge-1 predicted the following:
+	Sentences: 1, 4, 14
+	Results: 
+		rouge-1: 0.5217
+		rouge-2: 0.2083
+		rouge-l: 0.3600
+	Summary: 
+		devyani khobragade arrested strip searched federal agents new york city december federal authorities accused khobragade lying visa application much paid housekeeper
+		court agreed stating khobragade appointed counselor permanent mission india united nations position cloaked full diplomatic immunity according court documents
+		case drew international attention indian officials demanding apologies washington united states announcing would withdraw one official embassy new delhi
+
+=================================
+GreedyOracle-rouge-2 predicted the following:
+	Sentences: 1, 4, 14
+	Results: 
+		rouge-1: 0.5217
+		rouge-2: 0.2083
+		rouge-l: 0.3600
+	Summary: 
+		devyani khobragade arrested strip searched federal agents new york city december federal authorities accused khobragade lying visa application much paid housekeeper
+		court agreed stating khobragade appointed counselor permanent mission india united nations position cloaked full diplomatic immunity according court documents
+		case drew international attention indian officials demanding apologies washington united states announcing would withdraw one official embassy new delhi
+
+=================================
+GreedyOracle-rouge-l predicted the following:
+	Sentences: 1, 4, 6
+	Results: 
+		rouge-1: 0.4783
+		rouge-2: 0.1667
+		rouge-l: 0.4000
+	Summary: 
+		devyani khobragade arrested strip searched federal agents new york city december federal authorities accused khobragade lying visa application much paid housekeeper
+		court agreed stating khobragade appointed counselor permanent mission india united nations position cloaked full diplomatic immunity according court documents
+		even khobragade immunity time arrest none acquisition immunity pendency proceedings mandates dismissal u.s. district judge shira scheindlin wrote
+
+=================================
+ExhaustiveOracle-mean predicted the following:
+	Sentences: 1, 3, 14
+	Results: 
+		rouge-1: 0.5217
+		rouge-2: 0.2083
+		rouge-l: 0.3600
+	Summary: 
+		devyani khobragade arrested strip searched federal agents new york city december federal authorities accused khobragade lying visa application much paid housekeeper
+		khobragade filed motion dismiss charges claiming cloaked diplomatic immunity time arrest according motion
+		case drew international attention indian officials demanding apologies washington united states announcing would withdraw one official embassy new delhi

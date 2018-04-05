@@ -1,0 +1,106 @@
+DOCUMENT:
+0: rumblings third fourth-largest u.s. wireless carriers may merge form larger combined no. 3
+1: would enough keep u.s. wireless market competitive consumers
+2: last week bloomberg reported deutsche telekom ag parent company t-mobile negotiating possible sale t-mobile sprint nextel corp.
+3: according hill washington post industry analysts believe u.s. government would approve merger
+4: rumors merger around since 2009 dt eyeing purchase sprint
+5: last weekend tmonews reported ambiguous non-confirmation/non-denial memo sent t-mobile employees ceo philip humm
+6: given nature wireless networks current business landscape t-mobile probably needs make kind major move hopes survive form
+7: big picture takes lot capital build high-speed wireless broadband networks support ever-growing number data-hungry devices smartphones tablets especially streaming mobile video becomes popular obama administration serious national wireless initiative make wireless broadband available 98 u.s. population
+8: carriers largest customer base especially customers locked pricey two-year contracts best financial position build 4g networks
+9: networks turn makes largest carriers even likely attract even customers
+10: economic dynamic could turn u.s. wireless market verizon/at duopoly discount carriers surviving fringes
+11: u.s. mobile users wireless market consolidation good news/bad news situation
+12: offers promise ubiquitous high-speed wireless broadband networks available markets outside major metro areas would lessen geographic aspect mobile digital divide
+13: wireless broadband available region mean everyone afford use
+14: less competitive wireless market could mean wireless broadband wo get much cheaper
+15: could even get costly especially tiered data plans become norm would make sense carriers less competitive environment
+16: would bad news income/class front mobile digital divide
+17: lately t-mobile taking bit beating u.s. market
+18: bloomberg noted t-mobile lost customers accelerated rate trailed rivals building third-generation mobile network missed able sell apple iphone
+19: 56,000 customers abandoned t-mobile usa last year sprint at&t verizon wireless boosted counts
+20: consequently dt may pleased sprint may willing offer t-mobile knows merger happen
+21: furthermore t-mobile/sprint merger might difficult technical reasons
+22: wireless week noted t-mobile currently markets hspa network 4g lacks bandwidth deploy lte wimax
+23: sprint t-mobile use different network technology operate different spectrum bands would complicate possible merger companies wireless services
+24: t-mobile hopes survive intact need access much bandwidth u.s. locations
+25: sprint merger happen t-mobile options mainly leasing additional spectrum access providers networks lightsquared wholesale-only wireless lte network
+26: opinions expressed post solely amy gahran
+
+=================================
+Gold summary:
+deutsche telekom ag negotiating possible sale t-mobile sprint nextel corp
+56,000 customers abandoned t-mobile usa last year
+contrast sprint at&t verizon wireless boosted subscriber bases
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4783
+		rouge-2: 0.2917
+		rouge-l: 0.3600
+	Summary: 
+		rumblings third fourth-largest u.s. wireless carriers may merge form larger combined no. 3
+		would enough keep u.s. wireless market competitive consumers
+		last week bloomberg reported deutsche telekom ag parent company t-mobile negotiating possible sale t-mobile sprint nextel corp.
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 2, 19, 26
+	Results: 
+		rouge-1: 0.8261
+		rouge-2: 0.7083
+		rouge-l: 0.8400
+	Summary: 
+		last week bloomberg reported deutsche telekom ag parent company t-mobile negotiating possible sale t-mobile sprint nextel corp.
+		56,000 customers abandoned t-mobile usa last year sprint at&t verizon wireless boosted counts
+		opinions expressed post solely amy gahran
+
+=================================
+GreedyOracle-rouge-1 predicted the following:
+	Sentences: 2, 19, 26
+	Results: 
+		rouge-1: 0.8261
+		rouge-2: 0.7083
+		rouge-l: 0.8400
+	Summary: 
+		last week bloomberg reported deutsche telekom ag parent company t-mobile negotiating possible sale t-mobile sprint nextel corp.
+		56,000 customers abandoned t-mobile usa last year sprint at&t verizon wireless boosted counts
+		opinions expressed post solely amy gahran
+
+=================================
+GreedyOracle-rouge-2 predicted the following:
+	Sentences: 2, 19, 26
+	Results: 
+		rouge-1: 0.8261
+		rouge-2: 0.7083
+		rouge-l: 0.8400
+	Summary: 
+		last week bloomberg reported deutsche telekom ag parent company t-mobile negotiating possible sale t-mobile sprint nextel corp.
+		56,000 customers abandoned t-mobile usa last year sprint at&t verizon wireless boosted counts
+		opinions expressed post solely amy gahran
+
+=================================
+GreedyOracle-rouge-l predicted the following:
+	Sentences: 2, 19, 26
+	Results: 
+		rouge-1: 0.8261
+		rouge-2: 0.7083
+		rouge-l: 0.8400
+	Summary: 
+		last week bloomberg reported deutsche telekom ag parent company t-mobile negotiating possible sale t-mobile sprint nextel corp.
+		56,000 customers abandoned t-mobile usa last year sprint at&t verizon wireless boosted counts
+		opinions expressed post solely amy gahran
+
+=================================
+ExhaustiveOracle-mean predicted the following:
+	Sentences: 0, 2, 19
+	Results: 
+		rouge-1: 0.8261
+		rouge-2: 0.7083
+		rouge-l: 0.8400
+	Summary: 
+		rumblings third fourth-largest u.s. wireless carriers may merge form larger combined no. 3
+		last week bloomberg reported deutsche telekom ag parent company t-mobile negotiating possible sale t-mobile sprint nextel corp.
+		56,000 customers abandoned t-mobile usa last year sprint at&t verizon wireless boosted counts

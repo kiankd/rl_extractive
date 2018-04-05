@@ -1,0 +1,100 @@
+DOCUMENT:
+0: The first search of Michael Jackson 's bedroom a day after his death found marijuana , skin-bleaching and hair-growing ointments , anti-insomnia pills and empty bottles of several anti-anxiety drugs , according to court documents unsealed Thursday .
+1: The documents reveal what investigators found in Jackson 's bedroom the day after his death .
+2: A substance initially suspected to be tar heroin proved not to be a narcotic , according to a source with knowledge of the investigation .
+3: An affidavit , written by Los Angeles Detective Orlando Martinez , was used to outline probable cause for a warrant to search Jackson 's Holmby Hills , California , home on June 26 .
+4: Martinez filed his report on what was found in the search five days later .
+5: While the documents may provide some insight into Jackson 's life , they appeared to contain nothing that would lend new insight into his death .
+6: Another sworn statement written by Martinez several weeks later -- and made public earlier this week -- provided a more extensive list of drugs found by investigators at Jackson 's bedside .
+7: That document also revealed that toxicology tests led the Los Angeles County coroner to a preliminary conclusion that Jackson died of an overdose of propofol , a powerful sedative he had been given to help him sleep .
+8: The latest release refers to suspicions by some members of Jackson 's family in the hours after his June 25 death that heroin might have been involved .
+9: `` During the course of the investigation , family members of the decedent notified -LSB- coroner investigator -RSB- Chief -LSB- Ed -RSB- Winter that they located a quantity of tar heroin in a bag in the decedent 's bedroom located on the second floor of the residence , '' Martinez wrote .
+10: He used this statement to justify a search of Jackson 's home because `` there may be additional medications and/or narcotics at the location as well as the necessity to confiscate these items for the safety of the minor children .
+11: A source with knowledge of the probe told CNN Thursday that a test later showed that a brown , sticky substance found in the search was not heroin .
+12: The source asked not to be named because the source was not authorized to speak about it publicly .
+13: In addition to listing two Baggies of marijuana , the detective 's report of what was found in Jackson 's home listed three vials of Latanoprost Plus Solution liquid .
+14: An online search found medical journal references to this glaucoma medication also used to stimulate hair growth .
+15: Jackson suffered permanent hair loss when his scalp caught fire while taping a Pepsi commercial in 1984 .
+16: He was known to wear wigs in public after the mishap .
+17: Also listed on the detective 's report was Benoquin ointment , a medication used to lighten skin pigmentation in people with vitiligo , a skin condition .
+18: Jackson 's dermatologist , Dr. Arnold Klein , said on CNN 's `` Larry King Live '' last month that he had treated Jackson for the condition , which causes irregular patches of white skin .
+19: `` His was bad because he began to get a totally speckled look over his body , '' Klein said .
+20: The coroner announced two weeks ago that the report on Jackson 's death was completed , but that police asked for it to be withheld until completion of the criminal probe .
+
+=================================
+Gold summary:
+Skin-bleaching , hair-growth ointments also found day after Jackson 's death
+Police searched Jackson 's home after family believed it found tar heroin
+Source : That substance was not heroin
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4800
+		rouge-2: 0.1071
+		rouge-l: 0.3000
+	Summary: 
+		The first search of Michael Jackson 's bedroom a day after his death found marijuana , skin-bleaching and hair-growing ointments , anti-insomnia pills and empty bottles of several anti-anxiety drugs , according to court documents unsealed Thursday .
+		The documents reveal what investigators found in Jackson 's bedroom the day after his death .
+		A substance initially suspected to be tar heroin proved not to be a narcotic , according to a source with knowledge of the investigation .
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 9, 11
+	Results: 
+		rouge-1: 0.5600
+		rouge-2: 0.1786
+		rouge-l: 0.3333
+	Summary: 
+		The first search of Michael Jackson 's bedroom a day after his death found marijuana , skin-bleaching and hair-growing ointments , anti-insomnia pills and empty bottles of several anti-anxiety drugs , according to court documents unsealed Thursday .
+		`` During the course of the investigation , family members of the decedent notified -LSB- coroner investigator -RSB- Chief -LSB- Ed -RSB- Winter that they located a quantity of tar heroin in a bag in the decedent 's bedroom located on the second floor of the residence , '' Martinez wrote .
+		A source with knowledge of the probe told CNN Thursday that a test later showed that a brown , sticky substance found in the search was not heroin .
+
+=================================
+GreedyOracle-rouge-1 predicted the following:
+	Sentences: 0, 9, 11
+	Results: 
+		rouge-1: 0.5600
+		rouge-2: 0.1786
+		rouge-l: 0.3333
+	Summary: 
+		The first search of Michael Jackson 's bedroom a day after his death found marijuana , skin-bleaching and hair-growing ointments , anti-insomnia pills and empty bottles of several anti-anxiety drugs , according to court documents unsealed Thursday .
+		`` During the course of the investigation , family members of the decedent notified -LSB- coroner investigator -RSB- Chief -LSB- Ed -RSB- Winter that they located a quantity of tar heroin in a bag in the decedent 's bedroom located on the second floor of the residence , '' Martinez wrote .
+		A source with knowledge of the probe told CNN Thursday that a test later showed that a brown , sticky substance found in the search was not heroin .
+
+=================================
+GreedyOracle-rouge-2 predicted the following:
+	Sentences: 11, 13, 20
+	Results: 
+		rouge-1: 0.4400
+		rouge-2: 0.1786
+		rouge-l: 0.2333
+	Summary: 
+		A source with knowledge of the probe told CNN Thursday that a test later showed that a brown , sticky substance found in the search was not heroin .
+		In addition to listing two Baggies of marijuana , the detective 's report of what was found in Jackson 's home listed three vials of Latanoprost Plus Solution liquid .
+		The coroner announced two weeks ago that the report on Jackson 's death was completed , but that police asked for it to be withheld until completion of the criminal probe .
+
+=================================
+GreedyOracle-rouge-l predicted the following:
+	Sentences: 1, 13, 20
+	Results: 
+		rouge-1: 0.4000
+		rouge-2: 0.1429
+		rouge-l: 0.2667
+	Summary: 
+		The documents reveal what investigators found in Jackson 's bedroom the day after his death .
+		In addition to listing two Baggies of marijuana , the detective 's report of what was found in Jackson 's home listed three vials of Latanoprost Plus Solution liquid .
+		The coroner announced two weeks ago that the report on Jackson 's death was completed , but that police asked for it to be withheld until completion of the criminal probe .
+
+=================================
+ExhaustiveOracle-mean predicted the following:
+	Sentences: 0, 9, 11
+	Results: 
+		rouge-1: 0.5600
+		rouge-2: 0.1786
+		rouge-l: 0.3333
+	Summary: 
+		The first search of Michael Jackson 's bedroom a day after his death found marijuana , skin-bleaching and hair-growing ointments , anti-insomnia pills and empty bottles of several anti-anxiety drugs , according to court documents unsealed Thursday .
+		`` During the course of the investigation , family members of the decedent notified -LSB- coroner investigator -RSB- Chief -LSB- Ed -RSB- Winter that they located a quantity of tar heroin in a bag in the decedent 's bedroom located on the second floor of the residence , '' Martinez wrote .
+		A source with knowledge of the probe told CNN Thursday that a test later showed that a brown , sticky substance found in the search was not heroin .

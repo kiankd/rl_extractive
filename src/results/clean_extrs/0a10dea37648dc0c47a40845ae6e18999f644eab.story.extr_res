@@ -1,0 +1,166 @@
+DOCUMENT:
+0: prosecuting attorney greeted jury george zimmerman trial monday quote full expletives adversary decided appropriate tell jurors knock-knock joke
+1: beginning opening statements zimmerman long-anticipated murder trial
+2: case ignited national debate gun laws race relations zimmerman neighborhood watch captain accused second-degree murder fatal shooting 17-year-old trayvon martin february 2012 sanford florida
+3: prosecutor john guy first words six-woman jury may raised eyebrows
+4: good morning
+5: f ***** g punks ****** get away guy quoted zimmerman
+6: words grown man mouth followed boy know
+7: words mine
+8: zimmerman guy said got car pistol two flashlights follow trayvon benjamin martin walking home 7-eleven armed fruit drink bag candy
+9: eventually two became entangled ground fight
+10: witness said martin top zimmerman guy said
+11: defendant claims trayvon martin top said going die tonight said guy
+12: nobody heard
+13: guy told jurors witnesses saw happened night shooting beginning end
+14: witnesses saw slices happened said
+15: confident end trial know head heart stomach george zimmerman shoot trayvon martin guy said
+16: shot worst reasons wanted
+17: fast facts trayvon martin shooting
+18: first day testimony jurors heard witnesses recount martin trip convenience store zimmerman call complaining suspicious person walking neighborhood martin killing call previous august zimmerman reported alleged burglary police
+19: proceedings ended day defense attorney mark objected earlier call prosecutors argued necessary explain zimmerman remark burglars get away
+20: martin family sat watching proceedings behind state attorney angela corey
+21: witness testimony began judge debra nelson denied defense request martin father tracy martin leave courtroom
+22: tracy martin potential witness potential witnesses forced sit outside courtroom keep testimony tainted witnesses
+23: next-of-kin victims allowed remain court even expected testify
+24: also accused tracy martin using obscenity toward friend zimmerman holding door hearing two weeks ago
+25: friend timothy tucholski testified wanted make issue
+26: planning coming
+27: want sitting said
+28: nelson denied request martin remained court zimmerman parents covered rule regarding potential witnesses sit outside benjamin crump lawyer martin parents
+29: one point martin father began crying guy detailed officers tried save son life
+30: zimmerman mostly stared straight ahead without signs emotion
+31: following guy statement defense attorney west came forward woo jury
+32: began told knock-knock joke
+33: failed win laugh
+34: knock knock
+35: george zimmerman
+36: george zimmerman
+37: good jury said
+38: later west apologized
+39: bad jokes promise told jurors
+40: convinced delivery
+41: west quickly got business making case zimmerman forced act self-defense save life
+42: evidence show sad case monsters
+43: george zimmerman guilty murder
+44: shot trayvon martin viciously attacked
+45: help powerpoint visuals west spent hours hammering home argument
+46: broke zimmerman 911 call first reported seeing martin told following
+47: little george zimmerman know time less 10 minutes first seeing travyon martin george zimmerman would suckered punched face head pounded concrete wind shooting tragically killing trayvon martin west told jurors
+48: west also deconstructed 911 call neighbor made possible hear screams shot background west said sound fatal bullet
+49: dramatic recording audio filled courtroom zimmerman showed emotion
+50: martin mother left courtroom
+51: moment actually became physical trayvon martin use words trayvon martin decided confront george zimmerman west said
+52: instead going home
+53: plenty time
+54: 60 70 yards
+55: plenty time
+56: could gone back forth four five times
+57: west quoted witness named john good described fight
+58: called ground pound martin said top zimmerman beating
+59: saw enough serious west said
+60: zimmerman cried help looked good said help
+61: beating continued good went inside home call 911 west said
+62: shortly afterward according west zimmerman said martin beating shot
+63: west also disputed prosecution claim martin unarmed
+64: travyon martin armed concrete sidewalk used smash george zimmerman head said west
+65: different picked brick smashed head wall
+66: deadly weapon
+67: west showed jurors photos taken zimmerman fight
+68: really see pictures evidence lumps west said
+69: big knots side head
+70: consistent head slammed concrete
+71: all-female jury try zimmerman
+72: among first prosecution witnessed called 911 dispatcher took zimmerman call shooting
+73: seat noffke testified trained give general commands instead direct orders people
+74: zimmerman said following martin noffke told okay need
+75: noffke told prosecutor liable direct orders gives someone
+76: cross-examination defense attorney pointed noffke asked zimmerman way running
+77: tell somebody twice let know person concerned anything else think going keep eye
+78: ca answer said noffke
+79: tell twice let know guy anything else said
+80: yes sir said noffke
+81: noffke went say wanted location suspect officers never told zimmerman follow keep eye martin
+82: shortly court got way martin mother sybrina fulton spoke reporters asking people pray family want mother experience going
+83: judge state expert testimony 911 calls
+84: martin black zimmerman identifies hispanic
+85: cnn poll released monday morning 62 respondents say charges zimmerman probably definitely true
+
+=================================
+Gold summary:
+defense lawyer apologizes telling joke opening statements
+father trayvon martin cries courtroom george zimmerman shows emotion
+zimmerman commit 2nd degree murder killed martin self-defense
+62 cnn poll say charges zimmerman probably definitely true
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2667
+		rouge-2: 0.0938
+		rouge-l: 0.2121
+	Summary: 
+		prosecuting attorney greeted jury george zimmerman trial monday quote full expletives adversary decided appropriate tell jurors knock-knock joke
+		beginning opening statements zimmerman long-anticipated murder trial
+		case ignited national debate gun laws race relations zimmerman neighborhood watch captain accused second-degree murder fatal shooting 17-year-old trayvon martin february 2012 sanford florida
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 51, 85
+	Results: 
+		rouge-1: 0.5000
+		rouge-2: 0.2812
+		rouge-l: 0.4242
+	Summary: 
+		beginning opening statements zimmerman long-anticipated murder trial
+		moment actually became physical trayvon martin use words trayvon martin decided confront george zimmerman west said
+		cnn poll released monday morning 62 respondents say charges zimmerman probably definitely true
+
+=================================
+GreedyOracle-rouge-1 predicted the following:
+	Sentences: 1, 21, 85
+	Results: 
+		rouge-1: 0.5333
+		rouge-2: 0.2188
+		rouge-l: 0.3939
+	Summary: 
+		beginning opening statements zimmerman long-anticipated murder trial
+		witness testimony began judge debra nelson denied defense request martin father tracy martin leave courtroom
+		cnn poll released monday morning 62 respondents say charges zimmerman probably definitely true
+
+=================================
+GreedyOracle-rouge-2 predicted the following:
+	Sentences: 1, 51, 85
+	Results: 
+		rouge-1: 0.5000
+		rouge-2: 0.2812
+		rouge-l: 0.4242
+	Summary: 
+		beginning opening statements zimmerman long-anticipated murder trial
+		moment actually became physical trayvon martin use words trayvon martin decided confront george zimmerman west said
+		cnn poll released monday morning 62 respondents say charges zimmerman probably definitely true
+
+=================================
+GreedyOracle-rouge-l predicted the following:
+	Sentences: 51, 81, 85
+	Results: 
+		rouge-1: 0.4000
+		rouge-2: 0.2500
+		rouge-l: 0.4242
+	Summary: 
+		moment actually became physical trayvon martin use words trayvon martin decided confront george zimmerman west said
+		noffke went say wanted location suspect officers never told zimmerman follow keep eye martin
+		cnn poll released monday morning 62 respondents say charges zimmerman probably definitely true
+
+=================================
+ExhaustiveOracle-mean predicted the following:
+	Sentences: 21, 47, 85
+	Results: 
+		rouge-1: 0.5000
+		rouge-2: 0.2500
+		rouge-l: 0.4848
+	Summary: 
+		witness testimony began judge debra nelson denied defense request martin father tracy martin leave courtroom
+		little george zimmerman know time less 10 minutes first seeing travyon martin george zimmerman would suckered punched face head pounded concrete wind shooting tragically killing trayvon martin west told jurors
+		cnn poll released monday morning 62 respondents say charges zimmerman probably definitely true

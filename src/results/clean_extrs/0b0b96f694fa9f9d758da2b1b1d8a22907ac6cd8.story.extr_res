@@ -1,0 +1,140 @@
+DOCUMENT:
+0: sport power change world nelson mandela said south african prisoner-turned-president also provided perhaps eloquent supporting evidence claim
+1: power inspire said
+2: power unite people way little else
+3: sport create hope despair
+4: powerful government breaking racial barriers
+5: last sentence closest mandela came referencing role using sport unify south africa country separated skin color warped political ideology apartheid nearly half century time became first black president 1994
+6: year winning south africa first multiracial elections five years release prison nearly three decades incarceration anti-apartheid activities then-african national congress leader revealed acute political antennae south africa hosted 1995 rugby world cup
+7: sport long seen white man game south africa many non-whites identified national team springboks synonymous minority rule
+8: team antelope emblem proudly worn country whites-only sporting teams apartheid
+9: onetime pariah state found unusual position welcoming world widespread fears racial bloodbath
+10: groups keen avenge years racial oppression right-wing whites plotting violent protests new black majority rule
+11: despite readmission 1992 international rugby years apartheid-enforced sporting isolation south africa used home advantage well debutants reached world cup final
+12: sporting political human drama told john carlin book nelson mandela game made nation made movie invictus morgan freeman playing mandela
+13: carlin tells story moment day final white south africans took man considered terrorist hearts
+14: day crowning moment came game even begun mandela went onto field crowd 65,000 95 white wearing green springbok jersey old symbol oppression beloved apartheid jailers wrote
+15: moment jaw-dropping disbelief sharp collective intake breath suddenly crowd broke chant grew steadily louder nelson
+16: two hours later day images adopted iconic status rainbow nation beat new zealand win tournament precipitating widespread celebrations increased harmony mixture pride hope south africa desperate need reconciliation
+17: photo team captain francois pienaar receiving trophy mandela wearing no. 6 jersey associated springboks afrikaner skipper takes place pride apartheid museum johannesburg
+18: nonetheless dr. ashwin desai university lecturer sociologist specialist south africa racial history believes impact moment short-lived began crumble within months final
+19: rainbow nation mandela legacy supposed erosion racial categories happened said desai
+20: idea sport harmonize nation cliché south africans use also know sport divide
+21: kindest thing say dream rainbow nation deferred realistically though dream shattered
+22: deepening racial division racial categories pre-eminent
+23: yet one celebrated pages modern race relations would never written mandela saved springbok emblem labeled deeply offensive national sport council mid-1990s use racially divisive past
+24: recognizing whites lost national flag elevated status national anthem mandela understood need retain identity pacifier persuaded colleagues springboks survival key building new south africa
+25: mandela argument despite springboks history breaking international sporting ban anc successfully forced many south african teams apartheid
+26: even though backed boycott prison cell robben island mandela aware sacrifices imposed nation best sportsmen
+27: wanted people know became president sooner sacrifices made athletes years boycott replied asked soccer match involving south africa rather politically themed event shortly inauguration may 1994
+28: two years later mandela south africa repeated trick time soccer game main preserve country black community
+29: mandela draped football jersey south africa used home soil win africa cup nations continent premier football event first time asking
+30: yet mandela true football legacy came south africa awarded honor staging 2010 world cup finals beating favorites morocco 14-10 final vote
+31: presence mandela making bid powerful said desai
+32: big powerful nations morocco egypt beat morocco meant extra player team certainly major game-changer mandela
+33: thanks mandela world could finally trust us deliver event world class level danny jordaan told fifa website
+34: gave us momentum self-belief could achieve many thought impossible country forever grateful
+35: despite personal tragedy eve finals great-granddaughter zenani 13 died car crash mandela ultimately rewarded tournament shone color originality widespread surprise outside south africa fine organization
+36: within africa many said felt increased sense belonging football world cup dates back 1930 finally arrived africa first time continent hosted global event scale olympics
+37: fifa president sepp blatter hailed mandela extraordinary person thursday recalled ecstatic scenes 2010 world cup closing ceremony proved mandela final public appearance
+38: honored cheered crowd johannesburg soccer city stadium 11 july 2010 man people man hearts one moving moments ever experienced
+39: world cup south africa truly dream come true blatter said statement fifa website
+40: nelson mandela stay hearts forever
+41: memories remarkable fight oppression incredible charisma positive values live us us
+42: former south african international lucas radebe also paid moving tribute
+43: sports history books south africa show statistics victories
+44: wo show however madiba magic forged results performances united country people along way
+45: doubt madiba magic live
+46: thank tata radebe wrote website
+47: sense belonging one mandela maintained foundation nelson mandela children fund started sport good program aim using sport way improving lives children south africa swaziland
+48: sporting philosophy served mandela exceptionally well time prison
+49: biography long walk freedom explained followed highly disciplined exercise regime bid stay physically mentally healthy
+50: always believed exercise key physical health peace mind wrote once-keen boxer long-distance runner
+51: exercise dissipates tension tension enemy serenity
+52: prison outlet frustrations absolutely essential
+53: even island attempted follow old boxing routine roadwork muscle-building monday thursday resting next three days
+54: efficacy discipline also included 45 minutes running spot cell extensive anaerobic exercise four times week clear see energy brought life free man keeping together fragile new south africa visiting world leaders becoming one political icons time
+55: 27 years behind bars allowed one visitor year perhaps fair world came visit mandela later years pele muhammad ali joe frazier alex ferguson tiger woods david beckham prominent among sporting luminaries meet icon
+56: like wider world sport unlikely forget mandela tournaments stadiums already named honor primarily day 1995 anti-apartheid activist stole show defeat team called ironically enough blacks
+57: read nelson mandela legacy soccer club fell africa
+58: read man took apartheid regime
+59: read pienaar recalls day mandela transformed south africa
+
+=================================
+Gold summary:
+youth mandela boxer long-distance runner
+president south africa helped bring world attention country sports
+sport power change world mandela said
+mandela major factor south africa hosting 2010 world cup finals
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2917
+		rouge-2: 0.1429
+		rouge-l: 0.2333
+	Summary: 
+		sport power change world nelson mandela said south african prisoner-turned-president also provided perhaps eloquent supporting evidence claim
+		power inspire said
+		power unite people way little else
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 30, 50
+	Results: 
+		rouge-1: 0.5833
+		rouge-2: 0.3571
+		rouge-l: 0.4333
+	Summary: 
+		sport power change world nelson mandela said south african prisoner-turned-president also provided perhaps eloquent supporting evidence claim
+		yet mandela true football legacy came south africa awarded honor staging 2010 world cup finals beating favorites morocco 14-10 final vote
+		always believed exercise key physical health peace mind wrote once-keen boxer long-distance runner
+
+=================================
+GreedyOracle-rouge-1 predicted the following:
+	Sentences: 0, 30, 50
+	Results: 
+		rouge-1: 0.5833
+		rouge-2: 0.3571
+		rouge-l: 0.4333
+	Summary: 
+		sport power change world nelson mandela said south african prisoner-turned-president also provided perhaps eloquent supporting evidence claim
+		yet mandela true football legacy came south africa awarded honor staging 2010 world cup finals beating favorites morocco 14-10 final vote
+		always believed exercise key physical health peace mind wrote once-keen boxer long-distance runner
+
+=================================
+GreedyOracle-rouge-2 predicted the following:
+	Sentences: 0, 30, 50
+	Results: 
+		rouge-1: 0.5833
+		rouge-2: 0.3571
+		rouge-l: 0.4333
+	Summary: 
+		sport power change world nelson mandela said south african prisoner-turned-president also provided perhaps eloquent supporting evidence claim
+		yet mandela true football legacy came south africa awarded honor staging 2010 world cup finals beating favorites morocco 14-10 final vote
+		always believed exercise key physical health peace mind wrote once-keen boxer long-distance runner
+
+=================================
+GreedyOracle-rouge-l predicted the following:
+	Sentences: 0, 30, 59
+	Results: 
+		rouge-1: 0.4583
+		rouge-2: 0.2857
+		rouge-l: 0.4333
+	Summary: 
+		sport power change world nelson mandela said south african prisoner-turned-president also provided perhaps eloquent supporting evidence claim
+		yet mandela true football legacy came south africa awarded honor staging 2010 world cup finals beating favorites morocco 14-10 final vote
+		read pienaar recalls day mandela transformed south africa
+
+=================================
+ExhaustiveOracle-mean predicted the following:
+	Sentences: 0, 30, 50
+	Results: 
+		rouge-1: 0.5833
+		rouge-2: 0.3571
+		rouge-l: 0.4333
+	Summary: 
+		sport power change world nelson mandela said south african prisoner-turned-president also provided perhaps eloquent supporting evidence claim
+		yet mandela true football legacy came south africa awarded honor staging 2010 world cup finals beating favorites morocco 14-10 final vote
+		always believed exercise key physical health peace mind wrote once-keen boxer long-distance runner

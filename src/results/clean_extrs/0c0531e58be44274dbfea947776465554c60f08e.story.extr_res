@@ -1,0 +1,115 @@
+DOCUMENT:
+0: smoking youth-rated movies declined despite pledge two years ago hollywood studios encourage producers show less gratuitous smoking according anti-smoking group
+1: american medical association alliance trying get movie studios make smoking-free films
+2: american medical association alliance pointing research big-screen smoking leads teens pick tobacco habit called r rating movie smoking scenes
+3: head group gives u.s. movies ratings however said smoke clearing youth-rated movies result film industry sensitivity issue
+4: alliance medical association advocacy arm launched summer campaign week aimed publicly shaming studios making smoke-free films
+5: research shown one-third one-half young smokers united states attributed smoking youth see movies said dr. jonathan fielding head los angeles county public health department
+6: fielding cited another study said found adolescents whose favorite movie stars smoked screen significantly likely smokers accepting attitude toward smoking
+7: motion picture association america industry group issues ratings parental guidance u.s. films added smoking scenes factor ratings two years ago fielding said made difference
+8: 56 percent top box office movies smoking released may 2007 may 2009 youth-rated films g pg pg-13 said
+9: joan graves chairs motion picture association movie rating committee offered statistics based 900 films rated year top movies included fielding numbers
+10: association given g ratings past two years movie smoking graves said
+11: overall 55 percent movies rated past two years showed smoking 75 percent smoking scenes given r ratings graves said
+12: twenty-one percent rated pg-13 remaining 5 percent pg said
+13: g movie deemed suitable audiences pg rating signal parents film may include material might consider inappropriate children
+14: pg-13 indicates stronger warning material may inappropriate children 13
+15: one 17 admitted see r movie without parent guardian
+16: american medical association alliance president sandi frost used chief example movie gratuitous smoking month blockbuster x-men origins wolverine rated pg-13 intense sequences action violence partial nudity
+17: millions children exposed main star film hugh jackman cigar mouth various scenes frost said
+18: willing bet one child would enjoyed movie mr. jackman performance less smoking
+19: spokesman twentieth century fox studio responsible wolverine movie series said jackman cigar never lit limited two scenes
+20: one scene cigar shot mouth prompting jackman wolverine character suggest loss would lead clean living anti-smoking statement studio spokesman said
+21: said wolverine character cigar mouth almost every panel comic book series producers made conscious decision limit cigar movie
+22: american medical association alliance hoping draw studio executives attention hired mobile billboard drive around major studios week
+23: billboard shows teenage girl asking question movie studios cause smoke summer
+24: frost said
+25: alliance keep online scorecard throughout summer count many tobacco impressions studio delivers g pg pg-13 audiences said
+26: end summer whichever studio delivered tobacco impressions youth audiences named billboard run outside headquarters said
+27: motion picture association america spokeswoman angela martinez said group sensitive concerns parents purpose rating systems
+28: reflective society martinez said
+29: really tool parents help determine kids see
+30: began factoring smoking scenes ratings two years ago reflection changes society health concerns said
+31: smoking rated like factors including violence sex said
+32: fielding said absolute factor
+33: movie smoking rated r said
+34: worry r rating hurting profits work studios remove smoking films hurt youth
+35: graves whose committee makes decisions indicated zero-tolerance policy would accepted
+
+=================================
+Gold summary:
+american medical association alliance wants films smoking rated r
+amaa says kids watch smoking often turn habit
+hollywood rating organization says smoking movies declined
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5714
+		rouge-2: 0.1739
+		rouge-l: 0.3750
+	Summary: 
+		smoking youth-rated movies declined despite pledge two years ago hollywood studios encourage producers show less gratuitous smoking according anti-smoking group
+		american medical association alliance trying get movie studios make smoking-free films
+		american medical association alliance pointing research big-screen smoking leads teens pick tobacco habit called r rating movie smoking scenes
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 2, 9
+	Results: 
+		rouge-1: 0.6190
+		rouge-2: 0.1739
+		rouge-l: 0.3750
+	Summary: 
+		smoking youth-rated movies declined despite pledge two years ago hollywood studios encourage producers show less gratuitous smoking according anti-smoking group
+		american medical association alliance pointing research big-screen smoking leads teens pick tobacco habit called r rating movie smoking scenes
+		joan graves chairs motion picture association movie rating committee offered statistics based 900 films rated year top movies included fielding numbers
+
+=================================
+GreedyOracle-rouge-1 predicted the following:
+	Sentences: 0, 2, 9
+	Results: 
+		rouge-1: 0.6190
+		rouge-2: 0.1739
+		rouge-l: 0.3750
+	Summary: 
+		smoking youth-rated movies declined despite pledge two years ago hollywood studios encourage producers show less gratuitous smoking according anti-smoking group
+		american medical association alliance pointing research big-screen smoking leads teens pick tobacco habit called r rating movie smoking scenes
+		joan graves chairs motion picture association movie rating committee offered statistics based 900 films rated year top movies included fielding numbers
+
+=================================
+GreedyOracle-rouge-2 predicted the following:
+	Sentences: 0, 22, 33
+	Results: 
+		rouge-1: 0.4762
+		rouge-2: 0.2609
+		rouge-l: 0.2917
+	Summary: 
+		smoking youth-rated movies declined despite pledge two years ago hollywood studios encourage producers show less gratuitous smoking according anti-smoking group
+		american medical association alliance hoping draw studio executives attention hired mobile billboard drive around major studios week
+		movie smoking rated r said
+
+=================================
+GreedyOracle-rouge-l predicted the following:
+	Sentences: 1, 2, 34
+	Results: 
+		rouge-1: 0.4286
+		rouge-2: 0.1304
+		rouge-l: 0.4167
+	Summary: 
+		american medical association alliance trying get movie studios make smoking-free films
+		american medical association alliance pointing research big-screen smoking leads teens pick tobacco habit called r rating movie smoking scenes
+		worry r rating hurting profits work studios remove smoking films hurt youth
+
+=================================
+ExhaustiveOracle-mean predicted the following:
+	Sentences: 0, 2, 9
+	Results: 
+		rouge-1: 0.6190
+		rouge-2: 0.1739
+		rouge-l: 0.3750
+	Summary: 
+		smoking youth-rated movies declined despite pledge two years ago hollywood studios encourage producers show less gratuitous smoking according anti-smoking group
+		american medical association alliance pointing research big-screen smoking leads teens pick tobacco habit called r rating movie smoking scenes
+		joan graves chairs motion picture association movie rating committee offered statistics based 900 films rated year top movies included fielding numbers

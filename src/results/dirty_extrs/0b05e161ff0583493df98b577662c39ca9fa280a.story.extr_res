@@ -1,0 +1,112 @@
+DOCUMENT:
+0: Less than three months ago , the Supreme Court of the United States handed down eagerly awaited rulings on same-sex marriage , voting rights and affirmative action .
+1: Next month , the court will begin its new term and likely deal with controversial issues such as abortion , campaign finance reform and the separation of church and state .
+2: When the court is in the middle of a term , it is easy to focus on hard legal questions , the legal views of individual justices and the consequences of landmark decisions .
+3: Now is a good time , when the court is in recess , to take a step back and look at the institution itself .
+4: A lifetime is too long
+5: First , our Supreme Court justices are the only judges in the world who sit on a country 's highest court and have life tenure .
+6: Because the president nominates the justices and the Senate confirms them , the American people do not elect the justices and can not vote them out of office .
+7: In light of the crucial role the court plays across the spectrum of social , legal and political issues , the question of how long our justices serve should be re-examined .
+8: Supreme Court justices often serve more than 25 years and beyond the time they are still fit to perform their duties .
+9: For example , according to renown author David Garrow , both Justices William O. Douglas and Thurgood Marshall remained on the bench well after their skills had significantly diminished beyond the point of competence .
+10: The usual justification for life tenure is that the justices need to be independent of the other branches of the government to adequately perform their duties .
+11: This need for independence is real and compelling , but there are other ways to achieve that goal .
+12: Other countries use fixed terms , retirement ages or a combination of the two to achieve the necessary independence .
+13: There simply is no persuasive reason to allow governmental officials who have virtually unreviewable power to hold their offices for life .
+14: Few witnesses to history
+15: The second aspect of our Supreme Court that needs to be changed is the lack of television coverage of oral arguments and decision announcements .
+16: What a shame that during the last week of June when the court handed down and read from the bench numerous important decisions -- including the overturning of the Defense of Marriage Act and the formula in Section 5 of the Voting Rights Act -- the American people had to hear the news indirectly from media personalities instead of the justices .
+17: Similarly in 2012 , when the court held three days of oral arguments on the president 's most important piece of legislation , the Affordable Care Act , the public should have been able to witness those arguments just like the lucky few who happened to be in the courtroom .
+18: Moreover , it is close to a tragedy that future generations will have absolutely no video record of the court 's arguments or decisions in these landmark cases .
+19: It would be an invaluable learning tool if young Americans today could see the oral arguments in Brown v. Board of Education or Roe v. Wade .
+20: More than 30 state supreme courts allow cameras in the courtroom with great success .
+21: Supreme Court Justices John Roberts and Anthony Kennedy have suggested that the presence of television would lead to grandstanding by lawyers and maybe even the justices themselves , but the experiences in state courts demonstrate such concerns are greatly exaggerated .
+22: When Arkansas was considering placing cameras in the courtroom , Justice Robert L. Brown conducted a survey and found that `` state supreme courts have blazed a significant technological trail .
+23: ... The public 's response , according to those state supreme courts that provide those video broadcasts , border -LSB- ed -RSB- on the exuberant ... -LSB- N -RSB- o state that currently provides video of its oral arguments cites grandstanding as a problem .
+24: Arkansas has joined the majority of states that allow cameras in their courtrooms .
+25: There is simply no good reason for the Supreme Court not to do exactly the same thing .
+26: A joke of a job interview
+27: Finally , we have to do something about the national farce that is our Supreme Court nomination process .
+28: The sad spectacle of senators asking questions drafted by their staffs and then allowing the nominees to duck them should give way to serious conversations about the nominees ' views so that the American people can participate more fully in the confirmation process .
+29: As almost everyone now knows , the justices have enormous discretion to decide cases in accordance with their personal and political value systems .
+30: The differences between Justices Antonin Scalia and Ruth Bader Ginsburg on most constitutional questions have nothing to do with legal interpretation and everything to do with their different backgrounds , experiences and values .
+31: The Senate should do a much better job requiring nominees to answer hard questions about those values and experiences before the nominees are allowed to sit on the highest court in the land .
+32: The opinions expressed in this commentary are solely those of Eric Segall .
+
+=================================
+Gold summary:
+Eric Segall : Life tenure allows justices to serve past the point of competence
+Segall : Court should follow lead of many states and allow cameras in courtroom
+The Supreme Court nomination process is a farce , he adds
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3143
+		rouge-2: 0.0270
+		rouge-l: 0.1795
+	Summary: 
+		Less than three months ago , the Supreme Court of the United States handed down eagerly awaited rulings on same-sex marriage , voting rights and affirmative action .
+		Next month , the court will begin its new term and likely deal with controversial issues such as abortion , campaign finance reform and the separation of church and state .
+		When the court is in the middle of a term , it is easy to focus on hard legal questions , the legal views of individual justices and the consequences of landmark decisions .
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 9, 24, 27
+	Results: 
+		rouge-1: 0.4857
+		rouge-2: 0.2162
+		rouge-l: 0.3590
+	Summary: 
+		For example , according to renown author David Garrow , both Justices William O. Douglas and Thurgood Marshall remained on the bench well after their skills had significantly diminished beyond the point of competence .
+		Arkansas has joined the majority of states that allow cameras in their courtrooms .
+		Finally , we have to do something about the national farce that is our Supreme Court nomination process .
+
+=================================
+GreedyOracle-rouge-1 predicted the following:
+	Sentences: 21, 27, 32
+	Results: 
+		rouge-1: 0.4857
+		rouge-2: 0.1081
+		rouge-l: 0.2308
+	Summary: 
+		Supreme Court Justices John Roberts and Anthony Kennedy have suggested that the presence of television would lead to grandstanding by lawyers and maybe even the justices themselves , but the experiences in state courts demonstrate such concerns are greatly exaggerated .
+		Finally , we have to do something about the national farce that is our Supreme Court nomination process .
+		The opinions expressed in this commentary are solely those of Eric Segall .
+
+=================================
+GreedyOracle-rouge-2 predicted the following:
+	Sentences: 9, 24, 27
+	Results: 
+		rouge-1: 0.4857
+		rouge-2: 0.2162
+		rouge-l: 0.3590
+	Summary: 
+		For example , according to renown author David Garrow , both Justices William O. Douglas and Thurgood Marshall remained on the bench well after their skills had significantly diminished beyond the point of competence .
+		Arkansas has joined the majority of states that allow cameras in their courtrooms .
+		Finally , we have to do something about the national farce that is our Supreme Court nomination process .
+
+=================================
+GreedyOracle-rouge-l predicted the following:
+	Sentences: 10, 24, 27
+	Results: 
+		rouge-1: 0.4857
+		rouge-2: 0.1351
+		rouge-l: 0.3590
+	Summary: 
+		The usual justification for life tenure is that the justices need to be independent of the other branches of the government to adequately perform their duties .
+		Arkansas has joined the majority of states that allow cameras in their courtrooms .
+		Finally , we have to do something about the national farce that is our Supreme Court nomination process .
+
+=================================
+ExhaustiveOracle-mean predicted the following:
+	Sentences: 9, 24, 27
+	Results: 
+		rouge-1: 0.4857
+		rouge-2: 0.2162
+		rouge-l: 0.3590
+	Summary: 
+		For example , according to renown author David Garrow , both Justices William O. Douglas and Thurgood Marshall remained on the bench well after their skills had significantly diminished beyond the point of competence .
+		Arkansas has joined the majority of states that allow cameras in their courtrooms .
+		Finally , we have to do something about the national farce that is our Supreme Court nomination process .

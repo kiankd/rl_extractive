@@ -1,0 +1,93 @@
+DOCUMENT:
+0: american imprisoned nearly month united arab emirates taking photos released custody returning home georgia family spokeswoman said
+1: robert alan black uae speak international creativity conference held abu dhabi al wathba prison since october 21 charged taking pictures restricted areas said rosemary rein spokeswoman friends alan black
+2: former architect black often takes photos buildings according rein
+3: prohibited parts uae particularly around government buildings embassies military facilities places considered sensitive
+4: made brief court appearance monday released following day
+5: court found action committed ill-intention ordered minimum fine 500 uae dirhams us 135 according rein statement posted free robert alan black facebook page
+6: release 70-year-old headed home athens georgia
+7: relieved happy news rein said
+8: international creativity community concerned dear friend colleague glad matter resolved
+9: black characterizes architect cartoonist graphic designer professor creativity consultant website
+10: given presentations 150 creativity conferences six continents since 1978 written 600 articles book broken crayons break crayons draw outside lines
+11: rein said black next stop abu dhabi conference supposed malaysia
+12: noticing posted social media touched base mutual acquaintances learned never made malaysia
+
+=================================
+Gold summary:
+relieved happy news family spokeswoman says
+family robert alan black charged taking pictures restricted areas
+court frees finding ill-intention says spokeswoman
+creativity consultant united arab emirates conference
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.6250
+		rouge-2: 0.3462
+		rouge-l: 0.4074
+	Summary: 
+		american imprisoned nearly month united arab emirates taking photos released custody returning home georgia family spokeswoman said
+		robert alan black uae speak international creativity conference held abu dhabi al wathba prison since october 21 charged taking pictures restricted areas said rosemary rein spokeswoman friends alan black
+		former architect black often takes photos buildings according rein
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 1, 7
+	Results: 
+		rouge-1: 0.7500
+		rouge-2: 0.4231
+		rouge-l: 0.4074
+	Summary: 
+		american imprisoned nearly month united arab emirates taking photos released custody returning home georgia family spokeswoman said
+		robert alan black uae speak international creativity conference held abu dhabi al wathba prison since october 21 charged taking pictures restricted areas said rosemary rein spokeswoman friends alan black
+		relieved happy news rein said
+
+=================================
+GreedyOracle-rouge-1 predicted the following:
+	Sentences: 0, 1, 7
+	Results: 
+		rouge-1: 0.7500
+		rouge-2: 0.4231
+		rouge-l: 0.4074
+	Summary: 
+		american imprisoned nearly month united arab emirates taking photos released custody returning home georgia family spokeswoman said
+		robert alan black uae speak international creativity conference held abu dhabi al wathba prison since october 21 charged taking pictures restricted areas said rosemary rein spokeswoman friends alan black
+		relieved happy news rein said
+
+=================================
+GreedyOracle-rouge-2 predicted the following:
+	Sentences: 0, 1, 7
+	Results: 
+		rouge-1: 0.7500
+		rouge-2: 0.4231
+		rouge-l: 0.4074
+	Summary: 
+		american imprisoned nearly month united arab emirates taking photos released custody returning home georgia family spokeswoman said
+		robert alan black uae speak international creativity conference held abu dhabi al wathba prison since october 21 charged taking pictures restricted areas said rosemary rein spokeswoman friends alan black
+		relieved happy news rein said
+
+=================================
+GreedyOracle-rouge-l predicted the following:
+	Sentences: 0, 1, 9
+	Results: 
+		rouge-1: 0.6667
+		rouge-2: 0.3846
+		rouge-l: 0.4815
+	Summary: 
+		american imprisoned nearly month united arab emirates taking photos released custody returning home georgia family spokeswoman said
+		robert alan black uae speak international creativity conference held abu dhabi al wathba prison since october 21 charged taking pictures restricted areas said rosemary rein spokeswoman friends alan black
+		black characterizes architect cartoonist graphic designer professor creativity consultant website
+
+=================================
+ExhaustiveOracle-mean predicted the following:
+	Sentences: 0, 1, 7
+	Results: 
+		rouge-1: 0.7500
+		rouge-2: 0.4231
+		rouge-l: 0.4074
+	Summary: 
+		american imprisoned nearly month united arab emirates taking photos released custody returning home georgia family spokeswoman said
+		robert alan black uae speak international creativity conference held abu dhabi al wathba prison since october 21 charged taking pictures restricted areas said rosemary rein spokeswoman friends alan black
+		relieved happy news rein said
