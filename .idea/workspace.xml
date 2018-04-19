@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6058e439-9503-4e0a-84b6-2ee0d0b12cb2" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/rl_extractive.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rlex/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rlex/abstract_extraction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rlex/feature_extraction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rlex/helpers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rlex/rl_extraction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rlex/testing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extractor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helpers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/load_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/load_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/old_res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/old_res.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oracle_extraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/oracle_extraction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/results/clean_example_res.txt" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/clean_example_res.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/results/clean_extrs/0a10dea37648dc0c47a40845ae6e18999f644eab.story.extr_res" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/clean_extrs/0a10dea37648dc0c47a40845ae6e18999f644eab.story.extr_res" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/results/clean_extrs/0a19bd7d8f82574e12072e83d3fa0cb5527235fc.story.extr_res" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/clean_extrs/0a19bd7d8f82574e12072e83d3fa0cb5527235fc.story.extr_res" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/results/clean_extrs/0a1c0855f3f719a8c4e0ec1c84f25ea8765f1241.story.extr_res" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/clean_extrs/0a1c0855f3f719a8c4e0ec1c84f25ea8765f1241.story.extr_res" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/results/clean_extrs/0b0113839909f3a4662126e600dbc58402cf9bb0.story.extr_res" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/clean_extrs/0b0113839909f3a4662126e600dbc58402cf9bb0.story.extr_res" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/results/clean_extrs/0b05e161ff0583493df98b577662c39ca9fa280a.story.extr_res" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/clean_extrs/0b05e161ff0583493df98b577662c39ca9fa280a.story.extr_res" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/results/clean_extrs/0b06f3a0fc4d6d6e6bf7c70133d70d5747ef97ab.story.extr_res" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/clean_extrs/0b06f3a0fc4d6d6e6bf7c70133d70d5747ef97ab.story.extr_res" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/results/clean_extrs/0b0b96f694fa9f9d758da2b1b1d8a22907ac6cd8.story.extr_res" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/clean_extrs/0b0b96f694fa9f9d758da2b1b1d8a22907ac6cd8.story.extr_res" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/results/clean_extrs/0b0ff43891b42d7c9759cf8cbfb500a720cdaf86.story.extr_res" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/clean_extrs/0b0ff43891b42d7c9759cf8cbfb500a720cdaf86.story.extr_res" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/results/clean_extrs/0c0531e58be44274dbfea947776465554c60f08e.story.extr_res" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/clean_extrs/0c0531e58be44274dbfea947776465554c60f08e.story.extr_res" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/results/clean_extrs/0d0c8b4b3f1b89800f65024c2274cf9dad3360ec.story.extr_res" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/clean_extrs/0d0c8b4b3f1b89800f65024c2274cf9dad3360ec.story.extr_res" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/results/dirty_example_res.txt" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/dirty_example_res.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/results/dirty_extrs/0a10dea37648dc0c47a40845ae6e18999f644eab.story.extr_res" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/dirty_extrs/0a10dea37648dc0c47a40845ae6e18999f644eab.story.extr_res" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/results/dirty_extrs/0a19bd7d8f82574e12072e83d3fa0cb5527235fc.story.extr_res" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/dirty_extrs/0a19bd7d8f82574e12072e83d3fa0cb5527235fc.story.extr_res" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/results/dirty_extrs/0a1c0855f3f719a8c4e0ec1c84f25ea8765f1241.story.extr_res" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/dirty_extrs/0a1c0855f3f719a8c4e0ec1c84f25ea8765f1241.story.extr_res" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/results/dirty_extrs/0b0113839909f3a4662126e600dbc58402cf9bb0.story.extr_res" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/dirty_extrs/0b0113839909f3a4662126e600dbc58402cf9bb0.story.extr_res" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/results/dirty_extrs/0b05e161ff0583493df98b577662c39ca9fa280a.story.extr_res" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/dirty_extrs/0b05e161ff0583493df98b577662c39ca9fa280a.story.extr_res" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/results/dirty_extrs/0b06f3a0fc4d6d6e6bf7c70133d70d5747ef97ab.story.extr_res" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/dirty_extrs/0b06f3a0fc4d6d6e6bf7c70133d70d5747ef97ab.story.extr_res" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/results/dirty_extrs/0b0b96f694fa9f9d758da2b1b1d8a22907ac6cd8.story.extr_res" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/dirty_extrs/0b0b96f694fa9f9d758da2b1b1d8a22907ac6cd8.story.extr_res" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/results/dirty_extrs/0b0ff43891b42d7c9759cf8cbfb500a720cdaf86.story.extr_res" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/dirty_extrs/0b0ff43891b42d7c9759cf8cbfb500a720cdaf86.story.extr_res" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/results/dirty_extrs/0c0531e58be44274dbfea947776465554c60f08e.story.extr_res" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/dirty_extrs/0c0531e58be44274dbfea947776465554c60f08e.story.extr_res" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/results/dirty_extrs/0d0c8b4b3f1b89800f65024c2274cf9dad3360ec.story.extr_res" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/dirty_extrs/0d0c8b4b3f1b89800f65024c2274cf9dad3360ec.story.extr_res" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rl_extraction.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/rl_extractive$testing.coverage" NAME="testing Coverage Results" MODIFIED="1524087764770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rlex" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="rl_extractive" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="oracle_extraction.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rlex/oracle_extraction.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1530">
+              <caret line="90" column="32" selection-start-line="90" selection-start-column="32" selection-end-line="90" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="abstract_extraction.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rlex/abstract_extraction.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-207">
+              <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rl_extraction.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rlex/rl_extraction.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1122">
+              <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testing.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rlex/testing.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11">
+              <caret line="77" column="24" selection-start-line="77" selection-start-column="24" selection-end-line="77" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#1382#3332#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="feature_extraction.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rlex/feature_extraction.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="load_data.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rlex/load_data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="80" column="8" selection-start-line="80" selection-start-column="8" selection-end-line="80" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#2896#3745#0" />
+                <element signature="e#3829#4505#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="helpers.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rlex/helpers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>__select_action_from_policy</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/helpers.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/extractor.py" />
+        <option value="$PROJECT_DIR$/src/feature_extraction.py" />
+        <option value="$PROJECT_DIR$/src/load_data.py" />
+        <option value="$PROJECT_DIR$/src/abstract_extraction.py" />
+        <option value="$PROJECT_DIR$/src/testing.py" />
+        <option value="$PROJECT_DIR$/src/rl_extraction.py" />
+        <option value="$PROJECT_DIR$/src/oracle_extraction.py" />
+        <option value="$PROJECT_DIR$/rlexsrc/oracle_extraction.py" />
+        <option value="$PROJECT_DIR$/rlex/load_data.py" />
+        <option value="$PROJECT_DIR$/rlex/oracle_extraction.py" />
+        <option value="$PROJECT_DIR$/rlex/feature_extraction.py" />
+        <option value="$PROJECT_DIR$/rlex/rl_extraction.py" />
+        <option value="$PROJECT_DIR$/rlex/abstract_extraction.py" />
+        <option value="$PROJECT_DIR$/rlex/testing.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="722" />
+    <option name="width" value="718" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="rl_extractive" type="cbb8eebc:String" user="rl_extractive" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="rl_extractive" type="cbb8eebc:String" user="rl_extractive" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rl_extractive" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rl_extractive" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rl_extractive" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rl_extractive" type="462c0819:PsiDirectoryNode" />
+              <item name="rlex" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/results" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="rl_extractive" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="testing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="rl_extractive" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/rlex" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rlex/testing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.testing" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6058e439-9503-4e0a-84b6-2ee0d0b12cb2" name="Default" comment="" />
+      <created>1522977717505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522977717505</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50214595" side_tool="true" weight="0.3551515" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49785408" visible="true" weight="1.0" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.510303" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32969698" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4591195" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="SciView" order="5" sideWeight="0.71854305" side_tool="true" visible="true" weight="0.4048641" />
+      <window_info anchor="right" id="Structure" order="6" sideWeight="0.48210025" side_tool="true" weight="0.2446352" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.41575757" />
+      <window_info id="Favorites" order="1" sideWeight="0.5011792" side_tool="true" weight="0.18194444" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" x="0" y="0" width="310" height="700" id="Documentation" order="0" sideWeight="0.5023585" side_tool="true" visible="true" weight="0.24791667" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32900944" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4591195" visible="true" weight="0.08869814" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info active="true" anchor="right" id="SciView" order="5" sideWeight="0.71854305" side_tool="true" visible="true" weight="0.42203146" />
+      <window_info anchor="right" id="Structure" order="6" sideWeight="0.48210025" side_tool="true" weight="0.2446352" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49785408" visible="true" weight="0.36121213" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32900944" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.510303" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.41575757" />
+      <window_info anchor="right" x="0" y="0" width="310" height="700" id="Documentation" order="0" sideWeight="0.5023585" side_tool="true" visible="true" weight="0.24791667" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32969698" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50214595" side_tool="true" weight="0.3551515" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="1" sideWeight="0.5011792" side_tool="true" weight="0.18194444" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rlex/rl_extraction.py</url>
+          <line>190</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rlex/rl_extraction.py</url>
+          <line>178</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rlex/feature_extraction.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rlex/feature_extraction.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rlex/rl_extraction.py</url>
+          <line>155</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rlex/feature_extraction.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="16" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>np.concatenate((x_feat, dist_feats, position_feats[i - aidx],))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>np.array(X[i]).flatten(
+)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>np.array(X[i])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>i</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>aidx</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>crt_art_idx</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>len(articles[0])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>len(articles[3])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>len(articles[2])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>len(articles[1])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>articles[0]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>phi_sa - np.sum(policies[t].reshape(-1, 1) * sa_feats[t], axis=0)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/rlex/abstract_extraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rlex/oracle_extraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1462">
+          <caret line="91" column="37" selection-start-line="91" selection-start-column="37" selection-end-line="91" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rlex/feature_extraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rlex/load_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1309">
+          <caret line="80" column="27" selection-start-line="80" selection-start-column="8" selection-end-line="80" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#2896#3745#0" />
+            <element signature="e#3829#4505#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rlex/helpers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rlex/rl_extraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rlex/abstract_extraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/scipy/sparse/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="265" selection-start-line="265" selection-end-line="265" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/scipy/spatial/distance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="682" selection-start-line="682" selection-end-line="682" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/matplotlib/axes/_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="241" selection-start-line="241" selection-end-line="241" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/sklearn/decomposition/pca.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="409" selection-start-line="409" selection-end-line="409" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydev_run_in_console.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rlex/oracle_extraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="90" column="32" selection-start-line="90" selection-start-column="32" selection-end-line="90" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rlex/load_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="80" column="8" selection-start-line="80" selection-start-column="8" selection-end-line="80" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#2896#3745#0" />
+            <element signature="e#3829#4505#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rlex/helpers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rlex/feature_extraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rlex/abstract_extraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-207">
+          <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rlex/rl_extraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rlex/testing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11">
+          <caret line="77" column="24" selection-start-line="77" selection-start-column="24" selection-end-line="77" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#1382#3332#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

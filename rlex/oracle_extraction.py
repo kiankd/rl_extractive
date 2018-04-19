@@ -1,18 +1,22 @@
 import numpy as np
 from itertools import combinations
-from load_data import get_samples, Extraction
-from helpers import scores_to_str, PATH_TO_RESULTS
-from extractor import Summarizer, NUM_SENTS_EXTRACT, get_score
 from progress.bar import ShadyBar
+from overrides import overrides
+from rlex.load_data import get_samples
+from rlex.helpers import scores_to_str, PATH_TO_RESULTS
+from rlex.abstract_extraction import get_score, NUM_SENTS_EXTRACT, Extractor, Params
 
 # deterministic summarizers
-class ExhaustiveOracleSummarizer(object):
+class ExhaustiveOracleSummarizer(Extractor):
     def __init__(self, opt_option='mean'):
-        super(ExhaustiveOracleSummarizer, self).__init__()
         self.opt_option = opt_option
-        self.name = f'ExhaustiveOracle-{opt_option}'
+        super(ExhaustiveOracleSummarizer, self).__init__(
+            f'ExhaustiveOracle-{opt_option}',
+            params=Params(opt_option=opt_option),
+        )
 
-    def extract_summary(self, article):
+    @overrides
+    def _extract_sentums(self, article, **kwargs):
         ref = [article.get_summary_string()]
         doc_strings = []
         bad_idxs = []
@@ -21,7 +25,6 @@ class ExhaustiveOracleSummarizer(object):
             if len(article.doc_sents[i]) < 4: # 4 word sents minimum
                 bad_idxs.append(i)
 
-        best_extr = []
         best_sents = []
         best_score = -1
         combos = list(combinations(range(len(article)), NUM_SENTS_EXTRACT))
@@ -34,27 +37,26 @@ class ExhaustiveOracleSummarizer(object):
             extr = [doc_strings[idx] for idx in sent_idxs]
             score = get_score([' '.join(extr)], ref, option=self.opt_option)
             if score > best_score:
-                best_extr = extr
                 best_sents = sent_idxs
                 best_score = score
             bar.next()
         bar.finish()
-        result = get_score([' '.join(best_extr)], ref)
-        return Extraction(article.path, best_sents, best_extr, result)
+        return list(sorted(best_sents))
 
 
-class GreedyOracleSummarizer(object):
+class GreedyOracleSummarizer(Extractor):
     def __init__(self, opt_option='mean'):
-        super(GreedyOracleSummarizer, self).__init__()
         self.opt_option = opt_option
-        self.name = f'GreedyOracle-{opt_option}'
+        super(GreedyOracleSummarizer, self).__init__(
+            f'GreedyOracle-{opt_option}',
+            params=Params(opt_option=opt_option),
+        )
 
-    def extract_summary(self, article):
+    @overrides
+    def _extract_sentums(self, article, **kwargs):
         ref = [article.get_summary_string()]
-        extr = []
         extr_sent_idxs = []
         for k in range(NUM_SENTS_EXTRACT):
-            crt_best_extr = []
             crt_best_idx = -1
             crt_best_score = 0
             for i in range(len(article)):
@@ -65,24 +67,20 @@ class GreedyOracleSummarizer(object):
                 summ = [article.get_doc_sent_string(j) for j in test_sent_idxs]
                 score = get_score([' '.join(summ)], ref, option=self.opt_option)
                 if score >= crt_best_score:
-                    crt_best_extr = summ
                     crt_best_idx = i
                     crt_best_score = score
-            extr = crt_best_extr
             extr_sent_idxs.append(crt_best_idx)
-        result = get_score([' '.join(extr)], [a.get_summary_string()])
-        return Extraction(article.path, list(sorted(extr_sent_idxs)), extr, result)
+        return list(sorted(extr_sent_idxs))
 
 
-class Lead3Summarizer(object):
+# basic returns first 3 sents
+class Lead3Summarizer(Extractor):
     def __init__(self):
-        super(Lead3Summarizer, self).__init__()
-        self.name = 'Lead-3'
+        super(Lead3Summarizer, self).__init__('Lead-3', Params())
 
-    def extract_summary(self, article):
-        extr = [' '.join(x) for x in a.doc_sents[:3]]
-        result = get_score([' '.join(extr)], [a.get_summary_string()])
-        return Extraction(article.path, [0, 1, 2], extr, result)
+    @overrides
+    def _extract_sentums(self, article, **kwargs):
+        return [0, 1, 2]
 
 
 if __name__ == '__main__':
@@ -103,7 +101,7 @@ if __name__ == '__main__':
                              'rouge-2': [],
                              'rouge-l': [],} for m in models}
 
-    for i, a in enumerate(articles):
+    for j, a in enumerate(articles):
         print(a.path)
         for model in models:
             ex = model.extract_summary(a)
@@ -114,7 +112,7 @@ if __name__ == '__main__':
             a.add_extraction_pred(model.name, ex)
         a.serialize_extr_results(outdir)
         print()
-        if i >= 9:
+        if j >= 9:
             break
 
     for name, all_scores in model_scores.items():

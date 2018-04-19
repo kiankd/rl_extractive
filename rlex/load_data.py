@@ -1,10 +1,7 @@
 import os
-import numpy as np
-from helpers import PATH_TO_SAMPLES
-from matplotlib import pyplot as plt
 from string import punctuation
-from copy import deepcopy
 from nltk.corpus import stopwords
+from .helpers import PATH_TO_SAMPLES
 
 # useful globals
 EOS_MARKERS = ['.', '!', '?']
@@ -37,6 +34,14 @@ def get_samples(clean=True):
 
 # useful class
 class Article(object):
+    """
+    Article class stores all the information related to a specific article,
+    including the gold summary sentences, the actual sentences, and it also
+    usefully can store any extractive prediction made on the article. This
+    allows for very nice results serialization with clear understanding of
+    exactly what sentences are predicted.
+    """
+
     def __init__(self, path_to_file):
         super(Article, self).__init__()
         self.summary_sents = []
@@ -46,7 +51,6 @@ class Article(object):
         self.is_clean = False
 
         # load data then deal with it
-        lines = []
         with open(path_to_file, 'r', encoding='utf-8') as f:
             lines = f.readlines()
 
@@ -58,7 +62,7 @@ class Article(object):
                 at_summ = True
                 continue
 
-            #TODO: note that we are assuming CNN
+            #TODO: note that we are assuming CNN (not daily mail)
             tok_txt = (line if i!=0 else line.split('-LRB- CNN -RRB- -- ')[-1]).split()
             if at_summ:
                 self.summary_sents.append(tok_txt)
@@ -97,7 +101,7 @@ class Article(object):
                 f.write('{} predicted the following:\n'.format(ex_name))
                 f.write('\tSentences: {}\n'.format(ex.get_snum_str()))
                 f.write('\tResults: \n{}\n'.format(ex.get_res_str()))
-                f.write('\tSummary: \n{}\n'.format(ex.get_sum_str()))
+                f.write('\tSummary: \n{}\n'.format(ex.get_summary_str()))
 
     def clean(self, to_lower=True, remove_stops=True, remove_punct=True):
         cleaned_sents = []
@@ -116,28 +120,5 @@ class Article(object):
         switch_idx = len(self.summary_sents)
         self.summary_sents = cleaned_sents[:switch_idx]
         self.doc_sents = cleaned_sents[switch_idx:]
-        is_clean = True
+        self.is_clean = True
 
-
-class Extraction(object):
-    def __init__(self, doc_fname, sent_nums, summary, results):
-        super(Extraction, self).__init__()
-        self.fname = doc_fname
-        self.sents = sent_nums
-        self.summ = summary
-        self.rouge_res = results
-
-    def get_res_str(self, tabs=2):
-        s = []
-        for res_name, res in self.rouge_res.items():
-            s.append('{}{}: {:6.4f}'.format(tabs*'\t', res_name, res['r']))
-        return '\n'.join(s)
-
-    def get_sum_str(self, tabs=2):
-        return '\n'.join(map(lambda s: '{}{}'.format(tabs*'\t', s), self.summ))
-
-    def get_snum_str(self):
-        return ', '.join(map(str, self.sents))
-
-if __name__ == '__main__':
-    articles = get_clean_samples()
