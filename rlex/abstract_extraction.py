@@ -1,6 +1,8 @@
 import numpy as np
+import random
 from abc import ABC, abstractmethod
 from rouge import Rouge
+
 
 # statics
 NUM_SENTS_EXTRACT = 3
@@ -31,6 +33,7 @@ class Params(object):
         self.method = 'softmax'
         self.update_only_last = True
         self.opt_option = 'mean'
+        self.random = random.Random(1848)
         self.non_default_params = set()
         self.set_params(**kwargs)
 

@@ -1,6 +1,5 @@
 import numpy as np
 from overrides import overrides
-from progress import bar
 from rlex.feature_extraction import extract_sentence_doc_features
 from rlex.abstract_extraction import NUM_SENTS_EXTRACT, Extractor
 
@@ -38,6 +37,7 @@ class PolicyGradientExtractor(Extractor):
         self.w_vpi = None # weights for baseline val fun of policy grad
         self.policy = None
         self.articles = None
+        self.articles_to_idx = None
         super(PolicyGradientExtractor, self).__init__(params.to_name(), params)
 
     @staticmethod
@@ -45,10 +45,12 @@ class PolicyGradientExtractor(Extractor):
     def is_learner():
         return True
 
-    def train_on_article(self, aidx, n_episodes,
-                         store_all_changes=False, verbose=False):
+    def feature_check(self):
         if self.arts_sents_feats is None:
             raise FeaturesNotSetError('You did not set article features!')
+
+    def train_on_article(self, aidx, n_episodes, store_all_changes=False):
+        self.feature_check()
 
         # this is for tracking results
         all_changes = None
@@ -56,29 +58,19 @@ class PolicyGradientExtractor(Extractor):
             all_changes = {res: [] for res in RESULTS.get_res_names__()}
             all_changes[RESULTS.w_pgr].append(self.w_pgr.copy())
             all_changes[RESULTS.w_vpi].append(self.w_vpi.copy())
-        if verbose:
-            prog = bar.ChargingBar("Training Policy Gradient", max=n_episodes)
 
-        sentnums_over_time = []
         time = 1
         for i in range(n_episodes):
-            if verbose:
-                prog.next()
-
             if (i + 1) % 5 == 0:
                 time += 1
 
             # get the full trajectory
-            eps = self.params.schedule(time)
-            trajectory = self.__generate_trajectory(aidx, epsilon=eps)
+            trajectory = self.__generate_trajectory(aidx)
             states, actions, all_sa_feats, policies, rouge_score = trajectory
 
             # update weights and stuff
             self.__mc_learning_update(states, actions, all_sa_feats, policies,
                                       rouge_score, use_baseline=self.params.use_baseline)
-
-            # store our predictions
-            sentnums_over_time.append([a[0] for a in actions])
 
             # track mad results, if desired
             if store_all_changes:
@@ -90,14 +82,46 @@ class PolicyGradientExtractor(Extractor):
                 all_changes[RESULTS.w_vpi].append(self.w_vpi.copy())
                 all_changes[RESULTS.returns].append(rouge_score)
 
-                extr = self.extract_summary(self.articles[aidx], aidx=aidx)
+                extr = self.extract_summary(self.articles[aidx])
                 greedy_score = extr.get_mean_score()
                 all_changes[RESULTS.greedy_scores].append(greedy_score)
 
-        if verbose:
-            prog.finish()
+        return all_changes
 
-        return sentnums_over_time, all_changes
+    def train_on_batch_articles(self, article_training_steps, articles=None, track_greedy=False, shuffle=False):
+        # initialization check
+        self.feature_check()
+        if articles is None:
+            articles = self.articles
+
+        results = {RESULTS.returns: [], RESULTS.greedy_scores: []}
+        for key in set(results.keys()):
+            results[f'{key}-mean'] = []
+        for n in range(article_training_steps):
+            art_idxs = list(range(len(articles)))
+            if shuffle: self.params.random.shuffle(art_idxs)
+
+            key = RESULTS.returns
+            for aidx in art_idxs:
+                # get the full trajectory
+                trajectory = self.__generate_trajectory(aidx)
+                states, actions, all_sa_feats, policies, rouge_score = trajectory
+                # update weights and stuff
+                self.__mc_learning_update(states, actions, all_sa_feats, policies,rouge_score,
+                                          use_baseline=self.params.use_baseline)
+                # update tracking
+                results[key].append(rouge_score)
+            results[f'{key}-mean'].append(np.mean(results[key]))
+
+            if track_greedy:
+                key = RESULTS.greedy_scores
+                for article in articles:
+                    extr = self.extract_summary(article)
+                    greedy_score = extr.get_mean_score()
+                    results[key].append(greedy_score)
+                results[f'{key}-mean'].append(np.mean(results[key]))
+
+        return results
 
     def set_features(self, articles, basic=False, **kwargs):
         """
@@ -111,6 +135,7 @@ class PolicyGradientExtractor(Extractor):
         :return: None
         """
         self.articles = articles
+        self.articles_to_idx = {a: i for i, a in enumerate(self.articles)}
         self.arts_sents_feats, self.art_feats = extract_sentence_doc_features(articles, **kwargs)
         self.params.set_params(a_feats=self.arts_sents_feats[0].shape[1],
                                s_feats=self.art_feats[0].shape[0],)
@@ -126,11 +151,11 @@ class PolicyGradientExtractor(Extractor):
         #     self.arts_sents_feats = new_feats
 
     @overrides
-    def _extract_sentums(self, article, aidx=None):
-        _, actions, _, _, _ = self.__generate_trajectory(aidx, epsilon=0)
+    def _extract_sentums(self, article, **kwargs):
+        _, actions, _, _, _ = self.__generate_trajectory(self.articles_to_idx[article], greedy=True)
         return [a[0] for a in actions]
 
-    def __generate_trajectory(self, article_idx, epsilon=0):
+    def __generate_trajectory(self, article_idx, greedy=False):
         sents_feats = self.arts_sents_feats[article_idx]
 
         # initial state is the tf-idf of the document
@@ -146,8 +171,7 @@ class PolicyGradientExtractor(Extractor):
             _state_mat = np.stack([state for _ in range(len(sents_feats))])
             sa_features = np.concatenate((sents_feats, _state_mat), axis=1)
             policy = self.__get_policy(sa_features)
-            a = self.__select_action_from_policy(policy, [a[0] for a in actions],
-                                                 epsilon=epsilon)
+            a = self.__select_action_from_policy(policy, [a[0] for a in actions], greedy=greedy)
 
             # update tracking variables, action list & number of states
             all_sa_feats.append(sa_features)
@@ -164,8 +188,7 @@ class PolicyGradientExtractor(Extractor):
         mc_return = self.get_rouge_score_for_snums([a[0] for a in actions], self.articles[article_idx])
         return states, actions, all_sa_feats, policies, mc_return
 
-    def __mc_learning_update(self, states, actions, sa_feats, policies, mc_return,
-                             use_baseline=False):
+    def __mc_learning_update(self, states, actions, sa_feats, policies, mc_return, use_baseline=False):
         assert(len(states) == len(actions) == len(policies))
         for t in range(len(states)):
             if t != len(states) - 1 and self.params.update_only_last:
@@ -182,8 +205,7 @@ class PolicyGradientExtractor(Extractor):
                 _flat_state = np.array(states[t]).flatten()
                 vhat_s = np.dot(self.w_vpi, _flat_state)
                 update_target = update_target - vhat_s
-                self.w_vpi += self.params.v_lr * ((discount * mc_return) - vhat_s) * \
-                              _flat_state
+                self.w_vpi += self.params.v_lr * ((discount * mc_return) - vhat_s) * _flat_state
 
             # now we do the actual P-G update
             self.w_pgr += self.params.p_lr * discount * update_target * ln_gradient
@@ -194,19 +216,12 @@ class PolicyGradientExtractor(Extractor):
         policy = np.e ** prefs
         return policy / np.sum(policy)
 
-    def __select_action_from_policy(self, policy, selected_a, epsilon=0.5):
-        if self.params.method == 'egreedy' or epsilon == 0:
+    def __select_action_from_policy(self, policy, selected_a, greedy=False):
+        if greedy:
             best = np.argsort(policy)
             b_idx = -1
             while best[b_idx] in selected_a:
                 b_idx -= 1
-
-            if np.random.random() < epsilon:
-                a = np.random.randint(0, len(policy)-1)
-                while a in selected_a:
-                    a = np.random.randint(0, len(policy)-1)
-                return a
-
             return best[b_idx]
 
         elif self.params.method == 'softmax':
@@ -226,5 +241,4 @@ class PolicyGradientExtractor(Extractor):
             return action
 
         else:
-            raise NotImplementedError(f'\"{method}\" action selection not implemented!')
-
+            raise NotImplementedError(f'\"{self.params.method}\" action selection not implemented!')

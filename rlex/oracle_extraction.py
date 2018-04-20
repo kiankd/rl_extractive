@@ -1,4 +1,5 @@
 import numpy as np
+import random
 from itertools import combinations
 from progress.bar import ShadyBar
 from overrides import overrides
@@ -83,6 +84,19 @@ class Lead3Summarizer(Extractor):
         return [0, 1, 2]
 
 
+# random number generator to compare with
+class RandomSummarizer(Extractor):
+    def __init__(self, seed=1917):
+        super(RandomSummarizer, self).__init__(f'Random_seed-{seed}', Params())
+        self.random = random.Random(seed)
+
+    def _extract_sentums(self, article, **kwargs):
+        sentnums = set()
+        while len(sentnums) < NUM_SENTS_EXTRACT:
+            sentnums.add(self.random.randint(0, len(article)-1))
+        return sentnums
+
+
 if __name__ == '__main__':
     CLEAN_ARTICLES = False
     articles = get_samples(clean=CLEAN_ARTICLES)
@@ -91,6 +105,7 @@ if __name__ == '__main__':
                       'extrs/'])
     models = [
         Lead3Summarizer(),
+        RandomSummarizer(1848),
         GreedyOracleSummarizer('mean'),
         GreedyOracleSummarizer('rouge-1'),
         GreedyOracleSummarizer('rouge-2'),
