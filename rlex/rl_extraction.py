@@ -99,7 +99,7 @@ class PolicyGradientExtractor(Extractor):
 
         return sentnums_over_time, all_changes
 
-    def set_features(self, articles, basic=False):
+    def set_features(self, articles, basic=False, **kwargs):
         """
         Set params and initialize weights, action-features, state-features
          , and state-action-features using the sizes of the feature-storage
@@ -111,7 +111,7 @@ class PolicyGradientExtractor(Extractor):
         :return: None
         """
         self.articles = articles
-        self.arts_sents_feats, self.art_feats = extract_sentence_doc_features(articles)
+        self.arts_sents_feats, self.art_feats = extract_sentence_doc_features(articles, **kwargs)
         self.params.set_params(a_feats=self.arts_sents_feats[0].shape[1],
                                s_feats=self.art_feats[0].shape[0],)
         self.params.set_params(sa_feats=self.params.a_feats + self.params.s_feats)
@@ -161,8 +161,7 @@ class PolicyGradientExtractor(Extractor):
                 action_tfidf = sents_feats[a][:self.params.s_feats]
                 state = (state - action_tfidf) * ((nS + 1) / nS)
                 states.append(state)
-        mc_return = self.get_rouge_score_for_snums([a[0] for a in actions],
-                                                   self.articles[article_idx])
+        mc_return = self.get_rouge_score_for_snums([a[0] for a in actions], self.articles[article_idx])
         return states, actions, all_sa_feats, policies, mc_return
 
     def __mc_learning_update(self, states, actions, sa_feats, policies, mc_return,
@@ -174,8 +173,7 @@ class PolicyGradientExtractor(Extractor):
 
             discount = self.params.gamma ** ((NUM_SENTS_EXTRACT-1) - t)
             a, phi_sa = actions[t]
-            ln_gradient = phi_sa - np.sum(policies[t].reshape(-1, 1) *
-                                          sa_feats[t], axis=0)
+            ln_gradient = phi_sa - np.sum(policies[t].reshape(-1, 1) * sa_feats[t], axis=0)
             ln_gradient = np.array(ln_gradient).reshape(-1)
             update_target = mc_return
 

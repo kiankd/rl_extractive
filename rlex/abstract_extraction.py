@@ -117,13 +117,21 @@ class Extraction(object):
         self.sents = sent_nums
         self.summ = summary
         self.rouge_res = results
+        if type(self.rouge_res) is dict:
+            self.rouge_res['mean'] = {'f': 0, 'p': 0, 'r': 0}
+            for key in self.rouge_res['mean']:
+                total = sum(self.rouge_res[score_type][key] for score_type in self.rouge_res)
+                self.rouge_res['mean'][key] = total / 3
 
     def __repr__(self):
         return f'{self.sents}: {self.summ}'
 
     def get_mean_score(self):
         if type(self.rouge_res) == dict:
-            return np.mean([self.rouge_res[key]['r'] for key in self.rouge_res])
+            if 'mean' in self.rouge_res:
+                return self.rouge_res['mean']['r']
+            else:
+                raise NotImplementedError('This should never be reached.')
         return self.rouge_res
 
     def get_res_str(self, tabs=2):

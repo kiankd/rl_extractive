@@ -2,47 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6058e439-9503-4e0a-84b6-2ee0d0b12cb2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/rl_extractive.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rlex/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rlex/abstract_extraction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rlex/feature_extraction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rlex/helpers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rlex/rl_extraction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rlex/testing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extractor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helpers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/load_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/load_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/old_res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/old_res.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oracle_extraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/oracle_extraction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/results/clean_example_res.txt" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/clean_example_res.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/results/clean_extrs/0a10dea37648dc0c47a40845ae6e18999f644eab.story.extr_res" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/clean_extrs/0a10dea37648dc0c47a40845ae6e18999f644eab.story.extr_res" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/results/clean_extrs/0a19bd7d8f82574e12072e83d3fa0cb5527235fc.story.extr_res" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/clean_extrs/0a19bd7d8f82574e12072e83d3fa0cb5527235fc.story.extr_res" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/results/clean_extrs/0a1c0855f3f719a8c4e0ec1c84f25ea8765f1241.story.extr_res" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/clean_extrs/0a1c0855f3f719a8c4e0ec1c84f25ea8765f1241.story.extr_res" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/results/clean_extrs/0b0113839909f3a4662126e600dbc58402cf9bb0.story.extr_res" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/clean_extrs/0b0113839909f3a4662126e600dbc58402cf9bb0.story.extr_res" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/results/clean_extrs/0b05e161ff0583493df98b577662c39ca9fa280a.story.extr_res" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/clean_extrs/0b05e161ff0583493df98b577662c39ca9fa280a.story.extr_res" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/results/clean_extrs/0b06f3a0fc4d6d6e6bf7c70133d70d5747ef97ab.story.extr_res" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/clean_extrs/0b06f3a0fc4d6d6e6bf7c70133d70d5747ef97ab.story.extr_res" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/results/clean_extrs/0b0b96f694fa9f9d758da2b1b1d8a22907ac6cd8.story.extr_res" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/clean_extrs/0b0b96f694fa9f9d758da2b1b1d8a22907ac6cd8.story.extr_res" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/results/clean_extrs/0b0ff43891b42d7c9759cf8cbfb500a720cdaf86.story.extr_res" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/clean_extrs/0b0ff43891b42d7c9759cf8cbfb500a720cdaf86.story.extr_res" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/results/clean_extrs/0c0531e58be44274dbfea947776465554c60f08e.story.extr_res" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/clean_extrs/0c0531e58be44274dbfea947776465554c60f08e.story.extr_res" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/results/clean_extrs/0d0c8b4b3f1b89800f65024c2274cf9dad3360ec.story.extr_res" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/clean_extrs/0d0c8b4b3f1b89800f65024c2274cf9dad3360ec.story.extr_res" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/results/dirty_example_res.txt" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/dirty_example_res.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/results/dirty_extrs/0a10dea37648dc0c47a40845ae6e18999f644eab.story.extr_res" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/dirty_extrs/0a10dea37648dc0c47a40845ae6e18999f644eab.story.extr_res" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/results/dirty_extrs/0a19bd7d8f82574e12072e83d3fa0cb5527235fc.story.extr_res" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/dirty_extrs/0a19bd7d8f82574e12072e83d3fa0cb5527235fc.story.extr_res" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/results/dirty_extrs/0a1c0855f3f719a8c4e0ec1c84f25ea8765f1241.story.extr_res" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/dirty_extrs/0a1c0855f3f719a8c4e0ec1c84f25ea8765f1241.story.extr_res" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/results/dirty_extrs/0b0113839909f3a4662126e600dbc58402cf9bb0.story.extr_res" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/dirty_extrs/0b0113839909f3a4662126e600dbc58402cf9bb0.story.extr_res" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/results/dirty_extrs/0b05e161ff0583493df98b577662c39ca9fa280a.story.extr_res" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/dirty_extrs/0b05e161ff0583493df98b577662c39ca9fa280a.story.extr_res" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/results/dirty_extrs/0b06f3a0fc4d6d6e6bf7c70133d70d5747ef97ab.story.extr_res" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/dirty_extrs/0b06f3a0fc4d6d6e6bf7c70133d70d5747ef97ab.story.extr_res" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/results/dirty_extrs/0b0b96f694fa9f9d758da2b1b1d8a22907ac6cd8.story.extr_res" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/dirty_extrs/0b0b96f694fa9f9d758da2b1b1d8a22907ac6cd8.story.extr_res" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/results/dirty_extrs/0b0ff43891b42d7c9759cf8cbfb500a720cdaf86.story.extr_res" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/dirty_extrs/0b0ff43891b42d7c9759cf8cbfb500a720cdaf86.story.extr_res" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/results/dirty_extrs/0c0531e58be44274dbfea947776465554c60f08e.story.extr_res" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/dirty_extrs/0c0531e58be44274dbfea947776465554c60f08e.story.extr_res" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/results/dirty_extrs/0d0c8b4b3f1b89800f65024c2274cf9dad3360ec.story.extr_res" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/results/dirty_extrs/0d0c8b4b3f1b89800f65024c2274cf9dad3360ec.story.extr_res" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rl_extraction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rlex/abstract_extraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/abstract_extraction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rlex/feature_extraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/feature_extraction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rlex/rl_extraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/rl_extraction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rlex/testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/rlex/testing.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,7 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/rl_extractive$testing.coverage" NAME="testing Coverage Results" MODIFIED="1524087764770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rlex" />
+    <SUITE FILE_PATH="coverage/rl_extractive$testing.coverage" NAME="testing Coverage Results" MODIFIED="1524169774235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rlex" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="rl_extractive" />
@@ -62,8 +27,8 @@
       <file leaf-file-name="oracle_extraction.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rlex/oracle_extraction.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1530">
-              <caret line="90" column="32" selection-start-line="90" selection-start-column="32" selection-end-line="90" selection-end-column="32" />
+            <state relative-caret-position="833">
+              <caret line="49" column="22" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -74,8 +39,11 @@
       <file leaf-file-name="abstract_extraction.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rlex/abstract_extraction.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-207">
-              <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+            <state relative-caret-position="57">
+              <caret line="123" column="55" lean-forward="true" selection-start-line="123" selection-start-column="55" selection-end-line="123" selection-end-column="55" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -83,8 +51,8 @@
       <file leaf-file-name="rl_extraction.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rlex/rl_extraction.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1122">
-              <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+            <state relative-caret-position="431">
+              <caret line="171" column="24" lean-forward="true" selection-start-line="171" selection-start-column="24" selection-end-line="171" selection-end-column="24" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -95,11 +63,11 @@
       <file leaf-file-name="testing.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/rlex/testing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11">
-              <caret line="77" column="24" selection-start-line="77" selection-start-column="24" selection-end-line="77" selection-end-column="24" />
+            <state relative-caret-position="331">
+              <caret line="37" column="60" lean-forward="true" selection-start-line="37" selection-start-column="60" selection-end-line="37" selection-end-column="60" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
-                <element signature="e#1382#3332#0" />
+                <element signature="e#1742#3095#0" />
               </folding>
             </state>
           </provider>
@@ -108,8 +76,8 @@
       <file leaf-file-name="feature_extraction.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rlex/feature_extraction.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+            <state relative-caret-position="159">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -120,11 +88,10 @@
       <file leaf-file-name="load_data.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rlex/load_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="80" column="8" selection-start-line="80" selection-start-column="8" selection-end-line="80" selection-end-column="8" />
+            <state relative-caret-position="1254">
+              <caret line="99" column="18" lean-forward="true" selection-start-line="99" selection-start-column="18" selection-end-line="99" selection-end-column="18" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
-                <element signature="e#2896#3745#0" />
                 <element signature="e#3829#4505#0" />
               </folding>
             </state>
@@ -172,9 +139,9 @@
         <option value="$PROJECT_DIR$/rlexsrc/oracle_extraction.py" />
         <option value="$PROJECT_DIR$/rlex/load_data.py" />
         <option value="$PROJECT_DIR$/rlex/oracle_extraction.py" />
+        <option value="$PROJECT_DIR$/rlex/abstract_extraction.py" />
         <option value="$PROJECT_DIR$/rlex/feature_extraction.py" />
         <option value="$PROJECT_DIR$/rlex/rl_extraction.py" />
-        <option value="$PROJECT_DIR$/rlex/abstract_extraction.py" />
         <option value="$PROJECT_DIR$/rlex/testing.py" />
       </list>
     </option>
@@ -319,17 +286,17 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50214595" side_tool="true" weight="0.3551515" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49785408" visible="true" weight="1.0" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49785408" visible="true" weight="0.32363635" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32969698" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.510303" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32969698" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4591195" visible="true" weight="0.0" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4593573" weight="0.27825466" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="SciView" order="5" sideWeight="0.71854305" side_tool="true" visible="true" weight="0.4048641" />
+      <window_info anchor="right" id="SciView" order="5" sideWeight="0.71854305" side_tool="true" visible="true" weight="0.29899856" />
       <window_info anchor="right" id="Structure" order="6" sideWeight="0.48210025" side_tool="true" weight="0.2446352" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.41575757" />
-      <window_info id="Favorites" order="1" sideWeight="0.5011792" side_tool="true" weight="0.18194444" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3648485" />
+      <window_info id="Favorites" order="1" sideWeight="0.54064274" side_tool="true" weight="0.27825466" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
@@ -375,22 +342,22 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/rlex/rl_extraction.py</url>
-          <line>190</line>
+          <line>188</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/rlex/rl_extraction.py</url>
-          <line>178</line>
+          <line>176</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/rlex/feature_extraction.py</url>
-          <line>33</line>
+          <line>35</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/rlex/feature_extraction.py</url>
-          <line>30</line>
+          <line>32</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -400,7 +367,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/rlex/feature_extraction.py</url>
-          <line>51</line>
+          <line>53</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
@@ -428,47 +395,47 @@
     </expressions>
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>i</expression-string>
+        <expression-string>X.shape</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>aidx</expression-string>
+        <expression-string>np.sum(X[5]==0)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>crt_art_idx</expression-string>
+        <expression-string>np.sum(X[4]==0)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>len(articles[0])</expression-string>
+        <expression-string>np.sum(X[3]==0)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>len(articles[3])</expression-string>
+        <expression-string>np.sum(X[2]==0)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>len(articles[2])</expression-string>
+        <expression-string>np.sum(X[1]==0)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>len(articles[1])</expression-string>
+        <expression-string>np.sum(X[0]==0)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>articles[0]</expression-string>
+        <expression-string>sum(X[0]==0)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>phi_sa - np.sum(policies[t].reshape(-1, 1) * sa_feats[t], axis=0)</expression-string>
+        <expression-string>sum(X==0)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -479,6 +446,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="714">
           <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -515,7 +485,6 @@
           <caret line="80" column="27" selection-start-line="80" selection-start-column="8" selection-end-line="80" selection-end-column="27" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
-            <element signature="e#2896#3745#0" />
             <element signature="e#3829#4505#0" />
           </folding>
         </state>
@@ -542,6 +511,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -594,10 +566,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/rlex/helpers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/rlex/oracle_extraction.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1530">
-          <caret line="90" column="32" selection-start-line="90" selection-start-column="32" selection-end-line="90" selection-end-column="32" />
+        <state relative-caret-position="833">
+          <caret line="49" column="22" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
@@ -606,27 +585,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rlex/load_data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="80" column="8" selection-start-line="80" selection-start-column="8" selection-end-line="80" selection-end-column="8" />
+        <state relative-caret-position="1254">
+          <caret line="99" column="18" lean-forward="true" selection-start-line="99" selection-start-column="18" selection-end-line="99" selection-end-column="18" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
-            <element signature="e#2896#3745#0" />
             <element signature="e#3829#4505#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rlex/helpers.py">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/numpy/matrixlib/defmatrix.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="166">
+          <caret line="314" selection-start-line="314" selection-end-line="314" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rlex/feature_extraction.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        <state relative-caret-position="159">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
@@ -635,15 +613,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rlex/abstract_extraction.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-207">
-          <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+        <state relative-caret-position="57">
+          <caret line="123" column="55" lean-forward="true" selection-start-line="123" selection-start-column="55" selection-end-line="123" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rlex/rl_extraction.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+        <state relative-caret-position="431">
+          <caret line="171" column="24" lean-forward="true" selection-start-line="171" selection-start-column="24" selection-end-line="171" selection-end-column="24" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
@@ -652,11 +633,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rlex/testing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11">
-          <caret line="77" column="24" selection-start-line="77" selection-start-column="24" selection-end-line="77" selection-end-column="24" />
+        <state relative-caret-position="331">
+          <caret line="37" column="60" lean-forward="true" selection-start-line="37" selection-start-column="60" selection-end-line="37" selection-end-column="60" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
-            <element signature="e#1382#3332#0" />
+            <element signature="e#1742#3095#0" />
           </folding>
         </state>
       </provider>

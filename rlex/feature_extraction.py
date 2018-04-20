@@ -6,8 +6,8 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 def extract_sentence_doc_features(
         articles,
         tfidf_norm='l2',
-        tfidf_max_features=500,
-        pca_features=50,
+        tfidf_max_features=100,
+        pca_features=100,
         verbose=True,):
     """
     :param articles: list of Article
@@ -27,8 +27,10 @@ def extract_sentence_doc_features(
 
     if verbose: print('TFIDF is vectorizing...')
     tfidf = TfidfVectorizer(norm=tfidf_norm, max_features=tfidf_max_features)
-    X = tfidf.fit_transform(all_sents).todense()
-    X = PCA(n_components=min(pca_features, X.shape[1])).fit_transform(X)
+    X = np.array(tfidf.fit_transform(all_sents).todense())
+
+    if pca_features < tfidf_max_features:
+        X = PCA(n_components=min(pca_features, X.shape[1])).fit_transform(X)
 
     # now this is where the fun begins. first get mean doc feature vectors
     doc_feats = []

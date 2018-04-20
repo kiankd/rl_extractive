@@ -1,1 +1,3 @@
 cnn_stories_tokenized/
+rlex/*.pyc
+*.pyc

@@ -16,16 +16,17 @@ if __name__ == '__main__':
 
     models = [Lead3Summarizer(), GreedyOracleSummarizer('mean')]
     test_params = [
-        Params(v_lr=0.25, p_lr=0.50, use_baseline=True, update_only_last=True),
-        Params(v_lr=0.25, p_lr=0.55, use_baseline=True, update_only_last=True),
-        Params(v_lr=0.25, p_lr=0.60, use_baseline=True, update_only_last=True),
-        Params(v_lr=0.25, p_lr=0.65, use_baseline=True, update_only_last=True),
-        Params(v_lr=0.25, p_lr=0.70, use_baseline=True, update_only_last=True),
+        Params(v_lr=0.05, p_lr=0.15, use_baseline=True, update_only_last=True),
+        # Params(v_lr=0.25, p_lr=0.55, use_baseline=True, update_only_last=True),
+        # Params(v_lr=0.25, p_lr=0.60, use_baseline=True, update_only_last=True),
+        # Params(v_lr=0.25, p_lr=0.65, use_baseline=True, update_only_last=True),
+        # Params(v_lr=0.25, p_lr=0.70, use_baseline=True, update_only_last=True),
     ]
     models.extend(PolicyGradientExtractor(p) for p in test_params)
     model_scores = {m.name: {'rouge-1': [],
                              'rouge-2': [],
-                             'rouge-l': [], } for m in models}
+                             'rouge-l': [],
+                             'mean': [],    } for m in models}
 
     articles = get_samples(clean=CLEAN_ARTICLES)
     TEST_ARTICLES = articles[0:100]
@@ -34,12 +35,13 @@ if __name__ == '__main__':
     for i, model in enumerate(models):
         if model.is_learner():
             print('Feature extraction...')
-            model.set_features(TEST_ARTICLES)
+            model.set_features(TEST_ARTICLES, pca_features=100, tfidf_max_features=500)
 
         for j, a in enumerate(TEST_ARTICLES):
             if model.is_learner(): # then we r doing RL, train first
                 print('Training...')
-                sents, train_res = model.train_on_article(j, 500,
+                # TODO: distributed training across a set of articles.
+                sents, train_res = model.train_on_article(j, 1000,
                                       store_all_changes=PLOT, verbose=True)
                 if PLOT:
                     # tests = [RESULTS.w_pgr, RESULTS.w_vpi, RESULTS.policies]
@@ -60,7 +62,7 @@ if __name__ == '__main__':
                         plt.xlabel('Episode number')
                         plt.show()
 
-                    policy = train_res[RESULTS.policies][-1].reshape(-1, 9)
+                    policy = train_res[RESULTS.policies][-1].reshape(-1, 11)
                     plt.figure()
                     plt.title('Last Policy')
                     plt.imshow(policy, cmap='hot')
