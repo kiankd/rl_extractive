@@ -201,6 +201,10 @@ if __name__ == '__main__':
     parser.add_argument('-w', '--write-every', type=int, default=100,
                         help='number of tasks to perform before writing results to disk')
     args = parser.parse_args()
+    if args.dry: # for screen checking
+        import time
+        time.sleep(5)
+
     print('\nArgparse parameters set to:')
     for arg_name, val in iter_args_values(args):
         if type(val) == tuple:
@@ -266,7 +270,3 @@ if __name__ == '__main__':
             num_res = 0
             w += 1
     print('\nTotal tasks: {}'.format(len(tests)))
-
-    if args.dry:
-        import time
-        time.sleep(10)
