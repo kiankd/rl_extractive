@@ -198,7 +198,7 @@ if __name__ == '__main__':
                         help='do a dry run, show all tasks to be performed without doing them')
     parser.add_argument('--tiny_test', default=False, action='store_true',
                         help='do a tiny test of 4 models to determine if this all works')
-    parser.add_argument('-w', '--write-every', type=int, default=500,
+    parser.add_argument('-w', '--write-every', type=int, default=100,
                         help='number of tasks to perform before writing results to disk')
     args = parser.parse_args()
     print('\nArgparse parameters set to:')
@@ -241,8 +241,8 @@ if __name__ == '__main__':
     w = 0
     print('\nTask enumeration starting...')
     for i, param_test in enumerate(tests):
-        print(f' <RLTask {i} - {param_test}>')
         if args.dry: continue
+        print(f' <RLTask {i} - {param_test}>')
 
         # run the task, get results
         task_log = run_rl_task(train_articles, test_articles, param_test, args.verbose)
@@ -254,7 +254,9 @@ if __name__ == '__main__':
 
         # serialize results into CSV
         if num_res >= args.write_every or i == len(tests) - 1:
-            fname = f'{path_to_results}/{args.name}_iter-{w}.csv'
+            fname = '{}/{}_component{}-{}_iter-{}.csv'.format(
+                path_to_results, args.name, args.component, args.n_components, w
+            )
             print(f'\twriting to {fname}...')
             with open(fname, 'w') as f:
                 f.write(crt_res_write)
@@ -264,3 +266,7 @@ if __name__ == '__main__':
             num_res = 0
             w += 1
     print('\nTotal tasks: {}'.format(len(tests)))
+
+    if args.dry:
+        import time
+        time.sleep(10)
