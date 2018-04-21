@@ -1,4 +1,4 @@
-PATH_TO_SAMPLES = '../examples/'
+PATH_TO_SAMPLES = '../examples_250/'
 PATH_TO_RESULTS = 'results/'
 
 def scores_to_str(score_dict):

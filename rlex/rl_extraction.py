@@ -88,7 +88,8 @@ class PolicyGradientExtractor(Extractor):
 
         return all_changes
 
-    def train_on_batch_articles(self, article_training_steps, articles=None, track_greedy=False, shuffle=False):
+    def train_on_batch_articles(self, article_training_steps, articles=None,
+                                track_greedy=False, shuffle=False, batch_mean=True):
         # initialization check
         self.feature_check()
         if articles is None:
@@ -97,22 +98,45 @@ class PolicyGradientExtractor(Extractor):
         results = {RESULTS.returns: [], RESULTS.greedy_scores: []}
         for key in set(results.keys()):
             results[f'{key}-mean'] = []
+
+        # iterate over number of training steps
         for n in range(article_training_steps):
             art_idxs = list(range(len(articles)))
-            if shuffle: self.params.random.shuffle(art_idxs)
+            if shuffle:
+                self.params.random.shuffle(art_idxs)
 
-            key = RESULTS.returns
+            # storing our update vectors over time (if using batch-mean)
+            all_pgr_updates, all_vpi_updates = [], []
             for aidx in art_idxs:
                 # get the full trajectory
                 trajectory = self.__generate_trajectory(aidx)
                 states, actions, all_sa_feats, policies, rouge_score = trajectory
-                # update weights and stuff
-                self.__mc_learning_update(states, actions, all_sa_feats, policies,rouge_score,
-                                          use_baseline=self.params.use_baseline)
-                # update tracking
-                results[key].append(rouge_score)
-            results[f'{key}-mean'].append(np.mean(results[key]))
 
+                # get weight updates
+                pgr_updates, vpi_updates = self.__mc_learning_update(
+                    states, actions, all_sa_feats, policies, rouge_score,
+                    use_baseline=self.params.use_baseline,
+                    get_updates_only=bool(batch_mean))
+
+                # update tracking
+                if bool(batch_mean):
+                    all_pgr_updates += pgr_updates
+                    all_vpi_updates += vpi_updates
+
+                # store all returns
+                results[RESULTS.returns].append(rouge_score)
+
+            # store mean return
+            results[f'{RESULTS.returns}-mean'].append(np.mean(results[RESULTS.returns]))
+
+            # update weights with mean update vector from batch, if using batch's mean target
+            if bool(batch_mean):
+                self.w_pgr += self.params.p_lr * np.sum(np.array(all_pgr_updates), axis=0) \
+                                / len(all_pgr_updates)
+                self.w_vpi += self.params.v_lr * np.sum(np.array(all_vpi_updates), axis=0) \
+                                / len(all_vpi_updates)
+
+            # track the results of a greedy policy - EXPENSIVE!
             if track_greedy:
                 key = RESULTS.greedy_scores
                 for article in articles:
@@ -123,7 +147,7 @@ class PolicyGradientExtractor(Extractor):
 
         return results
 
-    def set_features(self, articles, basic=False, **kwargs):
+    def set_features(self, articles, **kwargs):
         """
         Set params and initialize weights, action-features, state-features
          , and state-action-features using the sizes of the feature-storage
@@ -131,7 +155,6 @@ class PolicyGradientExtractor(Extractor):
          article features as their own things for states alone.
         :param articles: List of Article - pass this to set all the model's
             features for the given article.
-        :param basic: Not used for now.
         :return: None
         """
         self.articles = articles
@@ -188,8 +211,11 @@ class PolicyGradientExtractor(Extractor):
         mc_return = self.get_rouge_score_for_snums([a[0] for a in actions], self.articles[article_idx])
         return states, actions, all_sa_feats, policies, mc_return
 
-    def __mc_learning_update(self, states, actions, sa_feats, policies, mc_return, use_baseline=False):
+    def __mc_learning_update(self, states, actions, sa_feats, policies, mc_return,
+                             use_baseline=False, get_updates_only=False):
         assert(len(states) == len(actions) == len(policies))
+        vpi_updates = []
+        pgr_updates = []
         for t in range(len(states)):
             if t != len(states) - 1 and self.params.update_only_last:
                 continue
@@ -205,10 +231,19 @@ class PolicyGradientExtractor(Extractor):
                 _flat_state = np.array(states[t]).flatten()
                 vhat_s = np.dot(self.w_vpi, _flat_state)
                 update_target = update_target - vhat_s
-                self.w_vpi += self.params.v_lr * ((discount * mc_return) - vhat_s) * _flat_state
+                vpi_updates.append(((discount * mc_return) - vhat_s) * _flat_state)
+
+                if not get_updates_only:
+                    self.w_vpi += self.params.v_lr * vpi_updates[-1]
 
             # now we do the actual P-G update
-            self.w_pgr += self.params.p_lr * discount * update_target * ln_gradient
+            pgr_updates.append(discount * update_target * ln_gradient)
+            if not get_updates_only:
+                self.w_pgr += self.params.p_lr * pgr_updates[-1]
+
+        if get_updates_only:
+            return pgr_updates, vpi_updates
+        return None, None
 
     def __get_policy(self, feats):
         prefs = np.matmul(np.array(feats), self.w_pgr)
@@ -226,17 +261,16 @@ class PolicyGradientExtractor(Extractor):
 
         elif self.params.method == 'softmax':
             r = np.random.random()
+            best = np.argsort(policy)
             total = 0
-            action = 0
+            aidx = len(policy)-1
+            action = best[aidx]
 
-            # keep moving up the prob dist until we hit the random roll
+            # keep moving down the prob dist until we hit the random roll
             while total < r or action in selected_a:
-                total += policy[action]
-                action += 1
-
-            # should not happen often
-            while action in selected_a or action >= len(policy):
-                action = np.random.randint(0, len(policy) - 1)
+                total += policy[aidx]
+                aidx -= 1
+                action = best[aidx]
 
             return action
 

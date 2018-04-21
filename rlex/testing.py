@@ -28,14 +28,14 @@ def print_model_score_res(score_holder):
 
 if __name__ == '__main__':
     # get an article
-    CLEAN_ARTICLES = False
+    CLEAN_ARTICLES = True
     outdir = ''.join([PATH_TO_RESULTS,
                       'clean_' if CLEAN_ARTICLES else 'dirty_',
                       'extrs/'])
 
     models = [RandomSummarizer(), Lead3Summarizer(), GreedyOracleSummarizer('mean')]
     test_params = [
-        Params(v_lr=0.05, p_lr=0.075, use_baseline=True, update_only_last=True),
+        Params(gamma=1, v_lr=0.15, p_lr=0.25, use_baseline=True, update_only_last=False),
         # Params(v_lr=0.25, p_lr=0.55, use_baseline=True, update_only_last=True),
         # Params(v_lr=0.25, p_lr=0.60, use_baseline=True, update_only_last=True),
         # Params(v_lr=0.25, p_lr=0.65, use_baseline=True, update_only_last=True),
@@ -49,12 +49,13 @@ if __name__ == '__main__':
     new_articles_scores = deepcopy(train_article_scores)
 
     articles = get_samples(clean=CLEAN_ARTICLES)
-    END_ART_IDX = 5
-    TEST_ARTICLES = articles[0:END_ART_IDX]
+    END_ART_IDX = 100
+    TRAIN_ARTICLES = articles[0: END_ART_IDX]
     PLOT = True
     SINGLE_ARTICLE_TRAINING = False
     BATCH_ARTICLE_TRAINING = True
-    VERBOSE = True
+    VERBOSE = False
+    BATCH_MEAN = False
 
     features = {'pca_features': 500, 'tfidf_max_features': 2500}
 
@@ -64,34 +65,37 @@ if __name__ == '__main__':
         # set features
         if model.is_learner():
             print('Feature extraction...')
-            model.set_features(articles, **features) # extract from ALL articles
+            model.set_features(articles, **features) # extract from ALL articles®
 
         # batch article training
         if BATCH_ARTICLE_TRAINING:
             if model.is_learner():
                 print('Big batch training...')
-                results = model.train_on_batch_articles(3000, articles=TEST_ARTICLES,
-                                                        track_greedy=True, shuffle=False)
+                results = model.train_on_batch_articles(1000,
+                                                        articles=TRAIN_ARTICLES,
+                                                        track_greedy=PLOT,
+                                                        shuffle=False,
+                                                        batch_mean=BATCH_MEAN)
                 if PLOT:
                     tests = [RESULTS.returns, RESULTS.greedy_scores]
                     tests = [f'{key}-mean' for key in tests]
                     lines = ['b--', 'r--', 'k--', 'g-']
                     for key, line in zip(tests, lines):
                         plt.figure()
-                        plt.title('{} -- batch training'.format(key))
+                        plt.title('{} -- batch training {}'.format(key, 'BM' if BATCH_MEAN else ''))
                         x = list(range(len(results[key])))
                         plt.plot(x, results[key], line)
                         plt.xlabel('Training episode number')
                         plt.show()
 
-            for j, a in enumerate(TEST_ARTICLES):
+            for j, a in enumerate(TRAIN_ARTICLES):
                 ex = model.extract_summary(a)
                 a.add_extraction_pred(model.name, ex)
                 store_ex_result(train_article_scores, VERBOSE)
 
         # SINGLE ARTICLE TESTING
         elif SINGLE_ARTICLE_TRAINING:
-            for j, a in enumerate(TEST_ARTICLES):
+            for j, a in enumerate(TRAIN_ARTICLES):
                 if model.is_learner(): # then we r doing RL, train first
                     print('Training...')
                     sents, train_res = model.train_on_article(j, 1000, store_all_changes=PLOT)

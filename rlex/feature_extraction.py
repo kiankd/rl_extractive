@@ -8,7 +8,8 @@ def extract_sentence_doc_features(
         tfidf_norm='l2',
         tfidf_max_features=100,
         pca_features=100,
-        verbose=True,):
+        verbose=False,
+):
     """
     :param articles: list of Article
     :param tfidf_norm: 'l1', 'l2', or None, normalizes tfidf vectors

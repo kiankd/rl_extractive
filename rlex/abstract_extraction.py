@@ -28,8 +28,6 @@ class Params(object):
         self.p_lr = None
         self.gamma = 1.
         self.use_baseline = True
-        self.epsilon = 0.5
-        self.schedule = lambda time: self.epsilon / time
         self.method = 'softmax'
         self.update_only_last = True
         self.opt_option = 'mean'
