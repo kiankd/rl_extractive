@@ -5,6 +5,7 @@ print(sys.path)
 
 import argparse
 import numpy as np
+import time
 from collections import OrderedDict, defaultdict
 from itertools import product
 from rlex.rl_extraction import PolicyGradientExtractor
@@ -40,11 +41,12 @@ class TaskLog(object):
     Object to hold the results of a RL training task.
     Convenient for results serialization. Basically just a dict.
     """
-    def __init__(self, params_tested, train_res, test_res):
+    def __init__(self, params_tested, train_res, test_res, time_taken):
         self.task_conclusion = OrderedDict()
         for d in params_tested, train_res, test_res:
             for key, value in d.items():
                 self.task_conclusion[key] = value
+        self.task_conclusion['time_taken'] = '{:.4f}'.format(time_taken)
 
     def keys_to_csv_string(self):
         return ','.join(map(str, self.task_conclusion.keys()))
@@ -90,7 +92,7 @@ def set_params(arg_namespace, verbose=False):
             else:
                 PARAMS_TO_TEST[hparam] = list(map(int, PARAMS_TO_TEST[hparam]))
             if verbose:
-                print(f'\t{hparam}: tests the following {len(PARAMS_TO_TEST[hparam])} '
+                print(f'\t{hparam}: tests the following {len(PARAMS_TO_TEST[hparam])}'
                       f'values\n\t\t{PARAMS_TO_TEST[hparam]}')
         elif verbose:
             print(f'\t{hparam}: {value} -- not a hyperparameter, skipping.')
@@ -108,10 +110,10 @@ def generate_param_tests(component, n_components):
     all_params = list(PARAMS_TO_TEST.values())
     all_combos = list(product(*all_params))
     tests_per_component = int(len(all_combos) / n_components)
-    start, i = 0, 0
-    while i < component:
+    start, j = 0, 0
+    while j < component:
         start += tests_per_component
-        i += 1
+        j += 1
     assert(start + tests_per_component <= len(all_combos))
 
     # build the test-param dictionaries
@@ -130,6 +132,7 @@ def run_rl_task(train_a, test_a, params_dict, verbose=False):
     :param verbose: verbosity 101
     :return: TaskLog object storing our results and parameters for this task
     """
+    start = time.time()
     params = Params(
         gamma=1,
         v_lr=params_dict['v_lr'],
@@ -146,13 +149,14 @@ def run_rl_task(train_a, test_a, params_dict, verbose=False):
         articles=train_a,
         batch_mean=params_dict['batch_mean'],
         track_greedy=False,
+        track_results=False,
         shuffle=False,
     )
     # now store the train and test results
     if verbose: print('\tgetting final results to report...')
     train_results = get_article_set_results(model, train_a, 'train')
     test_results = get_article_set_results(model, test_a, 'test')
-    return TaskLog(params_dict, train_results, test_results)
+    return TaskLog(params_dict, train_results, test_results, time.time() - start)
 
 def get_article_set_results(model, articles, test_name):
     """
@@ -184,15 +188,15 @@ if __name__ == '__main__':
                         help='path to directory where we will serialize results')
     parser.add_argument('-f', '--force', action='store_true', default=False,
                         help='force overwrite of the current results directory')
-    parser.add_argument('--v_lr__range', nargs=3, default=(0.1, 0.8, 8), type=tuple,
+    parser.add_argument('--v_lr__range', nargs=3, default=(0.1, 0.5, 5), type=tuple,
                         help='range of v_lr values to test, $3 total between $1 $2')
-    parser.add_argument('--p_lr__range', nargs=3, default=(0.1, 0.8, 8), type=tuple,
+    parser.add_argument('--p_lr__range', nargs=3, default=(0, 0.5, 6), type=tuple,
                         help='range of p_lr values to test, $3 total between $1 $2')
-    parser.add_argument('--pca_features__range', nargs=3, default=(100, 500, 5), type=tuple,
+    parser.add_argument('--pca_features__range', nargs=3, default=(250, 500, 2), type=tuple,
                         help='range of pca_features values to test, $3 total between $1 $2')
-    parser.add_argument('--tfidf_max_features__range', nargs=3, default=(2000, 4000, 3), type=tuple,
+    parser.add_argument('--tfidf_max_features__range', nargs=3, default=(2000, 4000, 2), type=tuple,
                         help='range of pca_features values to test, $3 total between $1 $2')
-    parser.add_argument('--n_training_steps__range', nargs=3, default=(500, 2500, 5), type=tuple,
+    parser.add_argument('--n_training_steps__range', nargs=3, default=(500, 500, 1), type=tuple,
                         help='range for number of training steps to test, $3 total between $1 $2')
     parser.add_argument('-v', '--verbose', default=False, action='store_true',
                         help='prints details for every model iterated over')
@@ -200,12 +204,9 @@ if __name__ == '__main__':
                         help='do a dry run, show all tasks to be performed without doing them')
     parser.add_argument('--tiny_test', default=False, action='store_true',
                         help='do a tiny test of 4 models to determine if this all works')
-    parser.add_argument('-w', '--write-every', type=int, default=100,
+    parser.add_argument('-w', '--write-every', type=int, default=24,
                         help='number of tasks to perform before writing results to disk')
     args = parser.parse_args()
-    if args.dry: # for screen checking
-        import time
-        time.sleep(5)
 
     print('\nArgparse parameters set to:')
     for arg_name, val in iter_args_values(args):

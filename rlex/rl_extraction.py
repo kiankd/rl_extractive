@@ -89,21 +89,22 @@ class PolicyGradientExtractor(Extractor):
         return all_changes
 
     def train_on_batch_articles(self, article_training_steps, articles=None,
-                                track_greedy=False, shuffle=False, batch_mean=True):
+                                track_greedy=False, track_results=True,
+                                shuffle=False, batch_mean=True):
         # initialization check
         self.feature_check()
         if articles is None:
             articles = self.articles
 
-        results = {RESULTS.returns: [], RESULTS.greedy_scores: []}
-        for key in set(results.keys()):
-            results[f'{key}-mean'] = []
+        if track_results:
+            results = {RESULTS.returns: [], RESULTS.greedy_scores: []}
+            for key in set(results.keys()):
+                results[f'{key}-mean'] = []
 
         # iterate over number of training steps
+        art_idxs = list(range(len(articles)))
         for n in range(article_training_steps):
-            art_idxs = list(range(len(articles)))
-            if shuffle:
-                self.params.random.shuffle(art_idxs)
+            if shuffle: self.params.random.shuffle(art_idxs)
 
             # storing our update vectors over time (if using batch-mean)
             all_pgr_updates, all_vpi_updates = [], []
@@ -124,10 +125,12 @@ class PolicyGradientExtractor(Extractor):
                     all_vpi_updates += vpi_updates
 
                 # store all returns
-                results[RESULTS.returns].append(rouge_score)
+                if track_results:
+                    results[RESULTS.returns].append(rouge_score)
 
             # store mean return
-            results[f'{RESULTS.returns}-mean'].append(np.mean(results[RESULTS.returns]))
+            if track_results:
+                results[f'{RESULTS.returns}-mean'].append(np.mean(results[RESULTS.returns]))
 
             # update weights with mean update vector from batch, if using batch's mean target
             if bool(batch_mean):
@@ -145,7 +148,8 @@ class PolicyGradientExtractor(Extractor):
                     results[key].append(greedy_score)
                 results[f'{key}-mean'].append(np.mean(results[key]))
 
-        return results
+        if track_results:
+            return results
 
     def set_features(self, articles, **kwargs):
         """
