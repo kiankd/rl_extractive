@@ -1,9 +1,10 @@
 import sys; print('Python %s on %s\n' % (sys.version, sys.platform))
-sys.path.extend(['/Users/kiankd/git/rl_extractive', '/Users/kiankd/git/rl_extractive/rlex'])
+import os
+sys.path.extend([os.getcwd(), '/'.join(os.getcwd().split('/')[:-1])])
+print(sys.path)
 
 import argparse
 import numpy as np
-import os
 from collections import OrderedDict, defaultdict
 from itertools import product
 from rlex.rl_extraction import PolicyGradientExtractor
@@ -126,6 +127,7 @@ def run_rl_task(train_a, test_a, params_dict, verbose=False):
     :param train_a: List of articles to train on
     :param test_a: List of articles to test on
     :param params_dict: Dict of parameters we are testing for this task
+    :param verbose: verbosity 101
     :return: TaskLog object storing our results and parameters for this task
     """
     params = Params(
