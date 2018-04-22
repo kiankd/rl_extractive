@@ -188,13 +188,13 @@ if __name__ == '__main__':
                         help='path to directory where we will serialize results')
     parser.add_argument('-f', '--force', action='store_true', default=False,
                         help='force overwrite of the current results directory')
-    parser.add_argument('--v_lr__range', nargs=3, default=(0, 0.5, 11), type=tuple,
+    parser.add_argument('--v_lr__range', nargs=3, default=(0, 0.35, 15), type=tuple,
                         help='range of v_lr values to test, $3 total between $1 $2')
-    parser.add_argument('--p_lr__range', nargs=3, default=(0.1, 0.5, 9), type=tuple,
+    parser.add_argument('--p_lr__range', nargs=3, default=(0.05, 0.35, 13), type=tuple,
                         help='range of p_lr values to test, $3 total between $1 $2')
-    parser.add_argument('--pca_features__range', nargs=3, default=(250, 750, 3), type=tuple,
+    parser.add_argument('--pca_features__range', nargs=3, default=(100, 1000, 2), type=tuple,
                         help='range of pca_features values to test, $3 total between $1 $2')
-    parser.add_argument('--tfidf_max_features__range', nargs=3, default=(2000, 2000, 1), type=tuple,
+    parser.add_argument('--tfidf_max_features__range', nargs=3, default=(5000, 5000, 1), type=tuple,
                         help='range of pca_features values to test, $3 total between $1 $2')
     parser.add_argument('--n_training_steps__range', nargs=3, default=(500, 500, 1), type=tuple,
                         help='range for number of training steps to test, $3 total between $1 $2')
