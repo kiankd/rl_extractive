@@ -91,7 +91,7 @@ def set_params(arg_namespace, verbose=False):
                 PARAMS_TO_TEST[hparam] = list(map(int, PARAMS_TO_TEST[hparam]))
             if verbose:
                 print(f'\t{hparam}: tests the following {len(PARAMS_TO_TEST[hparam])} '
-                      f'values:\n\t  {PARAMS_TO_TEST[hparam]}')
+                      f'values\n\t\t{PARAMS_TO_TEST[hparam]}')
         elif verbose:
             print(f'\t{hparam}: {value} -- not a hyperparameter, skipping.')
 
@@ -230,11 +230,9 @@ if __name__ == '__main__':
     # now we will set the directory structure
     path_to_results = f'{args.logdir}/{args.name}'
     try:
-        if not args.dry:
-            os.mkdir(path_to_results)
+        os.mkdir(path_to_results)
     except FileExistsError:
-        if not args.force:
-            raise Exception(f'Results dir \"{args.logdir}/{args.name}\" already exists! Aborting.')
+        pass
 
     # get all the articles, clean always
     all_articles = get_samples(True)
