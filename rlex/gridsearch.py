@@ -27,13 +27,13 @@ PARAMS_TO_TEST = {
 }
 
 TINY_PARAMS_TEST = {
-    'v_lr': [0.15],
-    'p_lr': [0.25],
-    'pca_features': [500],
-    'tfidf_max_features': [3000],
+    'v_lr': [0.35],
+    'p_lr': [0.225],
+    'pca_features': [100],
+    'tfidf_max_features': [5000],
     'n_training_steps': [500],
     'update_only_last': [True, False],
-    'batch_mean': [True, False],
+    'batch_mean': [True],
 }
 
 class TaskLog(object):
@@ -233,7 +233,7 @@ if __name__ == '__main__':
                         help='prints details for every model iterated over')
     parser.add_argument('--dry', default=False, action='store_true',
                         help='do a dry run, show all tasks to be performed without doing them')
-    parser.add_argument('--tiny_test', default=False, action='store_true',
+    parser.add_argument('--tiny-test', default=False, action='store_true',
                         help='do a tiny test of 4 models to determine if this all works')
     parser.add_argument('-w', '--write-every', type=int, default=24,
                         help='number of tasks to perform before writing results to disk')

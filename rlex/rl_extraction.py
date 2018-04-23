@@ -210,7 +210,7 @@ class PolicyGradientExtractor(Extractor):
             #   only do it of course if not at the last step.
             if i < NUM_SENTS_EXTRACT - 1:
                 action_tfidf = sents_feats[a][:self.params.s_feats]
-                state = (state - action_tfidf) * ((nS + 1) / nS)
+                state = (((nS + 1) * state) - action_tfidf) * (1 / nS)
                 states.append(state)
         mc_return = self.get_rouge_score_for_snums([a[0] for a in actions], self.articles[article_idx])
         return states, actions, all_sa_feats, policies, mc_return
