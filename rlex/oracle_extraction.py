@@ -76,6 +76,10 @@ class GreedyOracleSummarizer(Extractor):
 
 # basic returns first 3 sents
 class Lead3Summarizer(Extractor):
+    """
+    Most simple extractive summarizer. Simply returns the first three sentences
+        of the article.
+    """
     def __init__(self):
         super(Lead3Summarizer, self).__init__('Lead-3', Params())
 
@@ -86,10 +90,15 @@ class Lead3Summarizer(Extractor):
 
 # random number generator to compare with
 class RandomSummarizer(Extractor):
+    """
+    Baseline summarizer to compare to, simply returns three random
+        sentences as the summary of the article.
+    """
     def __init__(self, seed=1917):
         super(RandomSummarizer, self).__init__(f'Random_seed-{seed}', Params())
         self.random = random.Random(seed)
 
+    @overrides
     def _extract_sentums(self, article, **kwargs):
         sentnums = set()
         while len(sentnums) < NUM_SENTS_EXTRACT:

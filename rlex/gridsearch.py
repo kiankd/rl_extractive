@@ -175,6 +175,37 @@ def get_article_set_results(model, articles, test_name):
 
 
 if __name__ == '__main__':
+    """
+    The code below defines the arguments that can be passed to the program.
+      E.g., when you call $ python gridsearch.py --ARGS (it's like argv in java)
+    So then I can test different things without modifying the program, allows for modularity.
+    The task is extractive summarization.
+    
+    Given an article, select 3 sentences to make the best possible summary of the article.
+    
+    I express this as a kind of wishy-washy RL problem. lol
+    
+    But the important feature of this software is generalization and abstraction (as with everything lol)
+        that is, see the abstract_extraction.py file for the quite useful abstract "Extractor" class 
+    
+    The standard/traditional way to do extractive summarization uses heuristics.
+        -> Turn all the sentences in the document into feature vectors
+        -> Look at all of the sentences one by one, and see which one is most "different"
+            (according to a distance function, e.g., cosine distance) and add that to the summary
+        -> Redo the above till you have three sentences for the summary.
+        -> Easy peesy lemon squeezy.
+    
+    RL says:
+        -> The "state" is the article with its N sentences.
+        -> An "action" is the choice of selecting 1 of the N sentences for the summary.
+        -> The goal is to learn the best "policy" in a general way
+            --> that is, we want the best sentences to be the ones we are most likely to select
+            --> we need to learn P( a | s ) [probability that an action (sentence) belongs to the 
+                summarization, given the current state (the document as a whole)
+        -> RL == learning (specific algorithms are used for this) to act (e.g., select a sentence)  
+            in an environment (e.g., the news article as a whole)
+    """
+
     parser = argparse.ArgumentParser(description='Parallelized gridsearch over policy gradient parameters.')
     parser.add_argument('name', type=str,
                         help='global name for this gridsearch test')
