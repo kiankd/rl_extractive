@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebResourcesPaths">
+    <contentEntries>
+      <entry url="file://$PROJECT_DIR$">
+        <entryData>
+          <resourceRoots>
+            <path value="file://$PROJECT_DIR$/rlex/results" />
+            <path value="file://$PROJECT_DIR$/rlex/results/clean_extrs" />
+            <path value="file://$PROJECT_DIR$/rlex/results/dirty_extrs" />
+            <path value="file://$PROJECT_DIR$/rlex/results/test_arts" />
+            <path value="file://$PROJECT_DIR$/rlex/results/train_arts" />
+            <path value="file://$PROJECT_DIR$/results" />
+            <path value="file://$PROJECT_DIR$/results/gs1" />
+            <path value="file://$PROJECT_DIR$/results/gs2" />
+            <path value="file://$PROJECT_DIR$/results/gs3" />
+            <path value="file://$PROJECT_DIR$/results/gsbigger2" />
+            <path value="file://$PROJECT_DIR$/results/gssmall" />
+            <path value="file://$PROJECT_DIR$/results/newstate" />
+            <path value="file://$PROJECT_DIR$/results/t1" />
+            <path value="file://$PROJECT_DIR$/results/test" />
+            <path value="file://$PROJECT_DIR$/results/testnewstate" />
+          </resourceRoots>
+        </entryData>
+      </entry>
+    </contentEntries>
+  </component>
+</project>

@@ -116,28 +116,28 @@ if __name__ == '__main__':
         Lead3Summarizer(),
         RandomSummarizer(1848),
         GreedyOracleSummarizer('mean'),
-        GreedyOracleSummarizer('rouge-1'),
-        GreedyOracleSummarizer('rouge-2'),
-        GreedyOracleSummarizer('rouge-l'),
-        ExhaustiveOracleSummarizer('mean'),
+        # GreedyOracleSummarizer('rouge-1'),
+        # GreedyOracleSummarizer('rouge-2'),
+        # GreedyOracleSummarizer('rouge-l'),
+        # ExhaustiveOracleSummarizer('mean'),
     ]
     model_scores = {m.name: {'rouge-1': [],
                              'rouge-2': [],
-                             'rouge-l': [],} for m in models}
+                             'rouge-l': [],
+                              'mean': []} for m in models}
 
     for j, a in enumerate(articles):
-        print(a.path)
-        for model in models:
-            ex = model.extract_summary(a)
-            print('{} results:'.format(model.name))
-            for key, scores in ex.rouge_res.items():
-                print('\t{}: {}'.format(key, scores_to_str(scores)))
-                model_scores[model.name][key].append(scores['r'])
-            a.add_extraction_pred(model.name, ex)
-        a.serialize_extr_results(outdir)
-        print()
-        if j >= 9:
-            break
+        # print(a.path)
+        if a.path.endswith('6bb04883f35820a450ff821eda46a4002c0fc7e9.story') or True:
+            for model in models:
+                ex = model.extract_summary(a)
+                print('{} results: {}'.format(model.name, ex.sents))
+                for key, scores in ex.rouge_res.items():
+                    print('\t{}: {}'.format(key, scores_to_str(scores)))
+                    model_scores[model.name][key].append(scores['r'])
+                a.add_extraction_pred(model.name, ex)
+            a.serialize_extr_results(outdir)
+            print()
 
     for name, all_scores in model_scores.items():
         print('\n{} ROUGE Recall scores:'.format(name))

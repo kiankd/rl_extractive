@@ -23,7 +23,7 @@ PARAMS_TO_TEST = {
     'tfidf_max_features': [],
     'n_training_steps': [],
     'update_only_last': [True, False],
-    'batch_mean': [True],
+    'batch_mean': [True, False],
 }
 
 TINY_PARAMS_TEST = {
@@ -223,9 +223,9 @@ if __name__ == '__main__':
                         help='range of v_lr values to test, $3 total between $1 $2')
     parser.add_argument('--p_lr__range', nargs=3, default=(0.05, 0.35, 13), type=tuple,
                         help='range of p_lr values to test, $3 total between $1 $2')
-    parser.add_argument('--pca_features__range', nargs=3, default=(100, 1000, 2), type=tuple,
+    parser.add_argument('--pca_features__range', nargs=3, default=(100, 1000, 3), type=tuple,
                         help='range of pca_features values to test, $3 total between $1 $2')
-    parser.add_argument('--tfidf_max_features__range', nargs=3, default=(5000, 5000, 1), type=tuple,
+    parser.add_argument('--tfidf_max_features__range', nargs=3, default=(2500, 5000, 2), type=tuple,
                         help='range of pca_features values to test, $3 total between $1 $2')
     parser.add_argument('--n_training_steps__range', nargs=3, default=(500, 500, 1), type=tuple,
                         help='range for number of training steps to test, $3 total between $1 $2')

@@ -33,13 +33,9 @@ if __name__ == '__main__':
                       'clean_' if CLEAN_ARTICLES else 'dirty_',
                       'extrs/'])
 
-    models = [RandomSummarizer(), Lead3Summarizer(), GreedyOracleSummarizer('mean')]
+    models = [RandomSummarizer(1848), Lead3Summarizer(), GreedyOracleSummarizer('mean')]
     test_params = [
-        Params(gamma=1, v_lr=0.15, p_lr=0.25, use_baseline=True, update_only_last=False),
-        # Params(v_lr=0.25, p_lr=0.55, use_baseline=True, update_only_last=True),
-        # Params(v_lr=0.25, p_lr=0.60, use_baseline=True, update_only_last=True),
-        # Params(v_lr=0.25, p_lr=0.65, use_baseline=True, update_only_last=True),
-        # Params(v_lr=0.25, p_lr=0.70, use_baseline=True, update_only_last=True),
+        Params(gamma=1, v_lr=0.05, p_lr=0.15, use_baseline=True, update_only_last=True),
     ]
     models.extend(PolicyGradientExtractor(p) for p in test_params)
     train_article_scores = {m.name: {'rouge-1': [],
@@ -49,15 +45,15 @@ if __name__ == '__main__':
     new_articles_scores = deepcopy(train_article_scores)
 
     articles = get_samples(clean=CLEAN_ARTICLES)
-    END_ART_IDX = 100
+    END_ART_IDX = 200
     TRAIN_ARTICLES = articles[0: END_ART_IDX]
     PLOT = True
     SINGLE_ARTICLE_TRAINING = False
     BATCH_ARTICLE_TRAINING = True
     VERBOSE = False
-    BATCH_MEAN = False
+    BATCH_MEAN = True
 
-    features = {'pca_features': 500, 'tfidf_max_features': 2500}
+    features = {'pca_features': 1000, 'tfidf_max_features': 5000}
 
     # test all models
     for i, model in enumerate(models):
@@ -71,7 +67,7 @@ if __name__ == '__main__':
         if BATCH_ARTICLE_TRAINING:
             if model.is_learner():
                 print('Big batch training...')
-                results = model.train_on_batch_articles(1000,
+                results = model.train_on_batch_articles(500,
                                                         articles=TRAIN_ARTICLES,
                                                         track_greedy=PLOT,
                                                         shuffle=False,
@@ -100,8 +96,8 @@ if __name__ == '__main__':
                     print('Training...')
                     sents, train_res = model.train_on_article(j, 1000, store_all_changes=PLOT)
                     if PLOT:
-                        # tests = [RESULTS.w_pgr, RESULTS.w_vpi, RESULTS.policies]
-                        tests = [RESULTS.returns, RESULTS.greedy_scores]
+                        tests = [RESULTS.w_pgr, RESULTS.w_vpi, RESULTS.policies]
+                        tests += [RESULTS.returns, RESULTS.greedy_scores]
                         lines = ['b--', 'r--', 'k--', 'g-']
                         for key, line in zip(tests, lines):
                             values = []
@@ -131,14 +127,19 @@ if __name__ == '__main__':
                 store_ex_result(train_article_scores, VERBOSE)
 
     # print full agglomerated results
+
     print('\n\nRESULTS ON TRAINING ARTICLES:')
     print_model_score_res(train_article_scores)
+    for a in TRAIN_ARTICLES:
+        a.serialize_extr_results(PATH_TO_RESULTS + 'train_arts/')
 
-    print('\n\nRESULTS ON NOVEL ARTICLES:')
+    print('\n\nRESULTS ON VALIDATION ARTICLES:')
     for a in articles[END_ART_IDX:]:
         for model in models:
             ex = model.extract_summary(a)
+            for key, scores in ex.rouge_res.items():
+                store_ex_result(new_articles_scores)
             a.add_extraction_pred(model.name, ex)
-            store_ex_result(new_articles_scores, False)
+        a.serialize_extr_results(PATH_TO_RESULTS + 'test_arts/')
     print_model_score_res(new_articles_scores)
 
