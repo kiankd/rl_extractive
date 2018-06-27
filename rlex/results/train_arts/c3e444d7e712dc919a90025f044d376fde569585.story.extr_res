@@ -1,0 +1,87 @@
+DOCUMENT:
+0: united states vetoed friday u.n. security council resolution would declared israeli settlements west bank illegal
+1: u.s. ambassador united nations susan rice said united states agrees folly illegitimacy continued israeli settlement activity think unwise council attempt resolve core issues divide israelis palestinians
+2: veto first used obama administration
+3: ambassador riyad mansour permanent observer palestine united nations objected veto statement following vote
+4: proper message sent security council israel occupying power contempt international law international community longer tolerated said
+5: fear however message sent today may one encourages israeli intransigence impunity
+6: must remedied
+7: rice noted conversations recent days u.s. palestinian leaders attempt compromise issue israeli settlements
+8: recent days offered constructive alternative course believe would allowed council act unanimously support pursuit peace said
+9: regret effort successful thus longer viable
+10: israel praised veto saying statement decision contributes resumption diplomatic process regrets security council members refrained making contribution
+11: u.s. president barack obama thursday called palestinian authority president mahmoud abbas discuss resolution speak alternatives security council vote according diplomatic source
+12: among options floated american palestinian officials said issuance security council presidential statement weaker actual resolution
+13: obama told abbas withdraw resolution would put united states awkward position u.s.-palestinian relations would suffer result source said
+14: well attempts persuasion let put politely even persuaded rights palestinian people said hanan ashrawi veteran palestinian legislator palestine liberation organization executive committee member
+15: committed international law requirements peace require settlement activity stop security council take resolution condemning settlement activities illegal direct contradiction requirement peace
+16: plo met friday decided move forward vote diplomatic source said adding abbas felt time many leaders either toppled facing massive protests would make look weak opted alternative course
+17: palestinian territories kinds demonstrations seen many arab countries fatah leaders palestinian authority criticism since al-jazeera published secret papers claiming reveal palestinian officials prepared make wide-ranging concessions negotiations israel
+18: obama administration critical israeli settlement construction gone far call illegal
+19: rice reaffirmed u.s. stance friday saying vote friday veto misunderstood mean support settlement activity
+20: contrary reject strongest terms legitimacy continued israeli settlement activity said
+21: since breakdown american-brokered talks israel september issue settlements palestinian authority pursuing policy aimed unilaterally declaring palestinian state september based borders 1967 recent months recognition number south american countries
+22: united states israel oppose unilateral efforts insisting issues conflict must dealt direct negotiations
+23: following vote israel joined united states calling direct negotiations
+24: thus seizing security council possible advance peace process benefit parties serve cause peace security throughout region said statement released israel ministry foreign affairs
+25: american israel public affairs committee also praised veto saying action prevented another one-sided anti-israeli resolution enacted u.n. security council
+26: cnn kevin flower elise labott contributed report
+
+=================================
+Gold summary:
+new veto encourages israeli intransigence observer palestine says
+veto first used u.s. obama administration
+u.s. ambassador u.n. unwise security council try resolve key divisive issue
+palestinian proposal aimed declare israeli settlements west bank illegal
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 0, 25, 23
+	Results: 
+		rouge-1: 0.2903
+		rouge-2: 0.1515
+		rouge-l: 0.2353
+		mean: 0.2257
+	Summary: 
+		united states vetoed friday u.n. security council resolution would declared israeli settlements west bank illegal
+		american israel public affairs committee also praised veto saying action prevented another one-sided anti-israeli resolution enacted u.n. security council
+		following vote israel joined united states calling direct negotiations
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5484
+		rouge-2: 0.2727
+		rouge-l: 0.2353
+		mean: 0.3521
+	Summary: 
+		united states vetoed friday u.n. security council resolution would declared israeli settlements west bank illegal
+		u.s. ambassador united nations susan rice said united states agrees folly illegitimacy continued israeli settlement activity think unwise council attempt resolve core issues divide israelis palestinians
+		veto first used obama administration
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5484
+		rouge-2: 0.2727
+		rouge-l: 0.2353
+		mean: 0.3521
+	Summary: 
+		united states vetoed friday u.n. security council resolution would declared israeli settlements west bank illegal
+		u.s. ambassador united nations susan rice said united states agrees folly illegitimacy continued israeli settlement activity think unwise council attempt resolve core issues divide israelis palestinians
+		veto first used obama administration
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5484
+		rouge-2: 0.2727
+		rouge-l: 0.2353
+		mean: 0.3521
+	Summary: 
+		united states vetoed friday u.n. security council resolution would declared israeli settlements west bank illegal
+		u.s. ambassador united nations susan rice said united states agrees folly illegitimacy continued israeli settlement activity think unwise council attempt resolve core issues divide israelis palestinians
+		veto first used obama administration

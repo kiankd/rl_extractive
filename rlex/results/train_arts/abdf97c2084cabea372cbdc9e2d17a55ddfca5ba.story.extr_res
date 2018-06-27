@@ -1,0 +1,80 @@
+DOCUMENT:
+0: survivor massacre mexico left 72 dead advising would-be migrants stay home avoid fate like one companions met
+1: victims killings happened northern mexico migrants central south america journey north
+2: interview ecuadorean state television survivor identified luis freddy lala spoke harrowing ordeal
+3: although name released face blurred camera
+4: lala said journey began ecuador traveled honduras guatemala
+5: leg trip everything fine said
+6: guatemala crossed mexico made large group migrants northeastern mexican state tamaulipas
+7: three cars surrounded vehicle riding group heavily armed men stepped forcing another car
+8: migrants taken house tied groups four lala said
+9: one point hostages thrown ground face-down
+10: heard shooting friends said
+11: shot killed everyone else
+12: broadcast portions interview clear motive massacre might
+13: soon gunmen finished left premises lala said
+14: left waited two minutes got left house said
+15: walked night morning found military checkpoint asked help
+16: along way lala said denied help two men encountered
+17: advice others wanting go journey toward united states go dangerous cross mexico
+18: telling ecuadoreans travel anymore zetas killing lots people said referring cartel believed behind killings
+19: mexican officials confirmed wednesday second person survived attack authorities said would reveal second survivor identity safety reasons
+
+=================================
+Gold summary:
+ecuadorean luis freddy lala one two survivors massacre mexico
+advises would-be immigrants make journey
+immigrants captured armed men
+shot killed house
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 17, 6, 15
+	Results: 
+		rouge-1: 0.1000
+		rouge-2: 0.0000
+		rouge-l: 0.0476
+		mean: 0.0492
+	Summary: 
+		advice others wanting go journey toward united states go dangerous cross mexico
+		guatemala crossed mexico made large group migrants northeastern mexican state tamaulipas
+		walked night morning found military checkpoint asked help
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4500
+		rouge-2: 0.1500
+		rouge-l: 0.1905
+		mean: 0.2635
+	Summary: 
+		survivor massacre mexico left 72 dead advising would-be migrants stay home avoid fate like one companions met
+		victims killings happened northern mexico migrants central south america journey north
+		interview ecuadorean state television survivor identified luis freddy lala spoke harrowing ordeal
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 2, 11
+	Results: 
+		rouge-1: 0.5000
+		rouge-2: 0.2000
+		rouge-l: 0.2857
+		mean: 0.3286
+	Summary: 
+		survivor massacre mexico left 72 dead advising would-be migrants stay home avoid fate like one companions met
+		interview ecuadorean state television survivor identified luis freddy lala spoke harrowing ordeal
+		shot killed everyone else
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4500
+		rouge-2: 0.1500
+		rouge-l: 0.1905
+		mean: 0.2635
+	Summary: 
+		survivor massacre mexico left 72 dead advising would-be migrants stay home avoid fate like one companions met
+		victims killings happened northern mexico migrants central south america journey north
+		interview ecuadorean state television survivor identified luis freddy lala spoke harrowing ordeal

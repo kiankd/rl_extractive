@@ -1,0 +1,90 @@
+DOCUMENT:
+0: gael monfils play year suffering injury-ravaged 2012
+1: frenchman slipped seventh world 47th missed four months season struggling problem right knee
+2: monfils missed french open wimbledon olympics u.s. open making return action september
+3: monfils pulls roddick battles san jose
+4: made semifinals metz beaten first round stockholm earlier week losing world 435 patrik rosenholm
+5: problem knee decided point playing rest year
+6: already turned attention 2013 monfils coach patrick chamagne told afp
+7: elsewhere germany tommy haas made history winning 500th career match
+8: haas 34 saw jesse levine second round austrian open joined group elite players achieved feat
+9: federer leads charge old men
+10: roger federer 871 wins rafael nadal 583 lleyton hewitt 566 three made jimmy connors all-time leader 1,243
+11: haas achievement go unnoticed awarded fiat 500 retro car court celebrate landmark victory
+12: really wanted reach 500 wins goal start year said haas vienna last year
+13: means lot
+14: hard road play good tennis
+15: one gives anything atp
+16: vienna title spectacular
+17: lot goals years tried reach mine
+18: something great really sure could playing last spring
+19: feel really fit playing good tennis
+20: really makes proud want thank family team supporting
+21: something always look back
+22: second seed janko tipsarevic kept hopes winning place london end year atp world tour finals 6-3 6-4 victory ernests gulbis
+23: tipsarevic currently one place outside eight spaces showpiece conclusion calendar showing little sign nerves
+24: try think anything behind said
+25: affected fact everyone chasing
+26: stay completely focussed every point every match
+27: think ahead behind
+28: australia marinko matosevic face top seed juan martin del potro defeating dominic thiem 6-3 7-6
+29: del potro returned action following month lay-off injury came three hour match wednesday book place last eight
+
+=================================
+Gold summary:
+gael monfils ruled action new year
+frenchman ranking dropped seven 47
+knee problem prevented playing full power
+tommy haas records 500th career victory austrian open
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 8, 12, 14
+	Results: 
+		rouge-1: 0.1600
+		rouge-2: 0.0417
+		rouge-l: 0.1200
+		mean: 0.1072
+	Summary: 
+		haas 34 saw jesse levine second round austrian open joined group elite players achieved feat
+		really wanted reach 500 wins goal start year said haas vienna last year
+		hard road play good tennis
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3200
+		rouge-2: 0.0417
+		rouge-l: 0.2400
+		mean: 0.2006
+	Summary: 
+		gael monfils play year suffering injury-ravaged 2012
+		frenchman slipped seventh world 47th missed four months season struggling problem right knee
+		monfils missed french open wimbledon olympics u.s. open making return action september
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 7, 8
+	Results: 
+		rouge-1: 0.3600
+		rouge-2: 0.1667
+		rouge-l: 0.3600
+		mean: 0.2956
+	Summary: 
+		gael monfils play year suffering injury-ravaged 2012
+		elsewhere germany tommy haas made history winning 500th career match
+		haas 34 saw jesse levine second round austrian open joined group elite players achieved feat
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3200
+		rouge-2: 0.0417
+		rouge-l: 0.2400
+		mean: 0.2006
+	Summary: 
+		gael monfils play year suffering injury-ravaged 2012
+		frenchman slipped seventh world 47th missed four months season struggling problem right knee
+		monfils missed french open wimbledon olympics u.s. open making return action september

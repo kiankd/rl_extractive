@@ -1,0 +1,85 @@
+DOCUMENT:
+0: india cricket tour pakistan scheduled january february next year called indian government confirmed
+1: india current test series england played backdrop tight security
+2: announcement india would travel came sports minister ms gill parliament relations neighboring countries continues deteriorate following mumbai terror attacks
+3: indian cricket board officer ratnakar shetty confirmed notified government decision although rule matches going ahead neutral venue
+4: decision made playing pakistan neutral venue shetty said
+5: planned alternative tour yet
+6: india due play three tests five one-dayers twenty20 international tour starting mid-january
+7: tour already doubt due security situation pakistan put jeopardy terrorist attacks mumbai last month
+8: incidents mumbai indian cricket board normally case sent letter government seeking permission travel pakistan tour
+9: ministry external affairs already refused permission junior hockey team travel pakistan due safety concerns
+10: last week gill said tour going ahead
+11: several former india cricketers including ex-skippers kapil dev sunil gavaskar sourav ganguly said india tour given current circumstances two nations
+12: cricket board vice-president rajiv shukla confirmed due current political scenario atmosphere country government instructed us call tour
+13: always made clear follow government decision tour
+14: keeping policy decision mind tour stands cancelled
+15: relations two countries become strained following mumbai terror attacks last month claimed lives 160 people
+16: indian government put pressure islamabad take action pakistan-based militant groups says behind devastating three-day attacks
+17: earlier month pakistan prime minister yousuf raza gilani said pakistani security forces rounded number militant figures including zarar shah top operational commander lashkar-e-tayyiba let group
+18: united states listed let terrorist group ties osama bin laden al qaeda network
+19: third major cricket tour pakistan year called security grounds
+20: march australia pulled scheduled visit international cricket council icc postponed champions trophy one-day tournament september
+21: pakistan cricket board spokesman asif sohail said pakistan yet receive official notification cancellation tour britain guardian newspaper said
+22: react officially informed sohail said
+23: yet received official communication bcci
+24: meanwhile bbc reported pcb invited sri lanka tour india place
+
+=================================
+Gold summary:
+indian sports minister ms gill confirms india tour pakistan 2009
+india due play number cricket matches january february
+relations two countries strained following recent mumbai attacks
+india latest international cricket side withdraw tour pakistan
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 12, 5, 15
+	Results: 
+		rouge-1: 0.3448
+		rouge-2: 0.0938
+		rouge-l: 0.2353
+		mean: 0.2246
+	Summary: 
+		cricket board vice-president rajiv shukla confirmed due current political scenario atmosphere country government instructed us call tour
+		planned alternative tour yet
+		relations two countries become strained following mumbai terror attacks last month claimed lives 160 people
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5517
+		rouge-2: 0.1562
+		rouge-l: 0.2941
+		mean: 0.3340
+	Summary: 
+		india cricket tour pakistan scheduled january february next year called indian government confirmed
+		india current test series england played backdrop tight security
+		announcement india would travel came sports minister ms gill parliament relations neighboring countries continues deteriorate following mumbai terror attacks
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 2, 6
+	Results: 
+		rouge-1: 0.6552
+		rouge-2: 0.2500
+		rouge-l: 0.3824
+		mean: 0.4292
+	Summary: 
+		india cricket tour pakistan scheduled january february next year called indian government confirmed
+		announcement india would travel came sports minister ms gill parliament relations neighboring countries continues deteriorate following mumbai terror attacks
+		india due play three tests five one-dayers twenty20 international tour starting mid-january
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 8
+	Results: 
+		rouge-1: 0.2759
+		rouge-2: 0.0625
+		rouge-l: 0.2353
+		mean: 0.1912
+	Summary: 
+		india cricket tour pakistan scheduled january february next year called indian government confirmed
+		india current test series england played backdrop tight security
+		incidents mumbai indian cricket board normally case sent letter government seeking permission travel pakistan tour

@@ -1,0 +1,79 @@
+DOCUMENT:
+0: indiana ca kick registered sex offenders instant messaging services chat rooms social networking sites like facebook federal appeals court ruled wednesday
+1: state passed law 2008 aimed keeping predators trolling internet new victims
+2: law broadly prohibits substantial protected speech rather specifically targeting evil improper communications minors three-judge panel 7th u.s. circuit court appeals concluded
+3: state courts impose limits social media condition sex offender probation parole blanket ban internet use violates first amendment guarantee free expression judges found
+4: district judge indianapolis upheld law june federal courts least two states nebraska louisiana struck similar state laws 2012
+5: indiana chapter american civil liberties union challenged statute behalf offender identified john doe served 21 months prison child exploitation
+6: doe released 2003 parole probation covered state ban
+7: ken falk group legal director said indiana already laws books barring solicitiation children enhanced penalties inappropriate communications online
+8: law overturned wednesday barred completely innocent use social media said
+9: wanted participate chat room work around candidate ca said
+10: want follow pope twitter ca
+11: news websites increasingly require commenters log via social network falk said doe could supervise child use social media law
+12: indiana attorney general greg zoeller said office decided whether appeal ruling
+13: indiana legislature made policy decision 2008 state reasonable interests protecting children predators outweighed interest allowing convicted sex offenders troll social media information zoeller said statement issued office
+14: worked county sheriffs prosecutors defense legal challenges protections children need review 7th circuit ruling determine state next steps
+15: facebook largest social media platform already bars sex offenders using site statement rights responsibilities states
+16: also prohibits children 13 multiple accounts site
+17: past facebook worked various states legislation help law enforcement find prosecute convict sexual predators attempt use site
+18: defense battles social media blizzard ohio rape case
+
+=================================
+Gold summary:
+new indiana law banned completely innocent conduct aclu argued
+new state attorney general said law protected reasonable interests
+indiana ca slap blanket ban social media sex offenders court finds
+federal judges struck similar bans nebraska louisiana
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 10, 11, 15
+	Results: 
+		rouge-1: 0.2121
+		rouge-2: 0.0571
+		rouge-l: 0.1667
+		mean: 0.1453
+	Summary: 
+		want follow pope twitter ca
+		news websites increasingly require commenters log via social network falk said doe could supervise child use social media law
+		facebook largest social media platform already bars sex offenders using site statement rights responsibilities states
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3333
+		rouge-2: 0.0571
+		rouge-l: 0.1667
+		mean: 0.1857
+	Summary: 
+		indiana ca kick registered sex offenders instant messaging services chat rooms social networking sites like facebook federal appeals court ruled wednesday
+		state passed law 2008 aimed keeping predators trolling internet new victims
+		law broadly prohibits substantial protected speech rather specifically targeting evil improper communications minors three-judge panel 7th u.s. circuit court appeals concluded
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 4, 12, 13
+	Results: 
+		rouge-1: 0.5152
+		rouge-2: 0.1714
+		rouge-l: 0.2500
+		mean: 0.3122
+	Summary: 
+		district judge indianapolis upheld law june federal courts least two states nebraska louisiana struck similar state laws 2012
+		indiana attorney general greg zoeller said office decided whether appeal ruling
+		indiana legislature made policy decision 2008 state reasonable interests protecting children predators outweighed interest allowing convicted sex offenders troll social media information zoeller said statement issued office
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3333
+		rouge-2: 0.0571
+		rouge-l: 0.1667
+		mean: 0.1857
+	Summary: 
+		indiana ca kick registered sex offenders instant messaging services chat rooms social networking sites like facebook federal appeals court ruled wednesday
+		state passed law 2008 aimed keeping predators trolling internet new victims
+		law broadly prohibits substantial protected speech rather specifically targeting evil improper communications minors three-judge panel 7th u.s. circuit court appeals concluded

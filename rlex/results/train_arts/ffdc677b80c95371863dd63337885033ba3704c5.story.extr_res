@@ -1,0 +1,108 @@
+DOCUMENT:
+0: critics president barack obama foreign policy getting louder day poses risks democrats fall even 2016
+1: according previews hillary clinton memoirs hard choices former secretary state distances obama certain decisions question whether arm syrian rebels
+2: wanted aggressive
+3: democrats grown nervous foreign policy obama working hard respond critics say taken tough-enough line
+4: controversy deal secure release army sgt. bowe bergdahl exchange five taliban prisoners flared extraordinarily heated debate
+5: obama watched approval rating handling international affairs fallen 41
+6: last month obama stand republicans launched another round congressional investigations deaths four americans benghazi libya
+7: russia aggressive moves ukraine stirred talk new cold war concern president really viable response kind aggression
+8: opinion leave man behind
+9: recently controversies shifted president broader vision lack thereof
+10: republicans found lot dislike address west point obama indicated nation step back using military power freely done past
+11: soon came news release bergdahl exchange release five notorious taliban prisoners
+12: republicans quick accuse president negotiating terrorists
+13: also accused violating law failing inform congress impending deal
+14: even though democrats point number huge accomplishments obama presidency killing osama bin laden drawdown wars afghanistan iraq diplomatic initiatives bring nuclear disarmament iran without bloodshed critics upped volume
+15: recent stories add potential foreign policy emerge potent issue midterm campaigns fall
+16: congressional democrats could suffer result unhappiness administration policies
+17: even though midterm elections generally focus bread butter questions health economy well local concerns times foreign policy hurt party president
+18: 1966 instance republicans campaigned lyndon johnson policies vietnam
+19: gop officials former vice president richard nixon said johnson unleashing enough force north vietnamese communists leaving u.s. troops quagmire
+20: 1978 republicans railed president jimmy carter alleged weakness foreign policy claiming gave away much panama canal treaties pursuing dangerous policy détente soviet union
+21: 1982 democrats generally focused recession also spoke favor nuclear freeze warned president ronald reagan embrace military bringing nation close war
+22: recently republicans blasted democrats 2002 weak defense supported administration homeland security bill
+23: 2006 democratic candidates returned favor criticizing president war iraq reckless unnecessary extremely costly operation actually undermined war terrorism
+24: gingrich bergdahl boko haram benghazi
+25: foreign policy carried different levels weight midterms contests 1966 2006 administration actions overseas dismayed voters
+26: foreign policy play factor 2014 midterms
+27: unlikely major issue ways could indirect effect ballot box cause trouble democrats americans turn vote
+28: immediate level foreign policy controversy already distracted news media kinds stories upon congressional democrats hoping focus
+29: foreign policy controversy intensified evidence economy picking steam obama health care program gaining strength
+30: signs accomplishment put back burner overshadowed bergdahl debate
+31: stories also feed perception voters feel democrats done good job managing government
+32: white house prided competence
+33: obama well-educated politician surrounded bright staff vowed avoid kind mismanagement display hurricane katrina president george w. bush term
+34: reputation slowly undercut especially botched health care website rollout va scandal
+35: opinion bergdahl deal ugly decision right
+36: coverage foreign policy including recent reports deal taliban handled played kinds criticism
+37: new york times published lengthy piece diminishing returns obama able obtain past several years exchange release taliban 5 evidence team mishandled process
+38: berghdal deal also becoming way question veracity democratic promises
+39: members congress parties alleged obama violated law ignoring federal statute says president must inform congress one month deal completed
+40: said acting exactly like bush accused discounting legislative intent sweeping notions executive power
+41: foreign policy debate puts focus argument obama well party leads lacks bold vision
+42: something even frustrated many democrats feel president much pragmatist enough visionary
+43: speech west point fell flat americans almost seemed focus excusing could rather outlining wants
+44: visit philippines president explained outlook foreign policy saying hit singles hit doubles every may able hit home run
+45: debate foreign policy helps republicans riling party base opportune time five months election time dispiriting democrats
+46: yes voters thinking primarily faring today economy margins perception local candidate views foreign policy could factor november
+47: opinion big risk former gitmo prisoners
+
+=================================
+Gold summary:
+julian zelizer criticism obama foreign policy increase
+hillary clinton book mentions disagreement obama syrian rebels
+says debate prisoner swap sgt. bowe bergdahl adds controversy
+zelizer says foreign policy effect midterms usually dominated economic issues
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 26, 10, 39
+	Results: 
+		rouge-1: 0.1724
+		rouge-2: 0.0312
+		rouge-l: 0.1176
+		mean: 0.1071
+	Summary: 
+		foreign policy play factor 2014 midterms
+		republicans found lot dislike address west point obama indicated nation step back using military power freely done past
+		members congress parties alleged obama violated law ignoring federal statute says president must inform congress one month deal completed
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2414
+		rouge-2: 0.1250
+		rouge-l: 0.2353
+		mean: 0.2006
+	Summary: 
+		critics president barack obama foreign policy getting louder day poses risks democrats fall even 2016
+		according previews hillary clinton memoirs hard choices former secretary state distances obama certain decisions question whether arm syrian rebels
+		wanted aggressive
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 4, 26
+	Results: 
+		rouge-1: 0.4483
+		rouge-2: 0.1562
+		rouge-l: 0.3235
+		mean: 0.3094
+	Summary: 
+		according previews hillary clinton memoirs hard choices former secretary state distances obama certain decisions question whether arm syrian rebels
+		controversy deal secure release army sgt. bowe bergdahl exchange five taliban prisoners flared extraordinarily heated debate
+		foreign policy play factor 2014 midterms
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 41
+	Results: 
+		rouge-1: 0.2759
+		rouge-2: 0.1250
+		rouge-l: 0.2941
+		mean: 0.2317
+	Summary: 
+		critics president barack obama foreign policy getting louder day poses risks democrats fall even 2016
+		according previews hillary clinton memoirs hard choices former secretary state distances obama certain decisions question whether arm syrian rebels
+		foreign policy debate puts focus argument obama well party leads lacks bold vision

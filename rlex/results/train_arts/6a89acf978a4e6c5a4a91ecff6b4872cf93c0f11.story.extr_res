@@ -1,0 +1,96 @@
+DOCUMENT:
+0: take thumb hold directly front away face
+1: close left eye
+2: open close right eye
+3: thumb appears moved even though move arm
+4: three-d technology capitalizes effect taking advantage brain ability fuse two images one
+5: glasses wear watching something 3-d basically helping brain interpret two flat images one object depth
+6: success avatar cluster 3-d movies including alice wonderland train dragon making mark hollywood
+7: martin scorsese recently announced plans direct 3-d film later year
+8: nintendo also announced plans 3-d gaming console 3ds
+9: many electronics companies 3-d television models bringing opportunity enhanced viewing home networks begin air 3-d programming
+10: comcast 3-d channel aired masters golf tournament earlier month espn plans launch 3-d sports network year
+11: doctors say eyes unaccustomed watching 3-d hours every day dangers including mild symptoms disorientation rare cases seizures
+12: samsung 3d led tv comes substantial health warning
+13: cautions certain flashing images lights could induce epileptic seizure stroke motion sickness perceptual aftereffects disorientation eye strain decreased postural stability may result
+14: doctors say percentage people worry significant adverse effects small especially possibility seizure
+15: commonly people may experience dizziness discomfort watching something 3-d including feature film
+16: one pair 3-d glasses rule
+17: symptoms nausea headache fatigue may result 3-d causes eyes move unnatural way said e-mail dr. lisa park clinical assistant professor department ophthalmology new york university langone medical center
+18: works 3-d movie presents two slightly different perspectives scene superimposed separated specific degree
+19: three-d glasses polarized filter separates two images allowing seen different eye
+20: happens fast see transitions said steven nusinowitz associate professor ophthalmology jules stein eye institute university california los angeles
+21: brain two images fused creating illusion depth said
+22: see something come toward real world eyes slightly cross toward
+23: time lenses change shape order keep object focus moves direction process called accommodation
+24: see images screen eyes try align two images accommodate object actually moving toward
+25: movie telling hey moving around scene vestibular system telling moving anywhere disconnect make feel sick people nusinowitz said
+26: read 3-d ces
+27: certain underlying conditions artificial environment 3-d movie strains ocular system take glasses disorienting said dr. norman saffra director ophthalmology maimonides medical center new york
+28: people whose eyes perfectly aligned weak eye muscle able see 3-d saffra said
+29: strabismus condition eyes point different directions impediment seeing 3-d
+30: people amblyopia lazy eye may also miss depth perception effect wearing 3-d glasses
+31: ca watch 3-d tv
+32: nusinowitz gets dizzy watching 3-d movies eyes different refractive errors needs different prescription strengths lens glasses
+33: still based experiences patients said believes minority
+34: willing say 80 percent people problems said
+35: long-term effects watching 3-d television instead regular television one knows sure new
+36: park concerned serious consequences children watch 3-d television long periods time continuous abnormal stimulus may possibly long-term effects yet studied said
+
+=================================
+Gold summary:
+3-d movies glasses help brain fuse two images creating illusion depth
+symptoms nausea headache fatigue may result eyes move unnaturally
+people certain eye conditions see 3-d
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 35, 20, 28
+	Results: 
+		rouge-1: 0.2000
+		rouge-2: 0.0400
+		rouge-l: 0.1923
+		mean: 0.1441
+	Summary: 
+		long-term effects watching 3-d television instead regular television one knows sure new
+		happens fast see transitions said steven nusinowitz associate professor ophthalmology jules stein eye institute university california los angeles
+		people whose eyes perfectly aligned weak eye muscle able see 3-d saffra said
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.0400
+		rouge-2: 0.0000
+		rouge-l: 0.0385
+		mean: 0.0262
+	Summary: 
+		take thumb hold directly front away face
+		close left eye
+		open close right eye
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 5, 17, 28
+	Results: 
+		rouge-1: 0.6800
+		rouge-2: 0.3200
+		rouge-l: 0.6538
+		mean: 0.5513
+	Summary: 
+		glasses wear watching something 3-d basically helping brain interpret two flat images one object depth
+		symptoms nausea headache fatigue may result 3-d causes eyes move unnatural way said e-mail dr. lisa park clinical assistant professor department ophthalmology new york university langone medical center
+		people whose eyes perfectly aligned weak eye muscle able see 3-d saffra said
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 5
+	Results: 
+		rouge-1: 0.2800
+		rouge-2: 0.0000
+		rouge-l: 0.1923
+		mean: 0.1574
+	Summary: 
+		take thumb hold directly front away face
+		close left eye
+		glasses wear watching something 3-d basically helping brain interpret two flat images one object depth

@@ -1,0 +1,84 @@
+DOCUMENT:
+0: wired u.s. marine corps banned twitter facebook myspace social media sites networks effective immediately
+1: marine corps fears social media sites facebook could pose security risk
+2: internet sites general proven malicious actors content particularly high risk due information exposure user generated content targeting adversaries reads marine corps order issued monday
+3: nature sns -lsb- social network sites -rsb- creates larger attack exploitation window exposes unnecessary information adversaries provides easy conduit information leakage puts opsec -lsb- operational security -rsb- comsec -lsb- communications security -rsb- -lsb- -rsb- personnel elevated risk compromise
+4: marines ban last year
+5: drawn response late july warning u.s. strategic command told rest military considering defense department-wide ban web 2.0 sites due network security concerns
+6: scams worms trojans often spread unchecked throughout social media sites passed along one online friend next
+7: mechanisms social networking never designed security filtering
+8: make way easy people bad intentions push malicious code unsuspecting users stratcom source told wired.com
+9: yet many within pentagon highest ranks find value web 2.0 tools
+10: chairman joint chiefs staff 4,000 followers twitter
+11: department defense getting ready unveil new home page packed social media tools
+12: army recently ordered u.s. bases provide access facebook
+13: top generals blog battlefield
+14: opsec paramount
+15: procedures place deal price floyd pentagon newly-appointed social media czar said
+16: ca let security concerns trump business
+17: business need everywhere men women uniform public
+18: myspace youtube need floyd said
+19: marines say issue waivers web 2.0 blockade mission critical need proven
+20: continue allow access military internal sns-like services
+21: members corps access real public social networks shut next year
+22: subscribe wired magazine less 1 issue get free gift
+23: copyright 2009 wired.com
+
+=================================
+Gold summary:
+u.s. marine corps bans twitter facebook myspace social media sites
+order issued monday states information sites poses security risk
+marines ban effective immediately last year
+u.s. army recently ordered u.s. bases provide access facebook
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 17, 19, 6
+	Results: 
+		rouge-1: 0.1333
+		rouge-2: 0.0606
+		rouge-l: 0.0882
+		mean: 0.0941
+	Summary: 
+		business need everywhere men women uniform public
+		marines say issue waivers web 2.0 blockade mission critical need proven
+		scams worms trojans often spread unchecked throughout social media sites passed along one online friend next
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5667
+		rouge-2: 0.3333
+		rouge-l: 0.3529
+		mean: 0.4176
+	Summary: 
+		wired u.s. marine corps banned twitter facebook myspace social media sites networks effective immediately
+		marine corps fears social media sites facebook could pose security risk
+		internet sites general proven malicious actors content particularly high risk due information exposure user generated content targeting adversaries reads marine corps order issued monday
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 2, 12
+	Results: 
+		rouge-1: 0.7333
+		rouge-2: 0.5152
+		rouge-l: 0.5882
+		mean: 0.6122
+	Summary: 
+		wired u.s. marine corps banned twitter facebook myspace social media sites networks effective immediately
+		internet sites general proven malicious actors content particularly high risk due information exposure user generated content targeting adversaries reads marine corps order issued monday
+		army recently ordered u.s. bases provide access facebook
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5667
+		rouge-2: 0.3333
+		rouge-l: 0.3529
+		mean: 0.4176
+	Summary: 
+		wired u.s. marine corps banned twitter facebook myspace social media sites networks effective immediately
+		marine corps fears social media sites facebook could pose security risk
+		internet sites general proven malicious actors content particularly high risk due information exposure user generated content targeting adversaries reads marine corps order issued monday

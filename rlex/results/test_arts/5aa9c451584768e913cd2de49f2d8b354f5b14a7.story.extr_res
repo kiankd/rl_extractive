@@ -1,0 +1,79 @@
+DOCUMENT:
+0: teenage fugitive suspected flying stolen plane bahamas weekend may surfaced wednesday night authorities said
+1: sightings individual said glenn miller assistant commissioner royal bahamas police force
+2: colton harris-moore dubbed barefoot bandit may seen wednesday evening abaco island miller said
+3: individual spotted white male running bushes miller said
+4: suspect advise turn
+5: harris-moore 19 linked theft single-engine plane sunday monroe county airport bloomington indiana
+6: bruce payton airport director said 2009 cessna 400 corvalis reported missing locked hangar
+7: said coast guard told owner plane emergency location transmitter cessna sending beacon bahamas
+8: plane found abaco miller said investigators took evidence aircraft
+9: also said police looking several reported thefts break-ins reported area since crash-landing
+10: abaco island population approximately 15,000 20,000 miller said
+11: cautioned huge land mass someone hide
+12: island 180 miles east southern florida covers 650 square miles
+13: abaco grand bahamas northernmost islands chain
+14: harris-moore years run began oregon washington linked series home break-ins
+15: past month officials say moved eastward
+16: authorities believe may broken airports south dakota nebraska
+17: also suspected stealing several cars
+18: warrant arrest issued nebraska
+19: fbi offering 10,000 reward information leading arrest
+
+=================================
+Gold summary:
+police person might colton harris-moore seen running bushes
+harris-moore suspected stealing plane flown indiana bahamas
+several thefts break-ins reported since police say
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 0, 9, 14
+	Results: 
+		rouge-1: 0.5000
+		rouge-2: 0.0952
+		rouge-l: 0.3636
+		mean: 0.3196
+	Summary: 
+		teenage fugitive suspected flying stolen plane bahamas weekend may surfaced wednesday night authorities said
+		also said police looking several reported thefts break-ins reported area since crash-landing
+		harris-moore years run began oregon washington linked series home break-ins
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3500
+		rouge-2: 0.0476
+		rouge-l: 0.1818
+		mean: 0.1931
+	Summary: 
+		teenage fugitive suspected flying stolen plane bahamas weekend may surfaced wednesday night authorities said
+		sightings individual said glenn miller assistant commissioner royal bahamas police force
+		colton harris-moore dubbed barefoot bandit may seen wednesday evening abaco island miller said
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 2, 3, 9
+	Results: 
+		rouge-1: 0.5500
+		rouge-2: 0.1905
+		rouge-l: 0.4545
+		mean: 0.3983
+	Summary: 
+		colton harris-moore dubbed barefoot bandit may seen wednesday evening abaco island miller said
+		individual spotted white male running bushes miller said
+		also said police looking several reported thefts break-ins reported area since crash-landing
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3500
+		rouge-2: 0.0476
+		rouge-l: 0.1818
+		mean: 0.1931
+	Summary: 
+		teenage fugitive suspected flying stolen plane bahamas weekend may surfaced wednesday night authorities said
+		sightings individual said glenn miller assistant commissioner royal bahamas police force
+		colton harris-moore dubbed barefoot bandit may seen wednesday evening abaco island miller said

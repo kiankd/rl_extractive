@@ -1,0 +1,88 @@
+DOCUMENT:
+0: across america middle-class families wondering send kids college pay mortgages still manage save enough retirement
+1: women across america face uphill climb workplace continue earn less men
+2: still sit traffic congested roads built decades ago drive run-down roads crumbling bridges
+3: among problems elected leaders expected address
+4: issues voters want us focus
+5: issues american people remember priorities john boehner 113th congress
+6: instead house republicans focused anything strengthening middle class
+7: boehner speaker hopscotched issue issue govern hopes finding silver bullet motivate base elect know lose one crucial issue economy
+8: boehner leading republicans said election irs affordable care act benghazi immigration list goes
+9: headlines alone tell story
+10: • 11/18/13 obamacare mess defines gop 2014 campaign strategy fiscal times
+11: • 1/31/14 republicans turn irs rhetoric elections loom politico
+12: • 3/21/14 republicans double obamacare 2014 time
+13: • 5/08/14 house gop pursue benghazi inquiry going midterm campaigns pbs
+14: • 5/27/14 house vote former i.r.s official signals element gop election strategy new york times
+15: • 8/24/14 republicans shift focus immigration leading election issue huffington post
+16: • 9/23/14 republicans think islamic state winning issue washington post
+17: one constant american remember 113th congress john boehner tea party shut government
+18: shutdown year ago week eventually cost economy 24 billion hurt millions people across country
+19: americans sent home work denied health care treatment case veterans benefits delayed republican members congress kept getting paid time even need take break going taxpayer-funded congressional gym
+20: across country americans already started casting votes 114th congress
+21: voters chance decide whether support candidates put special interests ahead working moms
+22: decide whether want leaders think women able make choices health care
+23: voters casting ballots knowing candidate back one back special interests
+24: remember standout moment congress house republicans could work together lawmakers solutions went shutdown instead
+25: 114th congress house democrats continue focus middle class jumpstart agenda plan built pillars investing infrastructure making college affordable ensuring equal pay equal work
+26: ask democrat election
+27: tell strengthening economy america middle class exactly voters want
+
+=================================
+Gold summary:
+steve israel middle class worries money equal pay crumbling infrastructure
+says gop shown priorities party instead attacks obama
+says boehner congress remembered shutting government 2013
+israel democrats running 2014 focus real priorities middle class
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 9, 10, 15
+	Results: 
+		rouge-1: 0.1034
+		rouge-2: 0.0000
+		rouge-l: 0.0882
+		mean: 0.0639
+	Summary: 
+		headlines alone tell story
+		• 11/18/13 obamacare mess defines gop 2014 campaign strategy fiscal times
+		• 8/24/14 republicans shift focus immigration leading election issue huffington post
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.0690
+		rouge-2: 0.0000
+		rouge-l: 0.0588
+		mean: 0.0426
+	Summary: 
+		across america middle-class families wondering send kids college pay mortgages still manage save enough retirement
+		women across america face uphill climb workplace continue earn less men
+		still sit traffic congested roads built decades ago drive run-down roads crumbling bridges
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 10, 17, 25
+	Results: 
+		rouge-1: 0.4483
+		rouge-2: 0.0625
+		rouge-l: 0.2059
+		mean: 0.2389
+	Summary: 
+		• 11/18/13 obamacare mess defines gop 2014 campaign strategy fiscal times
+		one constant american remember 113th congress john boehner tea party shut government
+		114th congress house democrats continue focus middle class jumpstart agenda plan built pillars investing infrastructure making college affordable ensuring equal pay equal work
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.0690
+		rouge-2: 0.0000
+		rouge-l: 0.0588
+		mean: 0.0426
+	Summary: 
+		across america middle-class families wondering send kids college pay mortgages still manage save enough retirement
+		women across america face uphill climb workplace continue earn less men
+		still sit traffic congested roads built decades ago drive run-down roads crumbling bridges

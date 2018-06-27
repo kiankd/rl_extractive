@@ -1,0 +1,78 @@
+DOCUMENT:
+0: foundation created ray charles suing seven late singer children accusing violating deal father claim rights estate
+1: brewing battle u.s. district court los angeles centers 51 songs written co-written charles
+2: include got woman hit brought national prominence 1954 fool mary ann say songs topped charts early career
+3: ray charles foundation accuses adult children sending copyright termination notices music publishers claiming owned songs foundation contends owns
+4: improper claims created enormous cloud songs ownership causing extreme likelihood value copyrighted assets permanently damaged foundation suit alleges
+5: charles created 500,000 trust 12 children two years 2004 death exchange agreements relinquished waived claims father estate lawsuit said
+6: foundation supports research education programs hearing impaired well youth education programs suit said
+7: foundation depends upon income received said intellectual property contract rights continue wishes ray charles suit said
+8: without royalties music could fund programs said
+9: self-serving attempts part defendants deprive foundation said intellectual property contract rights contrary express wishes father breach agreement signed promises made contrary best interests innocent parties would benefited grants made foundation suit said
+10: four daughters three sons listed lawsuit allegedly trying exploit provision 1976 federal copyright act allows copyright holders one-time opportunity renegotiate older copyrights suit said
+11: charles renegotiated copyrights 1980 said
+12: consequently termination transfer notices served defendants pertaining musical compositions 1980 agreement serves renegotiation invalid suit said
+13: songs also written work hire subject copyright renegotiations said
+14: foundation asking 500,000 damages seven children order preventing claiming rights music
+15: suit lists marc toberoff defendants lawyer
+16: notably also attorney representing estate superman co-creator jerry siegel copyright battle warner bros. control superhero future
+17: toberoff law firm immediately respond phone call e-mail cnn comment
+
+=================================
+Gold summary:
+foundation accuses 7 children wrongfully claiming rights songs
+improper claims created enormous cloud songs value lawsuit says
+foundation charles children gave rights estate 2002 deal father
+controversy involves 51 songs including got woman say
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 0, 2, 15
+	Results: 
+		rouge-1: 0.4138
+		rouge-2: 0.0909
+		rouge-l: 0.2647
+		mean: 0.2565
+	Summary: 
+		foundation created ray charles suing seven late singer children accusing violating deal father claim rights estate
+		include got woman hit brought national prominence 1954 fool mary ann say songs topped charts early career
+		suit lists marc toberoff defendants lawyer
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4483
+		rouge-2: 0.1212
+		rouge-l: 0.3235
+		mean: 0.2977
+	Summary: 
+		foundation created ray charles suing seven late singer children accusing violating deal father claim rights estate
+		brewing battle u.s. district court los angeles centers 51 songs written co-written charles
+		include got woman hit brought national prominence 1954 fool mary ann say songs topped charts early career
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 2, 4
+	Results: 
+		rouge-1: 0.5862
+		rouge-2: 0.2424
+		rouge-l: 0.3529
+		mean: 0.3939
+	Summary: 
+		foundation created ray charles suing seven late singer children accusing violating deal father claim rights estate
+		include got woman hit brought national prominence 1954 fool mary ann say songs topped charts early career
+		improper claims created enormous cloud songs ownership causing extreme likelihood value copyrighted assets permanently damaged foundation suit alleges
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 4
+	Results: 
+		rouge-1: 0.5172
+		rouge-2: 0.2424
+		rouge-l: 0.3529
+		mean: 0.3709
+	Summary: 
+		foundation created ray charles suing seven late singer children accusing violating deal father claim rights estate
+		brewing battle u.s. district court los angeles centers 51 songs written co-written charles
+		improper claims created enormous cloud songs ownership causing extreme likelihood value copyrighted assets permanently damaged foundation suit alleges

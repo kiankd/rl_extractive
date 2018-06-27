@@ -1,0 +1,81 @@
+DOCUMENT:
+0: maker mobile game highlighting uglier side electronics production seen game banned apple app store hours release
+1: creators phone story describe game attempts provoke critical reflection technological platform
+2: according developer website game involves player cartoon versions real-world scenarios involving mineral mining congo reported suicides workers apple manufacturer plant china planned obsolescence tech gadgets resulting environmental impact
+3: profitable consumer-electronics company world apple front center discussions issues
+4: paolo pedercini game italian developer posted blog item twitter feed tuesday announcing app pulled header phone story rip 13/09/2011 13/09/2011
+5: said apple cited sections guidelines ban apps depict violence abuse toward children excessively objectionable crude content paid apps solicit donations causes
+6: game website says proceeds go workers groups nonprofit organizations
+7: response pedercini said planning new app depicts violence abuse children involved electronic manufacturing supply chain noncrude nonobjectionable way
+8: apple response succinct
+9: removed app app store violates developer guidelines said apple spokesman tom neumayr
+10: neumayr would elaborate confirm deny sections pedercini cited correct
+11: game still available 1 android market
+12: first time apple embroiled controversies electronics production fairness many manufacturers computers phones gadgets
+13: wired magazine one taken close look conditions foxconn factory china makes iphones
+14: report describes nets strung around building rash worker suicides
+15: amnesty international organizations decried way coltan mineral necessary mobile phones mined democratic republic congo reports bloody violence control coltan trade deadly conditions workers held slavelike conditions
+16: one amnesty documentary calls blood coltan comparing mineral blood diamonds mined african nations
+17: environmental groups greenpeace blasted apple environmental impact saying products contain hazardous chemicals short life spans led massive waste
+18: site apple lists supplier responsibility actions takes ensure highest standards social responsibility wherever products made
+19: insist suppliers provide safe working conditions treat workers dignity respect use environmentally responsible manufacturing processes page says
+20: apple site says regularly audits companies partners works firms make improvements needed
+
+=================================
+Gold summary:
+apple bans mobile game shows uglier side electronics production
+phone story depicts worker suicides brutal mineral mining africa environmental impact
+apple app violated guidelines include abuse toward children crude content
+developer still game android store says work new version
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 19, 3, 5
+	Results: 
+		rouge-1: 0.2162
+		rouge-2: 0.0789
+		rouge-l: 0.2051
+		mean: 0.1668
+	Summary: 
+		insist suppliers provide safe working conditions treat workers dignity respect use environmentally responsible manufacturing processes page says
+		profitable consumer-electronics company world apple front center discussions issues
+		said apple cited sections guidelines ban apps depict violence abuse toward children excessively objectionable crude content paid apps solicit donations causes
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4595
+		rouge-2: 0.2105
+		rouge-l: 0.3077
+		mean: 0.3259
+	Summary: 
+		maker mobile game highlighting uglier side electronics production seen game banned apple app store hours release
+		creators phone story describe game attempts provoke critical reflection technological platform
+		according developer website game involves player cartoon versions real-world scenarios involving mineral mining congo reported suicides workers apple manufacturer plant china planned obsolescence tech gadgets resulting environmental impact
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 2, 5
+	Results: 
+		rouge-1: 0.5676
+		rouge-2: 0.2632
+		rouge-l: 0.4359
+		mean: 0.4222
+	Summary: 
+		maker mobile game highlighting uglier side electronics production seen game banned apple app store hours release
+		according developer website game involves player cartoon versions real-world scenarios involving mineral mining congo reported suicides workers apple manufacturer plant china planned obsolescence tech gadgets resulting environmental impact
+		said apple cited sections guidelines ban apps depict violence abuse toward children excessively objectionable crude content paid apps solicit donations causes
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4595
+		rouge-2: 0.2105
+		rouge-l: 0.3077
+		mean: 0.3259
+	Summary: 
+		maker mobile game highlighting uglier side electronics production seen game banned apple app store hours release
+		creators phone story describe game attempts provoke critical reflection technological platform
+		according developer website game involves player cartoon versions real-world scenarios involving mineral mining congo reported suicides workers apple manufacturer plant china planned obsolescence tech gadgets resulting environmental impact

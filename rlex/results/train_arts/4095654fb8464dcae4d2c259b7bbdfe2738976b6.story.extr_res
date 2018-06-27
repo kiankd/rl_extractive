@@ -1,0 +1,128 @@
+DOCUMENT:
+0: insane clown posse knows hate
+1: know get makeup never heard songs radio fans look act like anybody else
+2: actually kind love
+3: may never understood till dead gone joseph bruce known violent j said last month sitting among stacks vinyl band warehouse outside detroit
+4: gone people take look whole picture say f ***
+5: though ok anybody taunting discriminating fans known juggalos
+6: icp founders bruce joseph utsler shaggy 2 dope announced last weekend plan file lawsuit fbi labeling fans gang
+7: made announcement gathering juggalos annual music festival draws thousands icp fans rural cave-in-rock illinois
+8: watch insane clown posse sue fbi
+9: government way telling us listen wear violent j told crowd video posted online
+10: telling listen music support music going committing crime eyes
+11: insane clown posse spokeswoman said band lawyers deciding proceed asking juggalos visit juggalosfightback.com report negative consequence employer governmental representative including law enforcement border patrol airline security local state federal governmental agency employee result status juggalo
+12: fbi called juggalos hybrid gang 2011 national gang threat assessment designation icp members call insanely ridiculous
+13: report mentions january 2011 case suspected juggalo member shot couple king county washington january 2010 case two suspected juggalo associates beat robbed elderly man
+14: crimes committed juggalos sporadic disorganized individualistic often involve simple assault personal drug use possession petty theft vandalism fbi report said
+15: however open source reporting suggests small number juggalos forming organized subsets engaging gang-like criminal activity felony assaults thefts robberies drug sales
+16: violent jay shaggy 2 dope see shows love total strangers high-fiving violent j said
+17: camaraderie ca defined explained
+18: icp founders seen fans act
+19: 2010 gathering juggalos lobbed rocks bottles singer former playboy model tila tequila leaving bloodied bruised
+20: shaggy violent j take blame say invited gathering realized negative reaction would asked take stage
+21: tequila injured said insulted juggalos would leave stage
+22: even onslaught press coverage followed blame fans
+23: archives tila tequila wants end juggalos gathering
+24: juggalos come walks life man violent j said
+25: acquired taste
+26: something going pull red light dude next going bumping *** fans like little background little story
+27: want see us wearing wearing
+28: want see us jump fire f ****** strobe lights confetti
+29: bought ticket want see circus
+30: starting 1990s self-dubbed scrubs quietly amassed devoted following fans spans ages backgrounds
+31: common theme among fans outsiders finally found community hip-hop wrestling faygo pop-loving pack los lettes
+32: rely label psychopathic records devotion fans advertise distribute music
+33: news possible lawsuit came days release band new album mighty death pop multiyear effort editions include cover tunes originated michael jackson christina aguilera yo gabba gabba
+34: really high things right substance-ly high
+35: high right violent j said
+36: know joke mainstream world love get fans solid real
+37: say new album best work album songs took years write record
+38: many fans early years boasted lied
+39: ca even remember saw actors artists
+40: still love wrestling rap started getting real message violent j 2003 autobiography behind paint book said exposed dark truths divorce abuse poverty drugs life
+41: came broken homes almost feels stupid sit talk great childhood violent j said
+42: childhood incredibly awesome filled imagination fun adventure
+43: backyard wrestling shaggy added
+44: archives charlie sheen heckled juggalos
+45: poorer violent j continued made today
+46: nowadays take lot impress never *** know mean
+47: got broke possibly together got appreciate everything happened since together day goes sit analyze say man know living dream
+48: still get hang people hung 15 16
+49: work building
+50: get travel world
+51: people know high school years college people become family people
+52: gravy ca say dream like running around friends
+53: 20 years said hitting stride
+54: sober never got hard drugs said talked medication stabilize moods keep pressure overwhelming keep away bad habits past
+55: love coming love going home shaggy said holding electronic cigarette
+56: blessed life
+57: say keep going till wheels fall
+58: people listening actually give f *** say feels good
+59: ca front
+60: feels good people care mind violent j said
+61: get rock stages
+62: f ***** beautiful women life
+63: straight two three chicks
+64: gets *** man
+65: especially scrubs
+66: want see real icp
+67: must watch video
+
+=================================
+Gold summary:
+insane clown posse new album mighty death pop released august 14
+juggalos attended gathering music festival rural illinois last weekend
+icp founders said plans sue fbi labeling fans gang
+government way telling us listen violent j said
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 48, 57, 7
+	Results: 
+		rouge-1: 0.2222
+		rouge-2: 0.0278
+		rouge-l: 0.1351
+		mean: 0.1284
+	Summary: 
+		still get hang people hung 15 16
+		say keep going till wheels fall
+		made announcement gathering juggalos annual music festival draws thousands icp fans rural cave-in-rock illinois
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1111
+		rouge-2: 0.0556
+		rouge-l: 0.1081
+		mean: 0.0916
+	Summary: 
+		insane clown posse knows hate
+		know get makeup never heard songs radio fans look act like anybody else
+		actually kind love
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 6, 9, 33
+	Results: 
+		rouge-1: 0.5556
+		rouge-2: 0.4167
+		rouge-l: 0.3514
+		mean: 0.4412
+	Summary: 
+		icp founders bruce joseph utsler shaggy 2 dope announced last weekend plan file lawsuit fbi labeling fans gang
+		government way telling us listen wear violent j told crowd video posted online
+		news possible lawsuit came days release band new album mighty death pop multiyear effort editions include cover tunes originated michael jackson christina aguilera yo gabba gabba
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 7
+	Results: 
+		rouge-1: 0.3056
+		rouge-2: 0.0833
+		rouge-l: 0.2162
+		mean: 0.2017
+	Summary: 
+		insane clown posse knows hate
+		know get makeup never heard songs radio fans look act like anybody else
+		made announcement gathering juggalos annual music festival draws thousands icp fans rural cave-in-rock illinois

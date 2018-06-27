@@ -1,0 +1,83 @@
+DOCUMENT:
+0: boston cnn boston marathon traditionally event people around massachusetts capital come together celebrate enjoy
+1: 2013 three people died 200 injured pair bombs went within 12 seconds finish line
+2: year least member jury convicted dzhokhar tsarnaev bombings
+3: federal judge george a. told jurors tuesday stressing importance avoiding anything could prejudicial trial sentencing phase
+4: begins april 21 day year edition landmark race
+5: attend boston marathon events gatherings related anniversary current running boston marathon said court
+6: judge spoke less 10 minutes stressed seriousness warnings
+7: first phase tsarnaev trial began march 4 federal prosecutors called 92 witnesses defense four
+8: timeline bombings manhunt aftermath
+9: tsarnaev lawyers never disputed client scene bombings part days-long mayhem followed
+10: tsarnaev lawyer judy clarke acknowledged opening arguments
+11: clarke argued dzhokhar tsarnaev took part plot influence brother tamerlan tsarnaev died bombings brother captured boat parked watertown backyard
+12: argument enough sway jury though
+13: rather convicted dzhokhar tsarnaev 30 counts faced including using weapons mass destruction bombing place public use conspiracy aiding abetting
+14: look charges
+15: question short successful appeal verdict price pay
+16: maximum penalty several charges death
+17: talking jury tuesday predicted sentencing phase last four weeks cautioning forecasting specific timetable less reliable guessing weather
+18: plan court session four days week long process takes
+19: told jurors please put case minds
+20: enjoy warm weather
+21: next tsarnaev
+22: cnn ann reported boston
+23: cnn catherine e. shoichet alexandra field aaron cooper kevin conlon jason hanna steve almasy contributed report
+
+=================================
+Gold summary:
+dzhokhar tsarnaev found guilty 30 counts may face death penalty
+sentencing phase starts april 21 judge predicts last four weeks
+warns jurors anything could prejudicial case
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 17, 11, 12
+	Results: 
+		rouge-1: 0.2692
+		rouge-2: 0.1600
+		rouge-l: 0.1923
+		mean: 0.2072
+	Summary: 
+		talking jury tuesday predicted sentencing phase last four weeks cautioning forecasting specific timetable less reliable guessing weather
+		clarke argued dzhokhar tsarnaev took part plot influence brother tamerlan tsarnaev died bombings brother captured boat parked watertown backyard
+		argument enough sway jury though
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.0769
+		rouge-2: 0.0400
+		rouge-l: 0.0769
+		mean: 0.0646
+	Summary: 
+		boston cnn boston marathon traditionally event people around massachusetts capital come together celebrate enjoy
+		2013 three people died 200 injured pair bombs went within 12 seconds finish line
+		year least member jury convicted dzhokhar tsarnaev bombings
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 3, 13, 17
+	Results: 
+		rouge-1: 0.5385
+		rouge-2: 0.2800
+		rouge-l: 0.3462
+		mean: 0.3882
+	Summary: 
+		federal judge george a. told jurors tuesday stressing importance avoiding anything could prejudicial trial sentencing phase
+		rather convicted dzhokhar tsarnaev 30 counts faced including using weapons mass destruction bombing place public use conspiracy aiding abetting
+		talking jury tuesday predicted sentencing phase last four weeks cautioning forecasting specific timetable less reliable guessing weather
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 2, 1
+	Results: 
+		rouge-1: 0.0769
+		rouge-2: 0.0400
+		rouge-l: 0.0769
+		mean: 0.0646
+	Summary: 
+		boston cnn boston marathon traditionally event people around massachusetts capital come together celebrate enjoy
+		year least member jury convicted dzhokhar tsarnaev bombings
+		2013 three people died 200 injured pair bombs went within 12 seconds finish line

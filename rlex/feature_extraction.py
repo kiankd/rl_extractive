@@ -9,6 +9,7 @@ def extract_sentence_doc_features(
         tfidf_max_features=100,
         pca_features=100,
         verbose=False,
+        get_feature_extractors=False,
 ):
     """
     :param articles: list of Article
@@ -31,7 +32,10 @@ def extract_sentence_doc_features(
     X = np.array(tfidf.fit_transform(all_sents).todense())
 
     if pca_features < tfidf_max_features:
-        X = PCA(n_components=min(pca_features, X.shape[1])).fit_transform(X)
+        pca = PCA(n_components=min(pca_features, X.shape[1]))
+        X = pca.fit_transform(X)
+    else:
+        pca = None
 
     # now this is where the fun begins. first get mean doc feature vectors
     doc_feats = []
@@ -71,6 +75,9 @@ def extract_sentence_doc_features(
         )
 
     if verbose: print('Feature extraction complete.')
-    return list(map(np.array, arts_sent_feats)), doc_feats
+    if get_feature_extractors:
+        return list(map(np.array, arts_sent_feats)), doc_feats, tfidf, pca
+    else:
+        return list(map(np.array, arts_sent_feats)), doc_feats
 
 # def combine

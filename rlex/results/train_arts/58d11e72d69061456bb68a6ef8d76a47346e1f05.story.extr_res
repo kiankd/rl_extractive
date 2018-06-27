@@ -1,0 +1,93 @@
+DOCUMENT:
+0: least 30,000 children mexico involved sort organized crime according nationwide alliance civic social organizations
+1: child rights network mexico says many children taking part death threats economic social necessity
+2: urging government start recognizing victims child abuse
+3: drug cartels training ringleaders spokeswoman veronica morales said
+4: new form abuse used commit offense violate law deceive authorities
+5: past year numerous headlines children arrested mexico
+6: perhaps high-profile case involved 14-year-old boy known el ponchis cloak
+7: found guilty torturing beheading least four people south pacific drug cartel
+8: month boy sentenced three years correctional facility 13-year-old girl captured state jalisco accused part zetas drug cartel
+9: authorities said girl receiving 8,000 pesos month almost 800 lookout
+10: would let gang members know entering leaving luis moya municipality north-central mexico
+11: january last year 15-year-old boy captured jiutepec outside mexico city
+12: impromptu news conference street child confessed lookout south pacific cartel
+13: said collaborating cartel death threats
+14: children easy prey organized crime lack opportunities said josé luis cisneros sociologist metropolitan autonomous university mexico city
+15: socially children see violence way make people respect way exercise certain power something denied families cisneros said
+16: child rights network mexico said documented least 30,000 kids involved criminal group mexican government said
+17: according agence presse-france government told u.n. committee rights child information minors involved criminal armed groups
+18: legal gap children
+19: civil organizations mexico also said law enforcement officials violating children rights make arrests
+20: child rights network mexico said common many child suspects like 14-year-old assassin 15-year-old boy jiutepec presented media without respect privacy presumption innocence
+21: youth criminal justice law exist morales said
+22: proposal review congress even one significant omissions
+23: united nations convention rights child points children treated necessarily imprisoned committed crime
+24: arturo argente director law faculty monterrey institute technology higher education toluca campus agrees mexican authorities must protect child identity guarantee process follow child-abuse angle kid working illegal business
+25: addition said children must receive psychological treatment taught respect law
+26: morales calling comprehensive law would give attention kids specialized courts judges lawyers specialists
+27: child involved organized crime act never suitable investigation said
+28: authorities justify drug-trafficking crime treated regular case
+29: experts note arrested children young people affected organized crime
+30: past five years december 2006 december 2011 least 1,188 children died armed clashes according child rights network mexico
+31: represents 2.5 estimated 47,515 drug-related deaths last five years reported mexican authorities
+32: u.n. committee rights child confirmed 2010 1,000 children died acts linked organized crime
+
+=================================
+Gold summary:
+past year seen numerous headlines children arrested mexico
+least 30,000 involved organized crime says nationwide group
+group says children treated abuse victims criminals
+urging government rehabilitate children protect
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 13, 2, 5
+	Results: 
+		rouge-1: 0.4583
+		rouge-2: 0.2222
+		rouge-l: 0.2500
+		mean: 0.3102
+	Summary: 
+		said collaborating cartel death threats
+		urging government start recognizing victims child abuse
+		past year numerous headlines children arrested mexico
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5417
+		rouge-2: 0.1111
+		rouge-l: 0.3571
+		mean: 0.3366
+	Summary: 
+		least 30,000 children mexico involved sort organized crime according nationwide alliance civic social organizations
+		child rights network mexico says many children taking part death threats economic social necessity
+		urging government start recognizing victims child abuse
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 2, 5, 16
+	Results: 
+		rouge-1: 0.6250
+		rouge-2: 0.2593
+		rouge-l: 0.4286
+		mean: 0.4376
+	Summary: 
+		urging government start recognizing victims child abuse
+		past year numerous headlines children arrested mexico
+		child rights network mexico said documented least 30,000 kids involved criminal group mexican government said
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5417
+		rouge-2: 0.1111
+		rouge-l: 0.3571
+		mean: 0.3366
+	Summary: 
+		least 30,000 children mexico involved sort organized crime according nationwide alliance civic social organizations
+		child rights network mexico says many children taking part death threats economic social necessity
+		urging government start recognizing victims child abuse

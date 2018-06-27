@@ -1,0 +1,119 @@
+DOCUMENT:
+0: oprah.com 1977 friend brenda went dinner little chinese restaurant called empress garden
+1: lemon chicken shrimp har kow egg roll 1977 could eat sugar fat deep-fried everything without signifying apocalypse hand
+2: waiter placed entrées front us ceremoniously lifted shiny silver domes
+3: brenda chicken crunchy outside moist inside lemony knew instant made hideous error judgment gone chicken
+4: tell story illustrate willingness admit made mistake
+5: fact rarely ordered breakfast lunch dinner regret moment wishing iced tea instead diet coke
+6: aside food thing one adorable guy early want man except fact also looking want man never ever wrong
+7: saying always take advice trust instincts
+8: merely suggesting world would much better place everyone else exactly tell
+9: admit thought kicking around years
+10: still one column without ado
+11: everything know world yes
+12: live life
+13: ca get babysitter love god stay home
+14: want sitting next little charlotte duncan fight raisinet midnight screening atonement
+15: wanted kids suck walk subscribe netflix
+16: outgoing phone message longer let say jean hersholt humanitarian year segment oscars ® time rerecord
+17: calling let friend know running late excuse constantly running late
+18: like say words every crabby traveler responds disgust whenever baby cries airplane
+19: perhaps know babies work study turns giving 4-month-old stink eye actually accomplish anything
+20: either little compassion little ambien
+21: something gentleman may reading look good speedo look even better virtually kind swimsuit
+22: came age watergate hearings playing tiny tv avocado green kitchen
+23: every four years wrestle apathy submission read issues cast ballot
+24: must vote
+25: care vote really true think penciling name got ta get game
+26: one word floss
+27: man begins conversation want hurt feelings hurt feelings
+28: kind phrase never followed think eating enough
+29: please lasagna get brownie
+30: opening gambits pretty much scream duck-and-cover include take wrong way feel free say always popular look
+31: enough celeb gossip
+32: problems britney jamie lynn spears competing headline space brains
+33: smarter pretend
+34: get excellent something long division friendship parcheesi removing cranberry juice stains decoupage matter genius impossible ignore legendary expertise removing cranberry juice stains dividing six-digit numbers 37 either bring glory beyond wildest dreams least help feel vaguely competent make way world
+35: allow demystify entire real estate market gracious means ridiculously small
+36: quaint means total wreck ridiculously small
+37: spacious airy luxurious grand mean ridiculously small
+38: like plastic bag bottle water much next self-involved monkey takes 430,000 gallons oil manufacture 100 million grocery bags capable even basic arithmetic say well kidding
+39: capable even basic arithmetic know great danger making al gore really really mad
+40: words matter
+41: time stop prettifying ugly stuff
+42: spousal abuse means wife beating
+43: global warming means earth toast
+44: enhanced interrogation means torture
+45: bit trivia bush administration coin phrase enhanced interrogation
+46: come jack bauer 24
+47: nope gestapo originated little bon mot back 1937
+48: quote elmer fudd bwave widdoe wabbit
+49: take chance wear heart sleeve ask attractive man room dance say want demand entitled
+50: pretty decent chance wo get never even try
+51: note attempt dance invitation actual music playing
+52: sometimes worry become workaholics getting life really hard work
+53: apologies fine people pay salary every week fabulous hearst corporation need log go home remember dinner conversation sex necessarily order
+54: lisa kogan oprah magazine march 2008
+55: subscribe oprah magazine 75 newsstand price
+56: like getting 18 issues free
+57: tm © 2009 harpo productions inc.
+58: rights reserved
+
+=================================
+Gold summary:
+highly opinionated columnist offers advice wide range topics
+apology cut always running late
+men would look better something speedo
+take chance wear heart sleeve get want
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 28, 30, 15
+	Results: 
+		rouge-1: 0.1154
+		rouge-2: 0.0000
+		rouge-l: 0.0769
+		mean: 0.0641
+	Summary: 
+		kind phrase never followed think eating enough
+		opening gambits pretty much scream duck-and-cover include take wrong way feel free say always popular look
+		wanted kids suck walk subscribe netflix
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.0000
+		rouge-2: 0.0000
+		rouge-l: 0.0000
+		mean: 0.0000
+	Summary: 
+		oprah.com 1977 friend brenda went dinner little chinese restaurant called empress garden
+		lemon chicken shrimp har kow egg roll 1977 could eat sugar fat deep-fried everything without signifying apocalypse hand
+		waiter placed entrées front us ceremoniously lifted shiny silver domes
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 17, 21, 49
+	Results: 
+		rouge-1: 0.4615
+		rouge-2: 0.2000
+		rouge-l: 0.3846
+		mean: 0.3487
+	Summary: 
+		calling let friend know running late excuse constantly running late
+		something gentleman may reading look good speedo look even better virtually kind swimsuit
+		take chance wear heart sleeve ask attractive man room dance say want demand entitled
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 44
+	Results: 
+		rouge-1: 0.0000
+		rouge-2: 0.0000
+		rouge-l: 0.0000
+		mean: 0.0000
+	Summary: 
+		oprah.com 1977 friend brenda went dinner little chinese restaurant called empress garden
+		lemon chicken shrimp har kow egg roll 1977 could eat sugar fat deep-fried everything without signifying apocalypse hand
+		enhanced interrogation means torture

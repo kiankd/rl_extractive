@@ -1,0 +1,97 @@
+DOCUMENT:
+0: loudspeakers new york police patrol cars search vehicles avonte oquendo mother calls
+1: urges 14-year-old autistic boy walk toward flashing blue white lights emergency vehicles combing streets
+2: recording part new york police department stepped search efforts find avonte last seen surveillance video running center boulevard school long island city afternoon october 4 keith brooks director operations citywide disaster services said thursday
+3: avonte mother
+4: walk toward lights message repeats
+5: hope teen unable communicate verbally hear sound mother voice approach emergency vehicles
+6: reward safe return avonte grew week 77,500 divers joined ever growing number police rescue officers several states searching nonstop week
+7: avonte mother vanessa fontaine told cnn piers morgan live believes son still alive someone probably holding
+8: message son love going find
+9: come home family
+10: anyone please kind let go said thursday night
+11: nypd commissioner ray kelly said holding school safety officer duty teen ran queens high school responsible boy disappearance
+12: avonte approached front door school day disappeared safety agent told go back upstairs kelly said news conference wednesday
+13: surveillance video showed avonte turning going another hallway exiting building side door said
+14: surveillance video provided police department shows supervisor monitor stopped 14-year-old ran
+15: even though 14 matter
+16: one know allowed run around hallways school
+17: security guard questioned fontaine said
+18: growing autistic
+19: police said avonte last seen wearing gray striped shirt black jeans black sneakers
+20: 5 feet 3 inches tall weighs 125 pounds
+21: missing-persons posters handed search expanded areas outside new york city kelly said
+22: teenager fascinated trains family said
+23: searches train stations tracks tunnels conducted start every shift metropolitan transit authority kelly said adding 50 nypd officers task force detectives working case
+24: transportation officials new york suspended overnight track maintenance city transit system past weekend workers combed underground network
+25: 468 new york city subway stations searched aviation harbor canine officers mobilized deployed periodically nypd said
+26: david perecman oquendo family attorney said took school officials least 45 minutes call police avonte left
+27: understand happens special needs child unless something failed family told piers morgan live thursday
+28: last week perecman said looking child able leave school grounds unsupervised
+29: right submitted freedom information act request city various agencies involved order obtain information us know occurred said
+30: new york city department education issued statement saying working closely police
+31: school commenting
+32: oquendo family filed notice claim wednesday said perecman marking first step lawsuit city new york
+33: declined give information claim
+34: anyone information avonte asked contact nypd crime stoppers hotline 800-577-tips
+35: public also submit tips crime stoppers website nypdcrimestoppers.com text 274637 crimes enter tip577
+36: cnn julia lull contributed report
+
+=================================
+Gold summary:
+new message son love going find mom says
+new attorney says school officials took least 45 minutes call police teen left
+message played speakers police cars search vehicles
+avonte 14 last seen leaving long island city school october 4
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 16, 21, 30
+	Results: 
+		rouge-1: 0.1471
+		rouge-2: 0.0000
+		rouge-l: 0.0769
+		mean: 0.0747
+	Summary: 
+		one know allowed run around hallways school
+		missing-persons posters handed search expanded areas outside new york city kelly said
+		new york city department education issued statement saying working closely police
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4412
+		rouge-2: 0.1842
+		rouge-l: 0.3333
+		mean: 0.3196
+	Summary: 
+		loudspeakers new york police patrol cars search vehicles avonte oquendo mother calls
+		urges 14-year-old autistic boy walk toward flashing blue white lights emergency vehicles combing streets
+		recording part new york police department stepped search efforts find avonte last seen surveillance video running center boulevard school long island city afternoon october 4 keith brooks director operations citywide disaster services said thursday
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 2, 8, 26
+	Results: 
+		rouge-1: 0.7353
+		rouge-2: 0.3421
+		rouge-l: 0.3846
+		mean: 0.4873
+	Summary: 
+		recording part new york police department stepped search efforts find avonte last seen surveillance video running center boulevard school long island city afternoon october 4 keith brooks director operations citywide disaster services said thursday
+		message son love going find
+		david perecman oquendo family attorney said took school officials least 45 minutes call police avonte left
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4412
+		rouge-2: 0.1842
+		rouge-l: 0.3333
+		mean: 0.3196
+	Summary: 
+		loudspeakers new york police patrol cars search vehicles avonte oquendo mother calls
+		urges 14-year-old autistic boy walk toward flashing blue white lights emergency vehicles combing streets
+		recording part new york police department stepped search efforts find avonte last seen surveillance video running center boulevard school long island city afternoon october 4 keith brooks director operations citywide disaster services said thursday

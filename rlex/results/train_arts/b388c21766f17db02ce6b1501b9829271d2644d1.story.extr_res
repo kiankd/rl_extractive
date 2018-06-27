@@ -1,0 +1,113 @@
+DOCUMENT:
+0: day 5 million 6 million containers high seas carrying everything potato chips refrigerators
+1: make destination crew svendborg maersk found
+2: danish-flagged ship bay biscay last week hurricane-force winds battered atlantic coast europe
+3: amid waves 30 feet winds 60 knots svendborg began losing containers northern france
+4: ship arrived spanish port malaga week maersk discovered 520 containers unaccounted
+5: stacks others collapsed
+6: biggest recorded loss containers overboard single incident
+7: repairs made svendborg malaga palle laursen maersk vice president operations says company examining procedures avoid similar incidents future
+8: company told cnn extreme weather unexpectedly forceful impact ship movements
+9: said 85 lost containers empty others included dry goods frozen meat
+10: none contained dangerous goods
+11: maersk contacting customers tell shipments bottom ocean
+12: svendborg way rotterdam netherlands colombo sri lanka via suez canal warned french maritime authorities vessels look floating containers sank quickly mountainous seas
+13: thirteen recovered according french officials
+14: french environmental group robin des bois said friday would sue maersk failing disclose full extent loss occurred putting lives others danger causing pollution abandoning waste sea
+15: group claimed containers lasting danger fishing vessels environment
+16: containers wo float long especially heavy seas
+17: one refrigerated may buoyed insulation use polystyrene packaging goods also aids flotation
+18: new zealand marine insurer vero marine says 20-foot container float two months 40-foot container might float three times long
+19: cargo spills shipping hazards
+20: rogue containers pose danger shipping pollute environment
+21: 2006 thousands bags doritos chips washed beaches north carolina outer banks much delight local gulls container carrying split apart atlantic
+22: famously 1992 container broke apart coast alaska 29,000 plastic ducks frogs escaped
+23: washing far away scotland japan ever since
+24: requirement shipping lines report container losses international maritime organization international body one seems know many containers lost sea every year
+25: 2011 world shipping council estimated including catastrophic losses capsizing vessel 675 containers lost sea annually
+26: transport club insures 15 top 20 container lines put loss fewer 2,000 containers year
+27: industry sources say number may high 10,000
+28: would still represent far less 1 containers traversing world oceans
+29: maersk one world largest lines says highest annual loss last decade 59 containers
+30: hazard still real enough
+31: recent years several small vessels reported damage hitting semi-submerged containers
+32: solo voyage around world american sailor paul lutus wrote one night indian ocean hit waterlogged shipping container low water show radar
+33: 31-foot boat damaged stayed afloat
+34: container weight issue
+35: shipping analysts say one issue affecting stability container stacks steel boxes 20 40 feet long accurately weighed
+36: say shippers frequently understate weight containers reduce freight charges
+37: knowing much cargo weighs introduce sorts problems terms stress vessel must endure sea
+38: three years ago proposal put international maritime organization containers weighed loaded
+39: nothing agreed many shipping associations object proposal expensive time-consuming
+40: even one current investigation may focus attention loading containers
+41: last june 90,000-ton mol comfort literally snapped half 200 miles coast yemen
+42: ship built japan 5 years old
+43: sections comfort well 4,500 containers went ocean floor
+44: one factor investigated whether uneven loading containers contributed intolerable stresses hull
+45: would first disaster
+46: seven years ago 62,000-ton msc napoli suffered catastrophic hull failure ran aground english coast
+47: report uk marine accident investigation board concluded inaccurate information container weights could critical given cargo ships often sail close maximum permissible bending moments measure external stress vessel
+48: investigation recommended stresses acting container ships accurately controlled essential containers weighed embarkation criticized industry overriding desire maintain schedules keep port time minimum
+49: cost salvage cargo came nearly 200 million
+50: interim report sinking mol comfort japanese transport ministry published december also called weight containers verified loading reduce uncertainty ships bending moments
+51: definitive answer comfort demise may never known much evidence lies deep indian ocean waves
+52: shipping containers offer housing solution
+
+=================================
+Gold summary:
+high wind waves struck svendborg maersk bay biscay last week
+520 containers unaccounted ship arrived spanish port
+rogue containers pose danger shipping pollute environment
+proposal put maritime group calls containers weighed loading
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 35, 27, 6
+	Results: 
+		rouge-1: 0.1333
+		rouge-2: 0.0000
+		rouge-l: 0.0625
+		mean: 0.0653
+	Summary: 
+		shipping analysts say one issue affecting stability container stacks steel boxes 20 40 feet long accurately weighed
+		industry sources say number may high 10,000
+		biggest recorded loss containers overboard single incident
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3000
+		rouge-2: 0.1290
+		rouge-l: 0.2188
+		mean: 0.2159
+	Summary: 
+		day 5 million 6 million containers high seas carrying everything potato chips refrigerators
+		make destination crew svendborg maersk found
+		danish-flagged ship bay biscay last week hurricane-force winds battered atlantic coast europe
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 4, 20, 38
+	Results: 
+		rouge-1: 0.6333
+		rouge-2: 0.4194
+		rouge-l: 0.5000
+		mean: 0.5176
+	Summary: 
+		ship arrived spanish port malaga week maersk discovered 520 containers unaccounted
+		rogue containers pose danger shipping pollute environment
+		three years ago proposal put international maritime organization containers weighed loaded
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 52
+	Results: 
+		rouge-1: 0.1667
+		rouge-2: 0.0323
+		rouge-l: 0.1562
+		mean: 0.1184
+	Summary: 
+		day 5 million 6 million containers high seas carrying everything potato chips refrigerators
+		make destination crew svendborg maersk found
+		shipping containers offer housing solution

@@ -1,0 +1,86 @@
+DOCUMENT:
+0: randy travis suffered stroke underwent surgery relieve pressure brain wednesday evening publicist said
+1: mr. randy travis surgery critical condition hospital website announced wednesday night
+2: stroke complication congestive heart failure treated heart hospital baylor plano texas kirt webster said
+3: updates become available webster said
+4: family friends hospital request prayers support
+5: word setback came hours doctors said travis stabilized shown signs improvement
+6: country singer initially hospitalized sunday baylor medical center mckinney texas presumptive cardiomyopathy congestive heart failure dr. william gray said
+7: travis 54 transferred heart hospital baylor plano texas monday dr. michael mack said
+8: determined together joint decision higher level specialized care appropriate therefore transferred heart hospital mack said
+9: doctors implanted device heart help blood flow
+10: singer underwent placement impella peripheral left ventricular assist device stabilization prior transferring hospitals travis spokesman kirt webster said written statement tuesday
+11: opinion randy travis taught country
+12: mayo clinic website described device implantable mechanical pump helps pump blood lower chambers heart rest body
+13: travis illness related recently acquired viral cardiomyopathy webster said
+14: travis recently road performing detroit june 28 chicago june 29
+15: set show deadwood south dakota wednesday
+16: appeared well business meetings friday saturday webster said
+17: sunday hit
+18: viral cardiomyopathy disorder virus attacks muscles heart causing heart beat slower according u.s. centers disease control prevention website
+19: cases heart stop said
+20: travis tough year 2012 arrests assault public intoxication earned probation
+21: travis forefront new traditionalist movement 1980s 1990s faded wore
+22: made comeback turning gospel music 1999
+23: song three wooden crosses song year 2003 country music association academy country music
+24: one country music top-selling artists travis seven grammys 10 academy country music awards 10 american music award statuettes
+25: best-known songs also include forever ever amen diggin bones deeper holler
+
+=================================
+Gold summary:
+new randy travis surgery critical condition hospital says
+travis stroke complication congestive heart failure
+doctors implanted device heart help blood flow
+illness related recently acquired viral cardiomyopathy publicist says
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 20, 21, 14
+	Results: 
+		rouge-1: 0.1154
+		rouge-2: 0.0000
+		rouge-l: 0.1034
+		mean: 0.0729
+	Summary: 
+		travis tough year 2012 arrests assault public intoxication earned probation
+		travis forefront new traditionalist movement 1980s 1990s faded wore
+		travis recently road performing detroit june 28 chicago june 29
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4615
+		rouge-2: 0.3214
+		rouge-l: 0.4138
+		mean: 0.3989
+	Summary: 
+		randy travis suffered stroke underwent surgery relieve pressure brain wednesday evening publicist said
+		mr. randy travis surgery critical condition hospital website announced wednesday night
+		stroke complication congestive heart failure treated heart hospital baylor plano texas kirt webster said
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 9, 13
+	Results: 
+		rouge-1: 0.7308
+		rouge-2: 0.5714
+		rouge-l: 0.6552
+		mean: 0.6525
+	Summary: 
+		mr. randy travis surgery critical condition hospital website announced wednesday night
+		doctors implanted device heart help blood flow
+		travis illness related recently acquired viral cardiomyopathy webster said
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4615
+		rouge-2: 0.3214
+		rouge-l: 0.4138
+		mean: 0.3989
+	Summary: 
+		randy travis suffered stroke underwent surgery relieve pressure brain wednesday evening publicist said
+		mr. randy travis surgery critical condition hospital website announced wednesday night
+		stroke complication congestive heart failure treated heart hospital baylor plano texas kirt webster said

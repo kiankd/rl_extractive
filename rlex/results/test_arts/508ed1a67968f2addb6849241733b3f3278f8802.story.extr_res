@@ -1,0 +1,74 @@
+DOCUMENT:
+0: pair buildings colloquially known marilyn monroe prize best new skyscraper completed 2012
+1: curvy twisting buildings officially known absolute world towers located mississauga ontario designed beijing-based mad architects toronto-based burka architects
+2: way two structures twist organically eight degrees per floor superb technical achievement also refreshing change set forms high-rise routine said international panel expert judges explaining decision
+3: prize given building data company emporis hamburg germany rewards skyscrapers excellence aesthetic functional design company said
+4: thirteenth time prize awarded
+5: coming soon world first invisible tower
+6: judges considered 300 skyscrapers completed last year least 100 meters tall
+7: entries top 10 include buildings doha qatar moscow guangzhou china milan italy
+8: second place al bahr towers abu dhabi designed aedas architects outer skin rotates response sun position leading cooler temperatures inside buildings
+9: 25 great skyscrapers icons construction
+10: burj qatar 238-meter skyscraper designed ateliers jean nouvel doha took third place
+11: features metal mesh facade whose design draws traditional mashrabiya windows intended contribute protection sun revealing complex pattern close quarters
+12: united states buildings list year
+13: photos exploring post-soviet architectural oddities
+
+=================================
+Gold summary:
+german building data company emporis issues list best new skyscrapers
+winner known marilyn monroe due curvy design
+al bahr towers abu dhabi outer skin rotates response sun position
+u.s. buildings made top 10 list year
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 1, 5, 7
+	Results: 
+		rouge-1: 0.1765
+		rouge-2: 0.0294
+		rouge-l: 0.1143
+		mean: 0.1067
+	Summary: 
+		curvy twisting buildings officially known absolute world towers located mississauga ontario designed beijing-based mad architects toronto-based burka architects
+		coming soon world first invisible tower
+		entries top 10 include buildings doha qatar moscow guangzhou china milan italy
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2353
+		rouge-2: 0.0882
+		rouge-l: 0.1429
+		mean: 0.1555
+	Summary: 
+		pair buildings colloquially known marilyn monroe prize best new skyscraper completed 2012
+		curvy twisting buildings officially known absolute world towers located mississauga ontario designed beijing-based mad architects toronto-based burka architects
+		way two structures twist organically eight degrees per floor superb technical achievement also refreshing change set forms high-rise routine said international panel expert judges explaining decision
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 3, 8
+	Results: 
+		rouge-1: 0.6765
+		rouge-2: 0.4412
+		rouge-l: 0.5143
+		mean: 0.5440
+	Summary: 
+		pair buildings colloquially known marilyn monroe prize best new skyscraper completed 2012
+		prize given building data company emporis hamburg germany rewards skyscrapers excellence aesthetic functional design company said
+		second place al bahr towers abu dhabi designed aedas architects outer skin rotates response sun position leading cooler temperatures inside buildings
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 4
+	Results: 
+		rouge-1: 0.2353
+		rouge-2: 0.0882
+		rouge-l: 0.1429
+		mean: 0.1555
+	Summary: 
+		pair buildings colloquially known marilyn monroe prize best new skyscraper completed 2012
+		curvy twisting buildings officially known absolute world towers located mississauga ontario designed beijing-based mad architects toronto-based burka architects
+		thirteenth time prize awarded

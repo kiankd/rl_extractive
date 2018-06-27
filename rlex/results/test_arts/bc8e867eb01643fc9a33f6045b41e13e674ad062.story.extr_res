@@ -1,0 +1,68 @@
+DOCUMENT:
+0: consumers warned stop riding models tikit brand folding bicycles reports handlebar stems breaking injuring riders
+1: bikes manufactured eugene oregon green gear cycling inc. trade name bike friday
+2: consumer product safety commission said company received six reports breaking handlebar stems causing riders lose control
+3: two people suffered scrapes bruises head laceration required stitches
+4: cpsc said 3,800 tikit brand folding bikes various colors sold january 2007 september 2012
+5: bike friday tikit brand decal bike frame
+6: consumers urged contact bike company schedule free repair
+7: spinach mix recalled 16 cases e. coli
+8: honda recalls 268,000 cr-vs possible fire hazard
+
+=================================
+Gold summary:
+handlebar stems tikit brand folding bicycles breaking injuring riders
+bike friday tikit brand decal bike frame
+consumers urged contact bike company schedule free repair
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 0, 4, 7
+	Results: 
+		rouge-1: 0.5000
+		rouge-2: 0.2727
+		rouge-l: 0.3750
+		mean: 0.3826
+	Summary: 
+		consumers warned stop riding models tikit brand folding bicycles reports handlebar stems breaking injuring riders
+		cpsc said 3,800 tikit brand folding bikes various colors sold january 2007 september 2012
+		spinach mix recalled 16 cases e. coli
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.6500
+		rouge-2: 0.3182
+		rouge-l: 0.4167
+		mean: 0.4616
+	Summary: 
+		consumers warned stop riding models tikit brand folding bicycles reports handlebar stems breaking injuring riders
+		bikes manufactured eugene oregon green gear cycling inc. trade name bike friday
+		consumer product safety commission said company received six reports breaking handlebar stems causing riders lose control
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 5, 6
+	Results: 
+		rouge-1: 1.0000
+		rouge-2: 0.9091
+		rouge-l: 0.9167
+		mean: 0.9419
+	Summary: 
+		consumers warned stop riding models tikit brand folding bicycles reports handlebar stems breaking injuring riders
+		bike friday tikit brand decal bike frame
+		consumers urged contact bike company schedule free repair
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 5
+	Results: 
+		rouge-1: 0.7000
+		rouge-2: 0.5000
+		rouge-l: 0.5833
+		mean: 0.5944
+	Summary: 
+		consumers warned stop riding models tikit brand folding bicycles reports handlebar stems breaking injuring riders
+		bikes manufactured eugene oregon green gear cycling inc. trade name bike friday
+		bike friday tikit brand decal bike frame

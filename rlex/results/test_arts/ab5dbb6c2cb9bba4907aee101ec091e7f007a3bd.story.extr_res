@@ -1,0 +1,107 @@
+DOCUMENT:
+0: year ago month british singer amy winehouse died alcohol poisoning 27
+1: back black singer close relationship father mitch recently released book amy daughter
+2: bracingly honest account amy problems heroin alcohol men
+3: book also intimate tender account daughter says cheeky funny good troubled soul
+4: elder winehouse london taxi driver sometime jazz singer recently spoke cnn daughter
+5: cnn write book
+6: mitch winehouse first felt book would help recovery lots misconceptions amy passed away wanted set record straight
+7: wanted people see real amy lovely girl
+8: also set foundation u.s uk needed money
+9: great way raising money write book
+10: author proceeds go foundation
+11: cnn must difficult write
+12: winehouse writing book difficult actually
+13: kind zone read back edits really tough
+14: difficult writing book
+15: cnn want people know amy
+16: winehouse certainly great wit funny generous
+17: people still think died overdose committed suicide
+18: want people know quit drugs three years important
+19: cnn really get sense reading book hard deal loved ones struggling addiction
+20: winehouse pretended heart attacks shock nothing worked ready quit
+21: ready told quit december 2008
+22: clean drugs nearly three years
+23: cnn end alcohol got
+24: winehouse often one addiction follow another
+25: last six weeks life abstinent
+26: even difficult deal
+27: typical pattern someone moving toward total abstinence
+28: course full recovery
+29: alcohol get quicker heroin
+30: people think socially acceptable safe
+31: people incredible
+32: cnn say time heals wounds think true lose child
+33: winehouse pretty much like drug addict
+34: take every day comes
+35: never fully recovered
+36: reasonable amount time able function like everybody else course never fully recover something like
+37: cnn make sad released two albums
+38: winehouse really displeased write albums
+39: might sound ridiculous thing say
+40: last album particularly took lot emotionally every song autobiographical dragged soul would want made albums like would constant turmoil
+41: pleased write albums like actually
+42: cnn tattoo read daddy little girl
+43: winehouse great relationship
+44: great relationship mum wife brother uncles aunts
+45: wonderful family girl
+46: miss greatly
+47: want people understand normal girl extraordinary talent
+
+=================================
+Gold summary:
+amy winehouse father mitch written book
+says last album took lot emotionally
+month marks one-year anniversary death
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 0, 33, 38
+	Results: 
+		rouge-1: 0.1765
+		rouge-2: 0.0625
+		rouge-l: 0.1176
+		mean: 0.1189
+	Summary: 
+		year ago month british singer amy winehouse died alcohol poisoning 27
+		winehouse pretty much like drug addict
+		winehouse really displeased write albums
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3529
+		rouge-2: 0.1250
+		rouge-l: 0.2941
+		mean: 0.2574
+	Summary: 
+		year ago month british singer amy winehouse died alcohol poisoning 27
+		back black singer close relationship father mitch recently released book amy daughter
+		bracingly honest account amy problems heroin alcohol men
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 1, 40
+	Results: 
+		rouge-1: 0.6471
+		rouge-2: 0.3125
+		rouge-l: 0.5882
+		mean: 0.5159
+	Summary: 
+		year ago month british singer amy winehouse died alcohol poisoning 27
+		back black singer close relationship father mitch recently released book amy daughter
+		last album particularly took lot emotionally every song autobiographical dragged soul would want made albums like would constant turmoil
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3529
+		rouge-2: 0.1250
+		rouge-l: 0.2941
+		mean: 0.2574
+	Summary: 
+		year ago month british singer amy winehouse died alcohol poisoning 27
+		back black singer close relationship father mitch recently released book amy daughter
+		bracingly honest account amy problems heroin alcohol men

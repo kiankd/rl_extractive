@@ -1,0 +1,94 @@
+DOCUMENT:
+0: major donors conference raise funds palestinians gone beyond expectations donors pledging 7.4 billion help build palestinian state organizers said monday
+1: france nicolas sarkoxy left welcomes tony blair palestinian leader mahmoud abbas monday
+2: delegations paris meeting offering aid kind international monetary fund said would provide monitoring palestinians promised reforms reassure donors money would used efficiently
+3: palestinian prime minister salam fayyad called pledge money vote confidence palestinians
+4: former british prime minister tony blair said support donors needed repaid coming months steps create lasting settlement
+5: next months show people capability making difference ground said blair co-hosted conference new role envoy so-called middle east quartet united nations united states european union russia
+6: paris conference focuses short-term priorities palestinians french president nicolas sarkozy said include providing immediate support palestinian people particularly living gaza stabilizing palestinian economy
+7: watch cnn jim bittermann explain conference aims
+8: follows heels last month peace talks u.s. israeli palestinian leaders vowed negotiate final-status agreement end 2008
+9: french president nicolas sarkozy said france would donate 300 million united states expected pledge 500 million
+10: central palestinians request aid three-year reform plan palestinians prepared conference
+11: plan covers 2008 2010 centers economic development government reform
+12: world bank praised plan calling promising effort link policy-making planning budgeting
+13: report released monday world bank pointed reforms would succeed helping palestinians accompanied donor aid israeli actions
+14: israeli foreign minister tzipi livni spoke taking actions saying israel committed meeting responsibilities middle east road map especially regarding contentious issue settlements
+15: livni said agreement reached european union provide training palestinian police
+16: palestinian authority president mahmoud abbas said palestinians lack determination resources
+17: promised donors palestinians would work hard create modern country control security
+18: historic stage today destiny region peace depends said abbas requested conference held
+19: abbas earlier requested 5.6 billion aid next three years
+20: sarkozy repeatedly told conference friend israel urged israeli government withdraw troops west bank freeze settlements reopen institutions east jerusalem help isolated population gaza
+21: world bank report detailed challenges facing attempts revive palestinian economy become almost totally dependent foreign aid
+22: palestinian authority largest employer people private-sector jobs dry
+23: world bank said wages public sector employees account almost half government expenditures
+24: public investment nearly ceased world bank said almost government funds past two years used pay salaries cover operating costs
+25: staffing also gone health education sectors world bank said leaving little money pharmaceuticals medical supplies teaching learning materials overall maintenance
+26: world bank said reforms would succeed include gaza 40 percent palestinian population lives
+27: gaza subject wide-ranging crackdown since hamas took power june borders closed fuel imports restricted strict limits imported goods
+28: continued entry humanitarian goods mitigated impact closures gaza population sufficient offset collapse private sector world bank report said
+29: unemployment across palestinian territories stands nearly 23 percent world bank said gaza 33 percent population job
+30: predicted figures would rise restrictions continue
+31: report monday u.n. development program spotlighted pressures private palestinian businesses especially gaza said private sector verge collapse scope recovery unless israeli restrictions lifted
+32: e-mail friend
+33: cnn jim bittermann contributed report
+
+=================================
+Gold summary:
+new donors pledge 7.4 billion help build palestinian state
+new imf offers monitor palestinians promised reforms
+palestinian aid conference organizers hail event new beginning
+tony blair says donors need repaid steps create lasting settlement
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 16, 13, 21
+	Results: 
+		rouge-1: 0.1333
+		rouge-2: 0.0000
+		rouge-l: 0.1471
+		mean: 0.0935
+	Summary: 
+		palestinian authority president mahmoud abbas said palestinians lack determination resources
+		report released monday world bank pointed reforms would succeed helping palestinians accompanied donor aid israeli actions
+		world bank report detailed challenges facing attempts revive palestinian economy become almost totally dependent foreign aid
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5000
+		rouge-2: 0.2424
+		rouge-l: 0.3235
+		mean: 0.3553
+	Summary: 
+		major donors conference raise funds palestinians gone beyond expectations donors pledging 7.4 billion help build palestinian state organizers said monday
+		france nicolas sarkoxy left welcomes tony blair palestinian leader mahmoud abbas monday
+		delegations paris meeting offering aid kind international monetary fund said would provide monitoring palestinians promised reforms reassure donors money would used efficiently
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 2, 4
+	Results: 
+		rouge-1: 0.6667
+		rouge-2: 0.3333
+		rouge-l: 0.5294
+		mean: 0.5098
+	Summary: 
+		major donors conference raise funds palestinians gone beyond expectations donors pledging 7.4 billion help build palestinian state organizers said monday
+		delegations paris meeting offering aid kind international monetary fund said would provide monitoring palestinians promised reforms reassure donors money would used efficiently
+		former british prime minister tony blair said support donors needed repaid coming months steps create lasting settlement
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5000
+		rouge-2: 0.2424
+		rouge-l: 0.3235
+		mean: 0.3553
+	Summary: 
+		major donors conference raise funds palestinians gone beyond expectations donors pledging 7.4 billion help build palestinian state organizers said monday
+		france nicolas sarkoxy left welcomes tony blair palestinian leader mahmoud abbas monday
+		delegations paris meeting offering aid kind international monetary fund said would provide monitoring palestinians promised reforms reassure donors money would used efficiently

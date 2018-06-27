@@ -1,0 +1,113 @@
+DOCUMENT:
+0: cnn student news april 30 2014
+1: another round severe weather strikes u.s. concerns voiced whether rio de janeiro ready 2016 olympics british cancer patient turns bucket list list ways helped others
+2: also visit mexican resort town show likely cutest antelope ever seen
+3: page find today show transcript daily curriculum place leave feedback
+4: click access transcript today cnn student news program
+5: please note may delay time video available transcript published
+6: click printable version daily curriculum pdf
+7: media literacy question day
+8: might pros cons getting vacation information destination tourism website
+9: might go additional information
+10: key concepts identify explain subjects heard today show
+11: international olympic committee ioc
+12: bucket list
+13: fast facts well listening today program
+14: many people u.s. threat severe weather yesterday
+15: states hit suspected tornadoes
+16: aspects forecasting communication helping save lives tornado season
+17: challenges dealing storms still exist
+18: city site 2016 summer olympic games
+19: according head international olympic committee city track ready event
+20: city mayor responded claim
+21: puerto vallarta located
+22: challenges resort faced recent years
+23: according tourism director puerto vallarta tourism industry affected challenges
+24: things resort try lure tourists back
+25: officials respond reports drug violence country
+26: stephen sutton
+27: items bucket list
+28: money people contributed help complete list
+29: organization trying help
+30: much money raised cause
+31: bucket list changed life
+32: sutton say like others get story
+33: discussion questions
+34: kinds preparation think necessary city planning host international event like olympics
+35: would need involved plans
+36: measures think event officials might use determine city making adequate progress preparation
+37: factors consider choosing go vacation
+38: much think personal safety traveling
+39: take precautions protect property vacation
+40: measures could take enhance personal safety still good time
+41: reaction stephen sutton story
+42: think others learn
+43: might person fighting serious illness teach others take life granted
+44: know anyone inspirational regard
+45: cnn student news created team journalists educators consider common core state standards national standards different subject areas state standards producing show curriculum
+46: hope use free daily materials along program welcome feedback
+47: looking feedback cnn student news
+48: please use page leave us comments today program including think stories resources
+49: also feel free tell us use classroom
+50: educators staff monitor page may respond comments well
+51: thank using cnn student news
+52: click submit roll call request
+
+=================================
+Gold summary:
+page includes show transcript daily curriculum
+use transcript help students reading comprehension vocabulary
+daily curriculum offers media literacy question day key concepts fast facts discussion questions
+bottom page please share feedback show curriculum
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 38, 2, 30
+	Results: 
+		rouge-1: 0.0370
+		rouge-2: 0.0000
+		rouge-l: 0.0303
+		mean: 0.0224
+	Summary: 
+		much think personal safety traveling
+		also visit mexican resort town show likely cutest antelope ever seen
+		much money raised cause
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.0370
+		rouge-2: 0.0000
+		rouge-l: 0.0303
+		mean: 0.0224
+	Summary: 
+		cnn student news april 30 2014
+		another round severe weather strikes u.s. concerns voiced whether rio de janeiro ready 2016 olympics british cancer patient turns bucket list list ways helped others
+		also visit mexican resort town show likely cutest antelope ever seen
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 3, 7, 10
+	Results: 
+		rouge-1: 0.4444
+		rouge-2: 0.2581
+		rouge-l: 0.3636
+		mean: 0.3554
+	Summary: 
+		page find today show transcript daily curriculum place leave feedback
+		media literacy question day
+		key concepts identify explain subjects heard today show
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 4
+	Results: 
+		rouge-1: 0.0370
+		rouge-2: 0.0000
+		rouge-l: 0.0303
+		mean: 0.0224
+	Summary: 
+		cnn student news april 30 2014
+		another round severe weather strikes u.s. concerns voiced whether rio de janeiro ready 2016 olympics british cancer patient turns bucket list list ways helped others
+		click access transcript today cnn student news program

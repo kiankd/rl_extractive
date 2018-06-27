@@ -1,0 +1,109 @@
+DOCUMENT:
+0: three men apartment two women outside sorority one visitor deli killed rampage friday night college community near santa barbara california authorities said saturday evening
+1: two women identified katherine cooper 22 veronika weiss 19 students university california santa barbara
+2: christopher martinez 20 killed deli officials said
+3: elliot rodger 22 went rampage isla vista community near university santa barbara city college stabbing three males residence shooting others violent spree friday sheriff bill brown told reporters
+4: injured struck suspect car authorities said
+5: 7 dead california shooting rampage
+6: martinez father gave wrenching statement news media saturday afternoon
+7: really great kid whose death left family lost broken richard martinez said
+8: family message every parent think happen child visibly emotional parent said voice rising shout obvious agony
+9: chris die
+10: chris died craven irresponsible politicians nra
+11: talk gun rights chris right live
+12: insanity stop
+13: enough people say stop madness live like
+14: many died
+15: say one
+16: police say shooter also died
+17: would appear took life said brown
+18: tragic loss
+19: weiss facebook page banner promoting sorority event filling tributes saturday evening
+20: rest peace veronika weiss
+21: fair life taken manor
+22: thoughts loved ones wrote one commenter
+23: always smiling
+24: thought beautiful
+25: wrote another
+26: condolences family tragic loss r.i.p. read third
+27: weiss graduate westlake high school thousand oaks california according facebook page
+28: shooter youtube video titled retribution
+29: youtube video posted titled retribution rodger announced intent commit mass murder sorority house ucsb
+30: day retribution going enter hottest sorority house ucsb said
+31: take great pleasure slaughtering
+32: man behind rampage
+33: police said 13 people injured melee four vehicle eight gunshot wound one unknown origin
+34: authorities earlier said seven people injured
+35: injured treated hospital gunshot wounds traumatic injuries including least one surgery said sheriff office spokeswoman kelly hoover
+36: nick pasichuke hit rodger bmw suffered two broken legs
+37: guy driving bmw
+38: longboard elongated skateboard aimed car group friends gunned us said
+39: two broken legs need surgery
+40: police said flew roughly 50 feet busy intersection
+41: added crazy
+42: witness hysterical
+43: skylar serge witnessed one shootings house
+44: could see woman bike get thrown said
+45: woman bleeding added
+46: sure blood running leg water water bottle
+47: woman cared employee nearby convenience store wrapped belt around thigh stop bleeding said another witness farah reiz
+48: shootings occurred crowded area bustling activity memorial day weekend
+49: students among best country loss life palpable university california system president janet napolitano told cnn
+
+=================================
+Gold summary:
+police name three victims santa barbara county rampage
+one victim father slams politicians nra emotional comments media
+six people killed elliot rodger 22 friday night santa barbara county
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 32, 1, 3
+	Results: 
+		rouge-1: 0.3200
+		rouge-2: 0.1200
+		rouge-l: 0.2500
+		mean: 0.2300
+	Summary: 
+		man behind rampage
+		two women identified katherine cooper 22 veronika weiss 19 students university california santa barbara
+		elliot rodger 22 went rampage isla vista community near university santa barbara city college stabbing three males residence shooting others violent spree friday sheriff bill brown told reporters
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3600
+		rouge-2: 0.0800
+		rouge-l: 0.2500
+		mean: 0.2300
+	Summary: 
+		three men apartment two women outside sorority one visitor deli killed rampage friday night college community near santa barbara california authorities said saturday evening
+		two women identified katherine cooper 22 veronika weiss 19 students university california santa barbara
+		christopher martinez 20 killed deli officials said
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 3, 10
+	Results: 
+		rouge-1: 0.5200
+		rouge-2: 0.2000
+		rouge-l: 0.2857
+		mean: 0.3352
+	Summary: 
+		three men apartment two women outside sorority one visitor deli killed rampage friday night college community near santa barbara california authorities said saturday evening
+		elliot rodger 22 went rampage isla vista community near university santa barbara city college stabbing three males residence shooting others violent spree friday sheriff bill brown told reporters
+		chris died craven irresponsible politicians nra
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3600
+		rouge-2: 0.0800
+		rouge-l: 0.2500
+		mean: 0.2300
+	Summary: 
+		three men apartment two women outside sorority one visitor deli killed rampage friday night college community near santa barbara california authorities said saturday evening
+		two women identified katherine cooper 22 veronika weiss 19 students university california santa barbara
+		christopher martinez 20 killed deli officials said

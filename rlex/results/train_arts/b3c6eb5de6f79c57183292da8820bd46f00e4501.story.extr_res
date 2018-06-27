@@ -1,0 +1,123 @@
+DOCUMENT:
+0: editor note nationally syndicated columnist roland s. martin author listening spirit within 50 perspectives faith speak brother
+1: black man view america
+2: visit web site information
+3: roland martin says fathers across america failing children shirking responsibilities
+4: cnn kill
+5: imagine looking man whose dna carry standing home telling chilling words wields shotgun
+6: frightening image scary thought
+7: according former major league baseball star darryl strawberry actual scene one begins book straw finding way
+8: vividly remember towering home runs hit former star played four big league teams including new york mets yankees course many times news failing drug tests beating wives getting cancer twice going prison
+9: man fighting enormous demons
+10: yet read book one consistent theme runs throughout sheds spotlight figure continues plague neighborhoods across country missing-in-action father
+11: strawberry makes point repeatedly straw blame dad trials tribulations life says decisions made willingly
+12: speak issue father strawberry account technically house raging drunk spent paycheck wanted showing love affection towards children viciously beating strawberry brother telling would nothing life
+13: watch darryl strawberry talk roland martin father
+14: grew inner city south central los angeles
+15: grow inner cities young men father figure around
+16: mothers raising kids told interview
+17: later said loved playing baseball loved playing basketball excelling achieving goals personal goals inside never loved
+18: remember times excelled baseball -lsb- would -rsb- extremely well cheers glitter everything came along know roland
+19: went home night -lsb- asking -rsb-
+20: cynical world undoubtedly say cares drugged-out washed-up ballplayer
+21: mental damage strawberry says wreaked havoc child discounted something millions young children especially boys growing every day
+22: tale stereotypical black athlete grows black father home leading cycle violence lack family unity see around country
+23: strawberry dad
+24: according former ballplayer horrible father
+25: right also young white boys suburban rural america dads home physically yet mentally emotionally checked
+26: hispanics asians
+27: gotten point mother considered essential family father optional expendable increasingly irrelevant
+28: remember watching onstar commercial
+29: company touted features showed father driving child around kid starts cry dad freaks quickly call mom calm baby
+30: watching saying man child
+31: commercial even remember pitching two three kids kitchen making mess spilling cereal
+32: hapless hopeless dad looks says mom
+33: every time commercial comes scream tv mom
+34: parenting skills ingrate
+35: see take seriously importance fathers men lives children
+36: wife children raising four nieces struggling home
+37: need see husband wife caring also instilling right values lives
+38: convinced city streets turned killing fields dads abdicated responsibility raising children
+39: yes mom vital
+40: something different dad speaking lecturing cajoling disciplining embracing loving caring
+41: schools filled children losing minds teachers unable control
+42: happens typically mom grandma aunt coming school deal problem
+43: ask teacher principal today say rarely see dads
+44: mom gotten ticked times often talk father tv radio
+45: love appreciate
+46: rare hear men especially black men speaking affirmatively fathers
+47: know means dad raising caring seeing child drive-by style sending check
+48: dads must present accounted playing vital role children life
+49: appreciated president obama spoke issue fatherhood campaign trail
+50: know story father leaving 2 years old
+51: yes able successful
+52: every obama numerous boys able hold together
+53: called pastors nationwide stop stream momma grandmother aunts female cousins coming altar baby dedications man sight
+54: pastor say personally meet father dedicate child
+55: somebody hold man accountable actions
+56: time men hold boys accountable
+57: actor hill harper friend said seen child time found time play basketball harper
+58: hill said unless call child ca play ball
+59: see hill force accept responsibilities
+60: failure manhood america fatherhood reached epidemic proportions
+61: unless religious cultural institutions say enough enough going see another generation children growing dad absent unaccounted
+62: time men man children grow equal amount love affection parents
+63: opinions expressed commentary solely roland martin
+
+=================================
+Gold summary:
+roland martin darryl strawberry book says father failed family
+martin says fathers across america living responsibilities
+says mothers bearing burden raising kids dealing schools
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 41, 10, 4
+	Results: 
+		rouge-1: 0.1905
+		rouge-2: 0.0000
+		rouge-l: 0.0833
+		mean: 0.0913
+	Summary: 
+		schools filled children losing minds teachers unable control
+		yet read book one consistent theme runs throughout sheds spotlight figure continues plague neighborhoods across country missing-in-action father
+		cnn kill
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1429
+		rouge-2: 0.0000
+		rouge-l: 0.1250
+		mean: 0.0893
+	Summary: 
+		editor note nationally syndicated columnist roland s. martin author listening spirit within 50 perspectives faith speak brother
+		black man view america
+		visit web site information
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 3, 13, 16
+	Results: 
+		rouge-1: 0.6190
+		rouge-2: 0.3043
+		rouge-l: 0.4167
+		mean: 0.4467
+	Summary: 
+		roland martin says fathers across america failing children shirking responsibilities
+		watch darryl strawberry talk roland martin father
+		mothers raising kids told interview
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 23
+	Results: 
+		rouge-1: 0.1905
+		rouge-2: 0.0000
+		rouge-l: 0.1250
+		mean: 0.1052
+	Summary: 
+		editor note nationally syndicated columnist roland s. martin author listening spirit within 50 perspectives faith speak brother
+		black man view america
+		strawberry dad

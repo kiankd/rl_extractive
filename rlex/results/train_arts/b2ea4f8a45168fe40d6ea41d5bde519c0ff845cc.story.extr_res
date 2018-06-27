@@ -1,0 +1,81 @@
+DOCUMENT:
+0: dark windy rainy night per johansson returned work home saro south gothenburg sweden
+1: raining really bad
+2: wind heard something screaming dark voice johansson told cnn
+3: first wondered crazy neighbors heard went checked
+4: saw something really big tree neighbors yard moose
+5: must drunk eating fermented apples reaching fruit must slipped fallen tree
+6: johansson called local fire rescue department responded fire engine jeep winch
+7: got alarm 9.59 p.m. september 6 moose stuck tree said anders gardhagen spokesman gothenburg fire rescue services
+8: arrived used winch bend apple tree moose could get tree
+9: free moose collapsed ground fell asleep
+10: let sleep went back home gardhagen told cnn
+11: moose attracted apple trees autumn apples fallen trees normally least one cases intoxication
+12: apples ferment bellies part natural food get quite angry drunkenness gardhagen said
+13: johansson son gustav turn 11 made sure take lots pictures ordeal
+14: saving buy playstation thought would take pictures could sell johansson said
+15: cnn purchased three gustav pictures
+16: dawn came day freed tree moose yet left
+17: went newspaper still laying ground sleeping
+18: time left work walking around neighbor yard shaky legs
+19: johansson said
+20: today moose came back walked around yard added
+21: think likes
+
+=================================
+Gold summary:
+saw something really big tree per johansson says moose
+rescue team uses winch bring moose
+fermenting apples led intoxication rescue official says
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 9, 3, 5
+	Results: 
+		rouge-1: 0.1579
+		rouge-2: 0.0000
+		rouge-l: 0.0909
+		mean: 0.0829
+	Summary: 
+		free moose collapsed ground fell asleep
+		first wondered crazy neighbors heard went checked
+		must drunk eating fermented apples reaching fruit must slipped fallen tree
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2105
+		rouge-2: 0.0476
+		rouge-l: 0.0909
+		mean: 0.1164
+	Summary: 
+		dark windy rainy night per johansson returned work home saro south gothenburg sweden
+		raining really bad
+		wind heard something screaming dark voice johansson told cnn
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 4, 6, 11
+	Results: 
+		rouge-1: 0.5789
+		rouge-2: 0.1905
+		rouge-l: 0.5000
+		mean: 0.4231
+	Summary: 
+		saw something really big tree neighbors yard moose
+		johansson called local fire rescue department responded fire engine jeep winch
+		moose attracted apple trees autumn apples fallen trees normally least one cases intoxication
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2105
+		rouge-2: 0.0476
+		rouge-l: 0.0909
+		mean: 0.1164
+	Summary: 
+		dark windy rainy night per johansson returned work home saro south gothenburg sweden
+		raining really bad
+		wind heard something screaming dark voice johansson told cnn

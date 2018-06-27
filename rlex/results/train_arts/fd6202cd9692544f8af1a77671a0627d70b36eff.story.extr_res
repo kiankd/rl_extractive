@@ -1,0 +1,80 @@
+DOCUMENT:
+0: american football particularly nfl level requires stamina usually short supply hungry
+1: husain abdullah safety kansas city chiefs let empty stomach ruin game
+2: devout muslim observes ramadan means adhering month without food water daylight hours
+3: far hurting performance abdullah says act fasting actually enhances game
+4: spiritual level actually kind transforms better playing better says
+5: best performances fasting
+6: first time religion played role professional decisions
+7: graduated washington state university landed dream gig backup minnesota vikings
+8: three years later quit team travel go hajj pilgrimage mecca muslims expected make lifetimes
+9: needed see terms advancing level faith islam says
+10: everybody coming mecca thing
+11: everybody asking forgiveness
+12: everybody asking guidance
+13: field abdullah says feel higher power guiding
+14: make play going say
+15: going thank god says
+16: though faith personal journey take offense
+17: people say field admits
+18: ca get away
+19: someone believes god ca get away
+
+=================================
+Gold summary:
+american football star husain abdullah says muslim faith important
+left football travel mecca saudi arabia
+plays kansas city chiefs
+fasts ramadan even means playing football hungry
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 0, 4, 6
+	Results: 
+		rouge-1: 0.2083
+		rouge-2: 0.0400
+		rouge-l: 0.1154
+		mean: 0.1212
+	Summary: 
+		american football particularly nfl level requires stamina usually short supply hungry
+		spiritual level actually kind transforms better playing better says
+		first time religion played role professional decisions
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4583
+		rouge-2: 0.1600
+		rouge-l: 0.3462
+		mean: 0.3215
+	Summary: 
+		american football particularly nfl level requires stamina usually short supply hungry
+		husain abdullah safety kansas city chiefs let empty stomach ruin game
+		devout muslim observes ramadan means adhering month without food water daylight hours
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4583
+		rouge-2: 0.1600
+		rouge-l: 0.3462
+		mean: 0.3215
+	Summary: 
+		american football particularly nfl level requires stamina usually short supply hungry
+		husain abdullah safety kansas city chiefs let empty stomach ruin game
+		devout muslim observes ramadan means adhering month without food water daylight hours
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4583
+		rouge-2: 0.1600
+		rouge-l: 0.3462
+		mean: 0.3215
+	Summary: 
+		american football particularly nfl level requires stamina usually short supply hungry
+		husain abdullah safety kansas city chiefs let empty stomach ruin game
+		devout muslim observes ramadan means adhering month without food water daylight hours

@@ -1,0 +1,125 @@
+DOCUMENT:
+0: brief e-mail arrived late morning january 24
+1: keep looking
+2: jeff zaslow
+3: first became friends 25 years ago
+4: got together often could found town usually long laughter-filled dinners jeff columnist wall street journal recent years became author multiple big bestselling books inspirational themes
+5: going making appearances latest book magic room looked schedule saw days speeches south
+6: knew holed hotel west coast florida trying get writing done
+7: going take two days speeches join hang
+8: talked phone arranged days
+9: today sunday march 4 day arrive
+10: february 10 way back home suburban detroit book signing petoskey michigan night jeff killed instantly according police car skidded snowy road hit head-on oncoming semitrailer truck
+11: jeff wife sherry three daughters jordan alex eden parents harry naomi suffered unfathomable loss
+12: obituaries tributes written friends colleagues centered jeff never-ending thoughtfulness compassion
+13: tributes entirely accurate constancy jeff kindness one life rarities
+14: today jeff arriving time together like pass lesson believe used great effect anyone regardless line work
+15: book first made bestselling author last lecture written professor randy pausch carnegie mellon university
+16: book publishing phenomenon 5 million copies sold english language alone translations 48 languages around world
+17: people thought jeff got lucky book
+18: luck nothing
+19: early september 2007 jeff working wall street journal column trend hearing u.s. universities
+20: professors thinking might say deliver one last lecture fact giving lectures summing meaningful lives
+21: reporting piece jeff learned professor carnegie mellon pausch going give might literally last lecture
+22: pausch dying pancreatic cancer
+23: going inconvenient jeff go detroit pittsburgh speech problem price flight schedule also obligations attend michigan day
+24: would much easier call professor get quote university send audio video recording lecture
+25: remember jeff even know point whether pausch lecture would warrant whole column
+26: got morning detroit jeff jeff decided really ought see
+27: established respected wall street journal staff member one paper would faulted quick interview pausch phone
+28: jeff got car drove 300 miles detroit pittsburgh sit audience listen speech
+29: five-hour drive five-hour 300-mile drive back
+30: paid spectacularly course
+31: column moving tender insightful sensation book ended writing pausch gave jeff new career top echelon american authors provided financial security family
+32: important nothing time
+33: work always went extra step extra hundred steps
+34: never took easy way
+35: remember seven eight years ago well last lecture jeff come chicago interview old-time vaudeville performer
+36: best recollection newspaper story going something audiences audience reactions
+37: old performer going one sliver longer piece
+38: easy phone-call interview
+39: jeff things way
+40: flew chicago suitcase hand checked hotel yet met restaurant arranged dinner
+41: one point talked stage career still pushed hard
+42: said wanted look man eyes interviewed next day
+43: felt story would little better way
+44: end meal went coat-check window taken jeff suitcase long flight stairs store basement level
+45: jeff want young woman carry stairs went get
+46: stood watched came steep flight stairs visibly weary huffing sweating lugging heavy bag looked us burst laughing
+47: look said
+48: look like death -lsb- cuss-word-adjective -rsb- salesman
+49: know said
+50: knew answer
+51: right way job
+52: matter person living
+53: lawyer stays late look citations case law give client best possible chance
+54: teacher goes lesson plan one time adding something vital midnight even though students school administrators never aware effort put
+55: factory worker takes upon check specifications third fourth time wanting absolutely certain product close perfect humanly possible
+56: always pay jeff 10 hours road paid last lecture
+57: hardly ever pays big
+58: times boss colleagues family never know put extra effort
+59: day finally comes big success get big break wo made extra effort
+60: made extra effort every time
+61: lesson like pass
+62: especially today
+63: silence dinner hour tonight going awfully loud
+64: opinions expressed commentary solely bob greene
+
+=================================
+Gold summary:
+bob greene says heard friend jeff zaslow 2 weeks death car crash
+says writer zaslow integrity personal professional inspiring
+drove hundreds miles story easily could phoned
+greene life took extra steps get right lesson us
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 50, 2, 30
+	Results: 
+		rouge-1: 0.0625
+		rouge-2: 0.0294
+		rouge-l: 0.0571
+		mean: 0.0497
+	Summary: 
+		knew answer
+		jeff zaslow
+		paid spectacularly course
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.0625
+		rouge-2: 0.0294
+		rouge-l: 0.0571
+		mean: 0.0497
+	Summary: 
+		brief e-mail arrived late morning january 24
+		keep looking
+		jeff zaslow
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 28, 33, 64
+	Results: 
+		rouge-1: 0.2500
+		rouge-2: 0.0294
+		rouge-l: 0.1714
+		mean: 0.1503
+	Summary: 
+		jeff got car drove 300 miles detroit pittsburgh sit audience listen speech
+		work always went extra step extra hundred steps
+		opinions expressed commentary solely bob greene
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 2, 1
+	Results: 
+		rouge-1: 0.0625
+		rouge-2: 0.0294
+		rouge-l: 0.0571
+		mean: 0.0497
+	Summary: 
+		brief e-mail arrived late morning january 24
+		jeff zaslow
+		keep looking

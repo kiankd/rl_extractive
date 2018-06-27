@@ -1,0 +1,87 @@
+DOCUMENT:
+0: new york yankee alex rodriguez sharply criticized major league baseball commissioner bud selig league investigations division thursday
+1: deeply troubled team investigative findings respect mlb conduct rodriguez said spokesman ron berkowitz
+2: rodriguez accused selig turning blind eye said gross ongoing misconduct division claims responsible suspension
+3: rodriguez appealing 211-game suspension alleged use performance-enhancing drugs
+4: legal team present side case arbitrator november 18
+5: major league baseball similarly sharp response three-time mvp 14-time all-star
+6: latest sad chapter mr. rodriguez tarnished career yet another example player trying avoid taking responsibility poor choices said league chief operating officer rob manfred
+7: continued mr. rodriguez use performance-enhancing drugs longer pervasive player process complete facts prove mr. rodriguez representatives engaged ongoing gross misconduct
+8: war words mlb a-rod continues
+9: since arbitration hearing began september 30 rodriguez filed two lawsuits one selig mlb second yankees team physician christopher ahmad hospital new york presbyterian/columbia university medical center
+10: earlier month manfred strongly denied improper conduct behalf investigative team
+11: investigators complied legal ethical requirements throughout process said
+12: manfred confirmed authorizing 125,000 documents find violations league drug policy
+13: files question come now-shuttered biogenesis anti-aging clinic south florida mlb says supplied steroids least dozen baseball players
+14: police report obtained cnn shows files reported stolen car former biogenesis worker
+15: a-rod grocery store seeks new name
+16: worker told police mlb representatives offered job 125,000 client files
+17: last offer march 18 documents stolen six days later according police report
+18: manfred told cnn one major league baseball knew documents reported stolen
+19: fact people bought made representations contrary said
+20: performance-enhancing drugs sport
+21: rodriguez one 14 players suspended connection biogenesis scandal one appealed suspension
+22: rodriguez 38 fifth mlb list all-time home run leaders six behind willie mays
+23: would make 25 million 2014 suspension overturned
+24: suspension upheld wo eligible return 49 games 2015 season
+25: alex rodriguez suspension case evidence comes big price
+26: cnn steve almasy contributed report
+
+=================================
+Gold summary:
+new mlb official used performance-enhancing drugs longer player
+deeply troubled team investigate findings rodriguez says
+mlb chief operating officer denied improper conduct
+rodriguez appealing suspension alleged use performance-enhancing drugs
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 9, 26, 7
+	Results: 
+		rouge-1: 0.3600
+		rouge-2: 0.1111
+		rouge-l: 0.2069
+		mean: 0.2260
+	Summary: 
+		since arbitration hearing began september 30 rodriguez filed two lawsuits one selig mlb second yankees team physician christopher ahmad hospital new york presbyterian/columbia university medical center
+		cnn steve almasy contributed report
+		continued mr. rodriguez use performance-enhancing drugs longer pervasive player process complete facts prove mr. rodriguez representatives engaged ongoing gross misconduct
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3600
+		rouge-2: 0.1111
+		rouge-l: 0.3103
+		mean: 0.2605
+	Summary: 
+		new york yankee alex rodriguez sharply criticized major league baseball commissioner bud selig league investigations division thursday
+		deeply troubled team investigative findings respect mlb conduct rodriguez said spokesman ron berkowitz
+		rodriguez accused selig turning blind eye said gross ongoing misconduct division claims responsible suspension
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 3, 6
+	Results: 
+		rouge-1: 0.6800
+		rouge-2: 0.3704
+		rouge-l: 0.4483
+		mean: 0.4995
+	Summary: 
+		deeply troubled team investigative findings respect mlb conduct rodriguez said spokesman ron berkowitz
+		rodriguez appealing 211-game suspension alleged use performance-enhancing drugs
+		latest sad chapter mr. rodriguez tarnished career yet another example player trying avoid taking responsibility poor choices said league chief operating officer rob manfred
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3600
+		rouge-2: 0.1111
+		rouge-l: 0.3103
+		mean: 0.2605
+	Summary: 
+		new york yankee alex rodriguez sharply criticized major league baseball commissioner bud selig league investigations division thursday
+		deeply troubled team investigative findings respect mlb conduct rodriguez said spokesman ron berkowitz
+		rodriguez accused selig turning blind eye said gross ongoing misconduct division claims responsible suspension

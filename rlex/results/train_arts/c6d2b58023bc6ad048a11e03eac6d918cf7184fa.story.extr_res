@@ -1,0 +1,129 @@
+DOCUMENT:
+0: kind person likes squeeze quick round golf business meetings
+1: luck happen heading one cities next work trip
+2: pro-designed courses holes inspired snoopy urban fairways prove need go vacation experience challenging beautiful greens
+3: steenberg golf club cape town south africa
+4: located beautiful steenberg wine estate 20 minutes city center 18-hole course several unique features including largest green africa
+5: find 76-meter 249 feet beast 14th hole
+6: also rather unusual hazard mound greenery shaped resemble mountains background
+7: steenberg wonderful golf club says francois pienaar keen golfer former captain south african rugby team
+8: course absolute pleasure play nice challenge amateur
+9: steenberg golf club steenberg estate steenberg road cape town south africa +27 21 713 2221
+10: highland national golf course saint paul minnesota
+11: favorite bit 18-hole highland national golf course
+12: snoopy-shaped 15th hole tribute peanuts creator charles m. schulz learned play golf
+13: course reopened 2005 extensive refurbishment ripe history baseball player minnesota local joe mauer another golfer learned play highland
+14: highland national golf course 1403 montreal ave. saint paul minnesota united states +1 651 695 3774
+15: yas links yas island abu dhabi
+16: located next yas island marina meters grand prix circuit 18-hole golf course built entirely reclaimed land product two million cubic meters dredged sand
+17: took two years build first middle east course designed renowned course architect kyle phillips
+18: love yas links fantastic views variety challenges presents says yas links men captain james duggan
+19: hole different memorable final stretch 15 18 embeds memory forever
+20: windy par 3 17th hole regarded signature hole tricky par 5 18th wrecked many good golf card
+21: yas links yas island abu dhabi +971 2 810 7777
+22: audubon park golf course new orleans louisiana
+23: new orleans beautiful 18-hole course opened 1898 one united states accessed via streetcar case new orleans streetcar recently named national landmark
+24: course future says stan stopa audubon golf pro past 32 years
+25: shorter easier navigate plays faster still challenge
+26: use every club bag
+27: according popular urban legend rock 18th fairway meteor
+28: fact chunk iron ore display 1884-1885 world industrial cotton centennial exposition took place golf course
+29: audubon park golf course 6500 magazine st. new orleans louisiana +1 800 774 7394
+30: windsor golf hotel country club nairobi kenya
+31: urban golf course one mile sea level includes incredibly varied terrain winds nairobi coffee farms indigenous forests although course designer tom macauley claims scotland famous gleneagles course inspiration
+32: makes course unique fact carved tropical rainforest explains local golfer mike macharia
+33: typical round one encounters monkeys array birds occasional dik dik small antelope
+34: favorite hole number 14 designed wind round like river
+35: choose play ball go river simply meander way around
+36: windsor golf hotel country club kigwa road ridgeways kiambu road nairobi kenya +254 722 203 361
+37: royal melbourne golf club melbourne australia
+38: royal melbourne oldest golf club country course beginners maximum handicap play 27 men 36 women
+39: us golf digest ranked course one top 10 world course outside u.s. selected pga tour host presidents cup
+40: notorious hazards include vast expanses tea tree scrubs cavernous bunkers
+41: royal melbourne golf club cheltenham road black rock victoria australia +61 3 9598 2600
+42: del mar country club san diego california
+43: year san diego 18-hole del mar country club golf course dropped members-only policy opening doors public first time
+44: course located heart beautiful private development home celebrities bill gates
+45: recommend dark golf events include putting competitions glow-in-the-dark balls
+46: playing del mar country club real treat says keen local golfer ryan hyslop
+47: beautiful challenging get different experience every time play
+48: course always fantastic condition never miss opportunity play
+49: del mar country club rancho santa fe california +1 858 759 5500
+50: meadow lake golf course whitehorse canada
+51: let sun dictate length game
+52: nine-hole canadian golf course located within whitehorse city limits games summer often extend well night thanks famous midnight sun tee times regularly start 9 p.m.
+53: meadow lakes incredibly scenic course set natural surroundings best greens yukon says local golfer denny kobayashi
+54: locally-owned operated views yukon river valley extraordinary
+55: meadow lake golf course alaska hwy whitehorse yukon canada +1 867 668 4653
+56: golf lounge hamburg germany
+57: urban golf spot might meandering fairways beautiful water features focus golf lounge hamburg much perfecting swing
+58: 40 covered heated tee boxes spread three levels makes one golf options bad weather wo spoil fun
+59: high-tech golf lab players learn improve technique help radar-enabled technology putt lab 2,500 sensors analyze every aspect swing
+60: afterwards golfers practice learned nine-hole putting course
+61: golf lounge hamburg billwerder neuer deich 40 hamburg germany +49 40 819 78 79 0
+62: itc grand bharat golf resort delhi india
+63: spectacular 27-hole golf course newly opened itc grand bharat outskirts delhi first golf course south asia designed jack nicklaus
+64: course ideal players abilities actually made three shorter nine-hole courses canyon ridge valley courses played individually together
+65: itc grand bharat golf resort village dadu tehsil tauru manesar gurgaon india +91 1267 285 500
+66: yanggakdo international hotel golf course pyongyang north korea
+67: could sign without paying tribute world bizarre inner-city golf course yanggakdo international hotel golf course pyongyang north korea least according former advisers country late leader kim il-sung scored countless hole-in-ones
+68: course located island hotel named one hotels foreign guests could stay
+69: hotel course knocked without warning last year although sure replace sure many golfers would loved bragging rights offered playing one
+
+=================================
+Gold summary:
+minnesota highland national golf course snoopy-shaped 15th hole
+golfers check monkeys array birds playing nairobi windsor golf hotel country club
+summer games canada meadow lake golf course extend night thanks midnight sun
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 49, 35, 60
+	Results: 
+		rouge-1: 0.1379
+		rouge-2: 0.0333
+		rouge-l: 0.0938
+		mean: 0.0883
+	Summary: 
+		del mar country club rancho santa fe california +1 858 759 5500
+		choose play ball go river simply meander way around
+		afterwards golfers practice learned nine-hole putting course
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.0345
+		rouge-2: 0.0000
+		rouge-l: 0.0312
+		mean: 0.0219
+	Summary: 
+		kind person likes squeeze quick round golf business meetings
+		luck happen heading one cities next work trip
+		pro-designed courses holes inspired snoopy urban fairways prove need go vacation experience challenging beautiful greens
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 14, 36, 52
+	Results: 
+		rouge-1: 0.5862
+		rouge-2: 0.3000
+		rouge-l: 0.5000
+		mean: 0.4621
+	Summary: 
+		highland national golf course 1403 montreal ave. saint paul minnesota united states +1 651 695 3774
+		windsor golf hotel country club kigwa road ridgeways kiambu road nairobi kenya +254 722 203 361
+		nine-hole canadian golf course located within whitehorse city limits games summer often extend well night thanks famous midnight sun tee times regularly start 9 p.m.
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 63, 50
+	Results: 
+		rouge-1: 0.1724
+		rouge-2: 0.1000
+		rouge-l: 0.2188
+		mean: 0.1637
+	Summary: 
+		kind person likes squeeze quick round golf business meetings
+		spectacular 27-hole golf course newly opened itc grand bharat outskirts delhi first golf course south asia designed jack nicklaus
+		meadow lake golf course whitehorse canada

@@ -1,0 +1,86 @@
+DOCUMENT:
+0: new york cnn nine men arrested connection alleged threats made toward new york police since saturday afternoon two nypd officers shot head behind sitting patrol car authorities said
+1: police said week assessed hundreds online postings calls 911 pressed public continue report suspicious activity
+2: threats members nypd taken seriously investigated immediately determine credibility origin information authorities said wednesday
+3: two latest arrests announced friday
+4: one case man walked 28th precinct approached desk harassed threatened officers apprehended police said
+5: faces charges assault police officer resisting arrest obstructing government administration criminal trespassing disorderly conduct harassment
+6: another case man noticed off-duty officer street wearing part uniform jacket police said
+7: authorities said man verbally threatened officer made firearm gesture hands
+8: off-duty officer called 911 suspect fled
+9: later found sleeping stairwell building nearby
+10: arrests come investigation continues ismaaiyl brinsley 28-year-old police say shot officers wenjian liu rafael ramos brooklyn
+11: hours officers shot brinsley apparently posted instagram account putting wings pigs today take one let take two
+12: brinsley committed suicide shooting officers police said
+13: among arrests week 26-year-old allegedly posted pictures weapons facebook page along threats kill police officers nypd spokeswoman sophia mason said
+14: man facebook post indicated wanted kill two police officers nypd detective annette markowski said
+15: charged making terroristic threats
+16: opinion dark times divided nyc
+17: 41-year-old also arrested wednesday charges aggravated harassment making terroristic threats allegedly called 84th precinct liu ramos stationed requesting speak ramos asked whether bullets removed dead officer head could kill cops mason said
+18: nyc mayor facing tensions strained police shootings
+19: police killer mother speaks
+20: arrests police said least three stemmed postings made social media least two came misdemeanor charges false report incident suspects allegedly called 911 reporting threats made third party later debunked
+21: one arrest made suspect phoned direct threat 911
+22: wednesday man arrested weapons drug harassment charges overheard threatening kill cops talking cell phone inside bank queens according nypd
+23: man accused saying phone going kill cop brinsley killed white police officers according criminal complaint filed court
+24: complaint says police interviewed suspect elaborated two white officers killed guy really wanted send message
+25: tweet thursday mayor bill de blasio thanked police department civilian saw something suspicious acted
+26: thank nypd officers today arrested man threatened kill cops good samaritan provided key information
+
+=================================
+Gold summary:
+nypd makes two additional arrests connection alleged threats
+police monitored social media activity
+follows weekend killing two officers brooklyn
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 25, 11, 6
+	Results: 
+		rouge-1: 0.1667
+		rouge-2: 0.0000
+		rouge-l: 0.1053
+		mean: 0.0906
+	Summary: 
+		tweet thursday mayor bill de blasio thanked police department civilian saw something suspicious acted
+		hours officers shot brinsley apparently posted instagram account putting wings pigs today take one let take two
+		another case man noticed off-duty officer street wearing part uniform jacket police said
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4444
+		rouge-2: 0.1111
+		rouge-l: 0.3158
+		mean: 0.2904
+	Summary: 
+		new york cnn nine men arrested connection alleged threats made toward new york police since saturday afternoon two nypd officers shot head behind sitting patrol car authorities said
+		police said week assessed hundreds online postings calls 911 pressed public continue report suspicious activity
+		threats members nypd taken seriously investigated immediately determine credibility origin information authorities said wednesday
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 10, 20
+	Results: 
+		rouge-1: 0.6111
+		rouge-2: 0.1667
+		rouge-l: 0.3684
+		mean: 0.3821
+	Summary: 
+		new york cnn nine men arrested connection alleged threats made toward new york police since saturday afternoon two nypd officers shot head behind sitting patrol car authorities said
+		arrests come investigation continues ismaaiyl brinsley 28-year-old police say shot officers wenjian liu rafael ramos brooklyn
+		arrests police said least three stemmed postings made social media least two came misdemeanor charges false report incident suspects allegedly called 911 reporting threats made third party later debunked
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 4
+	Results: 
+		rouge-1: 0.4444
+		rouge-2: 0.1111
+		rouge-l: 0.3158
+		mean: 0.2904
+	Summary: 
+		new york cnn nine men arrested connection alleged threats made toward new york police since saturday afternoon two nypd officers shot head behind sitting patrol car authorities said
+		police said week assessed hundreds online postings calls 911 pressed public continue report suspicious activity
+		one case man walked 28th precinct approached desk harassed threatened officers apprehended police said

@@ -1,0 +1,103 @@
+DOCUMENT:
+0: sight baby girl suckling breast dead mother changed course abebech gobena life forever
+1: year 1980 ethiopia lay grip would become one devastating famines history
+2: gobena devout christian pilgrimage holy site north-east region country came across dead mother baby lying amid sea people starving death
+3: returning many hungry people sprawled could even walk gobena told cnn
+4: bread tried feed
+5: fed two men
+6: reached woman dead child still suckling breast continued
+7: one chauffeurs charged picking corpses said waiting child die pick bodies
+8: ca bear take child well still alive gobena said
+9: without second thought gobena bundled tiny girl arms smuggled country capital addis ababa
+10: instant transformed baby future
+11: haunted images dying people long gobena headed back countryside effort source water destitute locals
+12: came across another child arms dying father
+13: find gobena orphanage
+14: gobena told cnn end day going home came upon five people three dead two alive
+15: one men dying side road said child
+16: please save child
+17: gobena took baby boy home posed threat safety explained cnn
+18: terrible famine
+19: government time want famine public knowledge
+20: pretend children mine smuggle
+21: end 1980 gobena taken 21 children
+22: desire save young children caused friction family
+23: family husband gave ultimatum choose children choose life told cnn
+24: relatives even mother said gone mad checked mental institution
+25: gobena continued welcome home
+26: decided move land bought intention raising chicken
+27: moved forest area kids
+28: thirty years gobena famously known africa mother theresa founder ethiopia oldest orphanage
+29: gobena thirty-year legacy means raised generation ethiopia abandoned children orphaned ravages famine war hiv/aids
+30: however leaving family tough decision gobena struggled since childhood gain education job secure family life
+31: born 1938 month-old father killed ethio-italian war
+32: tradition dictated brought father parents age 11 married without consent
+33: revolting marriage gobena ran away home addis ababa scraped basic education gained job quality controller remarried
+34: told cnn suffered traditions country born
+35: things improved
+36: goal marry raise adults take care
+37: gobena come long way since 1980 struggled survive resorting selling possessions tearing dresses make clothes infants
+38: orphanage well sheltering also acts school educating 700 children
+39: says regrets
+40: god helped get point
+41: always great faith god
+42: knew would survive even selling small things roadside
+43: happy none children died grew
+
+=================================
+Gold summary:
+abebech gobena founder ethiopia first orphanage
+humanitarian work started saved life baby girl suckling breast dead mother
+gobena orphanage cares 700 children
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 2, 11, 21
+	Results: 
+		rouge-1: 0.2500
+		rouge-2: 0.0476
+		rouge-l: 0.2273
+		mean: 0.1750
+	Summary: 
+		gobena devout christian pilgrimage holy site north-east region country came across dead mother baby lying amid sea people starving death
+		haunted images dying people long gobena headed back countryside effort source water destitute locals
+		end 1980 gobena taken 21 children
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5000
+		rouge-2: 0.2857
+		rouge-l: 0.3182
+		mean: 0.3680
+	Summary: 
+		sight baby girl suckling breast dead mother changed course abebech gobena life forever
+		year 1980 ethiopia lay grip would become one devastating famines history
+		gobena devout christian pilgrimage holy site north-east region country came across dead mother baby lying amid sea people starving death
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 28, 38
+	Results: 
+		rouge-1: 0.7000
+		rouge-2: 0.3810
+		rouge-l: 0.4545
+		mean: 0.5118
+	Summary: 
+		sight baby girl suckling breast dead mother changed course abebech gobena life forever
+		thirty years gobena famously known africa mother theresa founder ethiopia oldest orphanage
+		orphanage well sheltering also acts school educating 700 children
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5000
+		rouge-2: 0.2857
+		rouge-l: 0.3182
+		mean: 0.3680
+	Summary: 
+		sight baby girl suckling breast dead mother changed course abebech gobena life forever
+		year 1980 ethiopia lay grip would become one devastating famines history
+		gobena devout christian pilgrimage holy site north-east region country came across dead mother baby lying amid sea people starving death

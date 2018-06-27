@@ -1,0 +1,85 @@
+DOCUMENT:
+0: china suspended exports aqua dots toys contaminated chemical convert powerful date rape drug state-run xinhua news agency reported saturday
+1: toys caused children swallowed craft toys vomit lose consciousness
+2: china suspended exports aqua dots toys contain chemical converts date rape drug
+3: agency said general administration quality supervision inspection quarantine aqsiq ordered investigation quality control agencies release results soon available
+4: aqsiq reveal name toys producer xinhua said
+5: u.s. safety officials voluntarily recalled 4.2 million chinese-made toys wednesday
+6: scientists found highly popular holiday toy contains chemical metabolized converts toxic date rape drug ghb gamma-hydroxy butyrate scott wolfson spokesman u.s. consumer product safety commission cpsc told cnn
+7: children swallow beads become comatose develop respiratory depression seizures cpsc statement warned
+8: arts-and-craft beads selling since april major u.s. retail stores name aqua dots also distributed australia name bindeez beads
+9: bindeez toys recalled tuesday melbourne-based moose enterprise pty. ltd. three children australia swallowed large quantities beads hospitalized
+10: frightened thought going make heather lehane told cnn affiliate network 7 10-year-old daughter charlotte hospitalized australia ingesting beads
+11: united states washington-based safety commission said recent days received two reports detailing severe effects digested beads part craft kit aimed kids 4 years older
+12: cpsc said boy nearly 2 years old swallowed several dozen beads
+13: became dizzy vomited several times slipping comatose state period time
+14: commission said toddler hospitalized since fully recovered
+15: second incident involved child vomited fell coma hospitalized five days
+16: immediately clear whether child made full recovery
+17: toronto-based toy distributor spin master ltd. stopped shipping aqua dots toys asked retailers pull shelves previously sold 17 30
+18: anyone aqua dots home return product company cpsc spokeswoman julie vallese said
+19: toy named toy year australia recently crested wal-mart list top 12 christmas toys
+20: wal-mart thursday listed toys web site stock online removed top toy list well
+21: latest recall part larger batch recalls chinese-made toys swept across country
+22: last month alone u.s. government safety officials retailers voluntarily recalled least 69,000 chinese-made toys concerns excessive amounts lead paint cause hazardous lead poisoning
+23: e-mail friend
+24: cnn janine brady jason carroll laura dolan julie leslie wiggins contributed report
+
+=================================
+Gold summary:
+state-run news agency china orders investigation quality control agencies
+children swallow beads become comatose seizures
+toys sold aqua dots u.s. bindeez beads australia
+three children hospitalized australia swallowing large quantities
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 19, 22, 7
+	Results: 
+		rouge-1: 0.3333
+		rouge-2: 0.1379
+		rouge-l: 0.2000
+		mean: 0.2238
+	Summary: 
+		toy named toy year australia recently crested wal-mart list top 12 christmas toys
+		last month alone u.s. government safety officials retailers voluntarily recalled least 69,000 chinese-made toys concerns excessive amounts lead paint cause hazardous lead poisoning
+		children swallow beads become comatose develop respiratory depression seizures cpsc statement warned
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2963
+		rouge-2: 0.0690
+		rouge-l: 0.2333
+		mean: 0.1995
+	Summary: 
+		china suspended exports aqua dots toys contaminated chemical convert powerful date rape drug state-run xinhua news agency reported saturday
+		toys caused children swallowed craft toys vomit lose consciousness
+		china suspended exports aqua dots toys contain chemical converts date rape drug
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 3, 7, 9
+	Results: 
+		rouge-1: 0.6667
+		rouge-2: 0.3103
+		rouge-l: 0.5667
+		mean: 0.5146
+	Summary: 
+		agency said general administration quality supervision inspection quarantine aqsiq ordered investigation quality control agencies release results soon available
+		children swallow beads become comatose develop respiratory depression seizures cpsc statement warned
+		bindeez toys recalled tuesday melbourne-based moose enterprise pty. ltd. three children australia swallowed large quantities beads hospitalized
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2963
+		rouge-2: 0.0690
+		rouge-l: 0.2333
+		mean: 0.1995
+	Summary: 
+		china suspended exports aqua dots toys contaminated chemical convert powerful date rape drug state-run xinhua news agency reported saturday
+		toys caused children swallowed craft toys vomit lose consciousness
+		china suspended exports aqua dots toys contain chemical converts date rape drug

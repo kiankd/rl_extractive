@@ -1,0 +1,83 @@
+DOCUMENT:
+0: tod purvis brother justin knew going blind
+1: diagnosed choroideremia rare genetic disorder causes progressive vision loss eventually leads complete blindness
+2: six years ago brothers went road trip across united states
+3: documentary journey driving blind released year winning awards independent film festivals 2013
+4: documentary website filmmakers say
+5: started filming impression tod justin least half eyesight left
+6: revealed end eyesight much much worse truth trip film would never happened knew would fact driving blind
+7: justin declared legally blind conclusion trip
+8: child goes bucket list trip goes blind
+9: tod purvis took internet community reddit sunday conduct ama ask anything trip documentary choroideremia
+10: beautiful place visited
+11: devil tower wyoming purvis said
+12: glacier park montana
+13: took trip put memories brain could always call even completely lost sight purvis posted
+14: choroideremia affects approximately 1 every 50,000 people according choroideremia research foundation
+15: primarily occurs males starts early childhood
+16: caused gene mutation passed children via x chromosome according national institutes health
+17: without protein produced chm gene pigment cells retina eye slowly stop working die according nlo center eye research university oxford
+18: disease progresses surviving retina gradually shrinks size reducing vision
+19: purvis said sight 50 difficulty describing losing like reddit users
+20: hard describe nothing
+21: black like looking tunnel walls tunnel made mirrors reflected end tunnel
+22: purvis wrapped ama 600 comments never wavering documentary main message
+23: matter situation live life fullest
+
+=================================
+Gold summary:
+brothers diagnosed choroideremia knew going blind
+tod justin purvis took road trip across united states
+documentary driving blind released year
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 18, 11, 20
+	Results: 
+		rouge-1: 0.0526
+		rouge-2: 0.0000
+		rouge-l: 0.0500
+		mean: 0.0342
+	Summary: 
+		disease progresses surviving retina gradually shrinks size reducing vision
+		devil tower wyoming purvis said
+		hard describe nothing
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.7368
+		rouge-2: 0.3684
+		rouge-l: 0.4000
+		mean: 0.5018
+	Summary: 
+		tod purvis brother justin knew going blind
+		diagnosed choroideremia rare genetic disorder causes progressive vision loss eventually leads complete blindness
+		six years ago brothers went road trip across united states
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 2, 3
+	Results: 
+		rouge-1: 0.8421
+		rouge-2: 0.5263
+		rouge-l: 0.6500
+		mean: 0.6728
+	Summary: 
+		tod purvis brother justin knew going blind
+		six years ago brothers went road trip across united states
+		documentary journey driving blind released year winning awards independent film festivals 2013
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 7
+	Results: 
+		rouge-1: 0.4737
+		rouge-2: 0.1579
+		rouge-l: 0.2500
+		mean: 0.2939
+	Summary: 
+		tod purvis brother justin knew going blind
+		diagnosed choroideremia rare genetic disorder causes progressive vision loss eventually leads complete blindness
+		justin declared legally blind conclusion trip

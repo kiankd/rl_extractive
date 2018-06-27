@@ -1,0 +1,102 @@
+DOCUMENT:
+0: university georgia professor apparently shot killed wife two people community theater group reunion saturday dropped couple two children neighbor fled
+1: alert uga web site says professor george zinkhan suspect off-campus shooting
+2: athens-clarke county police said local regional national alerts george zinkhan 57 endowed marketing professor school terry college business
+3: appeared wife problems police capt. clarence holeman said
+4: holeman identified dead marie bruce 47 zinkhan wife prominent athens attorney tom tanner 40 ben teague 63
+5: friends identified bruce president board town gown players theater group holding reunion picnic theater deck shooting took place
+6: tanner teague identified set designers theater
+7: two people wounded ricocheting bullets holeman said identify
+8: least 20 people attendance event said
+9: zinkhan theater event initially holeman said arrived got disagreement wife
+10: left scene police believe car children waiting returned two handguns
+11: took minutes holeman said
+12: police found eight shell casings said
+13: shootings zinkhan left scene two children ages 8 10 still vehicle police said
+14: drove neighbor home nearby bogart georgia lived left children
+15: neighbor bob covington told cnn zinkhan arrived home shortly noon two children
+16: rang doorbell asked could keep kids hour covington said
+17: said sure said type emergency took
+18: zinkhan seemed hurried agitated seemed consistent emergency covington said
+19: question zinkhan emergency covington said adding unusual someone family watch children
+20: hour later said police arrived took children
+21: covington described zinkhan quiet guy family-oriented
+22: great around kids said
+23: never saw bit problem wife kids
+24: covington said completely shocked believe heard news said knew marie bruce much better husband
+25: much talkative vivacious said
+26: police maj. mike shockley told cnn officers searching zinkhan home saturday wide search suspect progress
+27: still hunt said
+28: matter trying locate
+29: holeman said zinkhan relatives texas owns home amsterdam netherlands
+30: last seen driving red 2005 jeep liberty holeman said
+31: news reverberated across athens
+32: university community shocked saddened tragic event university georgia president michael f. adams said written statement
+33: first thoughts safety university community prompt apprehension person responsible
+34: thoughts prayers families affected
+35: another university professor steve elliott-gower told cnn zinkhan school least 10 years distinguished professor national reputation
+36: quirky aloof absolutely nothing saw would lead conclusion said professor
+37: elliott-gower said know zinkhan well knew zinkhan wife like elliott-gower associated theater
+38: generations people athens community involved theater said
+39: really difficult imagine organization close-knit recovers something like
+40: town gown players web site said present production sherlock holmes final adventure canceled
+41: cnn divina mims contributed report
+
+=================================
+Gold summary:
+new marie bruce 47 wife suspect one victims police say
+new victims identified tom tanner 40 ben teague 63
+new suspect apparently dropped children neighbor house fleeing
+new local state national alerts george zinkhan 57
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 10, 38, 14
+	Results: 
+		rouge-1: 0.1000
+		rouge-2: 0.0000
+		rouge-l: 0.0857
+		mean: 0.0619
+	Summary: 
+		left scene police believe car children waiting returned two handguns
+		generations people athens community involved theater said
+		drove neighbor home nearby bogart georgia lived left children
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4333
+		rouge-2: 0.1471
+		rouge-l: 0.2857
+		mean: 0.2887
+	Summary: 
+		university georgia professor apparently shot killed wife two people community theater group reunion saturday dropped couple two children neighbor fled
+		alert uga web site says professor george zinkhan suspect off-campus shooting
+		athens-clarke county police said local regional national alerts george zinkhan 57 endowed marketing professor school terry college business
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 2, 4
+	Results: 
+		rouge-1: 0.7333
+		rouge-2: 0.3529
+		rouge-l: 0.2857
+		mean: 0.4573
+	Summary: 
+		university georgia professor apparently shot killed wife two people community theater group reunion saturday dropped couple two children neighbor fled
+		athens-clarke county police said local regional national alerts george zinkhan 57 endowed marketing professor school terry college business
+		holeman identified dead marie bruce 47 zinkhan wife prominent athens attorney tom tanner 40 ben teague 63
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4333
+		rouge-2: 0.1471
+		rouge-l: 0.2857
+		mean: 0.2887
+	Summary: 
+		university georgia professor apparently shot killed wife two people community theater group reunion saturday dropped couple two children neighbor fled
+		alert uga web site says professor george zinkhan suspect off-campus shooting
+		athens-clarke county police said local regional national alerts george zinkhan 57 endowed marketing professor school terry college business

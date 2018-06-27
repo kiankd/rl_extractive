@@ -1,0 +1,111 @@
+DOCUMENT:
+0: chicago bulls guard derrick rose broke tears press conference asked new shoe contract worth 250 million meant
+1: responses camera twitter feelings teachers strike chicago
+2: 250 million shoe contract youth hometown chicago mind young man
+3: obvious rose understood political aspect focused human aspect realizes could easily one kids killed senseless violence ravaged native city realizes fortunate witness interview would agree last thing mind tax break
+4: also recently baltimore ravens player brendon ayanbadejo took public stand lbgt rights
+5: prompted emmett burns state delegate baltimore county ask ravens owner steve bisciotti take necessary action national football league owner inhibit expressions employees ordered cease desist injurious actions
+6: know nfl player done mr. ayanbadejo
+7: perfect example critic using shut play motto
+8: ayenbendajo stance one taken nfl players michael irvin maybe best response came fellow lbgt supporter minnesota punter chris kluwe wrote possibly one best political statements ever made athlete burns
+9: kluwe second point letter reads
+10: wrote many fans opposed view feel place sport strictly pride entertainment excitement
+11: holy ing balls
+12: seriously say someone according wikipedia page deeply involved government task forces legacy slavery maryland
+13: heard kenny washington
+14: jackie robinson
+15: recently 1962 nfl still segregation done away brave athletes coaches daring speak mind right thing going say political views place sport
+16: ca even begin fathom cognitive dissonance must coursing rapidly addled mind right mental gymnastics brain tortuously contort make preposterous statement surely worthy olympic gold medal russian judge gives 10 beautiful oppressionism
+17: social media allows constant entertaining unfiltered window users thoughts
+18: become arena convictions thoughts feelings politics favorite athletes take forefront
+19: facebook twitter revolutionized communicate sports icons anyone ip address express way choose anywhere world
+20: social media helped bring fans closer athletes feel part game real-time responses instances
+21: yet something unexpected happened
+22: fans getting direct line personal issues opinions historically heavily guarded
+23: past agents marketing personnel felt athletes gave opinions hot topics could destroy huge endorsement contracts
+24: complicated view sports politics historically led series great moments well missed opportunities depending political point view
+25: tempestuous climate 1960s displayed famous political stances athletes
+26: moments protest thrust living rooms worldwide audience first muhammad ali historic stand draft process vietnam war
+27: came 1968 olympic summer games john carlos tommie smith raised fists sky protest peter norman wearing olympic project human rights badge support
+28: media attention helped propel considered one iconic images moments sports historic notion free speech
+29: athletes political stances admired even idolized today faced major repercussions back
+30: ali stripped title boxing license smith carlos forced relinquish medals
+31: atlanta native mel pender gold medal olympics member 4x100 relay witnessed moment firsthand
+32: athletes enough comes politics pender said
+33: statement made day mexico city intended bring attention fight freedom equality black people people
+34: always someone side issue
+35: athletes backlash debilitating career finances fan base
+36: social media unfiltered commentary ways become pr agent worst nightmare
+37: intimate window athletes thoughts buffer putting power hands
+38: jim brown urged world notable athletes like michael jordan tiger woods take stand social political issues years
+39: brown questioned need protect image standing right
+40: lz granderson august commentary espn discussed evolution sports politics relates michael jordan
+41: jordan early playing days refused support democratic candidate harvey gantt running senate seat
+42: jordan famously declared republicans buy sneakers
+43: time would likely backlash jordan retiree recently hosted private fundraising dinner president obama
+44: days famous athletes open views without fear backlash
+45: tim tebow appeared anti-abortion commercial mother active twitter discussing faith
+46: spring miami heat players show solidarity trayvon martin shooting investigation united hooded photo honoring martin memory
+47: sports world evolving much way world adjusting social media new ideas
+48: new age athletes willing use social status influence political cultural landscape
+49: change constant growth optional
+50: social media united athletes fans way many avenues
+51: may always agree stance favorite athlete least days opinion seems willing let world know
+
+=================================
+Gold summary:
+pro athletes use social media discuss election chicago teachers strike gay rights
+historically fans rarely heard athlete personal stance issues
+lamar campbell days athletes open views without fear backlash
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 36, 28, 7
+	Results: 
+		rouge-1: 0.0714
+		rouge-2: 0.0357
+		rouge-l: 0.0690
+		mean: 0.0587
+	Summary: 
+		social media unfiltered commentary ways become pr agent worst nightmare
+		media attention helped propel considered one iconic images moments sports historic notion free speech
+		perfect example critic using shut play motto
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1071
+		rouge-2: 0.0357
+		rouge-l: 0.1034
+		mean: 0.0821
+	Summary: 
+		chicago bulls guard derrick rose broke tears press conference asked new shoe contract worth 250 million meant
+		responses camera twitter feelings teachers strike chicago
+		250 million shoe contract youth hometown chicago mind young man
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 22, 44
+	Results: 
+		rouge-1: 0.5000
+		rouge-2: 0.2143
+		rouge-l: 0.4138
+		mean: 0.3760
+	Summary: 
+		responses camera twitter feelings teachers strike chicago
+		fans getting direct line personal issues opinions historically heavily guarded
+		days famous athletes open views without fear backlash
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 38
+	Results: 
+		rouge-1: 0.2143
+		rouge-2: 0.0357
+		rouge-l: 0.1379
+		mean: 0.1293
+	Summary: 
+		chicago bulls guard derrick rose broke tears press conference asked new shoe contract worth 250 million meant
+		responses camera twitter feelings teachers strike chicago
+		jim brown urged world notable athletes like michael jordan tiger woods take stand social political issues years

@@ -1,0 +1,70 @@
+DOCUMENT:
+0: forty-three soldiers suffered heat-related illnesses friday 12-mile road march fort bragg north carolina army spokesman said
+1: march culmination week expert field medical badge training soldiers tested medic general soldier skills order receive expert badge fort bragg spokesman benjamin abel said
+2: sixty soldiers march started 6 a.m. carrying backpacks helmets weapons combat gear abel said
+3: hour half march people running event noticed personnel difficulties medical transports begun said
+4: eighteen soldiers transported womack army medical center one admitted intensive care unit said
+5: humidity levels friday morning higher expected odd norm many people treated abel added
+6: expert field medical badge deemed army utmost challenge professional competence physical endurance soldier medic fort bragg officials said statement earlier week
+7: sought-after peacetime award army medical department combat medical badge portrait courage wartime expert field medical badge undoubtedly portrait excellence army time officials said
+8: wear efmb means passed grueling series hands-on-tests communications common skill tasks emergency medical treatment evacuation sick wounded litter obstacle course day/night land navigation courses comprehensive written test 12-mile foot march cpr physical fitness test weapons qualification base said
+9: june 1965 department army established badge special skill award recognition exceptional competence outstanding performance field medical personnel
+
+=================================
+Gold summary:
+total 60 soldiers tested expert field medical badge
+43 suffer heat-related illnesses
+one intensive care
+difficult-to-obtain badge considered portrait excellence army
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 2, 4, 6
+	Results: 
+		rouge-1: 0.4500
+		rouge-2: 0.2000
+		rouge-l: 0.3333
+		mean: 0.3278
+	Summary: 
+		sixty soldiers march started 6 a.m. carrying backpacks helmets weapons combat gear abel said
+		eighteen soldiers transported womack army medical center one admitted intensive care unit said
+		expert field medical badge deemed army utmost challenge professional competence physical endurance soldier medic fort bragg officials said statement earlier week
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4500
+		rouge-2: 0.2500
+		rouge-l: 0.2857
+		mean: 0.3286
+	Summary: 
+		forty-three soldiers suffered heat-related illnesses friday 12-mile road march fort bragg north carolina army spokesman said
+		march culmination week expert field medical badge training soldiers tested medic general soldier skills order receive expert badge fort bragg spokesman benjamin abel said
+		sixty soldiers march started 6 a.m. carrying backpacks helmets weapons combat gear abel said
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 4, 7
+	Results: 
+		rouge-1: 0.6500
+		rouge-2: 0.3500
+		rouge-l: 0.4762
+		mean: 0.4921
+	Summary: 
+		forty-three soldiers suffered heat-related illnesses friday 12-mile road march fort bragg north carolina army spokesman said
+		eighteen soldiers transported womack army medical center one admitted intensive care unit said
+		sought-after peacetime award army medical department combat medical badge portrait courage wartime expert field medical badge undoubtedly portrait excellence army time officials said
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 7
+	Results: 
+		rouge-1: 0.5500
+		rouge-2: 0.3500
+		rouge-l: 0.4286
+		mean: 0.4429
+	Summary: 
+		forty-three soldiers suffered heat-related illnesses friday 12-mile road march fort bragg north carolina army spokesman said
+		march culmination week expert field medical badge training soldiers tested medic general soldier skills order receive expert badge fort bragg spokesman benjamin abel said
+		sought-after peacetime award army medical department combat medical badge portrait courage wartime expert field medical badge undoubtedly portrait excellence army time officials said

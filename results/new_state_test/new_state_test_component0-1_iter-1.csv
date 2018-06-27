@@ -1,0 +1,2 @@
+v_lr,p_lr,pca_features,tfidf_max_features,n_training_steps,update_only_last,batch_mean,rouge-1-train,rouge-2-train,rouge-l-train,mean-train,rouge-1-test,rouge-2-test,rouge-l-test,mean-test,time_taken
+0.35,0.225,100,5000,500,False,True,0.35525995954346956,0.13990217125812582,0.25134629180330087,0.24883614086829872,0.37850860660666663,0.16148838551009928,0.27915733695094025,0.2730514430225687,138.0317

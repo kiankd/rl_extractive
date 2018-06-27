@@ -1,0 +1,81 @@
+DOCUMENT:
+0: airports equipped crunch tech-savvy holiday travelers
+1: really according report folks pcworld say fraction country airports ready takeoff comes meeting passengers electronic needs
+2: overall would give top 40 airports c grade accommodating tech-savvy travelers senior editor mark sullivan said
+3: airports together offer average 5.5 outlets per gate
+4: consider people carrying devices need wireless service battery charge-up number woefully low
+5: dallas/fort worth international dfw tops magazine 20 best u.s. airports tech travelers list released week
+6: airport got decent marks across categories wi-fi cellular signals helped edge competition
+7: following close behind new york jfk international jfk whose 800 million terminal 5 wowed researchers
+8: delta air lines terminals 2 3 jfk also impressed restaurants ipad kiosks take order gate area food delivered
+9: overall airport offered electrical outlets decent free wi-fi
+10: country busiest airport georgia hartsfield-jackson atlanta international atl came third place
+11: electrical outlets available passengers totaled 1,377 average 8.1 per gate
+12: no. 20 best list
+13: oregon portland international managed rate categories despite pcworld called painfully slow free airport wi-fi
+14: pcworld researchers visited 3,300 gates testing 17,000 electrical outlets 5,000 usb ports 1,350 charging stations audit 40 busiest airports united states
+15: auditors also conducted hundreds tests airport wi-fi cellular broadband service
+16: among airports make top 20 list denver international came last no. 40
+17: exhaustive study took nearly four months examined features lack thereof common frustrations tech-savvy travelers
+18: included average number electrical outlets usb ports charging stations internet kiosks workspace available per airline gate
+19: believe feature largest complex undertaking magazine 28-year history senior editor mark sullivan said
+20: bottom line
+21: even among winners pcworldâ ¹ researchers concluded plenty room improvement
+
+=================================
+Gold summary:
+pcworld study says fraction u.s. airports fulfill electronic needs
+airports offer average 5.5 outlets per gate
+pcworld researchers visited 3,300 gates testing outlets ports charging stations
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 0, 19, 14
+	Results: 
+		rouge-1: 0.4783
+		rouge-2: 0.2400
+		rouge-l: 0.4231
+		mean: 0.3804
+	Summary: 
+		airports equipped crunch tech-savvy holiday travelers
+		believe feature largest complex undertaking magazine 28-year history senior editor mark sullivan said
+		pcworld researchers visited 3,300 gates testing 17,000 electrical outlets 5,000 usb ports 1,350 charging stations audit 40 busiest airports united states
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2174
+		rouge-2: 0.0400
+		rouge-l: 0.2308
+		mean: 0.1627
+	Summary: 
+		airports equipped crunch tech-savvy holiday travelers
+		really according report folks pcworld say fraction country airports ready takeoff comes meeting passengers electronic needs
+		overall would give top 40 airports c grade accommodating tech-savvy travelers senior editor mark sullivan said
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 3, 14
+	Results: 
+		rouge-1: 0.8261
+		rouge-2: 0.5600
+		rouge-l: 0.8462
+		mean: 0.7441
+	Summary: 
+		really according report folks pcworld say fraction country airports ready takeoff comes meeting passengers electronic needs
+		airports together offer average 5.5 outlets per gate
+		pcworld researchers visited 3,300 gates testing 17,000 electrical outlets 5,000 usb ports 1,350 charging stations audit 40 busiest airports united states
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2174
+		rouge-2: 0.0400
+		rouge-l: 0.2308
+		mean: 0.1627
+	Summary: 
+		airports equipped crunch tech-savvy holiday travelers
+		really according report folks pcworld say fraction country airports ready takeoff comes meeting passengers electronic needs
+		overall would give top 40 airports c grade accommodating tech-savvy travelers senior editor mark sullivan said

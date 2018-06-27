@@ -1,0 +1,98 @@
+DOCUMENT:
+0: days giving birth second child dr. jane dimer drove home hospital find then-husband bed another woman
+1: threw dimer stairs never saw court
+2: rihanna allegedly attacked boyfriend singer chris brown grammys february 8
+3: dimer obstetrician-gynecologist group health cooperative seattle washington abusive relationship husband germany 4 1/2 years pushed 11 years ago
+4: emotionally remnants stay long time said
+5: domestic violence common cause injury women ages 15 44 according national institutes health
+6: entertainment world buzzing pop sensation rihanna whose boyfriend chris brown formally charged assaulting public interest domestic violence reinvigorated
+7: abuse influence victim future behavior relationships even friendships depending whether victim stays leaves said mark crawford clinical psychologist based roswell georgia
+8: stay likely stop trusting perceptions become passive romantic nonromantic relationships
+9: victims leave healthier choice crawford said often become over-accommodating want avoid conflict even verbal disputes costs
+10: women wo trust people easily wo able handle even normal expressions anger
+11: visit cnnhealth.com connection better living
+12: need get relationship make sure aware anger learn freely express healthy normal way said
+13: somebody still issues 10 years later worked
+14: healed need
+15: new research shows abuse victims feel impact violence long occurred
+16: recent study journal women health found older african-american women exposed high levels family violence point lifetimes whether partner family member greater risk poor mental physical health status
+17: ongoing violence everybody thinks even something happens seems lingering effect quite understand yet said dr. anuradha paranjape co-author study associate professor temple university school medicine
+18: makes sense abused women would report worse health given people stressful situations higher levels stress hormones interfere immune function crawford said
+19: studies show clear connection depression abuse
+20: adult women abused relationship past five years rates depression 2 1/2 times greater women never abused according different study 3,000 women
+21: also likely socially isolated said author amy bonomi associate professor ohio state university
+22: women abused prior past five years depression rates 1 1/2 times greater without abuse experience said bonomi collaborated dimer research abused women
+23: people like sort think well abuse black eye sustain broken bone bonomi said
+24: see lots different effects areas like depression social isolation actually proven data
+25: women suffered violence also seem greater likelihood substance abuse unclear two related one necessarily cause could factors involved bonomi said
+26: 2008 study 3,333 women bonomi worked found middle-aged women suffered child abuse sexual physical abuse greater likelihood depression well higher body mass index
+27: women also spend one-third average health care costs
+28: 34 percent women sample said abused
+29: paranjape study found women highest levels abuse reported poor health number diseases reported among women women sample less abuse
+30: indicates something else makes abused women report feeling unwell said
+31: patient says feel good might want think asking issues may going said
+32: people gotten relationship go work learning issues set situation reflect warning signs crawford said
+33: experts recommend finding counselor means support people abused think twice revealing much online support groups abusers could discover saying dimer said
+34: research also shown violence escalates abusive relationships among couples go marriage counseling said
+35: women feel stronger experience abuse dimer said
+36: found healing advocacy research subject said
+37: calling domestic violence hot line good first step anyone experiencing abuse dimer said
+38: whether pop star somebody working front lines employee grocery store selling pop star magazine equal risk said
+
+=================================
+Gold summary:
+nih domestic violence common cause injury women ages 15 44
+study abused women likely depression anxiety joint pain
+calling domestic violence hot line good first step victim
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 24, 17, 26
+	Results: 
+		rouge-1: 0.1667
+		rouge-2: 0.0000
+		rouge-l: 0.1481
+		mean: 0.1049
+	Summary: 
+		see lots different effects areas like depression social isolation actually proven data
+		ongoing violence everybody thinks even something happens seems lingering effect quite understand yet said dr. anuradha paranjape co-author study associate professor temple university school medicine
+		2008 study 3,333 women bonomi worked found middle-aged women suffered child abuse sexual physical abuse greater likelihood depression well higher body mass index
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.0000
+		rouge-2: 0.0000
+		rouge-l: 0.0000
+		mean: 0.0000
+	Summary: 
+		days giving birth second child dr. jane dimer drove home hospital find then-husband bed another woman
+		threw dimer stairs never saw court
+		rihanna allegedly attacked boyfriend singer chris brown grammys february 8
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 5, 20, 37
+	Results: 
+		rouge-1: 0.7500
+		rouge-2: 0.5600
+		rouge-l: 0.7037
+		mean: 0.6712
+	Summary: 
+		domestic violence common cause injury women ages 15 44 according national institutes health
+		adult women abused relationship past five years rates depression 2 1/2 times greater women never abused according different study 3,000 women
+		calling domestic violence hot line good first step anyone experiencing abuse dimer said
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 22
+	Results: 
+		rouge-1: 0.1250
+		rouge-2: 0.0400
+		rouge-l: 0.1111
+		mean: 0.0920
+	Summary: 
+		days giving birth second child dr. jane dimer drove home hospital find then-husband bed another woman
+		threw dimer stairs never saw court
+		women abused prior past five years depression rates 1 1/2 times greater without abuse experience said bonomi collaborated dimer research abused women

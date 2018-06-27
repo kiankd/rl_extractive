@@ -1,0 +1,107 @@
+DOCUMENT:
+0: editor note thomas levenson professor mit heads graduate program science writing
+1: author new book newton counterfeiter award-winning filmmaker 10 documentaries science broadcast pbs
+2: thomas levenson says isaac newton bad gamble shows financial regulation always needed
+3: cnn winter spring 1720 london england delirious entranced rolling money
+4: seemed riches easily gained fools would buy brand new engine wealth stock exchange especially shares enterprise leading boom banking concern called south sea company
+5: spring turned summer one seemed could deny obvious even rational men
+6: june july sir isaac newton inventor calculus branch mathematics describes change time say awful lot matters science life man framed laws motion set physics modern trajectory pioneering chemist inventor virtually present-day telescopes derive design religious historian even financial thinker put sizable chunk personal fortune shares south sea company
+7: bubble burst september
+8: newton lost 90 percent stake substantial fraction total worth
+9: loss found key debate right wake obama administration move re-regulate american financial markets
+10: arguments supervision financial transactions occur wake every bubble
+11: opponents regulation always return simple claim
+12: say investors grown-ups capable making best assessments interests acting accordingly
+13: markets thus self-correcting mechanisms connecting rational actors attempt impose rules interaction render less efficient
+14: favor say nonsense real world markets populated equally well-informed people analyzing circumstances acting accordingly every financial collapse thus takes known better could hoped
+15: hence say active enforcer needs provide level playing field deter actual fraud
+16: painfully recent experience suggests true enough newton case suggests deeper necessity heart case proactive regulation
+17: happened rather acted reveals fundamental truth economic emotional life point crisis clear thought cool head matter one fact rational actor even greatest scientific mind age
+18: brought newton low
+19: desire perhaps envy words human nature
+20: newton active trader new stock market years bubble year 1720
+21: made first investment south sea issue early 1713 held several years marking modest paper profit
+22: held early 1720 company pursued new increasingly risky banking deal insiders began talk turned fictitious trading profits company expected another venture
+23: got desired result sudden leap stock prices
+24: starting 128 january price south sea securities rose 175 february 330 march
+25: newton kept head first
+26: sold april content quite spectacular gains date
+27: april june share prices tripled reaching 1,000 precisely could stand longer
+28: lost two thirds potential gain newton bought top bought slight decline july
+29: sounds familiar least buyers webvan 2000 internet bubble burst matter picked lehman brothers shares winter 2008
+30: south sea stock price held august 1720 september gap possible income purchased debt returns promised investors became obvious ignore
+31: bubble burst south sea share prices collapsed roughly pre-bubble level
+32: newton losses totaled much 20,000 4 million 5 million 21st century terms
+33: catastrophe sink made cautious investments including significant stake east india company died 1727 estate valued 30,000 pounds
+34: terrific blow even
+35: story matters
+36: people newton known better
+37: invented mathematics could expose impossibility south sea company promise returns paid everlasting stream new investors
+38: yet even could resist prospect infinite returns money
+39: hence obligation regulate
+40: plenty recent academic research confirms bubbles including ones endured unique disasters predictable consequences human behavior context implausible rewards
+41: newton experience tells us true since beginning modern markets mere intelligence even genius help
+42: isaac newton said
+43: disaster could bear hear phrase south sea mentioned presence
+44: admitted knew predict motions cosmos could calculate madness people
+45: still ca
+46: opinions expressed commentary solely thomas levenson
+
+=================================
+Gold summary:
+thomas levenson isaac newton mathematical scientific genius
+says newton got swept south sea financial mania
+says lost big part fortune south sea bubble burst
+levenson financial regulation crucial protect investors
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 1, 15, 7
+	Results: 
+		rouge-1: 0.1250
+		rouge-2: 0.0357
+		rouge-l: 0.1000
+		mean: 0.0869
+	Summary: 
+		author new book newton counterfeiter award-winning filmmaker 10 documentaries science broadcast pbs
+		hence say active enforcer needs provide level playing field deter actual fraud
+		bubble burst september
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2917
+		rouge-2: 0.1071
+		rouge-l: 0.2333
+		mean: 0.2107
+	Summary: 
+		editor note thomas levenson professor mit heads graduate program science writing
+		author new book newton counterfeiter award-winning filmmaker 10 documentaries science broadcast pbs
+		thomas levenson says isaac newton bad gamble shows financial regulation always needed
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 2, 6, 31
+	Results: 
+		rouge-1: 0.5000
+		rouge-2: 0.1786
+		rouge-l: 0.3667
+		mean: 0.3484
+	Summary: 
+		thomas levenson says isaac newton bad gamble shows financial regulation always needed
+		june july sir isaac newton inventor calculus branch mathematics describes change time say awful lot matters science life man framed laws motion set physics modern trajectory pioneering chemist inventor virtually present-day telescopes derive design religious historian even financial thinker put sizable chunk personal fortune shares south sea company
+		bubble burst south sea share prices collapsed roughly pre-bubble level
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2917
+		rouge-2: 0.1071
+		rouge-l: 0.2333
+		mean: 0.2107
+	Summary: 
+		editor note thomas levenson professor mit heads graduate program science writing
+		author new book newton counterfeiter award-winning filmmaker 10 documentaries science broadcast pbs
+		thomas levenson says isaac newton bad gamble shows financial regulation always needed

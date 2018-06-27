@@ -1,0 +1,108 @@
+DOCUMENT:
+0: miserable outside
+1: whole world depressing gray color makes want lie couch watch reruns sex city
+2: time pack gym bag drop kids drive fitness studio shower change pick kids get back home dinner
+3: plus really tired floor mats reek woman back row always steps left instead right effectively knocking out-of-shape gluteus maximus
+4: whatever reason wanting hit gym kristin knee flirty girl fitness understands
+5: even want go studio raining said laugh
+6: late last year sister kerry launched flirty girl fitness live web service streams three four franchise group classes every day
+7: subscribers log home participate classes like bikini bootcamp hottie body boxing living room
+8: classes stay online 24 hours replaced next day workouts
+9: unlimited subscription passes 15 month
+10: online video streaming starting blossom fitness industry idea health fitness association editor sandy todd webster says
+11: several sites offer similar programs including yogis anonymous connect online fitness emg live fitness dailyburn
+12: seems like next natural progression home fitness dvds webster said
+13: another way making fitness convenient
+14: knee shocked quickly live service caught regular members
+15: people classes lunch break work logging vacation
+16: know -lsb- workout -rsb- dvd awesome dvd girl tells joke every day knee said
+17: always live always fresh feel like
+18: variety one reasons joyce wells loves group fitness classes
+19: wells moved suburbs new york disappointed caliber local studios
+20: businesswoman remembered much colleagues microsoft loved video conferencing meetings
+21: subsequent research online paid content revealed astonishing numbers 2010 national football league raked 500 million revenue streaming services major league baseball earned 450 million
+22: netflix digital revenue totaled 1.5 billion
+23: wells launched emg live fitness internet-based fitness studio streams classes instructors across country
+24: subscription wells site classes bought 5 apiece
+25: wells opinion fitness industry dragging feet making transition online
+26: brick-and-mortar gyms afraid catalyzing current market says
+27: going like netflix blockbuster
+28: blockbuster refused let go model look happened
+29: blockbuster filed bankruptcy september 2010
+30: wells target market stay-at-home mothers people obese
+31: online classes appeal anyone uncomfortable gym setting webster says
+32: hear ca go gym get shape webster said
+33: gives privacy experience without feeling self-conscious
+34: could go long way promoting compliance convenient portable
+35: webster says personal trainers also use online video libraries encourage clients keep workouts
+36: on-demand fitness video libraries nothing new becoming elaborate
+37: fitness company daily burn recently introduced hd-quality customized video workouts dailyburn.com
+38: workouts led db6 team six instructors variety areas expertise
+39: dailyburn asks new users questions ability levels goals
+40: uses site intelliburn technology analyze stream personalized workout
+41: adding video service ceo andy smith producers turned site one giant personal trainer
+42: put certain bucket smith said
+43: learns go constantly monitoring workout yesterday hitting plateau
+44: people really want stay motivated told
+45: nearly 20 tvs worldwide connected internet 2016 according digital tv research make even easier online fitness videos infiltrate america living rooms
+46: put bluntly excuses
+47: people realizing magic pill -lsb- weight loss -rsb- smith said
+48: need get started
+
+=================================
+Gold summary:
+fitness studios streaming live classes online compiling video workout libraries
+flirty girl fitness live emg live fitness dailyburn using technology
+people uncomfortable going gym enjoy online options expert says
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 48, 12, 37
+	Results: 
+		rouge-1: 0.0833
+		rouge-2: 0.0000
+		rouge-l: 0.0690
+		mean: 0.0508
+	Summary: 
+		need get started
+		seems like next natural progression home fitness dvds webster said
+		fitness company daily burn recently introduced hd-quality customized video workouts dailyburn.com
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.0833
+		rouge-2: 0.0000
+		rouge-l: 0.0345
+		mean: 0.0393
+	Summary: 
+		miserable outside
+		whole world depressing gray color makes want lie couch watch reruns sex city
+		time pack gym bag drop kids drive fitness studio shower change pick kids get back home dinner
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 6, 11, 31
+	Results: 
+		rouge-1: 0.4583
+		rouge-2: 0.2143
+		rouge-l: 0.4138
+		mean: 0.3621
+	Summary: 
+		late last year sister kerry launched flirty girl fitness live web service streams three four franchise group classes every day
+		several sites offer similar programs including yogis anonymous connect online fitness emg live fitness dailyburn
+		online classes appeal anyone uncomfortable gym setting webster says
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.0833
+		rouge-2: 0.0000
+		rouge-l: 0.0345
+		mean: 0.0393
+	Summary: 
+		miserable outside
+		whole world depressing gray color makes want lie couch watch reruns sex city
+		time pack gym bag drop kids drive fitness studio shower change pick kids get back home dinner

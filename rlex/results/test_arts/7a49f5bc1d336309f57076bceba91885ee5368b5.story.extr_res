@@ -1,0 +1,77 @@
+DOCUMENT:
+0: britain prince william starting two-month attachment royal navy monday part future king continued experience various branches military ministry defense said saturday
+1: prince william father prince charles graduation royal air force april
+2: william 25 spend first part attachment basic sea safety course training sea survival firefighting ship damage repair according ministry
+3: william passes course expected join hms iron duke caribbean department said
+4: ship function support overseas british territories event hurricane carry counter-narcotic operations
+5: prince called sub lieutenant wales navy expected spend time aboard frigate mine hunter submarine helicopters attachment ends august 1 ministry defense said
+6: william completed four-month attachment royal air force year received pilot wings upon graduating april
+7: learned fly three different aircraft attachment known flying officer wales within raf
+8: william also second lieutenant british army serves blues royals regiment household cavalry
+9: attachments designed provide prince military experience becomes head armed forces king
+10: becomes king needs know armed forces instinctively familiar visit royal navy said rear adm. bob cooling assistant chief naval staff
+11: william father prince charles five-year career navy 1970s
+12: charles served guided missile destroyer hms norfolk two frigates qualifying helicopter pilot joining naval air squadron operated aircraft carrier hms hermes
+13: prince charles spent last nine months navy 1976 command coastal minehunter hms bronington
+14: william uncle prince andrew served 22 years royal navy helicopter pilot seeing active service falklands war britain argentina 1982
+15: queen elizabeth ii husband prince philip william grandfather spent 13 years royal navy
+16: saw active service throughout world war ii tokyo harbor japan surrendered
+
+=================================
+Gold summary:
+britain prince william begins two-month attachment royal navy monday
+william completed attachment royal air force
+future king second lieutenant british army
+experience prepare becomes head armed forces king
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 1, 2, 5
+	Results: 
+		rouge-1: 0.3333
+		rouge-2: 0.1154
+		rouge-l: 0.2143
+		mean: 0.2210
+	Summary: 
+		prince william father prince charles graduation royal air force april
+		william 25 spend first part attachment basic sea safety course training sea survival firefighting ship damage repair according ministry
+		prince called sub lieutenant wales navy expected spend time aboard frigate mine hunter submarine helicopters attachment ends august 1 ministry defense said
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5417
+		rouge-2: 0.3462
+		rouge-l: 0.4286
+		mean: 0.4388
+	Summary: 
+		britain prince william starting two-month attachment royal navy monday part future king continued experience various branches military ministry defense said saturday
+		prince william father prince charles graduation royal air force april
+		william 25 spend first part attachment basic sea safety course training sea survival firefighting ship damage repair according ministry
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 8, 9
+	Results: 
+		rouge-1: 0.7917
+		rouge-2: 0.5385
+		rouge-l: 0.7143
+		mean: 0.6815
+	Summary: 
+		britain prince william starting two-month attachment royal navy monday part future king continued experience various branches military ministry defense said saturday
+		william also second lieutenant british army serves blues royals regiment household cavalry
+		attachments designed provide prince military experience becomes head armed forces king
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5417
+		rouge-2: 0.3462
+		rouge-l: 0.4286
+		mean: 0.4388
+	Summary: 
+		britain prince william starting two-month attachment royal navy monday part future king continued experience various branches military ministry defense said saturday
+		prince william father prince charles graduation royal air force april
+		william 25 spend first part attachment basic sea safety course training sea survival firefighting ship damage repair according ministry

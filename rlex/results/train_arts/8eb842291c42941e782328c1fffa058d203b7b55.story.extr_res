@@ -1,0 +1,80 @@
+DOCUMENT:
+0: five babies el paso texas tested positive tuberculosis exposed infectious disease local hospital city health department says
+1: providence memorial hospital identified 850 infants 43 health care workers potentially exposed nurse came work active case tb time september 2013 august 2014
+2: worked infants nursery post-partum unit hospital
+3: important note health officials said babies tested positive active cases tb
+4: four received bacillus calmette-guerin vaccine tb may generating false positives
+5: still given treatment
+6: first want apologize families affected let know ceo providence memorial hospital colleagues take absolutely ownership role eric evans said news conference last week
+7: represent today 3,000 dedicated co-workers get every day dedicated helping others vulnerable moments
+8: group people proud struggling happening facility
+9: going make right
+10: 45 infants added tb exposure list
+11: infected health care worker longer working receiving treatment owner hospital sierra providence health network said statement
+12: tuberculosis infectious disease generally causes coughing chest pain difficulty breathing according mayo clinic
+13: estimated 2 billion people worldwide called latent tb bacteria remain dormant cause symptoms
+14: body bacteria usually lay dormant months years begin grow cause case active tb el paso department public health said statement
+15: important identify people may exposed screen provide treatment
+16: bacteria cause tb spread air infected patient coughs sneezes highly contagious disease close contact longer period time required another person becomes infected according mayo clinic
+17: active tb spread
+18: patients tb must take antibiotics six nine months
+19: strains tb resistant antibiotics makes dangerous
+20: without treatment tb fatal mayo clinic says
+
+=================================
+Gold summary:
+five babies el paso texas tested positive tuberculosis
+infants exposed nurse came work active tb
+850 patients 43 health care workers exposed
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 8, 7, 15
+	Results: 
+		rouge-1: 0.0476
+		rouge-2: 0.0000
+		rouge-l: 0.0455
+		mean: 0.0310
+	Summary: 
+		group people proud struggling happening facility
+		represent today 3,000 dedicated co-workers get every day dedicated helping others vulnerable moments
+		important identify people may exposed screen provide treatment
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.9524
+		rouge-2: 0.6667
+		rouge-l: 0.6818
+		mean: 0.7670
+	Summary: 
+		five babies el paso texas tested positive tuberculosis exposed infectious disease local hospital city health department says
+		providence memorial hospital identified 850 infants 43 health care workers potentially exposed nurse came work active case tb time september 2013 august 2014
+		worked infants nursery post-partum unit hospital
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 1, 18
+	Results: 
+		rouge-1: 1.0000
+		rouge-2: 0.6667
+		rouge-l: 0.7273
+		mean: 0.7980
+	Summary: 
+		five babies el paso texas tested positive tuberculosis exposed infectious disease local hospital city health department says
+		providence memorial hospital identified 850 infants 43 health care workers potentially exposed nurse came work active case tb time september 2013 august 2014
+		patients tb must take antibiotics six nine months
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 17
+	Results: 
+		rouge-1: 0.9524
+		rouge-2: 0.7143
+		rouge-l: 0.6818
+		mean: 0.7828
+	Summary: 
+		five babies el paso texas tested positive tuberculosis exposed infectious disease local hospital city health department says
+		providence memorial hospital identified 850 infants 43 health care workers potentially exposed nurse came work active case tb time september 2013 august 2014
+		active tb spread

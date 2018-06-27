@@ -1,0 +1,78 @@
+DOCUMENT:
+0: barcelona atletico madrid remain virtually inseparable la liga saturday night top-of-the-table clash vicente calderon stadium ended 0-0 draw
+1: season reaches halfway point catalans red whites 50 points barcelona superior goal difference separating two teams
+2: first half tight affair teams careful give away early advantage could decisive game fight title
+3: read crowned world best footballer
+4: despite scoring twice comeback match getafe midweek lionel messi started bench came injured andres iniesta halftime
+5: argentine introduction gave barca bite attack still atletico held firm
+6: neymar arrival 66th minute brazilian striker also started bench missing match getafe bout gastroenteritis added another string barcelona attacking bow goal materialize
+7: messi hoping retain fifa ballon winner announced monday passed probed could find way
+8: best chance came nine minutes end 26-year-old denied fine save atletico belgian keeper thibaut courtois
+9: diego simeone side moments diego costa narrowly missing far post brazilian defender miranda flicked koke corner kick 28th minute
+10: turkish midfielder arda turan provided much atletico creative spark also saw chance go begging 12 minutes go mistimed volley easily scooped barcelona keeper victor valdes
+11: teams six points ahead third place real madrid carlo ancelotti side reduce arrears three beat espanyol sunday
+12: saturday la liga fixtures fouth-placed athletic bilbao romped 6-1 victory almeria valencia stuttering season continued went 2-1 celta vigo
+13: two matches played serie saturday parma climbing seventh running 3-0 winners second-from-bottom livorno match bologna lazio ending goalless
+14: league leaders juventus travel cagliari sunday second place roma entertaining genoa
+15: fifth place hellas verona host third place napoli fiorentina currently fourth travel torino
+16: inter play chievo verona san siro monday evening
+17: read relief moyes man utd stop rot
+18: read football take homophobia seriously
+
+=================================
+Gold summary:
+la liga top two sides play 0-0 draw season reaches halfway point
+barca atletico 50 points 19 games barca top goal difference
+real madrid close gap leaders three points win espanyol sunday
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 1, 2, 12
+	Results: 
+		rouge-1: 0.3793
+		rouge-2: 0.1935
+		rouge-l: 0.2500
+		mean: 0.2743
+	Summary: 
+		season reaches halfway point catalans red whites 50 points barcelona superior goal difference separating two teams
+		first half tight affair teams careful give away early advantage could decisive game fight title
+		saturday la liga fixtures fouth-placed athletic bilbao romped 6-1 victory almeria valencia stuttering season continued went 2-1 celta vigo
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5172
+		rouge-2: 0.2581
+		rouge-l: 0.3750
+		mean: 0.3834
+	Summary: 
+		barcelona atletico madrid remain virtually inseparable la liga saturday night top-of-the-table clash vicente calderon stadium ended 0-0 draw
+		season reaches halfway point catalans red whites 50 points barcelona superior goal difference separating two teams
+		first half tight affair teams careful give away early advantage could decisive game fight title
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 1, 11
+	Results: 
+		rouge-1: 0.6552
+		rouge-2: 0.3226
+		rouge-l: 0.5312
+		mean: 0.5030
+	Summary: 
+		barcelona atletico madrid remain virtually inseparable la liga saturday night top-of-the-table clash vicente calderon stadium ended 0-0 draw
+		season reaches halfway point catalans red whites 50 points barcelona superior goal difference separating two teams
+		teams six points ahead third place real madrid carlo ancelotti side reduce arrears three beat espanyol sunday
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5172
+		rouge-2: 0.2581
+		rouge-l: 0.3750
+		mean: 0.3834
+	Summary: 
+		barcelona atletico madrid remain virtually inseparable la liga saturday night top-of-the-table clash vicente calderon stadium ended 0-0 draw
+		season reaches halfway point catalans red whites 50 points barcelona superior goal difference separating two teams
+		first half tight affair teams careful give away early advantage could decisive game fight title

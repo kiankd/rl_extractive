@@ -1,0 +1,129 @@
+DOCUMENT:
+0: budget travel never enough time grand canyon billion-plus years making
+1: help get stay whether got week weekend hours
+2: drive south rim
+3: stature american icon grand canyon belongs world
+4: given day south rim may country diverse place international village population changes hour buddhist monks saffron robes mennonite women black bonnets busloads grand-touring germans giggling japanese teens moving texting packs even scotsman playing bagpipes audience hikers curious ravens promontory
+5: start grand canyon visitor center
+6: short walk mather point newly renovated center shows free 20-minute orientation film twice hour new auditorium
+7: nps.gov grca
+8: stay bright angel lodge
+9: less hundred feet rim national landmark celebrated history ice-cream fountain
+10: grandcanyonlodges.com rooms 81 ice-cream 2.65
+11: budget travel 10 prettiest castle towns
+12: eat arizona room steaks
+13: place bbq ribs chicken fish served southwestern flavor
+14: lime-marinated chicken 16.50
+15: go kolb studio art exhibits
+16: rotating exhibits canyon art archaeology history well permanent display kolb brothers seminal photos
+17: grandcanyon.org/kolb admission free
+18: miss even quickie canyon visitor must one thing hike rim bright angel trail
+19: mile-plus trail drops redefines space
+20: cliffs appeared insignificant tower trail woodlands thin scrubbier desert-like vegetation
+21: photos america dazzling national parks
+22: long weekend north rim
+23: five-hour drive nearest major airport north rim attracts sort visitors inclined linger
+24: pause little longer lookouts
+25: store provisions hike along route see ecosystems change walked canada mexico rocks view age billion years
+26: trip space time
+27: start north rim visitor center
+28: get tips park ranger visit bookstore take interpretive programs
+29: nps.gov grca
+30: stay grand canyon lodge
+31: lodge within north rim features cabins stunning views simpler motel rooms private baths
+32: rooms 116
+33: budget travel coffee addict guide world
+34: eat grand canyon cookout
+35: experience slow-cooked brisket roasted chicken evening country music stars
+36: adults 35 children 6-15 22 june 1-september 30
+37: mule trips
+38: guided rides hour-long trip along rim half-day excursion descending 2,300 feet supai tunnel
+39: nps.gov grca one-hour trip 40 half-day 75 ages 7 older
+40: miss north kaibab trail stretches 14 miles maintained trail leads colorado river
+41: rim-to-river round-trip requires one overnight least ample rest along way
+42: refuel roaring springs half-mile rim camp cottonwood campground bright angel campground phantom ranch
+43: cars land revive california adventure
+44: full week north south rims
+45: days week-long trip something happens
+46: moment comes canyon ceases icon finally becomes real
+47: world instantaneous fast enough grand canyon measures time billionths seconds billions years
+48: ca tweet grand canyon
+49: panoramas keep changing every mile canyon becomes living place extra-wide postcard
+50: stay/eat el tovar
+51: dining room built pine native stone veranda views spectacular teddy roosevelt slept
+52: grandcanyonlodges.com rooms 178 kids 16 stay free wild salmon 24
+53: go all-star grand canyon tours
+54: guided excursions short no-sweat option suv longer backpacking hikes
+55: allstargrandcanyontours.com adults 120 kids 4-15 90 toddlers 3 55
+56: budget travel 4 common airport security questions answered
+57: grand canyon field institute
+58: run nonprofit partner park institute offers single multi-day classes photography natural history archaeology
+59: grandcanyon.org/fieldinstitute classes 195
+60: camp permits requested person writing earlier four months trip
+61: 10 fee plus 5 per person per night spent camping rim
+62: miss compelling reason week canyon visit rims
+63: nearly 9,000 feet north rim sits 1,000 feet higher south
+64: extra elevation reverses familiar perspective puts closer epic temples plateaus
+65: suddenly amazingly grand canyon feels new
+66: budget travel top budget travel destinations 2012
+67: get best travel deals tips emailed free click
+68: copyright © 2011 newsweek budget travel inc. rights reserved
+
+=================================
+Gold summary:
+whether got week hours make grand canyon trip
+south rim may country diverse place good quick trip
+north rim attracts visitors inclined stay little longer
+compelling reason week canyon visit rims
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 64, 38, 23
+	Results: 
+		rouge-1: 0.2222
+		rouge-2: 0.1000
+		rouge-l: 0.2258
+		mean: 0.1827
+	Summary: 
+		extra elevation reverses familiar perspective puts closer epic temples plateaus
+		guided rides hour-long trip along rim half-day excursion descending 2,300 feet supai tunnel
+		five-hour drive nearest major airport north rim attracts sort visitors inclined linger
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3333
+		rouge-2: 0.1333
+		rouge-l: 0.1935
+		mean: 0.2201
+	Summary: 
+		budget travel never enough time grand canyon billion-plus years making
+		help get stay whether got week weekend hours
+		drive south rim
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 4, 23, 62
+	Results: 
+		rouge-1: 0.5926
+		rouge-2: 0.4333
+		rouge-l: 0.5484
+		mean: 0.5248
+	Summary: 
+		given day south rim may country diverse place international village population changes hour buddhist monks saffron robes mennonite women black bonnets busloads grand-touring germans giggling japanese teens moving texting packs even scotsman playing bagpipes audience hikers curious ravens promontory
+		five-hour drive nearest major airport north rim attracts sort visitors inclined linger
+		miss compelling reason week canyon visit rims
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3333
+		rouge-2: 0.1333
+		rouge-l: 0.1935
+		mean: 0.2201
+	Summary: 
+		budget travel never enough time grand canyon billion-plus years making
+		help get stay whether got week weekend hours
+		drive south rim

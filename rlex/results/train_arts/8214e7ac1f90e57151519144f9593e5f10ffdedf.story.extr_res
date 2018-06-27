@@ -1,0 +1,93 @@
+DOCUMENT:
+0: frustrated republicans retaliating democratic play weaken hand opposing presidential nominations forcing all-night session thursday early hours
+1: votes judicial appointments took place early thursday morning part fallout democratic majority enforced rule change expedite consideration appointments so-called nuclear option
+2: last month longstanding senate rules required supermajority 60 votes break filibuster presidential nominee
+3: republicans fiercely opposed change allows majority democrats break filibusters 51 votes
+4: democrats hold 55-45 advantage senate said republicans abused filibuster privilege around president barack obama nominations way staff second-term administration promptly move stalled judicial appointments speed things rules change
+5: obama administration allies done everything get want one way even fundamentally altering contours democracy could get way playing rules senate minority leader mitch mcconnell said floor remarks wednesday
+6: saw culmination majority leader power grab senate last month
+7: 5 ways life changes senate nuclear option
+8: republicans requiring marathon session democrats want clear long list nominees leaving vacation next week
+9: gop escalation rules fight renewed attention sharp partisan wrangling one day lawmakers trumpeted compromise house-senate budget proposal brokered across party lines
+10: first vote extended session came shortly 1 a.m. et senate approved 51-44 nina pillard nomination federal appeals court washington
+11: appointment steppingstone supreme court
+12: senate continue plowing backlog nominees later thursday
+13: senators vote confirmation chai rachel feldblum equal employment opportunity commission
+14: senate democrats began enforcing nuclear option week stoking republican ire
+15: all-nighters could continue days
+16: democratic leaders said prepared stay session virtually around clock saturday night confirm list 10 nominees variety senior posts
+17: range lesser-known appointments patricia wald privacy civil liberties oversight board critical positions jeh johnson homeland security secretary
+18: also several federal district court judge appointments list well nominees pentagon posts state department
+19: customarily senate leaders work together chamber conduct business regular hours
+20: strict parliamentary rules easy one senator hold things
+21: case whole gop conference upset
+22: nuclear option
+23: working overnights
+24: according senate rules certain number hours debate still demanded senator filibuster broken
+25: known post-cloture debate time senate parlance eight hours debate time allowed nine 10 nominees majority leader harry reid list
+26: johnson homeland security nominee debate last 30 hours
+27: typically senate leaders would agree allow debate time run senate session
+28: republicans angry changes filibuster rules requiring senate stay session
+29: reid accused republicans obstructionism
+30: hard imagine pointless exercise spending entire day waiting vote whose outcome already know reid said pillard nomination
+31: republicans insist wasting time simply sake wasting time
+32: wonder americans overwhelmingly support changes democrats made rules last month order make senate work
+
+=================================
+Gold summary:
+new senate approves nina pillard 51-44 serve federal appeals court washington
+republicans angry rules change weakens hand opposing nominations
+new rules imposed majority democrats aim speed confirmation
+overnight session forced gop one way express frustration slow process
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 8, 4, 12
+	Results: 
+		rouge-1: 0.2571
+		rouge-2: 0.0278
+		rouge-l: 0.1081
+		mean: 0.1310
+	Summary: 
+		republicans requiring marathon session democrats want clear long list nominees leaving vacation next week
+		democrats hold 55-45 advantage senate said republicans abused filibuster privilege around president barack obama nominations way staff second-term administration promptly move stalled judicial appointments speed things rules change
+		senate continue plowing backlog nominees later thursday
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2571
+		rouge-2: 0.0278
+		rouge-l: 0.1351
+		mean: 0.1400
+	Summary: 
+		frustrated republicans retaliating democratic play weaken hand opposing presidential nominations forcing all-night session thursday early hours
+		votes judicial appointments took place early thursday morning part fallout democratic majority enforced rule change expedite consideration appointments so-called nuclear option
+		last month longstanding senate rules required supermajority 60 votes break filibuster presidential nominee
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 4, 10, 28
+	Results: 
+		rouge-1: 0.4857
+		rouge-2: 0.1944
+		rouge-l: 0.2973
+		mean: 0.3258
+	Summary: 
+		democrats hold 55-45 advantage senate said republicans abused filibuster privilege around president barack obama nominations way staff second-term administration promptly move stalled judicial appointments speed things rules change
+		first vote extended session came shortly 1 a.m. et senate approved 51-44 nina pillard nomination federal appeals court washington
+		republicans angry changes filibuster rules requiring senate stay session
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2571
+		rouge-2: 0.0278
+		rouge-l: 0.1351
+		mean: 0.1400
+	Summary: 
+		frustrated republicans retaliating democratic play weaken hand opposing presidential nominations forcing all-night session thursday early hours
+		votes judicial appointments took place early thursday morning part fallout democratic majority enforced rule change expedite consideration appointments so-called nuclear option
+		last month longstanding senate rules required supermajority 60 votes break filibuster presidential nominee

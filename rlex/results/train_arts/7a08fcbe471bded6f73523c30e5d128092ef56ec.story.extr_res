@@ -1,0 +1,74 @@
+DOCUMENT:
+0: venezuelan fishing boat rescued 11 chinese sailors including four suffering severe burns life raft floating pacific ocean 1,100 km 684 miles coast mexico
+1: six sailors chinese vessel remain missing two rescued men subsequently died injuries
+2: airmen arizona-based united states air force search rescue team assisted recovery two seamen critically injured spokesperson davis-monthan air force base said sunday
+3: uninjured crew members along bodies two deceased transferred chinese-flagged vessel area repatriated
+4: venezuelan vessel radioed request assistance late friday afternoon airmen 563rd rescue group based tucson arizona flew location treat injured crew emergency treatment continued sunday aboard ship
+5: team parachuted air force aircraft 11-hour flight remote location pacific approaching fishing boat zodiac inflatables
+6: airmen preparing world largest combat search rescue csar exercise codenamed angel thunder real-world distress call came 12th air force report stated
+7: preparing training exercise notified going 1st lt. ben schmidt 48th rescue squadron combat rescue officer quoted saying
+8: guardian angel trained equipped better way show capabilities
+9: capt. susan harrington public affairs officer davis-monthan air force base told cnn military hoping transfer two injured crew members back cabo san lucas nearest landfall mexico monday local time
+10: prepared rescue anyone anytime anywhere tasked air force col. sean choquette 563rd rqg commander said
+11: airmen train diligently execute difficult missions like one
+12: family rescued sea
+13: u.s. navy responds distress call aegean sea
+
+=================================
+Gold summary:
+chinese sailors found floating life raft venezuelan fishing boat ship sank
+11 rescued including two seriously injured two later died
+six seamen remain missing
+u.s. air force assisted rescue
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 2, 12, 5
+	Results: 
+		rouge-1: 0.3571
+		rouge-2: 0.0714
+		rouge-l: 0.1379
+		mean: 0.1888
+	Summary: 
+		airmen arizona-based united states air force search rescue team assisted recovery two seamen critically injured spokesperson davis-monthan air force base said sunday
+		family rescued sea
+		team parachuted air force aircraft 11-hour flight remote location pacific approaching fishing boat zodiac inflatables
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.7857
+		rouge-2: 0.2143
+		rouge-l: 0.3793
+		mean: 0.4598
+	Summary: 
+		venezuelan fishing boat rescued 11 chinese sailors including four suffering severe burns life raft floating pacific ocean 1,100 km 684 miles coast mexico
+		six sailors chinese vessel remain missing two rescued men subsequently died injuries
+		airmen arizona-based united states air force search rescue team assisted recovery two seamen critically injured spokesperson davis-monthan air force base said sunday
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.7857
+		rouge-2: 0.2143
+		rouge-l: 0.3793
+		mean: 0.4598
+	Summary: 
+		venezuelan fishing boat rescued 11 chinese sailors including four suffering severe burns life raft floating pacific ocean 1,100 km 684 miles coast mexico
+		six sailors chinese vessel remain missing two rescued men subsequently died injuries
+		airmen arizona-based united states air force search rescue team assisted recovery two seamen critically injured spokesperson davis-monthan air force base said sunday
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.7857
+		rouge-2: 0.2143
+		rouge-l: 0.3793
+		mean: 0.4598
+	Summary: 
+		venezuelan fishing boat rescued 11 chinese sailors including four suffering severe burns life raft floating pacific ocean 1,100 km 684 miles coast mexico
+		six sailors chinese vessel remain missing two rescued men subsequently died injuries
+		airmen arizona-based united states air force search rescue team assisted recovery two seamen critically injured spokesperson davis-monthan air force base said sunday

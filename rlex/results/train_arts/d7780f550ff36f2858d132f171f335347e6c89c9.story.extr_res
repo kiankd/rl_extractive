@@ -1,0 +1,85 @@
+DOCUMENT:
+0: palestinian journalists finding reporting increasingly difficult face growing abuse toward palestinian security forces west bank gaza according report released wednesday human rights watch
+1: report news good news abuses journalists palestinian security forces criticizes palestinian authority forces west bank hamas security forces gaza saying abusing local journalists limiting press freedom palestinian territories
+2: 35-page report focuses seven incidents west bank two gaza saying cases security forces tortured beat arbitrarily detained journalists confiscated equipment barred leaving west bank gaza
+3: human rights watch cites report issued palestinian center development media freedom says 45 increase number physical attacks arrests confiscation equipment limitation movement year 2010
+4: respect human rights watch report human rights organizations ground readiness investigate case said maj. gen. adnan dmeiri spokesman palestinian authority security services
+5: said consult us ask us publishing reports
+6: said security services investigate bring people justice
+7: pa agenda violate rights human beings especially rights journalists
+8: trust justice system freedom journalists priority things
+9: abuses journalists connected rift fatah controls west bank palestinian authority hamas controls gaza according report
+10: pro-hamas journalists targeted palestinian security forces west bank pro-fatah journalists targeted hamas security gaza
+11: report stresses west bank security forces virtual impunity serious human rights violations states utter failure palestinian authority leadership address prevailing culture impunity abuses suggests reflect government policy
+12: accept comparison us militia gaza dmeiri said
+13: said organization political agenda hold detain people background
+14: detain people criminal security threats matters threaten internal security
+15: large sums donated palestinian authority security forces west bank united states european union
+16: human rights watch calls donor countries condition support security services making sure palestinian authority officials investigate punish security personnel abuses
+17: attacks international journalists gaza also increased past couple months
+18: march 2011 journalists covering demonstration gaza calling reconciliation fatah hamas offices reuters cnn nhk raided hamas security forces
+19: efforts get response hamas officials immediately successful
+20: tel aviv-based foreign press association released statement expressing grave concern hamas security forces brutally attacked photographers cameramen beating breaking equipment confiscating photos video footage
+21: organization called developments latest string chilling attacks reporters gaza
+22: united states european union designated hamas terrorist organization
+23: human rights watch describes website one world leading independent organizations dedicated defending protecting human rights
+24: cnn kareem khadder contributed report
+
+=================================
+Gold summary:
+new palestinian security forces say investigate allegations
+human rights watch report focuses seven incidents west bank two gaza
+journalists tortured beat arbitrarily detained report says
+rift fatah hamas behind incidents says
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 2, 12, 23
+	Results: 
+		rouge-1: 0.6429
+		rouge-2: 0.4333
+		rouge-l: 0.3871
+		mean: 0.4878
+	Summary: 
+		35-page report focuses seven incidents west bank two gaza saying cases security forces tortured beat arbitrarily detained journalists confiscated equipment barred leaving west bank gaza
+		accept comparison us militia gaza dmeiri said
+		human rights watch describes website one world leading independent organizations dedicated defending protecting human rights
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.7143
+		rouge-2: 0.5000
+		rouge-l: 0.5806
+		mean: 0.5983
+	Summary: 
+		palestinian journalists finding reporting increasingly difficult face growing abuse toward palestinian security forces west bank gaza according report released wednesday human rights watch
+		report news good news abuses journalists palestinian security forces criticizes palestinian authority forces west bank hamas security forces gaza saying abusing local journalists limiting press freedom palestinian territories
+		35-page report focuses seven incidents west bank two gaza saying cases security forces tortured beat arbitrarily detained journalists confiscated equipment barred leaving west bank gaza
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 2, 9
+	Results: 
+		rouge-1: 0.7857
+		rouge-2: 0.5000
+		rouge-l: 0.6774
+		mean: 0.6544
+	Summary: 
+		palestinian journalists finding reporting increasingly difficult face growing abuse toward palestinian security forces west bank gaza according report released wednesday human rights watch
+		35-page report focuses seven incidents west bank two gaza saying cases security forces tortured beat arbitrarily detained journalists confiscated equipment barred leaving west bank gaza
+		abuses journalists connected rift fatah controls west bank palestinian authority hamas controls gaza according report
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.7143
+		rouge-2: 0.5000
+		rouge-l: 0.5806
+		mean: 0.5983
+	Summary: 
+		palestinian journalists finding reporting increasingly difficult face growing abuse toward palestinian security forces west bank gaza according report released wednesday human rights watch
+		report news good news abuses journalists palestinian security forces criticizes palestinian authority forces west bank hamas security forces gaza saying abusing local journalists limiting press freedom palestinian territories
+		35-page report focuses seven incidents west bank two gaza saying cases security forces tortured beat arbitrarily detained journalists confiscated equipment barred leaving west bank gaza

@@ -1,0 +1,83 @@
+DOCUMENT:
+0: rep. joe wilson said sunday apologize yelling president obama lied president speech congress last week
+1: rep. joe wilson r-south carolina shouts lie
+2: president obama speech wednesday night
+3: going apologize south carolina republican said fox news sunday asked pending disciplinary steps democratic-controlled house representatives
+4: wilson said already apologized obama president accepted
+5: however insisted obama misstating facts democratic leaders house playing politics continuing focus issue
+6: house democrats plan censure wilson refuses apologize house floor week
+7: wilson issued statement sunday saying american people fed political games washington refuse participate effort divert attention away task hand reforming health insurance creating new jobs
+8: watch debate wilson comment
+9: controversy shifted focus heated health care debate calling attention claims republicans health care overhaul sought obama democrats would provide free insurance coverage illegal immigrants
+10: obama democratic leaders insist nothing health care proposals currently congress includes health care coverage illegal immigrants would provide taxpayer money help illegal immigrants buy private health coverage
+11: however wilson opponents democratic proposals say plans provide enforcement mechanism screen applicants citizenship requirements
+12: wilson said sunday republican amendments calling enforcement rejected congressional committees passed democratic proposals
+13: asked obama lied congress wilson responded believe misstating facts
+14: noted senate finance committee members negotiating compromise agreement called enforcement mechanisms similar republicans proposing
+15: national response wilson nationally televised outburst yelled lie obama spoke health care joint session congress shows deep public divide issue
+16: wilson opponent re-election next year raised 1 million since wilson heckling president wednesday according aides
+17: addition wilson posted web video asks campaign cash fend attacks political opponents
+18: immediately obama speech wednesday wilson issued statement apologized inappropriate behavior
+19: also called white house night spoke obama chief staff rahm emanuel told wilson obama accepted apology
+20: obama said publicly accepted apology
+21: wilson apologized quickly unequivocally appreciative president said
+22: wilson said sunday enough adding respected president would never something like
+
+=================================
+Gold summary:
+rep. joe wilson says apologized obama enough
+wilson yelled lie obama made health care speech congress last week
+house democrats plan censure wilson unless apologizes house week
+wilson says respects president would never something like
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 18, 5, 6
+	Results: 
+		rouge-1: 0.3214
+		rouge-2: 0.1212
+		rouge-l: 0.2857
+		mean: 0.2428
+	Summary: 
+		immediately obama speech wednesday wilson issued statement apologized inappropriate behavior
+		however insisted obama misstating facts democratic leaders house playing politics continuing focus issue
+		house democrats plan censure wilson refuses apologize house floor week
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3571
+		rouge-2: 0.1515
+		rouge-l: 0.2857
+		mean: 0.2648
+	Summary: 
+		rep. joe wilson said sunday apologize yelling president obama lied president speech congress last week
+		rep. joe wilson r-south carolina shouts lie
+		president obama speech wednesday night
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 6, 22
+	Results: 
+		rouge-1: 0.6429
+		rouge-2: 0.4545
+		rouge-l: 0.6000
+		mean: 0.5658
+	Summary: 
+		rep. joe wilson said sunday apologize yelling president obama lied president speech congress last week
+		house democrats plan censure wilson refuses apologize house floor week
+		wilson said sunday enough adding respected president would never something like
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 4
+	Results: 
+		rouge-1: 0.3929
+		rouge-2: 0.1818
+		rouge-l: 0.3143
+		mean: 0.2963
+	Summary: 
+		rep. joe wilson said sunday apologize yelling president obama lied president speech congress last week
+		rep. joe wilson r-south carolina shouts lie
+		wilson said already apologized obama president accepted

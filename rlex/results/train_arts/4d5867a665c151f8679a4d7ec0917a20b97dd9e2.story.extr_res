@@ -1,0 +1,115 @@
+DOCUMENT:
+0: politically sensitive issues immigration border security drug trafficking trade took center stage washington wednesday president obama welcomed mexican counterpart felipe calderon white house
+1: leaders used occasion fourth time met bilateral talks take sharp aim arizona new law meant crack illegal immigrants
+2: calderon characterized measure discriminatory obama called misdirected expression frustration
+3: leaders criticized law meeting reporters shortly obama vice president joe biden secretary state hillary clinton rolled red carpet calderon formal white house arrival ceremony
+4: u.s. first lady michelle obama mexican first lady margarita zavala joined husbands occasion followed state dinner wednesday night
+5: calderon address joint session congress thursday
+6: progress today marks another step forward new era cooperation partnership countries partnership based mutual interests mutual respect mutual responsibility obama said
+7: calderon said united states mexico face series common challenges including climate change organized crime rising threat border stability
+8: ultimately turns us good neighbors common belief freedom justice democracy said
+9: obama ticked list items said two leaders agreed upon meeting
+10: economy said agreed streamline regulations strengthening protection intellectual property
+11: facilitate trade reaffirmed commitment 21st-century border modern secure efficient
+12: also pledged expand joint initiatives promoting renewable energy smart grid technology
+13: turning illegal drug weapons trafficking obama noted administration screening 100 percent south-bound rail cargo
+14: moving direction mexican authorities recent years seized 45,000 weapons could traced united states
+15: obama also cited new initiatives cut u.s. demand illegal drugs
+16: partner give support need prevail drug cartels unleashed horrific violence many communities obama told calderon
+17: drug violence claimed 6,500 lives mexico last year
+18: calderon said 90 percent casualties war drugs criminals fighting adding cartels winning
+19: mexican gangs passing unstable process fighting explains casualties calderon said cnn situation room
+20: acknowledged however innocent people also killed
+21: obama also noted mexico current seat u.n. security council highlighting two countries agreement possible sanctions iran stop tehran current nuclear program
+22: issue arizona new immigration law however consumed leaders time meeting reporters
+23: measure allow law enforcement officers ask proof legal residency anyone investigated crime possible legal infraction drawn widespread criticism mexico
+24: critics contend among things law lead racial profiling hispanic residents
+25: later wednesday calderon acknowledged immigration biggest challenge mexico facing united states
+26: provoking lot tensions people calderon said
+27: phenomenon need solve
+28: best way solve creating new jobs mexico exactly trying
+29: calderon said mexico working change immigration policies address criticisms officials texas arizona new mexico claim trying states mexico southern part country
+30: calderon said illegal immigration crime mexico since last year
+31: past mexican authorities unfortunate way treatment immigrants said
+32: changed already law different today
+33: trying write new story
+34: regarding arizona tough new immigration law calderon said potential racial profiling statute sense human rights
+35: obama said thinks arizona law potential applied discriminatory fashion
+36: fair reading language statute indicates gives possibility individuals deemed suspicious illegal immigrants harassed arrested
+37: judgments going made applying law troublesome noted
+38: obama noted directed justice department look carefully language law see whether comports core values existing legal standards well fact federal government ultimately one charged immigration policy
+39: obama said make decisions address law gets final report justice officials
+40: broad coalition civil rights groups filed class-action lawsuit measure monday arguing violates u.s. constitution equal protection free speech guarantees among things
+41: arizona city councils tucson flagstaff also decided challenge law court
+42: majority americans however appears back measure
+43: fifty-nine percent adults nationwide supported law may 6-9 pew research center poll
+44: thirty-two percent opposed
+45: arizona law obama asserted wednesday expresses frustrations american people fixing broken immigration system frankly failures federal government get done
+46: sympathetic frustrations
+47: obama repeated call comprehensive immigration reform said measure ca pass without republican support
+48: mexican official familiar arrangements calderon visit cautioned would wrong let controversy arizona law overwhelm rest visit
+49: define visit relationship mexican official said
+50: u.s.-mexican relationship much rich diverse one issue
+51: senior obama administration official however acknowledged issue resonated mexico deep concern mexican government
+52: month mexico ambassador united states arturo sarukhan warned worrying surge anti-immigrant sentiments
+53: warned arizona law might poison well two nations found continue find inspiration joint future prosperity security tolerance justice
+54: cnn charley keyes alan silverleib contributed report
+
+=================================
+Gold summary:
+new felipe calderon says immigration biggest challenge mexico faces u.s.
+obama calderon criticize arizona law
+drug violence trade renewable energy also among topics
+immigration overshadows wednesday state dinner honor calderon
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 48, 2, 37
+	Results: 
+		rouge-1: 0.1481
+		rouge-2: 0.0345
+		rouge-l: 0.1333
+		mean: 0.1053
+	Summary: 
+		mexican official familiar arrangements calderon visit cautioned would wrong let controversy arizona law overwhelm rest visit
+		calderon characterized measure discriminatory obama called misdirected expression frustration
+		judgments going made applying law troublesome noted
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3704
+		rouge-2: 0.0345
+		rouge-l: 0.2000
+		mean: 0.2016
+	Summary: 
+		politically sensitive issues immigration border security drug trafficking trade took center stage washington wednesday president obama welcomed mexican counterpart felipe calderon white house
+		leaders used occasion fourth time met bilateral talks take sharp aim arizona new law meant crack illegal immigrants
+		calderon characterized measure discriminatory obama called misdirected expression frustration
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 25, 45
+	Results: 
+		rouge-1: 0.4444
+		rouge-2: 0.1724
+		rouge-l: 0.3000
+		mean: 0.3056
+	Summary: 
+		politically sensitive issues immigration border security drug trafficking trade took center stage washington wednesday president obama welcomed mexican counterpart felipe calderon white house
+		later wednesday calderon acknowledged immigration biggest challenge mexico facing united states
+		arizona law obama asserted wednesday expresses frustrations american people fixing broken immigration system frankly failures federal government get done
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3704
+		rouge-2: 0.0345
+		rouge-l: 0.2000
+		mean: 0.2016
+	Summary: 
+		politically sensitive issues immigration border security drug trafficking trade took center stage washington wednesday president obama welcomed mexican counterpart felipe calderon white house
+		leaders used occasion fourth time met bilateral talks take sharp aim arizona new law meant crack illegal immigrants
+		calderon characterized measure discriminatory obama called misdirected expression frustration

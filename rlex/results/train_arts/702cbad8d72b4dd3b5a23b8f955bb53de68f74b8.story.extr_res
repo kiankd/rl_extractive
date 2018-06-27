@@ -1,0 +1,72 @@
+DOCUMENT:
+0: former real madrid spain midfielder ruben de la red officially announced retirement football emotional press conference thursday
+1: de la red played since collapsed copa del rey match october 2008 since diagnosed heart problem
+2: 25-year-old part spain victorious euro 2008 squad stay club begin new career coach bernabeu
+3: wish send support players whose careers also cut short
+4: also grateful people supported said de la red visibly emotional addressed spanish media
+5: fought vain doctors advised stop
+6: always dreamt becoming football player successful club greatest world
+7: excited anxious start new stage career thanks club
+8: able continue work place regard home
+9: try learn skills coach give successful
+10: de la red product real madrid youth system made debut spanish giants 2004 sold getafe 2007 option los blancos re-sign player
+11: option real took midfielder impressed getafe run 2007-08 uefa cup quarterfinals
+12: also earned three caps spain scoring international goal 3-1 win greece group stages euro 2008
+
+=================================
+Gold summary:
+ruben de la red officially announced retirement football
+25-year-old played since 2008 due heart condition
+former spain international join real madrid coaching team
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 8, 10, 6
+	Results: 
+		rouge-1: 0.2609
+		rouge-2: 0.1364
+		rouge-l: 0.2174
+		mean: 0.2049
+	Summary: 
+		able continue work place regard home
+		de la red product real madrid youth system made debut spanish giants 2004 sold getafe 2007 option los blancos re-sign player
+		always dreamt becoming football player successful club greatest world
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.7391
+		rouge-2: 0.4091
+		rouge-l: 0.5652
+		mean: 0.5711
+	Summary: 
+		former real madrid spain midfielder ruben de la red officially announced retirement football emotional press conference thursday
+		de la red played since collapsed copa del rey match october 2008 since diagnosed heart problem
+		25-year-old part spain victorious euro 2008 squad stay club begin new career coach bernabeu
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 1, 12
+	Results: 
+		rouge-1: 0.7391
+		rouge-2: 0.4091
+		rouge-l: 0.6087
+		mean: 0.5856
+	Summary: 
+		former real madrid spain midfielder ruben de la red officially announced retirement football emotional press conference thursday
+		de la red played since collapsed copa del rey match october 2008 since diagnosed heart problem
+		also earned three caps spain scoring international goal 3-1 win greece group stages euro 2008
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.7391
+		rouge-2: 0.4091
+		rouge-l: 0.5652
+		mean: 0.5711
+	Summary: 
+		former real madrid spain midfielder ruben de la red officially announced retirement football emotional press conference thursday
+		de la red played since collapsed copa del rey match october 2008 since diagnosed heart problem
+		25-year-old part spain victorious euro 2008 squad stay club begin new career coach bernabeu

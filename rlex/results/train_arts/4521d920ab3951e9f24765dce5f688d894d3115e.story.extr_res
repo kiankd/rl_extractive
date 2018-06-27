@@ -1,0 +1,103 @@
+DOCUMENT:
+0: forthcoming rolling stone profile gen. stanley mcchrystal leaked press monday taken life
+1: runaway general former newsweek correspondent michael hastings offers close look four star general commands u.s. nato forces afghanistan
+2: piece available digital format anyone wants read ahead scheduled publication
+3: smart writers bloggers tweeters dissecting better part full day critical attitudes behaviors described examples arrogance vindictiveness frustration plain old poor judgment
+4: first time mcchrystal profiled media
+5: first took charge afghanistan mission summer 2009 heralded past achievements special forces officer approach getting things done iraq afghanistan
+6: personal asceticism source awe sleeping four hours night running 15 kilometers eating single meal per day directing extremely difficult mission
+7: accounts right man right job could trusted sift mess defeat enemy bring troops home
+8: conduct generally correct professional despite significant differences political military opinion america afghanistan policy
+9: beginning tour
+10: almost year appears either deliberately let guard caught pants around ankles
+11: hastings spent month mcchrystal writes determined put personal stamp afghanistan use laboratory controversial military strategy known counterinsurgency
+12: also describes mcchrystal entourage handpicked collection killers spies geniuses patriots political operators outright maniacs
+13: following issues read like awkward breathless observations ingénue like material packaged sell audience attuned music pop culture war foreign policy
+14: really got everyone attention though article candid descriptions appears mcchrystal team team america contempt civilian counterparts masters including president obama vice president joe biden u.s. ambassador afghanistan carl eikenberry special envoy richard holbrooke
+15: mcchrystal issued formal apology tuesday ahead viral stream propelled article across web
+16: observers critical may enough
+17: washington recalled mcchrystal explain duncan boothby civilian press aide arranged hastings access reportedly resigned post
+18: bodies begin fall pessimistic future holds mcchrystal whether time wednesday still command u.s. nato forces afghanistan
+19: article raises many questions author command culture surrounding mcchrystal
+20: difficult fathom reporter would granted warts-and-all access inner sanctum strings attached
+21: equally hard understand members team america could feel free speak unguardedly much less cut loose influence alcohol hastings described expect good journalist midst record observations
+22: interview cnn tuesday rolling stone executive editor eric bates contended comments made mcchrystal top military aides interview off-the-cuff remarks said
+23: knew granted access
+24: story shows deep division war within administration strategy afghanistan
+25: mostly difficult discern hastings trying accomplish article feels like wants two separate things balanced in-depth profile out-and-out hatchet job
+26: former fails convince author grasp context uneven best
+27: latter collected quips hardly worth gasps tisks earned thus far lend well context trying convey
+28: hastings young reporter whose work published variety reputable publications including washington post l.a. times gq foreign policy newsweek correspondent iraq 2005 2007
+29: girlfriend andi parhamovich another young journalist followed killed sunni militia ambush january 2007
+30: memoir experience lost love baghdad modern war story published 2008 quickly panned new yorker staff writer george packer review new york times
+31: really two books failed reconcile war story romance
+32: embarrassing title
+33: carried whiff exploitation suffered literary shortcomings
+34: point packer one several journalists along washington post rajiv chandrasekaran dexter filkins new york times among others written notable accounts time reporting iraq
+35: like filkins book forever war intensely personal others better volumes convey one way another sense social distance separates authors subjects write world outside
+36: according packer convey deadly ennui foot patrol unable rise rhetorically tragedy girlfriend death
+37: substitute details becomes remarkably apt description rolling stones piece
+38: hastings clearly demonstrates keen eye off-color detail fails weave threads something coherent meaningful
+39: getting facts straight reporting one thing knowing subject making sense quite another
+40: important something obama administration keep mind making decision basis single reporter work
+41: mcchrystal sacked white house thinks relationship military civilian elements afghanistan important mission needs fixing wants shift directions afghanistan change military leadership would best way make happen
+42: opinions expressed commentary solely michael innes
+
+=================================
+Gold summary:
+article entitled runaway general puts gen. stanley mcchrystal scrutiny
+michael innes says president obama fire mcchrystal based one article
+says piece fails put comments mcchrystal staff context
+innes says reporter failed weave threads reporting coherent whole
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 32, 27, 15
+	Results: 
+		rouge-1: 0.1000
+		rouge-2: 0.0000
+		rouge-l: 0.0556
+		mean: 0.0519
+	Summary: 
+		embarrassing title
+		latter collected quips hardly worth gasps tisks earned thus far lend well context trying convey
+		mcchrystal issued formal apology tuesday ahead viral stream propelled article across web
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2333
+		rouge-2: 0.0882
+		rouge-l: 0.1389
+		mean: 0.1535
+	Summary: 
+		forthcoming rolling stone profile gen. stanley mcchrystal leaked press monday taken life
+		runaway general former newsweek correspondent michael hastings offers close look four star general commands u.s. nato forces afghanistan
+		piece available digital format anyone wants read ahead scheduled publication
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 14, 38
+	Results: 
+		rouge-1: 0.3667
+		rouge-2: 0.0882
+		rouge-l: 0.2500
+		mean: 0.2350
+	Summary: 
+		runaway general former newsweek correspondent michael hastings offers close look four star general commands u.s. nato forces afghanistan
+		really got everyone attention though article candid descriptions appears mcchrystal team team america contempt civilian counterparts masters including president obama vice president joe biden u.s. ambassador afghanistan carl eikenberry special envoy richard holbrooke
+		hastings clearly demonstrates keen eye off-color detail fails weave threads something coherent meaningful
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 4
+	Results: 
+		rouge-1: 0.2000
+		rouge-2: 0.0882
+		rouge-l: 0.1389
+		mean: 0.1424
+	Summary: 
+		forthcoming rolling stone profile gen. stanley mcchrystal leaked press monday taken life
+		runaway general former newsweek correspondent michael hastings offers close look four star general commands u.s. nato forces afghanistan
+		first time mcchrystal profiled media

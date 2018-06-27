@@ -1,0 +1,128 @@
+DOCUMENT:
+0: many visits marrakech revolve around imposing koutoubia mosque jemaa el fna bustling central square filled snake charmers storytellers plenty beyond landmarks
+1: willing delve deep narrow streets around square desert mountains outside city marrakech rewards stunning scenery unforgettable flavors luxurious indulgences
+2: city highlights
+3: getting lost backstreets
+4: exploring old medina pleasurable expensive equal measures thanks small boutiques selling almost everything
+5: among classic local souvenirs djellaba robes spices babouches moroccan slippers old carpets colorful ceramics
+6: bargaining part attraction
+7: taking time purchase save money generally prompt enjoyable discussion vendor
+8: recommended la porte ancient two-level bazaar rammed rugs antiques
+9: la porte 115 souk semmarine marrakech +212 24445454
+10: wandering jardin majorelle
+11: simple joy peaceful garden meets complicated world high couture
+12: 12-acre botanical creation bequeathed marrakech french painter jacques majorelle later saved development fashion designer yves saint laurent bought 1980s following death ashes scattered among plants
+13: garden blends moorish art deco features filled rare flowers
+14: startling electric blue villa looks upon scene
+15: jardin majorelle rue yves saint laurent marrakech +212 5243-01894
+16: eating sheep head
+17: plenty places eat moroccan food marrakech
+18: cooked snails tajines couscous sheep heads different levels exoticism match adventurousness diner
+19: tanjia staple
+20: meat dish cooked six hours ceramic pot
+21: commonly enjoyed tourists terrific reputation among moroccans come marrakech sole purpose eating
+22: recommended dar rhizlane bejgueni jamaa el fna square
+23: 40-year-old restaurant marrakech institution
+24: open 2 a.m. famous sandwiches
+25: dar rhizlane bejgueni jamaa el fna square marrakech
+26: getting pummeled stranger
+27: steaming traditional hammam public bath important part moroccan life culture
+28: scrubbed perfect stranger may sound like everyone idea relaxation better way escape buzzing medina revitalize weary skin muscles
+29: recommended les bains de marrakech luxury spa close medina offers individual massage rooms
+30: les bains de marrakech 2 derb sedra bab agnaou kasbah marrakech +212 5 24 38 14 28
+31: visiting staying palace
+32: el badi palace may ruins still possible get idea former glory sprawling 16th-century sultan home
+33: subterranean rooms labyrinth explore plus museum objects recovered old minbar pulpit koutoubia mosque
+34: mamounia palace five-star hotel marrakech institution best part century receiving famous guests winston churchill charlie chaplin
+35: mamounia still attracts celebrities
+36: russian president vladimir putin daughter reportedly married 2013
+37: namaskar palace another luxury hotel one way marrakech atlas mountains
+38: stylish traditional influences oasis-style spa retreat regularly tops best-in-africa lists
+39: el badi palace ksibat nhass marrakech +212 661 350878
+40: mamounia palace arset el maach marrakech +212 5243 88600
+41: namaskar palace route de bab atlas 88/69 province syba marrakech 212 5 24 29 98 00
+42: relaxing riad
+43: whether drinking tea staying night riads great part marrakech experience
+44: traditional moroccan houses built around central garden courtyard much part city snake charmers main square although many modern makeover
+45: regardless whether kitted latest fixtures remain faithful old fashioned moroccan decor seem evoke myths one thousand one nights
+46: recommended el fenn maze-like 22-room luxury boutique hotel based around three central courtyards
+47: el fenn derb moullay abdullah ben hezzian bab el ksour medina marrakech +212 524 44 1210
+48: checking atlas mountains
+49: one marrakech key attractions lies within easy reach atlas mountains meaning cool retreats heat dust city close hand
+50: town lalla takerkoust 43 kilometers 27 miles southwest chiefly known nearby dam lake great place quad biking camel riding simply admiring view peaks
+51: valley ourika atlas foothills 60 kilometers south marrakech popular escape see berber villages surrounded waterfalls rivers
+52: village armed 64 kilometers due south last stop toubkal morocco highest mountain peak affords views sahara
+53: great base hiking simply breathing pure air contemplating nature enjoying lunch terrace roches hotel +212 667 64 49 15
+54: grabbing bargain bab el khemis
+55: main tourist trail bab el khemis worth visit
+56: souk open every day thursdays khemis translates thursday becomes truly moroccan experience
+57: transforms crowded flea market selling secondhand goods treasures vintage carpets doors things customers probably know exist stumble across
+58: hot air ballooning
+59: people visit city talk getting high necessarily mean hunting crosby stills nash marrakech express vibe 1960s hippie trail
+60: past 20 years city emerged destination balloon trips clear moroccan skies rarely see clouds rain huge plus
+61: taking undoubtedly best view atlas mountains come cheap deny money well spent
+62: recommended ciel organzied professional operation decades ballooning experience
+63: ciel +212 524 43 28 43
+64: 30-minute drive south marrakech leads terres 173-acre adult playground filled adrenaline-boosting outdoor activities
+65: fear heights climbing routes high wires zip lines ground horse camel riding
+66: berber bread making courses also offered
+67: terres +212 524 438 103
+68: ali berrada moroccan photographer writer director
+
+=================================
+Gold summary:
+getting lost narrow streets marrakech old medina great way find antiques oddities
+jardin majorelle created french painter jacques majorelle later owned yves saint laurent
+outside marrakech travelers take hot air balloon trip explore atlas mountains ride zip wire
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 32, 11, 46
+	Results: 
+		rouge-1: 0.0000
+		rouge-2: 0.0000
+		rouge-l: 0.0000
+		mean: 0.0000
+	Summary: 
+		el badi palace may ruins still possible get idea former glory sprawling 16th-century sultan home
+		simple joy peaceful garden meets complicated world high couture
+		recommended el fenn maze-like 22-room luxury boutique hotel based around three central courtyards
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1389
+		rouge-2: 0.0270
+		rouge-l: 0.1053
+		mean: 0.0904
+	Summary: 
+		many visits marrakech revolve around imposing koutoubia mosque jemaa el fna bustling central square filled snake charmers storytellers plenty beyond landmarks
+		willing delve deep narrow streets around square desert mountains outside city marrakech rewards stunning scenery unforgettable flavors luxurious indulgences
+		city highlights
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 12, 37
+	Results: 
+		rouge-1: 0.4167
+		rouge-2: 0.2162
+		rouge-l: 0.3684
+		mean: 0.3338
+	Summary: 
+		willing delve deep narrow streets around square desert mountains outside city marrakech rewards stunning scenery unforgettable flavors luxurious indulgences
+		12-acre botanical creation bequeathed marrakech french painter jacques majorelle later saved development fashion designer yves saint laurent bought 1980s following death ashes scattered among plants
+		namaskar palace another luxury hotel one way marrakech atlas mountains
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 40
+	Results: 
+		rouge-1: 0.1389
+		rouge-2: 0.0270
+		rouge-l: 0.1053
+		mean: 0.0904
+	Summary: 
+		many visits marrakech revolve around imposing koutoubia mosque jemaa el fna bustling central square filled snake charmers storytellers plenty beyond landmarks
+		willing delve deep narrow streets around square desert mountains outside city marrakech rewards stunning scenery unforgettable flavors luxurious indulgences
+		mamounia palace arset el maach marrakech +212 5243 88600

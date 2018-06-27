@@ -1,0 +1,99 @@
+DOCUMENT:
+0: sen. mary landrieu grew hoarse campaign trail saturday
+1: louisiana democrat shouting week rallying supporters campaign events state fighting hold challenge republican u.s. rep. bill cassidy bitter end
+2: national race honey race cried campaign rally eve runoff election
+3: every indication nobody listening
+4: saturday morning arrives vote four cameras capture moment compared one staffer described gaggle 50-strong november 4 vote
+5: landrieu trailed every public poll race
+6: recently poll week republican firm wpa research 24 points
+7: early voting among african-americans voting bloc key chances win republican early voting
+8: republicans locking control senate november elections louisiana lost urgency national democrats
+9: national democratic senatorial committee withdrew investment early runoff left fend major democratic spending groups
+10: lopsided fight frustrates landrieu friday unprompted chastised democratic senatorial campaign committee abandoned us
+11: believe leaving soldier field says
+12: landrieu tries turn tide
+13: even saturday morning landrieu insisted despite lack support still chance noting precedent orchestrate unexpected come-from-behind win
+14: first race ran 18 years ago pundits said tide turned win democrat win south
+15: eighteen years ago said win landrieu remembers
+16: 2002 pulled runoff win
+17: like seized niche issue trade deal would hurt farmers state dispute cassidy work louisiana state university help boost campaign last moments
+18: time louisiana political observers say issue broke late gain much traction
+19: political tides grown increasingly difficult senator time office
+20: south become increasingly red landrieu last remaining statewide elected democrat louisiana last democratic senator deep south
+21: president barack obama remains deeply unpopular louisiana republicans successfully made race referendum even landrieu focuses record
+22: gop candidate keeps low-profile past weeks
+23: landrieu confronts mission impossible
+24: still probably good thing cassidy listening race
+25: congressman described awkward really weird press detractors
+26: kept campaign appearances minimum runoff spending nearly last week campaign washington reduce chances many speculate unusual personal style could stymie near-certain win
+27: style full display one two final campaign rallies friday
+28: front event escalates unexpected gleeful shout thanking supporter voting
+29: telling reporter reason republicans gained much strength south fact party working families citing gop support keystone xl pipeline example points finger sky raises chin though sermonizing
+30: deflecting question state week cassidy tangles kinds knots wound democratic attack ads
+31: story job congressman people want question whether job doctor always shown wherever asked
+32: show asked supposed story people ask says
+33: cassidy pauses adds see paradox
+34: asked evaluation made others personal style cassidy brushes unfounded bias reporters read reporters said write reporters said
+35: cassidy takes election day
+36: democrats already starting look past loss saturday toward 2016 opportunity right ship
+37: mitch landrieu senator brother mayor new orleans told group reporters friday night soon start focusing 2016 environment going start changing across america
+38: monday morning whole story gon na different mitch landrieu promised group reporters landrieu friday night event
+39: later added always another day
+40: hambycast jazz politics zombie runoff
+
+=================================
+Gold summary:
+cnn projects rep. bill cassidy defeat sen. mary landrieu
+polls much 24 points gop challenger
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 0, 12, 20
+	Results: 
+		rouge-1: 0.2000
+		rouge-2: 0.1429
+		rouge-l: 0.2000
+		mean: 0.1810
+	Summary: 
+		sen. mary landrieu grew hoarse campaign trail saturday
+		landrieu tries turn tide
+		south become increasingly red landrieu last remaining statewide elected democrat louisiana last democratic senator deep south
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4000
+		rouge-2: 0.2857
+		rouge-l: 0.2000
+		mean: 0.2952
+	Summary: 
+		sen. mary landrieu grew hoarse campaign trail saturday
+		louisiana democrat shouting week rallying supporters campaign events state fighting hold challenge republican u.s. rep. bill cassidy bitter end
+		national race honey race cried campaign rally eve runoff election
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 1, 6
+	Results: 
+		rouge-1: 0.5333
+		rouge-2: 0.3571
+		rouge-l: 0.3333
+		mean: 0.4079
+	Summary: 
+		sen. mary landrieu grew hoarse campaign trail saturday
+		louisiana democrat shouting week rallying supporters campaign events state fighting hold challenge republican u.s. rep. bill cassidy bitter end
+		recently poll week republican firm wpa research 24 points
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4000
+		rouge-2: 0.2857
+		rouge-l: 0.2000
+		mean: 0.2952
+	Summary: 
+		sen. mary landrieu grew hoarse campaign trail saturday
+		louisiana democrat shouting week rallying supporters campaign events state fighting hold challenge republican u.s. rep. bill cassidy bitter end
+		national race honey race cried campaign rally eve runoff election

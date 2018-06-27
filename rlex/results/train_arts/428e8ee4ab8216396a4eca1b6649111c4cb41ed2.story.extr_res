@@ -1,0 +1,90 @@
+DOCUMENT:
+0: u.s. fighter jets intercepted russian bombers alaska california month latest incidents string recent aerial encounters pacific
+1: june 4 according u.s. defense officials four long-range russian tu-95 bear-h bombers accompanied aerial refueling tanker flew u.s. air defense identification zone area extending 200 miles north american coast alaska intercepted u.s. f-22 fighter jets
+2: two russian bombers peeled headed west two flew south identified u.s. f-15 fighters within 50 miles california coast
+3: capt. jeff davis spokesman north american aerospace defense command said first time u.s. jets intercepted russian military aircraft california since july 4 2012
+4: pentagon spokesman col. steve warren said believed russian planes training mission
+5: davis said russian planes entirely within rights flight
+6: followed protocols professional encounter sides said
+7: nothing contrary international law
+8: russian planes never entered u.s. territory proper international law extends 13.8 miles 22.2 kilometers u.s. coast
+9: according federal aviation administration aircraft entering air defense identification zone extends 200 miles coasts united states canada must file flight plan indicating intentions must maintain radio contact air controllers must operational radar transponder
+10: davis said russian flights air defense zone intercepted 10 times year
+11: earlier year top u.s. air force general said russia stepping military activities asia-pacific region tensions increased ukraine russia move crimea
+12: gen. herbert hawk carlisle presentation center strategic international studies washington talked increased russian activity
+13: come long-range aviation coast california circumnavigated guam carlisle said showing picture u.s. f-15 fighter intercepting russian bomber pacific island
+14: guam home andersen air force base used u.s. military flights b-2 b-52 bombers across pacific
+15: flights around japan korean peninsula also increased drastically naval activity area carlisle said
+16: confrontations near u.s. airspace
+17: april u.s. air force surveillance plane buzzed russian jet fighter flying sea okhotsk russia japan u.s. military officials said
+18: describing fly-by straight movie one u.s. official said russian su-27 fighter jet flew within 100 feet nose u.s. air force rc-135u jet
+19: russian aircraft turned showed belly u.s. crew could see armed missiles u.s official said
+20: also april u.s. defense officials say russian fighter jet made dozen low-altitude passes uss donald cook u.s. navy guided missile destroyer operating black sea
+21: april 28 russian defense ministry statement said russian defense minister sergey shoygu u.s. defense secretary chuck hagel discussed incidents phone call day
+22: response statement said shoygu offered instruct commanders chief armed forces countries discuss possible additional measures address interests countries prevent future misperceptions actions
+23: side world f-16 fighter jets netherlands intercepted two russian bombers april
+24: russian planes come half-mile dutch airspace escorted monitored british planes flew north scotland
+25: high-profile training mission u.s. air force week sent two top-of-the-line b-2 stealth bombers air base britain conduct training operations
+26: three b-52 bombers also sent u.s. two-week deployment england also training purposes according air force news release
+27: u.s. sends b-2 stealth bombers europe
+28: declassified report two nuclear bombs nearly detonated north carolina
+29: ukrainian official russian tanks entered country
+
+=================================
+Gold summary:
+u.s. f-22s f-15s intercept russian bombers
+russian planes last intercepted california 2012
+russian planes come inside u.s. territorial airspace
+incident latest string u.s.-russian encounters
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 8, 15, 23
+	Results: 
+		rouge-1: 0.2500
+		rouge-2: 0.0909
+		rouge-l: 0.1667
+		mean: 0.1692
+	Summary: 
+		russian planes never entered u.s. territory proper international law extends 13.8 miles 22.2 kilometers u.s. coast
+		flights around japan korean peninsula also increased drastically naval activity area carlisle said
+		side world f-16 fighter jets netherlands intercepted two russian bombers april
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4000
+		rouge-2: 0.0455
+		rouge-l: 0.2917
+		mean: 0.2457
+	Summary: 
+		u.s. fighter jets intercepted russian bombers alaska california month latest incidents string recent aerial encounters pacific
+		june 4 according u.s. defense officials four long-range russian tu-95 bear-h bombers accompanied aerial refueling tanker flew u.s. air defense identification zone area extending 200 miles north american coast alaska intercepted u.s. f-22 fighter jets
+		two russian bombers peeled headed west two flew south identified u.s. f-15 fighters within 50 miles california coast
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 3, 24
+	Results: 
+		rouge-1: 0.6000
+		rouge-2: 0.1818
+		rouge-l: 0.4167
+		mean: 0.3995
+	Summary: 
+		u.s. fighter jets intercepted russian bombers alaska california month latest incidents string recent aerial encounters pacific
+		capt. jeff davis spokesman north american aerospace defense command said first time u.s. jets intercepted russian military aircraft california since july 4 2012
+		russian planes come half-mile dutch airspace escorted monitored british planes flew north scotland
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4000
+		rouge-2: 0.0455
+		rouge-l: 0.2917
+		mean: 0.2457
+	Summary: 
+		u.s. fighter jets intercepted russian bombers alaska california month latest incidents string recent aerial encounters pacific
+		june 4 according u.s. defense officials four long-range russian tu-95 bear-h bombers accompanied aerial refueling tanker flew u.s. air defense identification zone area extending 200 miles north american coast alaska intercepted u.s. f-22 fighter jets
+		two russian bombers peeled headed west two flew south identified u.s. f-15 fighters within 50 miles california coast

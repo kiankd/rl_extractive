@@ -1,0 +1,77 @@
+DOCUMENT:
+0: many fliers sunday holiday travel woes round two
+1: 6:30 p.m. et 3,000 u.s. flights delayed 190 canceled according flightaware.com
+2: line security screening chicago midway international airport sunday morning long reporter denise whitaker cnn affiliate komo measured 1.2 miles
+3: traveler sarah crowder called worst seen prompting chicago tribune brian cassella call transportation security administration better
+4: sunday one busiest travel days year millions people return home thanksgiving holiday
+5: happens sometimes chicago aviation department spokeswoman karen pride said according cnn affiliate wls
+6: period time earlier morning 6 a.m. 8 a.m. lines long people traveling holiday period
+7: wednesday weather widely blamed snow snarled traffic parts country
+8: conditions much better sunday many areas warmer tranquil conditions parts country including east coast cnn meteorologist todd borek said
+9: temperatures upper 40s chicago
+10: lot attention goes airports interconnected flight travel system domino effect vast majority thanksgiving travelers hit road
+11: ninety percent travelers expected go road aaa said helped lowest gas prices five years
+12: 46 million people expected travel 50 miles thanksgiving marking highest volume since 2007
+13: 10 tips thanksgiving travel
+14: average distance traveled thanksgiving 549 miles roundtrip americans spend average 573 holiday weekend aaa predicted
+15: holiday travel going
+16: join conversation facebook
+
+=================================
+Gold summary:
+new 3,000 flights delayed almost 200 canceled
+reporter measures line mile long midway airport
+46 million people expected travel thanksgiving aaa says
+90 travelers expected go road
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 8, 16, 7
+	Results: 
+		rouge-1: 0.0000
+		rouge-2: 0.0000
+		rouge-l: 0.0000
+		mean: 0.0000
+	Summary: 
+		conditions much better sunday many areas warmer tranquil conditions parts country including east coast cnn meteorologist todd borek said
+		join conversation facebook
+		wednesday weather widely blamed snow snarled traffic parts country
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3846
+		rouge-2: 0.0385
+		rouge-l: 0.2593
+		mean: 0.2274
+	Summary: 
+		many fliers sunday holiday travel woes round two
+		6:30 p.m. et 3,000 u.s. flights delayed 190 canceled according flightaware.com
+		line security screening chicago midway international airport sunday morning long reporter denise whitaker cnn affiliate komo measured 1.2 miles
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 2, 12
+	Results: 
+		rouge-1: 0.5769
+		rouge-2: 0.1923
+		rouge-l: 0.4815
+		mean: 0.4169
+	Summary: 
+		6:30 p.m. et 3,000 u.s. flights delayed 190 canceled according flightaware.com
+		line security screening chicago midway international airport sunday morning long reporter denise whitaker cnn affiliate komo measured 1.2 miles
+		46 million people expected travel 50 miles thanksgiving marking highest volume since 2007
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 4
+	Results: 
+		rouge-1: 0.2692
+		rouge-2: 0.0385
+		rouge-l: 0.2222
+		mean: 0.1766
+	Summary: 
+		many fliers sunday holiday travel woes round two
+		6:30 p.m. et 3,000 u.s. flights delayed 190 canceled according flightaware.com
+		sunday one busiest travel days year millions people return home thanksgiving holiday

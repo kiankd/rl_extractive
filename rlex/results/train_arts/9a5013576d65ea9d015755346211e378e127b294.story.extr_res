@@ -1,0 +1,91 @@
+DOCUMENT:
+0: thomas muller pre-match remarks could backfired bayern munich teammates
+1: bundesliga already decided 24-year-old confidently predicted interview munich newspaper tz
+2: think anyone reckoning lose six last remaining 12 matches
+3: make six last 11 bayern munich walloped schalke 5-1 allianz arena saturday
+4: bundesliga fourth-placed side forgettable end miserable week
+5: taken cleaners real madrid champions league wednesday pep guardiola side found schalke defense equally accommodating mood come weekend
+6: david alaba scored free kick third minute arjen robben doubling lead quarter hour
+7: mario mandzukic headed third 24th minute robben second four minutes later ended hopes schalke fightback
+8: four nil scoreline corresponding fixture earlier season bayern quite finished
+9: brazilian right-back rafinha scored goal 64th minute gift visitors goal 12 minutes later schalke center back kyriakos papadopoulos shown straight red bringing mandzukic penalty area
+10: stepped robben claim hat-trick round depressing week schalke manager jens keller
+11: bayer leverkusen losing 1-0 home mainz bayern extended lead 20 points could crowned champions end march
+12: elsewhere borussia dortmund backed impressive 4-2 win zenit st petersburg champions league tuesday 3-0 win nurnberg
+13: second-half goals mats hummels robert lewandowski henrik mkhitaryan move jurgen klopp side second 45 points
+14: matches played saturday werder bremen beat hamburg 1-0 matches augsburg hannover braunschweig monchengladbach ended 1-1 draws
+15: chelsea extend title lead arsenal stumble
+16: registering goal point english clubs last 16 champions league midweek chelsea returned english premier league action saturday facing west london rivals fulham
+17: fulham boss felix magath task avoiding relegation got little bit harder jose mourinho side enjoyed comfortable 3-1 win craven cottage
+18: second-half hat-trick geman international andre schurrle earned chelsea three points john heitinga scoring consolation home side four-point lead top table
+19: arsenal would expected maintain one-point deficit chelsea traveled stoke instead slumped defeat
+20: 76th minute penalty jonathan walters ensured mark hughes side scored second win ten matches boost survival chances victory lifts 12th place 30 points
+21: whereas arsene wenger side appear stalling title race liverpool continue score goals fun keep supporters wondering claim first league title 24 years
+22: foundations emphatic 3-0 win southampton laid luis suarez uruguayan tucking away first goal six games 16th minute
+23: raheem sterling adding second 58th minute steven gerrard injury time penalty made sure three points
+24: brendan rodgers team rise second ahead arsenal goal difference
+25: merseyside rivals everton bounced back back-to-back defeats 1-0 win west ham united goodison park newcastle united mini-revival continued 4-1 win hull city kc stadium
+26: victory overshadowed newcastle boss alan pardew sent stands referee clashing hull city david meyler
+27: pardew appeared head-butt meyler midfielder brushed past retrieve ball throw-in 72nd minute
+28: english football association says investigate incident
+29: manchester city take sunderland league cup final wembley sunday three league fixtures also played aston villa taking norwich swansea entertaining crystal palace cardiff traveling tottenham hotspur
+30: read pardew fined heat-butt
+
+=================================
+Gold summary:
+bayern munich course clinch title march another emphatic win
+pep guardiola side thrash schalke 5-1 borussia dortmund second
+bayern 20 points clear 11 games remaining
+chelsea beat fulham 3-1 go four points clear epl arsenal lose 1-0 stoke
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 27, 16, 19
+	Results: 
+		rouge-1: 0.1143
+		rouge-2: 0.0000
+		rouge-l: 0.1053
+		mean: 0.0732
+	Summary: 
+		pardew appeared head-butt meyler midfielder brushed past retrieve ball throw-in 72nd minute
+		registering goal point english clubs last 16 champions league midweek chelsea returned english premier league action saturday facing west london rivals fulham
+		arsenal would expected maintain one-point deficit chelsea traveled stoke instead slumped defeat
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1143
+		rouge-2: 0.0278
+		rouge-l: 0.0789
+		mean: 0.0737
+	Summary: 
+		thomas muller pre-match remarks could backfired bayern munich teammates
+		bundesliga already decided 24-year-old confidently predicted interview munich newspaper tz
+		think anyone reckoning lose six last remaining 12 matches
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 3, 5, 11
+	Results: 
+		rouge-1: 0.3429
+		rouge-2: 0.1389
+		rouge-l: 0.2368
+		mean: 0.2395
+	Summary: 
+		make six last 11 bayern munich walloped schalke 5-1 allianz arena saturday
+		taken cleaners real madrid champions league wednesday pep guardiola side found schalke defense equally accommodating mood come weekend
+		bayer leverkusen losing 1-0 home mainz bayern extended lead 20 points could crowned champions end march
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1143
+		rouge-2: 0.0278
+		rouge-l: 0.0789
+		mean: 0.0737
+	Summary: 
+		thomas muller pre-match remarks could backfired bayern munich teammates
+		bundesliga already decided 24-year-old confidently predicted interview munich newspaper tz
+		think anyone reckoning lose six last remaining 12 matches

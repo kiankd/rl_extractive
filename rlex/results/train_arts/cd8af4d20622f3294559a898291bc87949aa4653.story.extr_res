@@ -1,0 +1,115 @@
+DOCUMENT:
+0: hussein gomaa hussein 31 died
+1: 2 afternoon late january day
+2: bullet pierced chest protested regime hosni mubarak streets cairo
+3: hussein brother mohamed doubts mubarak complicity
+4: wishes harshest punishment longtime egyptian dictator trial verdict pronounced saturday
+5: sentence satisfy families died injured egypt revolution last year hussein says
+6: verdict accept
+7: egyptians dubbed trial century mubarak face judge saturday find fate long-awaited decision sure make definitive mark arab nation future
+8: gallery arab leaders
+9: verdict comes notorious emergency law expired friday ending 31 years sweeping police powers
+10: comes ahead polarizing mid-june runoff presidential election pits muslim brotherhood mohamed morsi secularist ahmed shafiq former official mubarak regime
+11: mubarak could receive death penalty
+12: prison term
+13: acquitted altogether
+14: latter could send angry crowds back cairo tahrir square deal heavy blow egypt unfinished revolution
+15: last days mubarak regime
+16: mubarak became president october 1981 ruling egypt iron hand staunch ally united states
+17: years power shattered 18 days uprising
+18: february 11 last year stood defeated popular
+19: charged corruption misappropriation funds seriously issuing orders kill demonstrators calling downfall regime
+20: 840 people died 6,000 others wounded egyptian uprising according amnesty international
+21: president mubarak responsible protecting egyptian citizens said prosecutor mustafa suleiman
+22: take appropriate measures carry duty stop bloodshed acts violence egyptian people
+23: also trial mubarak two sons members regime
+24: mubarak first former arab head state many decades appear ordinary court law
+25: tunisia zine el abidine ben ali tried absentia
+26: mubarak trial said human rights watch potential set meaningful regional precedent accountability human rights abuses upholding international fair trial standards
+27: trial opened spectacle egyptians thought would ever see
+28: images broadcast around world showed former leader defendant cage trapped like animal
+29: january 2012 mubarak arrives court via stretcher
+30: within matter six months fallen pinnacle power depths humiliation
+31: trial proceeded chaotic manner
+32: outside heavily guarded court mubarak foes clashed loyalists
+33: magdi fouda one loyalist leads group mubarak supporters
+34: said hopes court finds former president innocent saturday
+35: fouda collected 750,000 signatures petition calling mubarak pardon
+36: others set facebook page called sorry mr president boasts 240,000 likes
+37: mubarak trial began august
+38: ousted leader honored humiliated decades work egypt fouda said
+39: believe president mubarak terribly mistreated recently said
+40: stand faithfully honor 62 years service egypt
+41: lawyer khalid abu bakr attended every session trial representing families killed uprising
+42: proud transparency objectivity historical trial regardless verdict said february
+43: met standards judicial due process comparison court proceedings europe united states america
+44: eve verdict bakr said ailing mubarak maintained certain regal disdain proceedings spending much time mobile bed hair jet black odd man well 80s
+45: never show regret bakr said
+46: words remorse ever left lips though expected say sorry blood spilled
+47: perhaps made mistake
+48: journalist mona eltahawy mubarak trial revenge
+49: justice land courts legal system rife corruption
+50: hope justice prevail difficult egyptians said pointing members police security forces never put trial
+51: egyptians angry said
+52: still people protested non-violently streets last year
+53: achieved unthinkable toppled mubarak
+54: whatever happens saturday eltahawy said egyptians oppose injustice
+55: cnn bed wedeman reported cairo moni basu atlanta
+
+=================================
+Gold summary:
+egypt trial century hosni mubarak find fate saturday
+relatives killed protests want mubarak executed
+loyalists say former leader mistreated
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 8, 45, 22
+	Results: 
+		rouge-1: 0.0000
+		rouge-2: 0.0000
+		rouge-l: 0.0000
+		mean: 0.0000
+	Summary: 
+		gallery arab leaders
+		never show regret bakr said
+		take appropriate measures carry duty stop bloodshed acts violence egyptian people
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1111
+		rouge-2: 0.0556
+		rouge-l: 0.1053
+		mean: 0.0906
+	Summary: 
+		hussein gomaa hussein 31 died
+		2 afternoon late january day
+		bullet pierced chest protested regime hosni mubarak streets cairo
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 2, 7, 28
+	Results: 
+		rouge-1: 0.5000
+		rouge-2: 0.2222
+		rouge-l: 0.3684
+		mean: 0.3635
+	Summary: 
+		bullet pierced chest protested regime hosni mubarak streets cairo
+		egyptians dubbed trial century mubarak face judge saturday find fate long-awaited decision sure make definitive mark arab nation future
+		images broadcast around world showed former leader defendant cage trapped like animal
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 2, 53
+	Results: 
+		rouge-1: 0.1111
+		rouge-2: 0.0556
+		rouge-l: 0.1579
+		mean: 0.1082
+	Summary: 
+		hussein gomaa hussein 31 died
+		bullet pierced chest protested regime hosni mubarak streets cairo
+		achieved unthinkable toppled mubarak

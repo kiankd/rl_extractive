@@ -1,7 +1,7 @@
 import os
 from string import punctuation
 from nltk.corpus import stopwords
-from .helpers import PATH_TO_SAMPLES
+from .helpers import PATH_TO_SAMPLES, TEST_SAMPLES_PATH
 
 # useful globals
 EOS_MARKERS = ['.', '!', '?']
@@ -10,10 +10,10 @@ STOPS = set(stopwords.words('english'))
 PUNCT = set([c for c in punctuation] + ["''", '``', '...', '-rrb-', '-lrb-', '--'])
 
 # useful helpers
-def iter_sample_files():
-    for fname in os.listdir(PATH_TO_SAMPLES):
+def iter_sample_files(path):
+    for fname in os.listdir(path):
         if fname.endswith('.story'):
-            yield PATH_TO_SAMPLES + fname
+            yield path + fname
 
 def split_into_sentences(tokenized_text):
     sents = [[]]
@@ -23,9 +23,10 @@ def split_into_sentences(tokenized_text):
             sents.append([])
     return sents
 
-def get_samples(clean=True):
+def get_samples(clean=True, test=False):
     docs = []
-    for f in iter_sample_files():
+    path = TEST_SAMPLES_PATH if test else PATH_TO_SAMPLES
+    for f in iter_sample_files(path):
         a = Article(f)
         if clean:
             a.clean()

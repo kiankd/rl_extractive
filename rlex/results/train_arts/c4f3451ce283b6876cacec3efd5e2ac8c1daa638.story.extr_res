@@ -1,0 +1,77 @@
+DOCUMENT:
+0: sudan president seen smiling dancing speaking huge crowd supporters thursday day warrant issued arrest war crimes charges
+1: sudan president omar hassan al-bashir waves supporters khartoum wednesday
+2: display defiance came international aid agencies ordered leave country retaliation move international criminal court six years bloodshed country darfur region
+3: streets capital khartoum filled people raised hands air cheer president omar al-bashir raised fists defiantly air
+4: crowd filled posters banners featuring al-bashir face flag sudan
+5: one banner written english read al-bashir
+6: al-bashir gave fervent speech crowd denouncing united states western allies israel
+7: one point crowd repeated english usa
+8: music speech got everyone moving including president smiled broadly raised walking stick air
+9: camouflaged helicopter swooped crowd
+10: angry peaceful demonstrations took place cities throughout sudan wednesday warrant announced according united nations
+11: government air ground forces conducted united nations called show force parts darfur situation calm unpredictable
+12: international criminal court hague netherlands issued warrant wednesday war crimes crimes humanity
+13: accuses al-bashir complicity campaign violence people darfur west country
+14: united nations estimates 300,000 people killed conflict western sudan darfur region 2.5 million forced flee homes
+15: sudan angrily rejected accusations indictment
+16: kamal obaid sudan state minister information communications called icc white man tribunal arrest warrant insult
+17: told many 10 humanitarian groups leave country seized agencies assets u.n. deputy spokeswoman marie okabe said
+
+=================================
+Gold summary:
+sudan president seen dancing smiling war crimes charges issued
+streets khartoum filled cheering crowds
+icc issued warrant war crimes crimes humanity
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 0, 12, 5
+	Results: 
+		rouge-1: 0.6471
+		rouge-2: 0.3684
+		rouge-l: 0.6190
+		mean: 0.5448
+	Summary: 
+		sudan president seen smiling dancing speaking huge crowd supporters thursday day warrant issued arrest war crimes charges
+		international criminal court hague netherlands issued warrant wednesday war crimes crimes humanity
+		one banner written english read al-bashir
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.6471
+		rouge-2: 0.2105
+		rouge-l: 0.3810
+		mean: 0.4128
+	Summary: 
+		sudan president seen smiling dancing speaking huge crowd supporters thursday day warrant issued arrest war crimes charges
+		sudan president omar hassan al-bashir waves supporters khartoum wednesday
+		display defiance came international aid agencies ordered leave country retaliation move international criminal court six years bloodshed country darfur region
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 3, 12
+	Results: 
+		rouge-1: 0.8235
+		rouge-2: 0.4211
+		rouge-l: 0.7619
+		mean: 0.6688
+	Summary: 
+		sudan president seen smiling dancing speaking huge crowd supporters thursday day warrant issued arrest war crimes charges
+		streets capital khartoum filled people raised hands air cheer president omar al-bashir raised fists defiantly air
+		international criminal court hague netherlands issued warrant wednesday war crimes crimes humanity
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 4
+	Results: 
+		rouge-1: 0.7059
+		rouge-2: 0.2105
+		rouge-l: 0.4286
+		mean: 0.4483
+	Summary: 
+		sudan president seen smiling dancing speaking huge crowd supporters thursday day warrant issued arrest war crimes charges
+		sudan president omar hassan al-bashir waves supporters khartoum wednesday
+		crowd filled posters banners featuring al-bashir face flag sudan

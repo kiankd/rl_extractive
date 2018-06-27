@@ -1,0 +1,81 @@
+DOCUMENT:
+0: nasa hubble space telescope reached back 13.2 billion years farther ever time space reveal primordial population galaxies never seen
+1: deeper hubble looks space farther back time looks light takes billions years cross observable universe space telescope science institute said statement released tuesday
+2: makes hubble powerful time machine allows astronomers see galaxies 13 billion years ago 600 million 800 million years big bang institute said statement released tuesday
+3: existence newly found galaxies pushes back time galaxies began form 500-600 million years big bang institute said
+4: galaxies could roots stretching earlier population stars
+5: must substantial component galaxies beyond hubble detection limit according james dunlop university edinburgh scotland quoted release
+6: members american astronomical society meeting week washington review data images retrieved hubble new infrared wide field camera 3 wfc3 installed may institute spokesman ray villard told cnn
+7: images shared public september
+8: camera villard said far superior previous camera could see galaxies 900 million years big bang cosmic explosion theorized mark origin universe
+9: reaching limits said
+10: powerful instrument james webb space telescope planned launch 2014
+11: allow astronomers study detailed nature early galaxies discover many even farther away
+12: current cache images astronomers see first time galaxies grew small bright clusters stars big spiral cities stars today villard said
+13: small galaxies show ultra-blue color
+14: likened hubble results looking scrapbook baby pictures
+15: according institute deep observations also demonstrate progressive buildup galaxies provide support hierarchical model galaxy assembly small objects merge form bigger objects smooth steady dramatic process collision agglomeration
+16: like streams merging tributaries bay
+17: camera pointed section sky known hubble ultra deep field initially surveyed visible light 2004 showed dark sky filled 10,000 galaxies
+18: wfc3 instrument repeated exercise august infrared light
+19: mosaics formed images surveys
+20: according villard archive hubble contains 500,000 pictures accessed world 6,000 astronomers
+21: data ultra deep field analyzed least five international teams astronomers said
+
+=================================
+Gold summary:
+findings show galaxies grew small bright clusters stars big spirals today
+hubble functions type time machine looking early formation universe
+hubble reaching limits powerful telescope launched 2014
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 17, 20, 5
+	Results: 
+		rouge-1: 0.0769
+		rouge-2: 0.0000
+		rouge-l: 0.1111
+		mean: 0.0627
+	Summary: 
+		camera pointed section sky known hubble ultra deep field initially surveyed visible light 2004 showed dark sky filled 10,000 galaxies
+		according villard archive hubble contains 500,000 pictures accessed world 6,000 astronomers
+		must substantial component galaxies beyond hubble detection limit according james dunlop university edinburgh scotland quoted release
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3077
+		rouge-2: 0.0385
+		rouge-l: 0.2222
+		mean: 0.1895
+	Summary: 
+		nasa hubble space telescope reached back 13.2 billion years farther ever time space reveal primordial population galaxies never seen
+		deeper hubble looks space farther back time looks light takes billions years cross observable universe space telescope science institute said statement released tuesday
+		makes hubble powerful time machine allows astronomers see galaxies 13 billion years ago 600 million 800 million years big bang institute said statement released tuesday
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 2, 9, 12
+	Results: 
+		rouge-1: 0.5385
+		rouge-2: 0.3077
+		rouge-l: 0.2963
+		mean: 0.3808
+	Summary: 
+		makes hubble powerful time machine allows astronomers see galaxies 13 billion years ago 600 million 800 million years big bang institute said statement released tuesday
+		reaching limits said
+		current cache images astronomers see first time galaxies grew small bright clusters stars big spiral cities stars today villard said
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3077
+		rouge-2: 0.0385
+		rouge-l: 0.2222
+		mean: 0.1895
+	Summary: 
+		nasa hubble space telescope reached back 13.2 billion years farther ever time space reveal primordial population galaxies never seen
+		deeper hubble looks space farther back time looks light takes billions years cross observable universe space telescope science institute said statement released tuesday
+		makes hubble powerful time machine allows astronomers see galaxies 13 billion years ago 600 million 800 million years big bang institute said statement released tuesday

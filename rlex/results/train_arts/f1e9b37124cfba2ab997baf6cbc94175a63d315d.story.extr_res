@@ -1,0 +1,81 @@
+DOCUMENT:
+0: 17-year-old male arrested connection shooting last week nightclub 15 people wounded miami police said
+1: florida law suspect initially charged juvenile
+2: face one charge attempted first-degree murder 14 counts aggravated assault firearm police said
+3: prosecutors weigh whether charge later adult
+4: miami police chief manuel orosa said suspect decided take retribution individual apparently fought friend high school
+5: victim remains critical condition jackson memorial hospital
+6: orosa said shot abdomen still stomach issues
+7: none victims range age 11 25 still hospitalized
+8: shooting occurred morning september 28 miami restaurant/nightclub called spot
+9: manager arrested last week accused selling liquor without license spot licensed restaurant nightclub cnn affiliate wsvn reported
+10: orosa said investigation ongoing two types bullet casings found scene investigators still trying locate getaway car driver
+11: several people identified suspect shooter chief said
+12: suspect previously arrested marijuana possession charge obstructing police officer orosa added
+13: cnn affiliate wplg reported last week large party held shooting broke
+14: witnesses told police heard 100 gunshots wplg reported
+15: capt. ignatius carroll miami fire rescue said scene chaotic emergency medical personnel arrived
+16: wounded people found inside club sidewalk said
+17: understand gathering taking place sort little nightclub said
+18: large crowd
+19: many wounded people emergency responders treat victims sidewalk
+20: cnn ralph ellis dave alsup contributed report
+
+=================================
+Gold summary:
+suspect initially face charges juvenile
+police say went miami restaurant search boy fought one friends
+suspect shot stomach remains critical condition police say
+detectives found two types shell casings investigation goes
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 17, 20, 7
+	Results: 
+		rouge-1: 0.0000
+		rouge-2: 0.0000
+		rouge-l: 0.0000
+		mean: 0.0000
+	Summary: 
+		understand gathering taking place sort little nightclub said
+		cnn ralph ellis dave alsup contributed report
+		none victims range age 11 25 still hospitalized
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2500
+		rouge-2: 0.0345
+		rouge-l: 0.1613
+		mean: 0.1486
+	Summary: 
+		17-year-old male arrested connection shooting last week nightclub 15 people wounded miami police said
+		florida law suspect initially charged juvenile
+		face one charge attempted first-degree murder 14 counts aggravated assault firearm police said
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 5, 10
+	Results: 
+		rouge-1: 0.3929
+		rouge-2: 0.1379
+		rouge-l: 0.2903
+		mean: 0.2737
+	Summary: 
+		florida law suspect initially charged juvenile
+		victim remains critical condition jackson memorial hospital
+		orosa said investigation ongoing two types bullet casings found scene investigators still trying locate getaway car driver
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2500
+		rouge-2: 0.0345
+		rouge-l: 0.1613
+		mean: 0.1486
+	Summary: 
+		17-year-old male arrested connection shooting last week nightclub 15 people wounded miami police said
+		florida law suspect initially charged juvenile
+		face one charge attempted first-degree murder 14 counts aggravated assault firearm police said

@@ -1,0 +1,113 @@
+DOCUMENT:
+0: pack dogs brought killed animal-loving couple last weekend rural northeastern georgia similar tragedy could occur anywhere dogs roam freely authorities say
+1: two dogs pack killed two people await euthanasia tuesday shelter northeast georgia
+2: sheriff deputies code enforcement officers officials spent monday tuesday rounding 11 adult dogs five puppies oglethorpe county sheriff capt. shalon huff said
+3: one trapped wednesday morning leaving one still captured said
+4: lucky happened said susan fornash director madison oglethorpe animal shelter danielsville captured dogs held euthanized tuesday orders local judge
+5: people bring dog killed goat chased horses something like
+6: forerunner something like
+7: investigators say believe university georgia librarian sherry schweder 65 went usual morning walk saturday howard thaxton road narrow dirt lane runs alongside couple property
+8: dogs familiar area investigators say left behind person caring moved home end lane
+9: authorities theorize halfway lane quarter-mile home sherry schweder confronted dogs knocked killed
+10: husband retired uga language professor lothar schweder became concerned return went honda crx look
+11: found lying lane got shoo away dogs attacked killed investigators believe
+12: although blood seen dogs evidence autopsy results convince authorities pack killed schweders said jim fullington special agent charge georgia bureau investigation office nearby athens
+13: watch investigators learned
+14: black bears occasionally pass area none reported recently said sgt. doyte chaffin wildlife officer georgia department natural resources
+15: investigators found prints dogs humans fullington added
+16: humans appear threatening dogs run packs said bonnie beaver professor department small animal clinical sciences texas a&m university expert pack behavior
+17: perspective person alien beaver said
+18: would would relate grizzly bear
+19: dogs kill average 10 20 people year united states beaver said
+20: vast majority cases involve single dog attacking small child said
+21: two three dogs whether urban suburban rural behave like pack beaver said
+22: pack mentality takes insane things would normal circumstances said
+23: bet one ringleader kind started georgia case beaver said
+24: something simple making eye contact may made one dog group feel threatened body language put dogs edge triggering escalation said
+25: even though none dogs weighed 40 pounds numbers would overwhelmed victims
+26: screaming flailing trying run would make things worse beaver said
+27: slight people told ages know could done
+28: know would fornash said
+29: jehovah witnesses walking lane visit lone house found schweders mutilated bodies lying next car called 911 fullington said
+30: added sheriff deputy fire shot air scare dogs away
+31: house evangelists intended visit unoccupied home least dogs fullington said
+32: owner howard thaxton moved months earlier health financial problems someone drive every day leave food dogs said gbi special agent christopher bish
+33: several empty 40-pound bags roy dog food strewn property tuesday
+34: thaxton amputee bish said recently released hospital cooperating authorities
+35: thaxton believe animals capable killing people law enforcement officials said
+36: still discussions district attorney culpability decisions reached yet bish said
+37: bish said took 14 visits thaxton house make initial contact
+38: cnn efforts find thaxton comment unsuccessful
+39: stopping dogs reproducing might prevented tragedy fornash said
+40: dogs multiply rapidly menace added
+41: watch dog bites might prevented
+42: blink eye pack 50 dogs people spay neuter said
+43: took 90 minutes euthanize 16 dogs several maggot-infested fornash said
+44: one asked checked rabies sheriff directed carcasses cremated immediately said
+45: heartbroken family fornash said
+46: ca even imagine must feel
+47: also sad animals cared way would happened
+48: schweders seven dogs four cats brought shelter wednesday eventually adopted said
+49: thaxton wood frame house served dogs home sits edge forest dotted hunting campers abandoned 1950s vehicles
+50: empty 5-gallon water bottles fill ravine behind house derelict 1980s chevy caprice crouches next rusting john deere tractor shade tree
+51: sheriff deputies trappers left tuesday afternoon scruffy red dog appeared ears next tractor
+52: animal alone scampered woods
+
+=================================
+Gold summary:
+dogs attacked woman husband tried help georgia authorities say
+sixteen animals euthanized couple pets adopted shelter
+pack instincts make untamed dogs dangerous expert says
+spaying neutering pets might prevented tragedy shelter director says
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 51, 36, 46
+	Results: 
+		rouge-1: 0.0000
+		rouge-2: 0.0000
+		rouge-l: 0.0000
+		mean: 0.0000
+	Summary: 
+		sheriff deputies trappers left tuesday afternoon scruffy red dog appeared ears next tractor
+		still discussions district attorney culpability decisions reached yet bish said
+		ca even imagine must feel
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2759
+		rouge-2: 0.0312
+		rouge-l: 0.1818
+		mean: 0.1630
+	Summary: 
+		pack dogs brought killed animal-loving couple last weekend rural northeastern georgia similar tragedy could occur anywhere dogs roam freely authorities say
+		two dogs pack killed two people await euthanasia tuesday shelter northeast georgia
+		sheriff deputies code enforcement officers officials spent monday tuesday rounding 11 adult dogs five puppies oglethorpe county sheriff capt. shalon huff said
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 4, 39
+	Results: 
+		rouge-1: 0.4138
+		rouge-2: 0.0938
+		rouge-l: 0.2727
+		mean: 0.2601
+	Summary: 
+		pack dogs brought killed animal-loving couple last weekend rural northeastern georgia similar tragedy could occur anywhere dogs roam freely authorities say
+		lucky happened said susan fornash director madison oglethorpe animal shelter danielsville captured dogs held euthanized tuesday orders local judge
+		stopping dogs reproducing might prevented tragedy fornash said
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2759
+		rouge-2: 0.0312
+		rouge-l: 0.1818
+		mean: 0.1630
+	Summary: 
+		pack dogs brought killed animal-loving couple last weekend rural northeastern georgia similar tragedy could occur anywhere dogs roam freely authorities say
+		two dogs pack killed two people await euthanasia tuesday shelter northeast georgia
+		sheriff deputies code enforcement officers officials spent monday tuesday rounding 11 adult dogs five puppies oglethorpe county sheriff capt. shalon huff said

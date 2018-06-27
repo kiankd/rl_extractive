@@ -1,0 +1,79 @@
+DOCUMENT:
+0: solitary goal karim benzema kept real madrid touch league leaders barcelona sunday night jose mourinho side overcame mallorca 1-0 bernabeu
+1: french striker left-footed effort 61st minute ensured madrid returned winning ways disappointing draw almeria last weekend
+2: mourinho casts doubt madrid future
+3: madrid squandered host chances make game completely safe could dropped league points mallorca put spirited fight
+4: emilio nsue hit post 13 minutes goalkeeper iker casillas saved smartly pierre webo moments final whistle
+5: home side held win means remain four points behind barcelona comfortably racing santander saturday
+6: barcelona extend la liga lead
+7: villarreal came goal beat real sociedad 2-1 reclaim third place table
+8: brace giuseppe rossi either side halftime rescued home side fell behind mikel aranburu goal 30th minute
+9: la liga matches almeria beat osasuna 3-2 lift bottom table
+10: argentine striker jose ulloa scored twice earn home side first home league win season moved 18th
+11: fellow strugglers real zaragoza also received boost 1-0 win deportivo la coruna
+12: said boutahar superb free kick seven minutes halftime enough lift bottom three
+13: deportivo remain 13th place
+14: end table espanyol consolidated fifth place 3-1 win getafe
+15: away side come behind venezuelan striker miku flores put getafe ahead 13th minute
+16: three espanyol goals came frantic 11-minute period break
+17: luis garcia put level terms 52nd minute
+18: seven minutes later jose callejon put ahead sergio garcia added third 63rd minute stun home fans
+19: atletico madrid lost ground champions league places slumped 1-0 defeat sporting gijon david barral goal 51st minute proving enough sink last year europa league champions
+
+=================================
+Gold summary:
+real madrid back winning ways 1-0 win mallorca
+benzema 61st minute strike sees jose mourinho side keep touch leaders barcelona
+almeria win lifts bottom table atletico madrid lose 1-0 sporting gijon
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 18, 12, 13
+	Results: 
+		rouge-1: 0.1071
+		rouge-2: 0.0000
+		rouge-l: 0.0645
+		mean: 0.0572
+	Summary: 
+		seven minutes later jose callejon put ahead sergio garcia added third 63rd minute stun home fans
+		said boutahar superb free kick seven minutes halftime enough lift bottom three
+		deportivo remain 13th place
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5714
+		rouge-2: 0.2000
+		rouge-l: 0.2258
+		mean: 0.3324
+	Summary: 
+		solitary goal karim benzema kept real madrid touch league leaders barcelona sunday night jose mourinho side overcame mallorca 1-0 bernabeu
+		french striker left-footed effort 61st minute ensured madrid returned winning ways disappointing draw almeria last weekend
+		mourinho casts doubt madrid future
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 9, 19
+	Results: 
+		rouge-1: 0.6429
+		rouge-2: 0.2667
+		rouge-l: 0.4194
+		mean: 0.4430
+	Summary: 
+		solitary goal karim benzema kept real madrid touch league leaders barcelona sunday night jose mourinho side overcame mallorca 1-0 bernabeu
+		la liga matches almeria beat osasuna 3-2 lift bottom table
+		atletico madrid lost ground champions league places slumped 1-0 defeat sporting gijon david barral goal 51st minute proving enough sink last year europa league champions
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5714
+		rouge-2: 0.2000
+		rouge-l: 0.2258
+		mean: 0.3324
+	Summary: 
+		solitary goal karim benzema kept real madrid touch league leaders barcelona sunday night jose mourinho side overcame mallorca 1-0 bernabeu
+		french striker left-footed effort 61st minute ensured madrid returned winning ways disappointing draw almeria last weekend
+		mourinho casts doubt madrid future

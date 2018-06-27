@@ -1,0 +1,84 @@
+DOCUMENT:
+0: first time john daly ask help must one embarrassing
+1: twice champion golf biggest tournaments reformed alcoholic also battled gambling weight problems seeking advice worst round professional career
+2: 47-year-old carded 19-over-par 90 friday second round pga tour valspar championship including octuple-bogey 12 16th hole copperhead course innisbrook resort florida
+3: whereas younger daly known wild thing among nicknames might stormed without word broke club two time veteran american happy explain woes
+4: got yips fun said referring 37 putts needed 18 holes
+5: three-putted three times needed four fourth hole
+6: play putt go left-to-right push three feet right look like idiot
+7: shorten stroke get quick miss left
+8: try normal long stroke come push
+9: never problem
+10: however short game let long john daly
+11: known grip rip approach hit three balls pond 16th shanked seven-iron dead right
+12: one days nothing went right said daly eclipsed previous worst round 89 2008 british open
+13: hit bunker buries
+14: hit fairway divot
+15: even hit divot bunker
+16: daly also defended twitter 368,000 followers one tweet showed screenshot scorecard claimed way drunk
+17: drank six years nice responded
+18: daly 1991 pga championship debut season main u.s. circuit followed second major success 1995 british open
+19: however off-course problems reflected declining playing fortunes days rely sponsor exemptions enter pga tour events
+20: played masters since 2006 often seen selling merchandise outside hallowed augusta club
+21: daly still draw overseas tournaments trouble 2011 australian open walked course hitting seven balls water hazards
+22: pga tour website reported daly considering trying get entry secondary tour event louisiana two weeks instead seek help putting yips
+23: got call somebody said
+
+=================================
+Gold summary:
+two-time major champion john daly cards worst round top-level golf career
+47-year-old signs 19-over-par 90 pga tour event florida
+daly says needs help cure putting yips shooting 12 one hole
+also hit three balls pond 16th shanked iron
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 8, 17, 19
+	Results: 
+		rouge-1: 0.0541
+		rouge-2: 0.0270
+		rouge-l: 0.0526
+		mean: 0.0446
+	Summary: 
+		try normal long stroke come push
+		drank six years nice responded
+		however off-course problems reflected declining playing fortunes days rely sponsor exemptions enter pga tour events
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5135
+		rouge-2: 0.1351
+		rouge-l: 0.3158
+		mean: 0.3215
+	Summary: 
+		first time john daly ask help must one embarrassing
+		twice champion golf biggest tournaments reformed alcoholic also battled gambling weight problems seeking advice worst round professional career
+		47-year-old carded 19-over-par 90 friday second round pga tour valspar championship including octuple-bogey 12 16th hole copperhead course innisbrook resort florida
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 2, 11
+	Results: 
+		rouge-1: 0.5405
+		rouge-2: 0.2432
+		rouge-l: 0.4474
+		mean: 0.4104
+	Summary: 
+		twice champion golf biggest tournaments reformed alcoholic also battled gambling weight problems seeking advice worst round professional career
+		47-year-old carded 19-over-par 90 friday second round pga tour valspar championship including octuple-bogey 12 16th hole copperhead course innisbrook resort florida
+		known grip rip approach hit three balls pond 16th shanked seven-iron dead right
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5135
+		rouge-2: 0.1351
+		rouge-l: 0.3158
+		mean: 0.3215
+	Summary: 
+		first time john daly ask help must one embarrassing
+		twice champion golf biggest tournaments reformed alcoholic also battled gambling weight problems seeking advice worst round professional career
+		47-year-old carded 19-over-par 90 friday second round pga tour valspar championship including octuple-bogey 12 16th hole copperhead course innisbrook resort florida

@@ -1,0 +1,128 @@
+DOCUMENT:
+0: retirement announcement republican sen. saxby cambliss cited dearth meaningful action congress one reason seeking re-election next year
+1: debt-ceiling debacle 2011 recent fiscal-cliff vote showed congress worst sadly see legislative gridlock partisan posturing improving anytime soon capitol hill veteran said statement
+2: democratic sen. joe manchin appreciate chambliss sentiments
+3: asked earlier month functionality congress chalked body poor legislative record problems
+4: important one said fact members know one another outside work
+5: two years -lsb- since came washington -rsb- senate bipartisan caucus democrats republicans talked problems day try find commonality lamented
+6: manchin alone
+7: know many times would look tv would see somebody name would come would say member congress go even know said former republican rep. connie mack lost re-election bid november
+8: common refrain hill idea congress social buddy-buddy outside capitol complex would functional people work
+9: good old days
+10: truth simple according former leaders senate house
+11: nostalgia good days members would play tennis atop hart office building drink whiskey hours may tempting admire far cure-all washington seemingly unbreakable gridlock say
+12: nostalgia always great dan glickman former democratic representative kansas senior fellow bipartisan policy center said laugh
+13: sometimes remember life congressman positively wife says dreaming
+14: hated say said
+15: glickman congress 1977 1995 president bill clinton agriculture secretary 2001
+16: said watched congress change late 1990s 2000s wondered tipping point
+17: synopsis congress like organizations except 535 independent contractors rather business-like structure built around chain command
+18: congress different organization people get along get dysfunction glickman said
+19: basic principles human interaction like distrust recipe unproductive life
+20: numbers judge 112th congress markedly unproductive
+21: 220 laws enacted least four decades
+22: one fifth dealt naming renaming post offices federal buildings
+23: comparison 100th congress enacted 713 laws
+24: dc electoral death trap
+25: sociable cure-all glickman said
+26: former members congress high-level aides say good old days may nicer sociability wo lead bipartisanship
+27: think broader bigger said former senate majority leader trent lott
+28: want much revisionist history
+29: everybody said golden era -lsb- early 90s -rsb-
+30: always easy though
+31: pretty tough disagreements
+32: lott points welfare debate clinton house speaker newt gingrich impeachment proceedings president late 90s examples
+33: men like glickman lott problems congress deeper whether dine drink hang
+34: fact california five-hour flight washington means members easily get town monday head thursday night leaving time socialize
+35: first came washington members six roundtrip air tickets paid lott said
+36: unlimited use whatever part budget airfare
+37: congress becoming commuter congress said former democratic sen. bryon dorgan north dakota
+38: living washington also become electoral death trap
+39: members going social going washington said nathan gonzales deputy editor rothenberg political report
+40: members spending least amount time washington possible want baggage seen washington
+41: funds raised extremes middle said patrick kennedy former house member rhode island seek re-election 2010
+42: well-funded outside groups funding centrist candidates said polarization house senate get worse
+43: -lsb- member congress -rsb- follow money follow activists course folks whether democrat republican keep middle middle valley death politically kennedy said
+44: cards anyone
+45: lott believes president barack obama big part problem
+46: really invite democrats often let alone republicans said
+47: truism obama social enough congress common refrain first four years office wo change history judge
+48: asked president generally laughs references kids moves
+49: exactly january 15 reporter asked whether white house staff insular
+50: obviously always better job obama said
+51: nice thing girls getting older want spend much time anyway probably calling around looking somebody play cards something getting kind lonely big house
+52: democrats like jim manley former spokesman senate majority leader harry reid say idea would get done obama schmoozer wrong
+53: anyone thinks virtue president inviting senator -lsb- mitch -rsb- mcconnell white house watch movie going help improve things needs get head examined manley said
+54: way works
+55: ask capitol hill watchers like gonzales distance obama congress issue
+56: democrats want fuller embrace leader white house republicans feel getting level respect deserve
+57: happen says gonzales something sides
+58: incentive -lsb- president republicans -rsb- foster relationships gonzales said
+59: time valuable friends sake friends know time
+60: good theory see fruits time investment
+61: lott fruits investing collegiality obvious lifelong friendships
+62: lott said still considers democrat former senate majority leader tom daschle good friend spent weekends away former sen. judd gregg new hampshire sen. lamar alexander tennessee republicans wives
+63: lott enduring relationship congress seems phil gramm democrat switched parties house became republican senator florida
+64: lott wife patricia close gramm wife wendy lee
+65: last year traveled south africa botswana personal trip together foursome plans go turkey june
+66: friends life lott said gramm
+67: especially real friends
+
+=================================
+Gold summary:
+common refrain notion sociable congress would effective
+112th congress enacted fewest laws four decades
+congress used sociable issues
+observers believe obama lack social engagement problem
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 40, 50, 52
+	Results: 
+		rouge-1: 0.0909
+		rouge-2: 0.0000
+		rouge-l: 0.0800
+		mean: 0.0570
+	Summary: 
+		members spending least amount time washington possible want baggage seen washington
+		obviously always better job obama said
+		democrats like jim manley former spokesman senate majority leader harry reid say idea would get done obama schmoozer wrong
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.0455
+		rouge-2: 0.0000
+		rouge-l: 0.0800
+		mean: 0.0418
+	Summary: 
+		retirement announcement republican sen. saxby cambliss cited dearth meaningful action congress one reason seeking re-election next year
+		debt-ceiling debacle 2011 recent fiscal-cliff vote showed congress worst sadly see legislative gridlock partisan posturing improving anytime soon capitol hill veteran said statement
+		democratic sen. joe manchin appreciate chambliss sentiments
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 8, 21, 47
+	Results: 
+		rouge-1: 0.4545
+		rouge-2: 0.0833
+		rouge-l: 0.3600
+		mean: 0.2993
+	Summary: 
+		common refrain hill idea congress social buddy-buddy outside capitol complex would functional people work
+		220 laws enacted least four decades
+		truism obama social enough congress common refrain first four years office wo change history judge
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 37
+	Results: 
+		rouge-1: 0.0455
+		rouge-2: 0.0000
+		rouge-l: 0.1200
+		mean: 0.0552
+	Summary: 
+		retirement announcement republican sen. saxby cambliss cited dearth meaningful action congress one reason seeking re-election next year
+		debt-ceiling debacle 2011 recent fiscal-cliff vote showed congress worst sadly see legislative gridlock partisan posturing improving anytime soon capitol hill veteran said statement
+		congress becoming commuter congress said former democratic sen. bryon dorgan north dakota

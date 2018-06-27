@@ -1,0 +1,87 @@
+DOCUMENT:
+0: pope francis unleashed blistering critique vatican bureaucracy curia criticizing illnesses ranging disease feeling immortal vainglory excessive planning
+1: annual christmas address curia vatican monday pontiff warned church try improve like sick body
+2: francis said suggested would helpful vatican bureaucrats catalog illnesses beginning disease feeling immortal indispensable
+3: pathology power said could lead people believing superior others service others
+4: francis warned disease loss compassion said afflicted heart stone
+5: lose inner serenity vivacity audacity hide behind papers becoming like procedural machines rather men god
+6: dangerous lose human sensitivity necessary order cry cry enjoy enjoy pope said
+7: pope francis referred diseases excessive planning functionalism bad coordination said could occur members collaborate
+8: also risk succumbing spiritual alzheimer disease forgetting story salvation said warning sufferers lost memory encounter god
+9: pope described diseases rivalry vainglory rebuked try court superiors inspired egotism
+10: disease gossip francis said addressed insufficiently
+11: serious disease begins simply people chatter takes person turning person satan many cases people speaking ill colleagues brothers sisters
+12: people got courage speak directly speak others behind backs said
+13: dear brothers let us aware guard terrorism gossip
+14: pope francis also appeared speak child abuse scandal rocked catholic church referring disease closeness
+15: disease also begins good intentions passing time enslaves members becoming cancer threatens harmony body causes lot evil scandal especially towards small brothers sisters francis said
+16: finally francis warned disease mundane exhibitionism apostle transforms service power
+17: disease people seek tirelessly multiply power aimed calumny defame discredit others said
+18: pope francis concluded dear brothers diseases temptations naturally danger christian curia
+19: community ecclesiastical movement
+20: damage individually community
+21: say holy spirit soul christ protect us disease
+22: let us try grow together close christ
+23: interview cnn christiane amanpour aired earlier month veteran vatican watcher marco politi said pope francis encountering growing opposition within church
+24: mainly due francis efforts reform since becoming pope march 2013 politi said
+25: within church tough group conservative bishops priests cardinals also traditionalist bishops cardinals practically pope working pope said
+26: like wanted synod family give new possibilities remarried divorced people get communion new look homosexual union
+
+=================================
+Gold summary:
+pope francis addressed vatican bureaucracy curia monday
+launched blistering attack illnesses within members
+francis warned vainglory superiority loss compassion
+referred diseases excessive planning terrorism gossip
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 9, 10, 2
+	Results: 
+		rouge-1: 0.3333
+		rouge-2: 0.0000
+		rouge-l: 0.2000
+		mean: 0.1778
+	Summary: 
+		pope described diseases rivalry vainglory rebuked try court superiors inspired egotism
+		disease gossip francis said addressed insufficiently
+		francis said suggested would helpful vatican bureaucrats catalog illnesses beginning disease feeling immortal indispensable
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5000
+		rouge-2: 0.1667
+		rouge-l: 0.3600
+		mean: 0.3422
+	Summary: 
+		pope francis unleashed blistering critique vatican bureaucracy curia criticizing illnesses ranging disease feeling immortal vainglory excessive planning
+		annual christmas address curia vatican monday pontiff warned church try improve like sick body
+		francis said suggested would helpful vatican bureaucrats catalog illnesses beginning disease feeling immortal indispensable
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 4, 7
+	Results: 
+		rouge-1: 0.6667
+		rouge-2: 0.3333
+		rouge-l: 0.5600
+		mean: 0.5200
+	Summary: 
+		pope francis unleashed blistering critique vatican bureaucracy curia criticizing illnesses ranging disease feeling immortal vainglory excessive planning
+		francis warned disease loss compassion said afflicted heart stone
+		pope francis referred diseases excessive planning functionalism bad coordination said could occur members collaborate
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 2, 1
+	Results: 
+		rouge-1: 0.5000
+		rouge-2: 0.1667
+		rouge-l: 0.3600
+		mean: 0.3422
+	Summary: 
+		pope francis unleashed blistering critique vatican bureaucracy curia criticizing illnesses ranging disease feeling immortal vainglory excessive planning
+		francis said suggested would helpful vatican bureaucrats catalog illnesses beginning disease feeling immortal indispensable
+		annual christmas address curia vatican monday pontiff warned church try improve like sick body

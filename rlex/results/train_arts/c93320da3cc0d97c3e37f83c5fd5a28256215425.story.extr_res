@@ -1,0 +1,116 @@
+DOCUMENT:
+0: anyone ever read nutrition label knows food supply full hard-to-pronounce chemicals
+1: generally recognized safe food drug administration likes say given scientists cause concern
+2: azodicarbonamide instance
+3: subway announced last week would removing controversial chemical bread
+4: generally used strengthening dough azodicarbonamide also found yoga mats shoe soles according centers science public interest
+5: one breakdown products recognized carcinogen
+6: though subway going remove azodicarbonamide long list chemicals used bread calcium carbonate calcium sulfate ammonium sulfate datem sodium stearoyl lactylate potassium iodate ascorbic acid according restaurant website pdf
+7: subway certainly alone
+8: chemical additives commonly found food
+9: seven picked random good practice upcoming cnn spelling bee kidding
+10: tartrazine food dyes
+11: kraft announced last year would removing yellow no. 5 tartrazine no. 6 certain varieties macaroni cheese products advocates rejoiced
+12: blue 1 green 3 red 40 others loosely linked everything hyperactivity children cancer lab animals
+13: generally found candy beverages baked goods color additives also used cosmetics
+14: knew right
+15: also know ground-up insects drinks
+16: cochineal extract approved artificial dye derived small bug lives cactus plants mexico south america
+17: long allergic safe drink according centers science public interest
+18: butylated hydroxyanisole bha
+19: well mouthful
+20: bha used preserve cereals chewing gum potato chips according centers
+21: also used rubber petroleum products
+22: butylated hydroxyanisole reasonably anticipated human carcinogen according national institutes health pdf animal studies shown chemical cause tumors rats hamsters forestomachs something humans fish livers
+23: propyl gallate often used conjunction bha chemical called butylated hydroxytoluene bht
+24: antioxidant preservatives protect oily products oxidation would otherwise cause go bad
+25: propyl gallate found mayonnaise dried meats chicken soup gum well hair-grooming products adhesives
+26: scientists believe propyl gallate endocrine disruptor pdf meaning interfere humans hormones
+27: endocrine disruptors lead developmental reproductive and/or neurological problems according national institutes health including fertility issues increased risk cancers
+28: link propyl gallate endocrine system needs studied
+29: sodium nitrite often used preservation coloring meats bacon ham hot dogs lunch meat smoked fish
+30: without products would look gray instead red
+31: sodium nitrite also found naturally many vegetables including beets celery radishes lettuce
+32: nitrite found vegetables comes ascorbic acid prevents bodies turning nitrite nitrosamines
+33: nitrosamines considered potentially carcinogenic humans
+34: companies adding ascorbic acid meat products inhibit nitrosamine formation according centers science public interest
+35: however american meat institute points national toxicology program conducted multi-year review rats mice fed high levels nitrate nitrite drinking water panel reviewed findings concluded nitrite safe levels used carcinogen
+36: tbhq tert-butylhydroquinone
+37: chemical preservative form butane used crackers potato chips fast food
+38: also found varnish lacquer resin
+39: helps prolong shelf life food consumed low levels considered safe
+40: higher doses fda says manufactures use food prep tbhq found cause nausea vomiting ringing ears delirium sense suffocation collapse according consumer dictionary food additives
+41: may also cause restlessness vision problems
+42: silicon dioxide silica calcium silicate
+43: silicon dioxide also known silica naturally occurring material pdf made shells tiny single-celled algae
+44: might also recognize sand kind gets stuck suit beach
+45: silicon dioxide used dry coffee creamer dried soups powdery foods
+46: also used insect repellent removing oily film covers insect body causing dry die
+47: epa concluded human health risk low unreasonable
+48: rat studies high-dose exposure caused lung problems
+49: another study chinese workers heavily exposed chemical showed disproportionate number deaths related respiratory diseases lung cancer cardiovascular diseases
+50: silicon dioxide also associated risk developing autoimmune diseases heavy exposure
+51: triacetin glycerol triacetate
+52: triacetin also known glyceryl triacetate approved generally recognized safe fda food additive
+53: food used plasticizer chewing gum gummy candy
+54: used keep food drying cookies muffins cakes
+55: also used perfume cosmetics cigarette filters drugs like viagra
+
+=================================
+Gold summary:
+subway removing azodicarbonamide bread chemicals remain
+seven color additives approved fda use foods
+propyl gallate bha bht used preserve oily products mayonnaise
+silicon dioxide used coffee creamer dried soups insect repellent
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 24, 36, 37
+	Results: 
+		rouge-1: 0.1000
+		rouge-2: 0.0333
+		rouge-l: 0.0968
+		mean: 0.0767
+	Summary: 
+		antioxidant preservatives protect oily products oxidation would otherwise cause go bad
+		tbhq tert-butylhydroquinone
+		chemical preservative form butane used crackers potato chips fast food
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.0667
+		rouge-2: 0.0000
+		rouge-l: 0.0323
+		mean: 0.0330
+	Summary: 
+		anyone ever read nutrition label knows food supply full hard-to-pronounce chemicals
+		generally recognized safe food drug administration likes say given scientists cause concern
+		azodicarbonamide instance
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 23, 45, 46
+	Results: 
+		rouge-1: 0.5333
+		rouge-2: 0.2333
+		rouge-l: 0.4194
+		mean: 0.3953
+	Summary: 
+		propyl gallate often used conjunction bha chemical called butylated hydroxytoluene bht
+		silicon dioxide used dry coffee creamer dried soups powdery foods
+		also used insect repellent removing oily film covers insect body causing dry die
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 53
+	Results: 
+		rouge-1: 0.0667
+		rouge-2: 0.0000
+		rouge-l: 0.0645
+		mean: 0.0437
+	Summary: 
+		anyone ever read nutrition label knows food supply full hard-to-pronounce chemicals
+		generally recognized safe food drug administration likes say given scientists cause concern
+		food used plasticizer chewing gum gummy candy

@@ -1,0 +1,86 @@
+DOCUMENT:
+0: israel responded heavy fire five rockets gaza landed wednesday populated areas southern israel marking substantial attack two years country israeli military said
+1: military wing palestinian islamic jihad called al-quds brigade claimed responsibility firing dozens missiles called israeli settlements
+2: response israel launched airstrikes three areas gaza rafah khan younis jabalia believed belong islamic jihad according security sources gaza
+3: hamas spokesman texted cnn say counted six airstrikes claimed bases empty
+4: israeli military targeted 29 terror sites gaza military said twitter page
+5: direct hits confirmed military tweeted
+6: today attack 41 rockets struck israel five hit populated areas three intercepted iron dome defense system military said another statement
+7: substantial rocket attack gaza strip since operation pillar defense november 2012
+8: islamic jihad hamas palestinian movement running gaza evacuated military civilian institutions expectation israeli reprisals security sources gaza said
+9: israel intercepts ship weapons headed gaza
+10: wake attack israeli foreign minister avigdor liberman told israeli army radio position party israel beitanyu support full occupation whole gaza possible future action
+11: liberman opposed response short full occupation
+12: limited operation said
+13: israeli prime minister benjamin netanyahu later asked reaction liberman comments joint news conference britain prime minister david cameron wednesday evening jerusalem
+14: quiet southern israel noisy gaza netanyahu said hebrew
+15: palestinian authority president mahmoud abbas called upon israel stop military escalation besieged gaza strip considering escalation put isolated residents danger war destruction presidential spokesman nabil abu rudeineh said official wafa news agency
+16: gaza strip constantly targeted israeli airstrikes targeted many areas rudeineh said
+17: hamas-run al-aqsa tv flashed banner stating occupation bares full responsibility regarding wave aggression ongoing escalation
+18: abu ahmad spokesman al-quds brigades said rocket fire came long series violations truce palestinian resistance since november 2012
+19: operation dubbed breaking silence comes response ongoing continued zionist israeli aggression palestinian people west bank gaza ahmad said
+20: israeli defense minister moshe yaalon ordered halt shipment goods gaza crossing gaza-israel-egypt border security assessments made military said statement
+21: however another crossing open humanitarian movements military said
+22: u.n. secretary-general ban ki-moon condemned multiple rocket attacks gaza israel urged maximum restraint parties prevent escalation violence destabilization region spokesman said
+23: israeli apache helicopters flew gaza city wednesday several rockets reportedly fired palestinian territory israeli town sderot officials said
+24: al-quds brigade claimed responsibility website firing total 34 rockets 14 mortar rounds zionist targets
+25: cnn talal abu rahma gaza kareem khadder jerusalem mohammed tawfeeq michael schwarz contributed report
+
+=================================
+Gold summary:
+israel says 41 rockets land five hitting towns
+al-quds brigade gaza calls rocket fire operation breaking silence
+israeli foreign minister advocates full occupation whole gaza
+militant wing islamic jihad gaza claimed responsibility rocket fire
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 1, 10, 12
+	Results: 
+		rouge-1: 0.5333
+		rouge-2: 0.2500
+		rouge-l: 0.2647
+		mean: 0.3493
+	Summary: 
+		military wing palestinian islamic jihad called al-quds brigade claimed responsibility firing dozens missiles called israeli settlements
+		wake attack israeli foreign minister avigdor liberman told israeli army radio position party israel beitanyu support full occupation whole gaza possible future action
+		limited operation said
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4333
+		rouge-2: 0.0938
+		rouge-l: 0.2647
+		mean: 0.2639
+	Summary: 
+		israel responded heavy fire five rockets gaza landed wednesday populated areas southern israel marking substantial attack two years country israeli military said
+		military wing palestinian islamic jihad called al-quds brigade claimed responsibility firing dozens missiles called israeli settlements
+		response israel launched airstrikes three areas gaza rafah khan younis jabalia believed belong islamic jihad according security sources gaza
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 10, 19
+	Results: 
+		rouge-1: 0.6000
+		rouge-2: 0.2812
+		rouge-l: 0.2941
+		mean: 0.3918
+	Summary: 
+		military wing palestinian islamic jihad called al-quds brigade claimed responsibility firing dozens missiles called israeli settlements
+		wake attack israeli foreign minister avigdor liberman told israeli army radio position party israel beitanyu support full occupation whole gaza possible future action
+		operation dubbed breaking silence comes response ongoing continued zionist israeli aggression palestinian people west bank gaza ahmad said
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4333
+		rouge-2: 0.0938
+		rouge-l: 0.2647
+		mean: 0.2639
+	Summary: 
+		israel responded heavy fire five rockets gaza landed wednesday populated areas southern israel marking substantial attack two years country israeli military said
+		military wing palestinian islamic jihad called al-quds brigade claimed responsibility firing dozens missiles called israeli settlements
+		response israel launched airstrikes three areas gaza rafah khan younis jabalia believed belong islamic jihad according security sources gaza

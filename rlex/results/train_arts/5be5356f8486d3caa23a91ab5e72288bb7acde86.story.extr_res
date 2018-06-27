@@ -1,0 +1,80 @@
+DOCUMENT:
+0: pakistan needs implement safeguards would control fertilizer used explosive devices afghanistan according american lawmaker recently visited country
+1: basically waiting pakistani government implement strategy said going implement pakistan august meeting highest-level officials said sen. robert casey d-pennsylvania
+2: unfortunately october seen action month september
+3: said strategy include restricting access fertilizer tracking perhaps use dye interdicting border afghanistan
+4: according u.s. military joint ied defeat organization 84 improvised explosive devices afghanistan made fertilizer produced pakistan ieds no. 1 killer american forces afghanistan responsible 400 deaths past two years
+5: pakistani official disputed casey criticism saying authorities moving fast problem joint effort sides border
+6: official declined identified also said tons fertilizer produced difficult track small amounts placed ieds
+7: fertilizer calcium ammonium nitrate processed small off-white pellets shipped huge sacks
+8: ingredient used timothy mcveigh oklahoma city bombing 1995
+9: banned afghanistan since 2009 legally produced pakistan widely used farming
+10: calcium ammonium nitrate suitable crops seasons soils locations according manufacturer pakarab whose website says firm pakistan produces
+11: year ago afghan border police said stopped convoy three trucks smuggling 50 tons fertilizer enough make 2,100 ieds said
+12: extremely porous border said seth jones rand corp. afghanistan last month
+13: enough time day long line vehicles stop every single vehicle check
+14: jones said militants afghanistan managing smuggle ied ingredients helmand river valley make roadside bombs targeting u.s. marines operating southern afghanistan well areas like khyber pass target u.s. army forces east
+15: american pressure pakistan act comes time cooperation two countries already heavy strain recently outgoing chairman joint chiefs staff adm. mike mullen said militant haqqani network acts veritable arm pakistan inter-services intelligence agency
+16: pakistani officials vigorously denied accusation
+17: casey said would put long american soldiers injured killed
+18: go walter reed see 19-year-old kids half leg blown many instances died way said
+19: inexcusable resources technology know-how slow stop way
+
+=================================
+Gold summary:
+pakistan needs put safeguards place says u.s. sen. robert casey
+u.s. military 84 afghan ieds made fertilizer made pakistan
+pakistani official says joint effort sides border needed
+extremely porous border says rand corp. official
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 9, 4, 14
+	Results: 
+		rouge-1: 0.2963
+		rouge-2: 0.0606
+		rouge-l: 0.2059
+		mean: 0.1876
+	Summary: 
+		banned afghanistan since 2009 legally produced pakistan widely used farming
+		according u.s. military joint ied defeat organization 84 improvised explosive devices afghanistan made fertilizer produced pakistan ieds no. 1 killer american forces afghanistan responsible 400 deaths past two years
+		jones said militants afghanistan managing smuggle ied ingredients helmand river valley make roadside bombs targeting u.s. marines operating southern afghanistan well areas like khyber pass target u.s. army forces east
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2963
+		rouge-2: 0.0909
+		rouge-l: 0.1765
+		mean: 0.1879
+	Summary: 
+		pakistan needs implement safeguards would control fertilizer used explosive devices afghanistan according american lawmaker recently visited country
+		basically waiting pakistani government implement strategy said going implement pakistan august meeting highest-level officials said sen. robert casey d-pennsylvania
+		unfortunately october seen action month september
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 4, 5, 12
+	Results: 
+		rouge-1: 0.6667
+		rouge-2: 0.2727
+		rouge-l: 0.5000
+		mean: 0.4798
+	Summary: 
+		according u.s. military joint ied defeat organization 84 improvised explosive devices afghanistan made fertilizer produced pakistan ieds no. 1 killer american forces afghanistan responsible 400 deaths past two years
+		pakistani official disputed casey criticism saying authorities moving fast problem joint effort sides border
+		extremely porous border said seth jones rand corp. afghanistan last month
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 4
+	Results: 
+		rouge-1: 0.5185
+		rouge-2: 0.1515
+		rouge-l: 0.3529
+		mean: 0.3410
+	Summary: 
+		pakistan needs implement safeguards would control fertilizer used explosive devices afghanistan according american lawmaker recently visited country
+		basically waiting pakistani government implement strategy said going implement pakistan august meeting highest-level officials said sen. robert casey d-pennsylvania
+		according u.s. military joint ied defeat organization 84 improvised explosive devices afghanistan made fertilizer produced pakistan ieds no. 1 killer american forces afghanistan responsible 400 deaths past two years

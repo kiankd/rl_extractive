@@ -1,0 +1,124 @@
+DOCUMENT:
+0: nobody found shot j.r. facebook
+1: none us first saw bob newhart wake suzanne pleshette instagram photo
+2: tivo twitter hulu-centric glory
+3: 2014 technology handed us unprecedented flexibility keep favorite shows
+4: also making harder ever avoid walking headlong spoilers
+5: one social-media click spoil television biggest moments people may enjoying shows leisurely pace
+6: despite wealth tech-driven options watching sharing tv still ca seem agree proper etiquette chat online without ruining somebody else
+7: us count among spoiler extremists enjoyed show
+8: well shut unless know talking typing someone else already seen
+9: full disclosure coming someone excitable lad responded question return jedi great
+10: yoda dies
+11: end spectrum problem brigade want spoiled
+12: watch show airs stay social media
+13: daryl hair walking dead particularly luscious tonight must tell world
+14: folks fall somewhere middle
+15: let try find happy medium shall
+16: tips potential spoiler potential spoilee help keep us tv watchers spoiler-free
+17: spoiler go
+18: unlike social platforms pretty much agreed twitter go talk tv shows happening
+19: log super bowl oscars presidential debate big tv event see ceo dick costolo said site saving live television
+20: sure got tech lets us watch later
+21: part fun web dedicated couch potatoes become watching twitter real-time chatter favorite shows
+22: spoilee go
+23: place 140-character wild wild west
+24: follow anyone likes shows would
+25: log caught
+26: spoiler alert
+27: spoiler use
+28: difference two little words make
+29: know jackasses ran around bookstore parking lots yelling snape kills dumbledore
+30: want ruin surprise folks seen
+31: want talk folks
+32: facebook throwing something like spoiler alert game thrones spoiler beginning post gives friends least fighting chance avert eyes
+33: spoilee scan carefully
+34: blindsided spoilers sometimes much
+35: witness downton fans hopping mad accidentally learning sudden death beloved character two characters actually season 3
+36: know currently missing show plan catch especially season finale special episode surf one eye open
+37: noticing key word two friend post warns unfamiliar terrain give time turn around read elsewhere
+38: details details
+39: spoiler save details comments section
+40: mainly talking facebook
+41: nobody blames wanting talk omg happened
+42: something like
+43: scandal omg happened !!! spoilers comments
+44: way friends omging along head comments chatter away
+45: yes declaring omg verb
+46: spoilee uh read comments
+47: ca take hint kind lost sympathy
+48: take elsewhere
+49: spoiler create space share
+50: pals chris kathleen funny
+51: fans walking dead
+52: started mostly effort crack across room began posting snarky commentary random observations funny pictures facebook watched
+53: received obligatory threats physical harm friends yet watched latest episode
+54: thus chris kathleen walking dead commentary page born
+55: need massive following create page start live blog dedicated favorite show
+56: go ahead build digital treehouse invite friends know want play let rip
+57: slowpoke friends thank
+58: know name
+59: blonde one
+60: spoilee stay away
+61: signed blog like miss episode forget stay coast clear
+62: tips avoid spoilers chat favorite shows without ruining others
+63: let us know comments
+
+=================================
+Gold summary:
+digital age easier ever stumble across spoilers
+dvrs streaming mean consume tv shows time
+consider spoiler alert tags keeping details comments
+tweeter beware twitter acknowledged place talk live tv
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 0, 40, 15
+	Results: 
+		rouge-1: 0.0000
+		rouge-2: 0.0000
+		rouge-l: 0.0000
+		mean: 0.0000
+	Summary: 
+		nobody found shot j.r. facebook
+		mainly talking facebook
+		let try find happy medium shall
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.0357
+		rouge-2: 0.0000
+		rouge-l: 0.0345
+		mean: 0.0234
+	Summary: 
+		nobody found shot j.r. facebook
+		none us first saw bob newhart wake suzanne pleshette instagram photo
+		tivo twitter hulu-centric glory
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 4, 18, 39
+	Results: 
+		rouge-1: 0.3214
+		rouge-2: 0.0714
+		rouge-l: 0.2414
+		mean: 0.2114
+	Summary: 
+		also making harder ever avoid walking headlong spoilers
+		unlike social platforms pretty much agreed twitter go talk tv shows happening
+		spoiler save details comments section
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.0357
+		rouge-2: 0.0000
+		rouge-l: 0.0345
+		mean: 0.0234
+	Summary: 
+		nobody found shot j.r. facebook
+		none us first saw bob newhart wake suzanne pleshette instagram photo
+		tivo twitter hulu-centric glory

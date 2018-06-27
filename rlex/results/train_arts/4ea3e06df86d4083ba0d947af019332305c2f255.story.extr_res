@@ -1,0 +1,96 @@
+DOCUMENT:
+0: senate republican leader mitch mcconnell holds slim four-point edge democratic challenger alison lundergan grimes new cnn/orc international poll one closely watched senate races 2014
+1: mcconnell 4-point advantage 50 -46 falls within survey 4-point sampling error furthering emphasizing close kentucky contest remains 62 days election day
+2: outcome election may help decide control senate influence president barack obama final two years office determine political fate kentucky longest-serving senator
+3: data poll offers hope challenges candidate next two months outside groups individual candidates continue pour millions dollars race try influence kentuckians support november
+4: sliver persuadable voters might small 19 number people said might change mind
+5: contrast 77 surveyed said made mind back november
+6: might troubling data point grimes number democrats 16 said supporting leaning towards supporting mcconnell
+7: 16 may sound like much double number crossover votes grimes wins republicans cnn polling director keating holland said
+8: likely democrats think state better kentuckian running senate rather democrat would rank bottom seniority
+9: main talking point mcconnell campaign trail senator speaks delivers kentuckians maintaining conservative sensibilities
+10: also embraces role one obama biggest critics many ways low-hanging fruit commonwealth overwhelmingly disapproves commander-in-chief handling job
+11: obama 64 disapproval rating poll among respondents 29 approve stewardship country
+12: president high disapproval rating fueled part policy coal major employer parts kentucky
+13: fact mcconnell whopping 20 lead grimes east 28 lead west two coal-producing regions commonwealth
+14: surprise grimes embraced obama even chastised publicly position coal
+15: made quite clear stands coal said democratic strategist spoke freely race condition anonymity
+16: starkly different approach kentucky coal industry president obama national democrats
+17: troubling mcconnell despite one powerful republicans nation locked statistical tie grimes holds 10-point lead mcconnell bluegrass region anchored cities lexington frankfort 27-point lead mcconnell jefferson county area anchored city louisville 8-point lead mcconnell suburbs louisville cincinnati
+18: poll indicates controversy erupted friday forced mcconnell campaign manager resign major impact race
+19: jesse benton cut ties campaign speculation swirled involvement unfolding corruption scandal related then-rep
+20: ron paul 2012 bid president
+21: bottom line mcconnell no. 1 target national democrats
+22: republican strategist acknowledged much saying democratic leaders framed race donor base opportunity defeat major opponent democratic agenda
+23: national democratic money continue flow kentucky
+24: digging deeper data real surprises terms candidate winning traditional political demographic groups mcconnell 13 lead men seen favorably voters make 50,000 grimes holds seven-point lead women better voters making less 50,000
+25: democrats view kentucky senate race twofold opportunity defeat republican leader major symbolic victory last occurred 2004 then-senate minority leader tom daschle south dakota democrat defeated former rep. john thune important democrats kentucky race key part political beachhead needed protect vulnerable senate majority november
+26: republicans take back control senate floor committees produce legislation provide oversight obama administration party needs net gain six seats doable task given math electoral map two months election day even though democrats currently hold 55-45 seat advantage chamber
+27: start democrats need defend 21 seats november gop needs protect 15
+28: take closer look 36 senate seats ballot year news even disturbing democrats
+29: least three seats currently held democrats montana south dakota west virginia expected republicans november 4 according recent cnn analysis 2014 midterm election
+30: six seats cnn designated grabs five held democratic incumbents representing alaska arkansas iowa louisiana north carolina
+31: time kentucky gop-held seat cnn placed grabs column
+32: many competitive senate races election kentucky viewed premier contest heading november
+33: poll conducted cnn orc international interviewed 1,037 adult americans including 671 likely voters telephone august 28 september 1
+34: sampling error results likely voters -4 percentage points
+35: 30 years senate mcconnell runs candidate change
+
+=================================
+Gold summary:
+kentucky senate race could determine balance power senate
+could also decide whether mitch mcconnell senate majority leader
+mcconnell running agent change 30 years senate
+opponent alison lundergan grimes rising star democratic party
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 8, 20, 13
+	Results: 
+		rouge-1: 0.1481
+		rouge-2: 0.0000
+		rouge-l: 0.0938
+		mean: 0.0806
+	Summary: 
+		likely democrats think state better kentuckian running senate rather democrat would rank bottom seniority
+		ron paul 2012 bid president
+		fact mcconnell whopping 20 lead grimes east 28 lead west two coal-producing regions commonwealth
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4444
+		rouge-2: 0.0968
+		rouge-l: 0.1875
+		mean: 0.2429
+	Summary: 
+		senate republican leader mitch mcconnell holds slim four-point edge democratic challenger alison lundergan grimes new cnn/orc international poll one closely watched senate races 2014
+		mcconnell 4-point advantage 50 -46 falls within survey 4-point sampling error furthering emphasizing close kentucky contest remains 62 days election day
+		outcome election may help decide control senate influence president barack obama final two years office determine political fate kentucky longest-serving senator
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 25, 35
+	Results: 
+		rouge-1: 0.5185
+		rouge-2: 0.2581
+		rouge-l: 0.2500
+		mean: 0.3422
+	Summary: 
+		senate republican leader mitch mcconnell holds slim four-point edge democratic challenger alison lundergan grimes new cnn/orc international poll one closely watched senate races 2014
+		democrats view kentucky senate race twofold opportunity defeat republican leader major symbolic victory last occurred 2004 then-senate minority leader tom daschle south dakota democrat defeated former rep. john thune important democrats kentucky race key part political beachhead needed protect vulnerable senate majority november
+		30 years senate mcconnell runs candidate change
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4444
+		rouge-2: 0.0968
+		rouge-l: 0.1875
+		mean: 0.2429
+	Summary: 
+		senate republican leader mitch mcconnell holds slim four-point edge democratic challenger alison lundergan grimes new cnn/orc international poll one closely watched senate races 2014
+		mcconnell 4-point advantage 50 -46 falls within survey 4-point sampling error furthering emphasizing close kentucky contest remains 62 days election day
+		outcome election may help decide control senate influence president barack obama final two years office determine political fate kentucky longest-serving senator

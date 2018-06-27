@@ -1,0 +1,111 @@
+DOCUMENT:
+0: cnn ca escape disney phenomenon frozen
+1: highest-grossing animated film time one disney top franchises
+2: downloaded movie apple last year kids everywhere still singing movie anthem let go
+3: heck probably stuck head right even never seen film
+4: 2013 movie stuck around long under-5 set
+5: experts say find images movie sisters everything
+6: elsa anna dresses scooters time easter season even jelly beans
+7: understand psychology behind frozen mania cnn reached psychologists sisters yalda uhls regional director common sense media
+8: maryam kia-keating associate professor clinical psychology university california santa barbara
+9: edited conversation
+10: cnn princess movies around since beginning time really resonated
+11: made one unique
+12: yalda uhls one things really struck think struck little children really strong intergenerational family-themed message
+13: despite sisters anna elsa separated long story ultimately bond two
+14: little zone group define world
+15: highlighting making feel important sister brother mom dad something little kids really identify
+16: maryam kia-keating kids really understand idea sister wanting play sometimes still strong family bond
+17: ultimately love sisters
+18: message many little children understand
+19: also good lessons overcoming struggles facing life challenges
+20: interesting preschoolers particular loyalty unrelenting interest watch movie
+21: part well done themes younger kids really identify
+22: 4-year-old daughter told also liked witch
+23: would thought said made thoughtful movies great movies scary witches themes
+24: something little kids 5 going nightmares
+25: cnn witch important preschooler
+26: kia-keating adult heard lot stories like snow white cinderella forget power
+27: helpful child point view
+28: kids living world line real really blurry vivid imaginations witches monsters feel real
+29: adults may see villains monsters way tell story lesson children moment scared caught fear finding larger lesson
+30: uhls used work film industry adults told need conflict drive drama
+31: take grimm fairy tales always dire stakes
+32: movies like bambi lion king mother father die
+33: serious issues themes sometimes little kids ready process understand ideas
+34: cnn characters seem easy kids empathize
+35: uhls preschooler imaginations really strong respond really well stories magical realism
+36: frozen princess elsa powers control ice snow really captures kids imaginations
+37: small feel powerful
+38: everyone always dictating
+39: character empathize powers make feel empowered well
+40: kia-keating magical piece exciting one things really sets movie apart others
+41: another aspect kids see elsa anna impulsiveness
+42: parents constantly trying teach little ones self-regulate emotions behave sit
+43: elsa constantly trying tame control emotions something salient everyone throughout lifetimes something preschoolers deal time
+44: cnn song let go everywhere kids ca stop singing
+45: kia-keating 4-year-old came home learned song even seen movie
+46: one lines friends connected good girl always
+47: sing wag fingers like movie
+48: think looks lot like something see hear parents good girl boy part copying frequently hear
+49: asked daughter thought song said elsa happy free nobody bothering
+50: message everyone wants happy free
+51: get see frozen short film
+
+=================================
+Gold summary:
+disney frozen top-grossing animated film time
+psychologists say success frozen involves universal themes family good
+let go appeals children seek happiness freedom struggle control impulses
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 49, 34, 3
+	Results: 
+		rouge-1: 0.0417
+		rouge-2: 0.0000
+		rouge-l: 0.0400
+		mean: 0.0272
+	Summary: 
+		asked daughter thought song said elsa happy free nobody bothering
+		cnn characters seem easy kids empathize
+		heck probably stuck head right even never seen film
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2917
+		rouge-2: 0.1250
+		rouge-l: 0.2800
+		mean: 0.2322
+	Summary: 
+		cnn ca escape disney phenomenon frozen
+		highest-grossing animated film time one disney top franchises
+		downloaded movie apple last year kids everywhere still singing movie anthem let go
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 36, 44
+	Results: 
+		rouge-1: 0.3333
+		rouge-2: 0.1250
+		rouge-l: 0.2400
+		mean: 0.2328
+	Summary: 
+		highest-grossing animated film time one disney top franchises
+		frozen princess elsa powers control ice snow really captures kids imaginations
+		cnn song let go everywhere kids ca stop singing
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2917
+		rouge-2: 0.1250
+		rouge-l: 0.2800
+		mean: 0.2322
+	Summary: 
+		cnn ca escape disney phenomenon frozen
+		highest-grossing animated film time one disney top franchises
+		downloaded movie apple last year kids everywhere still singing movie anthem let go

@@ -1,0 +1,98 @@
+DOCUMENT:
+0: faced home full estranged wife relatives police say ronald lee haskell opened fire
+1: faced judge collapsed
+2: episode friday texas courtroom reportedly came reading six capital murder charges facing 33-year-old suspect
+3: two law enforcement officials held haskell 20 seconds sitting floor
+4: put desk chair wheeled courtroom
+5: yet haskell returned time judge set arraignment august 14
+6: likely hear murder charges four children two adults allegedly fatally gunned
+7: hard comprehend extent bloodshed apparent horror scene
+8: yet reports suggest people close felt threatened well mass murder texas week
+9: even mother
+10: father victim survivor called 911 likely saved lives
+11: according san diego county sheriff department karla haskell son got argument july 2 home shared san marcos california
+12: attempted leave call help ronald physically restrained prevented leaving news release department said
+13: daughter returned home find happened around 8 p.m. hours incident began karla haskell relayed story sheriff deputy
+14: deputy recommendation obtained temporary restraining order son
+15: meanwhile california sheriff department deputies began looking ronald lee haskell truck
+16: find either
+17: fact authorities catch exactly one week later
+18: came three-hour standoff texas end ronald lee haskell taken custody
+19: full gory details authorities say become painfully clear
+20: texas authorities said haskell entered spring texas home demanding know whereabouts estranged wife melannie haskel
+21: stop killing according harris county sheriff office stephen stay 39 katie stay 33 two boys ages 13 4 two girls ages 9 7
+22: harris county precinct 4 constable ron hickman said victim called notify police location believed may go
+23: one person 15-year-old girl survived attack authorities indicated critically wounded though relative later said make full recovery
+24: roger lyon father katie stay credited teenager bravery courage calling 911 act likely saved lives
+25: estranged wife accused haskell dragging hitting
+26: karla haskell person sought protection ronald lee haskell
+27: estranged wife melannie
+28: police logan city utah said thursday officers responded domestic violence complaint june 2008 melannie haskell accused husband dragging hair hitting head front children
+29: ronald haskell subsequently charged domestic assault domestic violence presence child
+30: charges eventually dropped plea deal reached
+31: utah police said melannie haskell august 2013 reported protective order violation alleged ronald haskell threatened lawyer
+32: alleged another violation october saying shown one children elementary schools
+33: police noted neither protective order violation prosecuted
+34: police n.c. grandfather shoots father kid kills grandpa
+35: man questioned fatal tennessee armory shooting
+36: deputy fatal shooting boy carrying fake rifle ruled lawful
+37: cnn eliott c. mclaughlin john branch jason hanna ed payne dave alsup marlena baldacci contributed report
+
+=================================
+Gold summary:
+authorities ron lee haskell mother restraining order
+came allegedly physically restrained following argument
+week later police say haskell fatally shot 6 estranged wife kin including 4 children
+collapses court reportedly capital murder charges read aloud
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 8, 2, 11
+	Results: 
+		rouge-1: 0.2353
+		rouge-2: 0.0588
+		rouge-l: 0.1429
+		mean: 0.1457
+	Summary: 
+		yet reports suggest people close felt threatened well mass murder texas week
+		episode friday texas courtroom reportedly came reading six capital murder charges facing 33-year-old suspect
+		according san diego county sheriff department karla haskell son got argument july 2 home shared san marcos california
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3235
+		rouge-2: 0.1471
+		rouge-l: 0.2000
+		mean: 0.2235
+	Summary: 
+		faced home full estranged wife relatives police say ronald lee haskell opened fire
+		faced judge collapsed
+		episode friday texas courtroom reportedly came reading six capital murder charges facing 33-year-old suspect
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 2, 17
+	Results: 
+		rouge-1: 0.4118
+		rouge-2: 0.1765
+		rouge-l: 0.2000
+		mean: 0.2627
+	Summary: 
+		faced home full estranged wife relatives police say ronald lee haskell opened fire
+		episode friday texas courtroom reportedly came reading six capital murder charges facing 33-year-old suspect
+		fact authorities catch exactly one week later
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 31
+	Results: 
+		rouge-1: 0.2059
+		rouge-2: 0.0882
+		rouge-l: 0.1143
+		mean: 0.1361
+	Summary: 
+		faced home full estranged wife relatives police say ronald lee haskell opened fire
+		faced judge collapsed
+		utah police said melannie haskell august 2013 reported protective order violation alleged ronald haskell threatened lawyer

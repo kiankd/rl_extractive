@@ -1,0 +1,125 @@
+DOCUMENT:
+0: nice guys finish last mantra often preached sport business
+1: golf concerned would seem nice guys finish second
+2: even manage smile
+3: adam scott in-kyung kim plenty admirers sportsmanship grace two sport blue riband major tournaments year
+4: drawback praise came agonizing defeats
+5: scott australian ranked sixth men game long tipped major success july british open tested ability swallow bitter pills often served golf greens fairways
+6: held four-shot lead going final round bogeyed last four holes handed title veteran south african ernie els
+7: capitulation followed tradition compatriot greg norman one greatest golfers 1980s early player famously choked several big occasions
+8: think emotions shown golf different sports 32-year-old scott told cnn asked able remain dignified face abject disappointment royal lytham st. annes
+9: congratulated els brave rueful smile carried duties face seemingly endless stream media requests
+10: always referred gentleman game think got brought influences scott said
+11: certainly feel like parents brought well also good role models looked kid
+12: certainly greg norman saw win hundreds tournaments lose big ones think handled well situations like kid always try mimic look
+13: norman first major 1986 decade turning professional
+14: however year led four majors going final round came away british open victory first two claret jugs
+15: great white shark runner-up less seven major tournaments
+16: scott tied second last year masters collapsed putter royal lytham blowing biggest chance yet breakthrough win
+17: think little numb shock might lost explained
+18: felt like played like winner whole week even couple mistakes coming feel horrendous course
+19: one shot really really disappointed shot 17th green
+20: really much trouble last holes 17th long grass
+21: ends putting quite awkward position close tournament
+22: probably one shot would like take
+23: think would anything different
+24: kim known i.k. one troop promising female golfing talents emerging asia
+25: south korean looked set announce arrival world stage stood one-foot putt 18th win first major kraft nabisco championship april
+26: ball rolled around lip cup refused sink coming stop outside hole
+27: somehow kim missed cruel coincidence forced playoff compatriot yoo sun-young duly lost
+28: disappointed right happened 24-year-old told cnn
+29: get question lot competitive point view ca really attach emotion result
+30: something ca control
+31: separating emotions golf something kim worked throughout career using mental coach help hone craft
+32: control process hard work every day world no. 18 explained
+33: feel like worked really hard tournament stayed process everything good
+34: techniques involve learning appreciate good bad
+35: smile often enjoy kim said
+36: sometimes forget control ca remind
+37: kim ability perform golf pressurized situations called question
+38: playoff kraft nabisco championship third career third defeat
+39: always really bummed 18th hole gone playoff without preparing kim said
+40: something working control emotion whatever happened
+41: finished tough go playoff nothing think
+42: something work
+43: two half years since kim last event lorena ochoa invitational november 2010
+44: kim picked cool 220,000 winning tournament guadalajara chose donate charity
+45: like competition different feeling helping someone said kim earned 5 million since turning pro 2007
+46: feel like help playing golf
+47: without lot good people around would able fortunate wanted share win
+48: always dreamed helping people opportunity
+49: like kim scott also without win 2012
+50: adelaide native still chance address week lines 7 million wgc-hsbc champions event china goes singapore returning home two australia biggest tournaments
+51: playing home big deal certainly want perform said scott earned 28 million u.s. pga tour
+52: also quite motivated feel like played lot good golf year win really like finish year winning one two tournaments
+53: still view british open highlight year
+54: play well trying long majors finally happened
+55: come champion repeat kind preparation play sure give another chance going win major two
+56: kim three times lpga tour european ladies circuit cautious chances ending title drought
+57: golf mystery said ahead week mizuno classic japan
+58: nobody knows play game perfectly think anyone ever done
+59: play four rounds every week hard keep momentum going
+60: lot work might come weekend never know
+61: best things need improve things well
+62: want win difficult reminded two years since
+63: easy work really hard
+64: happy everything hopefully win tournaments end year
+
+=================================
+Gold summary:
+adam scott i.k. kim narrowly missed maiden major titles 2012
+british open runner-up scott says learned dignified defeat
+kim help mental coach cope recent run near misses
+scott kim still looking first titles year
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 40, 12, 20
+	Results: 
+		rouge-1: 0.0000
+		rouge-2: 0.0000
+		rouge-l: 0.0000
+		mean: 0.0000
+	Summary: 
+		something working control emotion whatever happened
+		certainly greg norman saw win hundreds tournaments lose big ones think handled well situations like kid always try mimic look
+		really much trouble last holes 17th long grass
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.0000
+		rouge-2: 0.0000
+		rouge-l: 0.0000
+		mean: 0.0000
+	Summary: 
+		nice guys finish last mantra often preached sport business
+		golf concerned would seem nice guys finish second
+		even manage smile
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 3, 31, 53
+	Results: 
+		rouge-1: 0.3793
+		rouge-2: 0.0909
+		rouge-l: 0.2647
+		mean: 0.2450
+	Summary: 
+		adam scott in-kyung kim plenty admirers sportsmanship grace two sport blue riband major tournaments year
+		separating emotions golf something kim worked throughout career using mental coach help hone craft
+		still view british open highlight year
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.0000
+		rouge-2: 0.0000
+		rouge-l: 0.0000
+		mean: 0.0000
+	Summary: 
+		nice guys finish last mantra often preached sport business
+		golf concerned would seem nice guys finish second
+		even manage smile

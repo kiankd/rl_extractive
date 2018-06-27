@@ -1,0 +1,79 @@
+DOCUMENT:
+0: golf 10 million jackpot well truly grabs weekend fedexcup series pacesetters faltered friday second round
+1: five players guaranteed take home loot claim tour championship additional 1.44 million first prize sunday adam scott moved pole position halfway stage
+2: australian started week 19th pga tour standings five-under-par 65 east lake gave one-shot tournament lead catapulted top spot end-of-season playoffs
+3: webb simpson leads fedex standings tied 19th 70 dropped scott projected points
+4: bounced back four early bogeys late birdie eagle
+5: got win imagine webb must finish pretty low give chance scott birdied last two holes second day row told pga tour website
+6: figured win week happy matter
+7: finish think really good season moving right direction everything look forward next season
+8: veteran korean k.j. choi matched resurgent scott bloomed since taking tiger woods former caddy steve williams
+9: choi went weekend seven-under 133 one shot clear another in-form australian jason day world no. 1 luke donald
+10: never know happen next two days said choi regularly donates part winnings charities
+11: know able win money could put money good use foundation
+12: still two days left try finish hope best
+13: donald best top five englishman carded 68 one shot worse day
+14: big-hitting bubba watson burst contention 64 tied fifth first-round leader keegan bradley bill haas 67 hunter mahan 68
+15: bradley first major nearby atlanta athletic club six weeks ago followed opening 64 71
+16: fellow american jason dufner beat playoff pga championship another shot back 136 70
+17: no. 2 dustin johnson suffered two double bogeys 73 fall tie 26th 30-man field projected fourth overall
+18: england no. 3 justin rose group three bottom heap 75 dented hopes
+
+=================================
+Gold summary:
+adam scott leads halfway stage tour championship atlanta
+australian shoots five-under 65 move one clear korea k.j. choi
+also takes top spot fedex cup points projections webb simpson
+simpson one five players claim 10 million victory sunday
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 0, 17, 3
+	Results: 
+		rouge-1: 0.2286
+		rouge-2: 0.0556
+		rouge-l: 0.0811
+		mean: 0.1217
+	Summary: 
+		golf 10 million jackpot well truly grabs weekend fedexcup series pacesetters faltered friday second round
+		no. 2 dustin johnson suffered two double bogeys 73 fall tie 26th 30-man field projected fourth overall
+		webb simpson leads fedex standings tied 19th 70 dropped scott projected points
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4571
+		rouge-2: 0.1667
+		rouge-l: 0.2162
+		mean: 0.2800
+	Summary: 
+		golf 10 million jackpot well truly grabs weekend fedexcup series pacesetters faltered friday second round
+		five players guaranteed take home loot claim tour championship additional 1.44 million first prize sunday adam scott moved pole position halfway stage
+		australian started week 19th pga tour standings five-under-par 65 east lake gave one-shot tournament lead catapulted top spot end-of-season playoffs
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 2, 3
+	Results: 
+		rouge-1: 0.5714
+		rouge-2: 0.1667
+		rouge-l: 0.2703
+		mean: 0.3361
+	Summary: 
+		five players guaranteed take home loot claim tour championship additional 1.44 million first prize sunday adam scott moved pole position halfway stage
+		australian started week 19th pga tour standings five-under-par 65 east lake gave one-shot tournament lead catapulted top spot end-of-season playoffs
+		webb simpson leads fedex standings tied 19th 70 dropped scott projected points
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4571
+		rouge-2: 0.1667
+		rouge-l: 0.2162
+		mean: 0.2800
+	Summary: 
+		golf 10 million jackpot well truly grabs weekend fedexcup series pacesetters faltered friday second round
+		five players guaranteed take home loot claim tour championship additional 1.44 million first prize sunday adam scott moved pole position halfway stage
+		australian started week 19th pga tour standings five-under-par 65 east lake gave one-shot tournament lead catapulted top spot end-of-season playoffs

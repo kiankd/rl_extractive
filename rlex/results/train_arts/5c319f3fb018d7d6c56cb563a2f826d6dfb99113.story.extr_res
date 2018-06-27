@@ -1,0 +1,82 @@
+DOCUMENT:
+0: stanislas wawrinka dreamed would go
+1: dared imagine beating two finest players men tennis become grand slam champion
+2: unassuming swiss even pictured climbing no. 3 world rankings
+3: eclipsing decorated compatriot roger federer switzerland top tennis player never crossed mind either
+4: sunday wawrinka beat rafael nadal four sets become australian open champion
+5: never dreamed never expected situation crazy 28-year-old told cnn day 6-3 6-2 3-6 6-3 world no. 1 13-time major winner nadal
+6: really know happening started tell grand slam
+7: something amazing
+8: wawrinka even take second glance rankings confirm dreaming new elevated status top four men games
+9: checking !!! tweeted monday
+10: need worried
+11: wawrinka seeded eighth melbourne comfortably took first two sets surrendered third nadal playing pain barrier movement restricted back injury sustained warm
+12: despite best efforts nadal lacked power punish opponent wawrinka eventually found serving become switzerland second male grand slam champion
+13: really take time focus point explained wawrinka breaking nadal second time fourth set punched times head seemingly urging concentrate
+14: broke game rushing little bit
+15: new balls
+16: knew serve good yesterday
+17: match point took time enjoyed crowd little bit tried make good plan win last point
+18: forehand enough wawrinka seal success new high career also includes men doubles olympic triumph federer 2008
+19: olympics always something special first big victory roger good friend playing switzerland said
+20: always proud play switzerland always something really special
+21: say right winning grand slam title really happy
+22: blog federer longevity greatest achievement
+
+=================================
+Gold summary:
+stanislas wawrinka still coming terms australian open win
+wawrinka beat rafael nadal 6-3 6-2 3-6 6-3 melbourne
+swiss star says something amazing win grand slam
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 8, 2, 4
+	Results: 
+		rouge-1: 0.3182
+		rouge-2: 0.1667
+		rouge-l: 0.2000
+		mean: 0.2283
+	Summary: 
+		wawrinka even take second glance rankings confirm dreaming new elevated status top four men games
+		unassuming swiss even pictured climbing no. 3 world rankings
+		sunday wawrinka beat rafael nadal four sets become australian open champion
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2273
+		rouge-2: 0.0833
+		rouge-l: 0.1600
+		mean: 0.1569
+	Summary: 
+		stanislas wawrinka dreamed would go
+		dared imagine beating two finest players men tennis become grand slam champion
+		unassuming swiss even pictured climbing no. 3 world rankings
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 4, 5, 21
+	Results: 
+		rouge-1: 0.5000
+		rouge-2: 0.3333
+		rouge-l: 0.4000
+		mean: 0.4111
+	Summary: 
+		sunday wawrinka beat rafael nadal four sets become australian open champion
+		never dreamed never expected situation crazy 28-year-old told cnn day 6-3 6-2 3-6 6-3 world no. 1 13-time major winner nadal
+		say right winning grand slam title really happy
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 4
+	Results: 
+		rouge-1: 0.4091
+		rouge-2: 0.2500
+		rouge-l: 0.2400
+		mean: 0.2997
+	Summary: 
+		stanislas wawrinka dreamed would go
+		dared imagine beating two finest players men tennis become grand slam champion
+		sunday wawrinka beat rafael nadal four sets become australian open champion

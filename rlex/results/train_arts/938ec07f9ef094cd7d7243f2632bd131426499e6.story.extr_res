@@ -1,0 +1,74 @@
+DOCUMENT:
+0: florida mother arrested alleged part attempting sell 8-week-old son police said tuesday
+1: stephanie bigbee fleming 22 third person charged case
+2: mother patty bigbee 45 mother boyfriend lawrence works 42 arrested charged last week
+3: fleming already incarcerated unrelated charges
+4: bigbee accused approached potential buyer late october offering sell infant 75,000 florida department law enforcement fdle said statement
+5: would-be buyer contacted authorities
+6: together negotiated price baby 30,000 agreed meet statement said
+7: bigbee boyfriend arranged sale last friday point officers swept
+8: contact said fdle spokesman keith kameg mother daughter
+9: according investigation discussed sale child
+10: birth mother told mother sale price 10,000
+11: police say fleming agreed receive 9,000 sale planned buy new vehicle money
+12: infant currently custody florida department children families
+13: fleming bond set 50,000 bigbee put 100,000
+14: works held 50,000 bond
+
+=================================
+Gold summary:
+stephanie bigbee fleming 22 already incarcerated unrelated charges
+conspired mother sell infant police say
+baby remains custody florida department children families
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 8, 11, 5
+	Results: 
+		rouge-1: 0.1905
+		rouge-2: 0.0500
+		rouge-l: 0.1429
+		mean: 0.1278
+	Summary: 
+		contact said fdle spokesman keith kameg mother daughter
+		police say fleming agreed receive 9,000 sale planned buy new vehicle money
+		would-be buyer contacted authorities
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3810
+		rouge-2: 0.1500
+		rouge-l: 0.2381
+		mean: 0.2563
+	Summary: 
+		florida mother arrested alleged part attempting sell 8-week-old son police said tuesday
+		stephanie bigbee fleming 22 third person charged case
+		mother patty bigbee 45 mother boyfriend lawrence works 42 arrested charged last week
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 3, 12
+	Results: 
+		rouge-1: 0.6667
+		rouge-2: 0.5000
+		rouge-l: 0.6667
+		mean: 0.6111
+	Summary: 
+		stephanie bigbee fleming 22 third person charged case
+		fleming already incarcerated unrelated charges
+		infant currently custody florida department children families
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3810
+		rouge-2: 0.1500
+		rouge-l: 0.2381
+		mean: 0.2563
+	Summary: 
+		florida mother arrested alleged part attempting sell 8-week-old son police said tuesday
+		stephanie bigbee fleming 22 third person charged case
+		mother patty bigbee 45 mother boyfriend lawrence works 42 arrested charged last week

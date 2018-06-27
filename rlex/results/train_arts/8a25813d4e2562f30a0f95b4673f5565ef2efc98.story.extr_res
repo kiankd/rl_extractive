@@ -1,0 +1,102 @@
+DOCUMENT:
+0: editor note join roland s. martin weekly sound-off segment cnn.com live 11:10 a.m. wednesday
+1: passionate politics wants hear
+2: nationally syndicated columnist chicago-based radio host author listening spirit within 50 perspectives faith speak brother
+3: black man view america
+4: please visit web site
+5: roland martin says americans need rise issues race age gender vote
+6: cnn one intriguing conversations either democratic republican convention white labor leader ohio
+7: ca remember name made clear going around rust belt state looking white union brothers sisters eye essentially shaming supporting sen. barack obama president
+8: saying vote black man president black
+9: said telling shameful democrats agree various political issues skin color refusing cast ballots
+10: gone black brothers sisters years support -lsb- white -rsb- candidates wrong us stand support one even though democrats barked
+11: nothing in-your-face hear someone speak truthfully inherent racism play election
+12: talk inclusion historic nature campaign true tribal feelings many people come play whether want admit
+13: seeing remarkable bias playing strongly election
+14: exit-polling data primaries showed evidence bias came age race gender great concern whether people honest talking pollsters voting booth
+15: sen. john mccain 72 would oldest person sworn president lot dialogue old white guy wrong running
+16: age questions also raised 47-year-old black guy chicago whether young inexperienced lead
+17: lot talk excitement surrounding alaska gov. sarah palin named first woman republican ticket may mean terms widespread female support coming way mccain-palin voices refuse vote woman
+18: also seen number prominent women including washington post columnist sally quinn radio talk show host dr. laura schlessinger questioned whether 44-year-old white mother five children vice president considering five children including special needs child
+19: wonderful talk economy immigration war iraq health care education ca naïve reality voters go voting booth one person told interview vote tribe
+20: one arguments heard democratic primaries obama enjoyed overwhelming support african-americans tune 90-plus percent sen. hillary clinton major female support largely white range 65 70 percent
+21: comes tendency follow group identification
+22: stop dancing around topic
+23: watch tv hear folks talk wal-mart moms small rural towns talking white americans
+24: catch phrases never include african-americans hispanics
+25: confront bias
+26: ask friends neighbors co-workers church members voting
+27: give really ca put finger line press
+28: know real answer beat around bush
+29: best folks challenge americans hang-ups regarding age race gender aarp naacp
+30: give way raised mantra
+31: someone suggests flags faith show candidate one us drill
+32: accept fact people change
+33: think gifted degree sane logical arguments get folks biased stumps
+34: people wo give
+35: fine move
+36: goal rid society much bias possible
+37: someone hard-headed go next person try change
+38: critical honest possible impact race age gender campaigns
+39: lot people love toss around rev. martin luther king jr. quote hoped one day people would judged content character
+40: still reality skin tone gender birth date means character lot americans
+41: opinions expressed commentary solely writer
+
+=================================
+Gold summary:
+roland martin says people talk issues conceal biases
+martin race age gender issues affect support obama mccain palin
+americans need open tribal concerns influence says
+martin let stop dancing around topics race age gender
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 5, 27, 37
+	Results: 
+		rouge-1: 0.3333
+		rouge-2: 0.1613
+		rouge-l: 0.2353
+		mean: 0.2433
+	Summary: 
+		roland martin says americans need rise issues race age gender vote
+		give really ca put finger line press
+		someone hard-headed go next person try change
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.0741
+		rouge-2: 0.0000
+		rouge-l: 0.0588
+		mean: 0.0443
+	Summary: 
+		editor note join roland s. martin weekly sound-off segment cnn.com live 11:10 a.m. wednesday
+		passionate politics wants hear
+		nationally syndicated columnist chicago-based radio host author listening spirit within 50 perspectives faith speak brother
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 5, 17, 22
+	Results: 
+		rouge-1: 0.5556
+		rouge-2: 0.2258
+		rouge-l: 0.3235
+		mean: 0.3683
+	Summary: 
+		roland martin says americans need rise issues race age gender vote
+		lot talk excitement surrounding alaska gov. sarah palin named first woman republican ticket may mean terms widespread female support coming way mccain-palin voices refuse vote woman
+		stop dancing around topic
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.0741
+		rouge-2: 0.0000
+		rouge-l: 0.0588
+		mean: 0.0443
+	Summary: 
+		editor note join roland s. martin weekly sound-off segment cnn.com live 11:10 a.m. wednesday
+		passionate politics wants hear
+		nationally syndicated columnist chicago-based radio host author listening spirit within 50 perspectives faith speak brother

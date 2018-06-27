@@ -1,0 +1,76 @@
+DOCUMENT:
+0: 200 300 women children fleeing fighting south sudan drowned overloaded ferry overturned river south sudanese army spokesman said tuesday
+1: accident happened saturday white nile river near malakal northeast country said col. philip aguer sudan people liberation army
+2: aguer said aware two survivors crew members
+3: passengers civilians
+4: south sudan erupted violence december 15 rebels loyal ousted vice president riek machar tried stage coup
+5: since militia members loyal machar battled government forces
+6: talks begin hopes halting descent collapse
+7: representatives south sudan government rebels meeting talks ethiopian capital addis ababa cease-fire reached
+8: violence displaced 350,000 people according u.n. food agriculture organization sparked humanitarian crisis
+9: u.n. agency appealed monday 61 million help provide food assistance need
+10: even violence broke last month 4.4 million people expected face food insecurity year agency news release said
+11: many risk hunger
+12: essential security stability return south sudan immediately displaced people return homes fields herds fishing grounds said sue lautze u.n. agency representative south sudan
+13: timing everything fish rivers pastoralists trying protect herds planting season maize groundnut sorghum starts march
+14: south sudan seceded sudan 2011 decades war making world youngest nation
+15: cnn nana karikari-apau contributed report
+
+=================================
+Gold summary:
+army spokesman says hundreds drowned ferry accident fled fighting
+ferry carrying women children overturned river says
+south sudan erupted violence mid-december
+350,000 people displaced fighting says united nations
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 4, 14, 15
+	Results: 
+		rouge-1: 0.1667
+		rouge-2: 0.1111
+		rouge-l: 0.1429
+		mean: 0.1402
+	Summary: 
+		south sudan erupted violence december 15 rebels loyal ousted vice president riek machar tried stage coup
+		south sudan seceded sudan 2011 decades war making world youngest nation
+		cnn nana karikari-apau contributed report
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5417
+		rouge-2: 0.1481
+		rouge-l: 0.2500
+		mean: 0.3133
+	Summary: 
+		200 300 women children fleeing fighting south sudan drowned overloaded ferry overturned river south sudanese army spokesman said tuesday
+		accident happened saturday white nile river near malakal northeast country said col. philip aguer sudan people liberation army
+		aguer said aware two survivors crew members
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 4, 8
+	Results: 
+		rouge-1: 0.6667
+		rouge-2: 0.2593
+		rouge-l: 0.3571
+		mean: 0.4277
+	Summary: 
+		200 300 women children fleeing fighting south sudan drowned overloaded ferry overturned river south sudanese army spokesman said tuesday
+		south sudan erupted violence december 15 rebels loyal ousted vice president riek machar tried stage coup
+		violence displaced 350,000 people according u.n. food agriculture organization sparked humanitarian crisis
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 4
+	Results: 
+		rouge-1: 0.6250
+		rouge-2: 0.2222
+		rouge-l: 0.2857
+		mean: 0.3776
+	Summary: 
+		200 300 women children fleeing fighting south sudan drowned overloaded ferry overturned river south sudanese army spokesman said tuesday
+		accident happened saturday white nile river near malakal northeast country said col. philip aguer sudan people liberation army
+		south sudan erupted violence december 15 rebels loyal ousted vice president riek machar tried stage coup

@@ -1,0 +1,81 @@
+DOCUMENT:
+0: china maintain one-child policy least another decade country family planning minister said interview published monday
+1: nearly 200 million chinese enter child-bearing age next 10 years government says
+2: policy begun 1970s prohibits couples bearing one child
+3: nearly 200 million chinese enter child-bearing age next 10 years minister zhang weiqing told china daily newspaper
+4: said abandoning policy period would cause serious problems add extra pressure social economic development
+5: new birth peak ends may adjust policy need said
+6: china population stands 1.3 billion growing rate 0.6 percent expected peak around 1.6 billion 2050 according u.s. state department
+7: china communist party first implemented one-child rule three decades ago amid fears country would able feed skyrocketing population
+8: policy prevented 400 million births china daily said
+9: families living cities barred one child unless neither parents siblings
+10: rural areas law allows second child certain circumstances
+11: guidelines also looser ethnic minorities small population
+12: enforcement varies usually takes form fines discourage extra births
+13: policy helped curb population growth also led forced sterilizations parts country state department said
+14: traditional preference male heirs many chinese aborted female fetuses according human rights groups
+15: even within country growing calls recent years law overhauled china daily said
+16: chinese worry law led gender imbalance
+17: also worry china aging population
+18: 60 years age older expected make 200 million next seven years according government figures
+19: zhang said problems blamed solely one-child rule simplistic look single approach addressing
+20: e-mail friend
+
+=================================
+Gold summary:
+china keep one child policy least another decade minister says
+200 million chinese reach child-bearing age next 10 years
+china population growing rate 0.6 percent
+currently 1.3 billion expected peak around 1.6 billion 2050
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 1, 2, 6
+	Results: 
+		rouge-1: 0.7812
+		rouge-2: 0.5152
+		rouge-l: 0.5882
+		mean: 0.6282
+	Summary: 
+		nearly 200 million chinese enter child-bearing age next 10 years government says
+		policy begun 1970s prohibits couples bearing one child
+		china population stands 1.3 billion growing rate 0.6 percent expected peak around 1.6 billion 2050 according u.s. state department
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5312
+		rouge-2: 0.3030
+		rouge-l: 0.4118
+		mean: 0.4153
+	Summary: 
+		china maintain one-child policy least another decade country family planning minister said interview published monday
+		nearly 200 million chinese enter child-bearing age next 10 years government says
+		policy begun 1970s prohibits couples bearing one child
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 3, 6
+	Results: 
+		rouge-1: 0.8125
+		rouge-2: 0.5758
+		rouge-l: 0.7647
+		mean: 0.7177
+	Summary: 
+		china maintain one-child policy least another decade country family planning minister said interview published monday
+		nearly 200 million chinese enter child-bearing age next 10 years minister zhang weiqing told china daily newspaper
+		china population stands 1.3 billion growing rate 0.6 percent expected peak around 1.6 billion 2050 according u.s. state department
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5312
+		rouge-2: 0.3030
+		rouge-l: 0.4118
+		mean: 0.4153
+	Summary: 
+		china maintain one-child policy least another decade country family planning minister said interview published monday
+		nearly 200 million chinese enter child-bearing age next 10 years government says
+		policy begun 1970s prohibits couples bearing one child

@@ -1,0 +1,94 @@
+DOCUMENT:
+0: world population tripled since born 1938
+1: monday world population expected hit milestone 7 billion people 2.5 billion 1950 almost growth expected happen cities less developed countries
+2: means problems world faced child even urgent grandchildren
+3: fertility rates continue expected levels world population likely reach 10.1 billion next 90 years
+4: based conservative estimates number people world pass 8 billion 2023 9 billion 2041 10 billion point 2081
+5: take moment think
+6: 2100 could nearly 50 people planet beginning century competing food water space attention
+7: one best ways ensure 7 billionth child born live safe healthy sustainable world focus women want need
+8: researchers guttmacher institute found 215 million women worldwide want ability time space pregnancies access effective methods contraception
+9: women want able deliver children safely provide
+10: according world health organization developing countries pregnancy childbirth complications leading cause death among women reproductive years
+11: developed world one 4,300 women die consequence pregnancy
+12: number one 31 sub-saharan africa staggering one eight women dies giving birth afghanistan
+13: real tragedy fact one-third deaths could prevented women access voluntary family planning
+14: universal access voluntary family planning cross-cutting cost-effective solution achieving millennium development goals
+15: addition reducing maternal mortality providing voluntary family planning methods education enables young women avoid early pregnancy allows girls attend school longer makes possible women fewer healthier children helps break inter-generational cycle poverty
+16: additionally would reduce hiv transmission empower women pursue income-generating activities communities promote environmental sustainability
+17: focusing needs also smart investment
+18: better value money international family planning provides higher return investment almost type development assistance
+19: researchers guttmacher institute found providing quality reproductive health care modern contraceptives women want need reduces cost maternal newborn care dollar invested resulting net total savings 1.5 billion
+20: despite low cost many benefits voluntary family planning world leaders consistently made funding programs priority
+21: current economic climate forced congress take long hard look spending rightly make tough choices
+22: however far often debate needs women children first items heaped onto chopping block
+23: year budget discussion exception
+24: two disturbing shortsighted foreign aid budget cuts funding international family planning u.n. population fund
+25: fund agency focused assisting governments delivering quality sexual reproductive health care including voluntary family planning throughout life cycle women across globe want need
+26: one smartest investments ever made 1 billion gift united nations led creation united nations foundation
+27: united nations institution international scale reach capacity address today toughest challenges
+28: want ensure leave children grandchildren safe healthy world critical world leaders support u.n. vital work voluntary family planning reproductive health women across globe
+29: investments make today shape world leave next generation
+30: united states wants maintain global leadership role must thinking making smart investments help us address current future responsibilities
+31: best way listen women fund international family planning
+32: future depends
+33: opinions commentary solely ted turner
+
+=================================
+Gold summary:
+population tripled ted turner life growing exponentially
+turner must assure children born safe world food water
+women want access contraception families health babies says
+turner international family planning funds crucial cuts cost long run
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 0, 9, 22
+	Results: 
+		rouge-1: 0.2188
+		rouge-2: 0.0606
+		rouge-l: 0.1471
+		mean: 0.1421
+	Summary: 
+		world population tripled since born 1938
+		women want able deliver children safely provide
+		however far often debate needs women children first items heaped onto chopping block
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1250
+		rouge-2: 0.0303
+		rouge-l: 0.1176
+		mean: 0.0910
+	Summary: 
+		world population tripled since born 1938
+		monday world population expected hit milestone 7 billion people 2.5 billion 1950 almost growth expected happen cities less developed countries
+		means problems world faced child even urgent grandchildren
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 6, 28
+	Results: 
+		rouge-1: 0.4062
+		rouge-2: 0.0909
+		rouge-l: 0.2353
+		mean: 0.2442
+	Summary: 
+		world population tripled since born 1938
+		2100 could nearly 50 people planet beginning century competing food water space attention
+		want ensure leave children grandchildren safe healthy world critical world leaders support u.n. vital work voluntary family planning reproductive health women across globe
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 28
+	Results: 
+		rouge-1: 0.3438
+		rouge-2: 0.0606
+		rouge-l: 0.2059
+		mean: 0.2034
+	Summary: 
+		world population tripled since born 1938
+		monday world population expected hit milestone 7 billion people 2.5 billion 1950 almost growth expected happen cities less developed countries
+		want ensure leave children grandchildren safe healthy world critical world leaders support u.n. vital work voluntary family planning reproductive health women across globe

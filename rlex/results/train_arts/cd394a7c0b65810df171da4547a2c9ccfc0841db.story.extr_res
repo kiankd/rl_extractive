@@ -1,0 +1,79 @@
+DOCUMENT:
+0: veterans groups warning president barack obama going ahead possible administration move charge veterans private health care service-related injuries
+1: veterans groups say wholly unacceptable charge private insurance service injuries
+2: letter sent 11 prominent veterans organizations groups warned idea wholly unacceptable total abrogation government moral legal responsibility men women sacrificed much
+3: cnn obtained copy letter sent white house last friday groups including american legion disabled american veterans military order purple heart veterans foreign wars united states iraq afghanistan veterans america
+4: read letter pdf
+5: white house spokesman would neither confirm deny option considered
+6: details specific proposals transmitted full submission april
+7: president made clear meeting needs veterans one priorities result requested 11 percent increase discretionary funding 2010 administration actively working veterans community ensure get details budget right said white house spokesman nick shapiro
+8: letter groups said told sources capitol hill va idea consideration would allow department veterans affairs bill health insurance treatment disability injury result military service
+9: argument proposal frees money va charging private insurers allowing va spend services said joe violante legislative director disabled american veterans opposes idea
+10: could savings violante warned also could lead increase premiums veterans private coverage
+11: would agree proposal would expand concept heads 11 groups wrote letter
+12: understand fiscal difficulties country faces right placing burden fiscal problems men women already sacrificed great deal country unconscionable
+13: currently veterans private insurance charged receive health care va medical issues related service injuries like getting flu
+14: charging service-related injuries would violate sacred trust said veterans foreign wars spokesman joe davis
+15: davis said move would risk private health care veterans families potentially maxing benefits paying costly war injury treatments
+16: could also make harder veterans get private insurance companies decide reject pre-existing conditions rather billed service-connected injuries davis said
+17: seems like bad politics bad policy said iava policy director vanessa williamson noting every veterans group opposes warns adversely affect veterans
+18: see tenable option
+
+=================================
+Gold summary:
+possible change billing angers veterans groups
+white house would neither confirm deny option considered
+argument proposal would free money va
+spokesman charging service-related injuries would violate sacred trust
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 16, 2, 15
+	Results: 
+		rouge-1: 0.1538
+		rouge-2: 0.0000
+		rouge-l: 0.1071
+		mean: 0.0870
+	Summary: 
+		could also make harder veterans get private insurance companies decide reject pre-existing conditions rather billed service-connected injuries davis said
+		letter sent 11 prominent veterans organizations groups warned idea wholly unacceptable total abrogation government moral legal responsibility men women sacrificed much
+		davis said move would risk private health care veterans families potentially maxing benefits paying costly war injury treatments
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1923
+		rouge-2: 0.0741
+		rouge-l: 0.1429
+		mean: 0.1364
+	Summary: 
+		veterans groups warning president barack obama going ahead possible administration move charge veterans private health care service-related injuries
+		veterans groups say wholly unacceptable charge private insurance service injuries
+		letter sent 11 prominent veterans organizations groups warned idea wholly unacceptable total abrogation government moral legal responsibility men women sacrificed much
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 5, 9, 14
+	Results: 
+		rouge-1: 0.7692
+		rouge-2: 0.5556
+		rouge-l: 0.6786
+		mean: 0.6678
+	Summary: 
+		white house spokesman would neither confirm deny option considered
+		argument proposal frees money va charging private insurers allowing va spend services said joe violante legislative director disabled american veterans opposes idea
+		charging service-related injuries would violate sacred trust said veterans foreign wars spokesman joe davis
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1923
+		rouge-2: 0.0741
+		rouge-l: 0.1429
+		mean: 0.1364
+	Summary: 
+		veterans groups warning president barack obama going ahead possible administration move charge veterans private health care service-related injuries
+		veterans groups say wholly unacceptable charge private insurance service injuries
+		letter sent 11 prominent veterans organizations groups warned idea wholly unacceptable total abrogation government moral legal responsibility men women sacrificed much

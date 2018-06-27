@@ -1,0 +1,64 @@
+DOCUMENT:
+0: cnn security breaches involving firearms faa suspended program allows safety inspectors bypass transportation security administration screening checkpoints agency announced friday
+1: federal aviation administration inspector arrested january 13 tsa employees laguardia airport new york discovered firearm carry-on bag tsa said
+2: inspector used security identification display area badge skip tsa security checkpoints atlanta hartsfield-jackson airport tsa said
+3: sida clearance laguardia tsa said
+4: two men arrested last month smuggling 100 firearms atlanta airport new york authorities said
+5: one men airport employee skipped security checkpoints part smuggling operation authorities said
+
+=================================
+Gold summary:
+faa says safety inspectors allowed bypass tsa security checkpoints
+faa inspector arrested january 13 firearm carry-on bag tsa says
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 1, 2, 5
+	Results: 
+		rouge-1: 0.6250
+		rouge-2: 0.4444
+		rouge-l: 0.4211
+		mean: 0.4968
+	Summary: 
+		federal aviation administration inspector arrested january 13 tsa employees laguardia airport new york discovered firearm carry-on bag tsa said
+		inspector used security identification display area badge skip tsa security checkpoints atlanta hartsfield-jackson airport tsa said
+		one men airport employee skipped security checkpoints part smuggling operation authorities said
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.8750
+		rouge-2: 0.5000
+		rouge-l: 0.7368
+		mean: 0.7039
+	Summary: 
+		cnn security breaches involving firearms faa suspended program allows safety inspectors bypass transportation security administration screening checkpoints agency announced friday
+		federal aviation administration inspector arrested january 13 tsa employees laguardia airport new york discovered firearm carry-on bag tsa said
+		inspector used security identification display area badge skip tsa security checkpoints atlanta hartsfield-jackson airport tsa said
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.8750
+		rouge-2: 0.5000
+		rouge-l: 0.7368
+		mean: 0.7039
+	Summary: 
+		cnn security breaches involving firearms faa suspended program allows safety inspectors bypass transportation security administration screening checkpoints agency announced friday
+		federal aviation administration inspector arrested january 13 tsa employees laguardia airport new york discovered firearm carry-on bag tsa said
+		inspector used security identification display area badge skip tsa security checkpoints atlanta hartsfield-jackson airport tsa said
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.8750
+		rouge-2: 0.5000
+		rouge-l: 0.7368
+		mean: 0.7039
+	Summary: 
+		cnn security breaches involving firearms faa suspended program allows safety inspectors bypass transportation security administration screening checkpoints agency announced friday
+		federal aviation administration inspector arrested january 13 tsa employees laguardia airport new york discovered firearm carry-on bag tsa said
+		inspector used security identification display area badge skip tsa security checkpoints atlanta hartsfield-jackson airport tsa said

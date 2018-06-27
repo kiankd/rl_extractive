@@ -1,0 +1,83 @@
+DOCUMENT:
+0: americans back barack obama plan move u.s. troops iraq afghanistan new national poll indicates
+1: u.s. soldiers gather cross swords baghdad secure green zone earlier year
+2: fifty-five percent people questioned cnn/opinion research corporation survey released thursday back president-elect comes reducing number american combat troops iraq increasing number afghanistan
+3: reason simple said cnn polling director keating holland
+4: war iraq unpopular majority support war afghanistan
+5: sixty-three percent polled oppose war iraq 36 percent favor
+6: fifty-two percent favor war afghanistan 46 percent opposition
+7: addition roughly half public thinks u.s. winning iraq six 10 say america losing afghanistan adds holland
+8: forty-nine percent say u.s. winning war iraq equal amount saying u.s. winning 32 percent last year
+9: american public afghanistan good war going badly
+10: iraq bad war going fairly well cnn senior political analyst bill schneider said
+11: poll suggests americans believe president-elect remove combat troops iraq
+12: obama told reporters monday chicago still thinks 16 months right time frame removing u.s. combat troops country
+13: sixty-three percent questioned survey confident obama 36 percent confident
+14: vast majority americans 79 percent also appear confident obama improve foreign relations 74 percent confident improve economic conditions 68 percent optimistic obama keeping country safe terrorism
+15: wake recent attacks mumbai india concerns terrorism u.s. grown bit americans think terrorist attack likely next weeks said holland
+16: fact 36 percent say acts terrorism likely u.s. next several weeks slightly 30 percent felt way september last time question asked
+17: dispute india pakistan may next big flash point world affairs americans want country stay holland added
+18: eight 10 think u.s. side neither country 15 percent saying side india one percent wanting side pakistan
+19: sign obama enjoying honeymoon americans right 64 percent polled approve handled terrorist attack india
+20: 15 points higher president bush scored survey even though obama made clear crisis one american president time deferring bush came american response
+21: cnn/opinion research corporation poll conducted monday tuesday 1,096 adult americans questioned telephone
+22: survey sampling error plus minus 3 percentage points
+
+=================================
+Gold summary:
+new cnn/opinion research corp. poll released thursday
+poll 55 percent support obama plan withdraw troops iraq
+majority polled 52 percent favor war afghanistan
+79 percent confident obama improve foreign relations
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 8, 3, 5
+	Results: 
+		rouge-1: 0.1923
+		rouge-2: 0.0345
+		rouge-l: 0.1667
+		mean: 0.1312
+	Summary: 
+		forty-nine percent say u.s. winning war iraq equal amount saying u.s. winning 32 percent last year
+		reason simple said cnn polling director keating holland
+		sixty-three percent polled oppose war iraq 36 percent favor
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4615
+		rouge-2: 0.1379
+		rouge-l: 0.2667
+		mean: 0.2887
+	Summary: 
+		americans back barack obama plan move u.s. troops iraq afghanistan new national poll indicates
+		u.s. soldiers gather cross swords baghdad secure green zone earlier year
+		fifty-five percent people questioned cnn/opinion research corporation survey released thursday back president-elect comes reducing number american combat troops iraq increasing number afghanistan
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 2, 6, 14
+	Results: 
+		rouge-1: 0.6538
+		rouge-2: 0.4138
+		rouge-l: 0.5667
+		mean: 0.5448
+	Summary: 
+		fifty-five percent people questioned cnn/opinion research corporation survey released thursday back president-elect comes reducing number american combat troops iraq increasing number afghanistan
+		fifty-two percent favor war afghanistan 46 percent opposition
+		vast majority americans 79 percent also appear confident obama improve foreign relations 74 percent confident improve economic conditions 68 percent optimistic obama keeping country safe terrorism
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 2, 5
+	Results: 
+		rouge-1: 0.5769
+		rouge-2: 0.1724
+		rouge-l: 0.3333
+		mean: 0.3609
+	Summary: 
+		americans back barack obama plan move u.s. troops iraq afghanistan new national poll indicates
+		fifty-five percent people questioned cnn/opinion research corporation survey released thursday back president-elect comes reducing number american combat troops iraq increasing number afghanistan
+		sixty-three percent polled oppose war iraq 36 percent favor

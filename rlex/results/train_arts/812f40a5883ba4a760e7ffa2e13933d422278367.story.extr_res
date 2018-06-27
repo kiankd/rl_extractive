@@ -1,0 +1,110 @@
+DOCUMENT:
+0: empowered patient regular feature cnn medical news correspondent elizabeth cohen helps put driver seat comes health care
+1: studies shown acupuncture ease pain researchers sure exact mechanism
+2: atlanta georgia cnn dr. andrew weil sure exactly hurt knee knew painful
+3: instead turning cortisone shots heavy doses pain medication weil turned ancient chinese medicine practice acupuncture
+4: worked knee felt much better says weil
+5: americans spend billions dollars year alternative medicine everything chiropractic care hypnosis
+6: weil says alternative medicine work wonders acupuncture certain herbs guided imagery
+7: example dr. brian berman director center integrative medicine university maryland school medicine done series studies showing acupuncture benefits osteoarthritis knee
+8: extensive studies also done mind-body approaches guided imagery herbs including st. john wort
+9: hand also lot quackery weil says
+10: seen -lsb- including -rsb- products claim increase sexual vigor cure cancer allay financial anxiety
+11: know works comes alternative medicine
+12: decade ago many well-done independent studies herbs acupuncture massage hypnosis patients many facts guide
+13: 1999 eight academic medical centers including harvard duke stanford banded together purpose encouraging research education alternative medicine
+14: eight years later consortium academic health centers integrative medicine 38 member universities gathered evidence practices solid science behind
+15: experts five universities five alternative medicine practices among promising solid science behind
+16: acupuncture pain
+17: hands no. 1 recommendation panel experts
+18: also recommended acupuncture problems including nausea surgery chemotherapy
+19: calcium magnesium vitamin b6 pms
+20: pre-menstrual syndrome rears ugly head gynecologist dr. tracy gaudet encourages patients take dietary supplements
+21: huge impact moodiness bloating heavy periods says gaudet executive director duke integrative medicine duke university medical school
+22: st. john wort depression
+23: studies bit mixed one panel experts agreed herb thought rid body evil spirits definitely promising
+24: worth try mild moderate depression says weil founder director program integrative medicine university arizona
+25: remember take six eight weeks see effect
+26: remember st. john wort interfere medicines university maryland medical center list
+27: guided imagery pain anxiety
+28: go happy place become cliché experts say really works
+29: technique course complicated
+30: guided imagery invite relax focus breathing transport mentally different place says mary jo kreitzer ph.d. r.n. founder director center spirituality healing university minnesota
+31: guided imagery demo university minnesota web site
+32: glucosamine joint pain
+33: safe looks like effective says dr. frederick hecht director research osher center integrative medicine university california san francisco
+34: may first thing actually reverses cartilage loss osteoarthritis
+35: experts warn since alternative medicine financially lucrative lot charlatans gotten business
+36: tips savvy shopper
+37: look usp nsf labels
+38: biggest mistake people make get good product says dr. mary hardy medical director sims/mann-ucla center integrative oncology
+39: says stamp approval united states pharmacopoeia nsf international two groups independent verification programs means label product
+40: find good practitioner
+41: make sure alternative medicine practitioner going actually trained practice alternative medicine
+42: one place start consortium academic health centers integrative medicine
+43: wary crazy claims
+44: anything sounds good true probably says weil
+45: start journey alternative medicine piece advice take slow
+46: alternative medicine works sometimes quickly taking drug
+47: tell people going take says hardy
+48: tell six eight-week trial even 12 weeks
+49: e-mail friend
+50: elizabeth cohen correspondent cnn medical news
+
+=================================
+Gold summary:
+number alternative medical practices solid science behind
+acupuncture highly recommended pain nausea
+research mixed st. john wort viewed worth try depression
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 24, 2, 30
+	Results: 
+		rouge-1: 0.1429
+		rouge-2: 0.0500
+		rouge-l: 0.1429
+		mean: 0.1119
+	Summary: 
+		worth try mild moderate depression says weil founder director program integrative medicine university arizona
+		atlanta georgia cnn dr. andrew weil sure exactly hurt knee knew painful
+		guided imagery invite relax focus breathing transport mentally different place says mary jo kreitzer ph.d. r.n. founder director center spirituality healing university minnesota
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1429
+		rouge-2: 0.0000
+		rouge-l: 0.1429
+		mean: 0.0952
+	Summary: 
+		empowered patient regular feature cnn medical news correspondent elizabeth cohen helps put driver seat comes health care
+		studies shown acupuncture ease pain researchers sure exact mechanism
+		atlanta georgia cnn dr. andrew weil sure exactly hurt knee knew painful
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 15, 22, 24
+	Results: 
+		rouge-1: 0.5238
+		rouge-2: 0.2500
+		rouge-l: 0.5238
+		mean: 0.4325
+	Summary: 
+		experts five universities five alternative medicine practices among promising solid science behind
+		st. john wort depression
+		worth try mild moderate depression says weil founder director program integrative medicine university arizona
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 7
+	Results: 
+		rouge-1: 0.1429
+		rouge-2: 0.0000
+		rouge-l: 0.1429
+		mean: 0.0952
+	Summary: 
+		empowered patient regular feature cnn medical news correspondent elizabeth cohen helps put driver seat comes health care
+		studies shown acupuncture ease pain researchers sure exact mechanism
+		example dr. brian berman director center integrative medicine university maryland school medicine done series studies showing acupuncture benefits osteoarthritis knee

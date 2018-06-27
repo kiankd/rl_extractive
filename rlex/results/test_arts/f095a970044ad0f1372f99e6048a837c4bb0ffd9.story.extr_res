@@ -1,0 +1,71 @@
+DOCUMENT:
+0: weeks racial protests across country president barack obama taking time deliver encouraging words future race relations america network reaches predominately young african-american audience
+1: told young people met going conversations coming months something going solved overnight obama says interview bet air monday
+2: something deeply rooted society
+3: deeply rooted history
+4: criticized shying away topic race early presidency obama recently forced lead discussion issue
+5: interview president says african-american youth need persistent patient order make progress issue racial tensions america
+6: important recognize painful incidents ca equate happening happened fifty years ago president said interview
+7: talk parents grandparents uncles tell things better good cases better
+8: reason important us understand progress made gives us hope make even progress said
+9: president also urged persistence effort solve racial tensions reminding audience typically progress occurs steps increments
+10: know dealing something deeply rooted racism bias society got vigilance recognize going take time steady give get way said
+11: light two recent back-to-back grand jury decisions indict white police officers deaths unarmed black men president vowed take action
+12: obama announced last week outgoing attorney general eric holder going let effort ease racial tensions exists law enforcement officers minorities communities nationwide
+
+=================================
+Gold summary:
+president obama tells bet racial tension something going solved overnight
+obama times reluctant lead national conversation race
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 11, 6, 7
+	Results: 
+		rouge-1: 0.0625
+		rouge-2: 0.0000
+		rouge-l: 0.0588
+		mean: 0.0404
+	Summary: 
+		light two recent back-to-back grand jury decisions indict white police officers deaths unarmed black men president vowed take action
+		important recognize painful incidents ca equate happening happened fifty years ago president said interview
+		talk parents grandparents uncles tell things better good cases better
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5625
+		rouge-2: 0.2500
+		rouge-l: 0.4118
+		mean: 0.4081
+	Summary: 
+		weeks racial protests across country president barack obama taking time deliver encouraging words future race relations america network reaches predominately young african-american audience
+		told young people met going conversations coming months something going solved overnight obama says interview bet air monday
+		something deeply rooted society
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 1, 4
+	Results: 
+		rouge-1: 0.6250
+		rouge-2: 0.2500
+		rouge-l: 0.4706
+		mean: 0.4485
+	Summary: 
+		weeks racial protests across country president barack obama taking time deliver encouraging words future race relations america network reaches predominately young african-american audience
+		told young people met going conversations coming months something going solved overnight obama says interview bet air monday
+		criticized shying away topic race early presidency obama recently forced lead discussion issue
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5625
+		rouge-2: 0.2500
+		rouge-l: 0.4118
+		mean: 0.4081
+	Summary: 
+		weeks racial protests across country president barack obama taking time deliver encouraging words future race relations america network reaches predominately young african-american audience
+		told young people met going conversations coming months something going solved overnight obama says interview bet air monday
+		something deeply rooted society

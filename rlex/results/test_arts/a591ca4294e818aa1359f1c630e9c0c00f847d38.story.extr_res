@@ -1,0 +1,87 @@
+DOCUMENT:
+0: anything still happen quake-stricken fukushima daiichi nuclear power plant japan experts hopeful situation stabilize
+1: best-case scenario electrical power cooling would restored six units plant said tom kauffman spokesman nuclear energy institute policy organization nuclear energy technologies industry washington
+2: restoring electric power essential stabilizing plant said michael golay professor nuclear science engineering massachusetts institute technology
+3: power would ensure water provided cover fuel
+4: workers hope install crucial panel annex building severely affected last friday post-earthquake tsunami new power supply system finished friday morning official tokyo power company said friday morning
+5: improvised power system using 1.5 kilometers total cable expected provide electricity power cooling systems nos. 1 2 reactors plant
+6: also engineers got emergency diesel generator unit 6 running supplying power units 5 6 japan nuclear industrial safety agency said friday
+7: water injection spent fuel pool continuing
+8: obviously hoping bring various cooling problems control near future said ian hutchinson professor nuclear science engineering massachusetts institute technology
+9: fuel rods submerged water large releases radioactive materials come end hutchinson said
+10: cooling water restored spent fuel pools reactor cooling flooding maintained expectations stabilization situation major reduction radiation emissions said
+11: able say got control hutchinson said
+12: control week two things may stabilize
+13: whole cleanup would take matter months even years hutchinson said
+14: site wo usable said gary professor department materials science engineering university michigan
+15: even best case scenario melted fuel reactor going usable said
+16: real concern after-heat arising fuel rods need water cooling hutchinson said
+17: unless much bigger releases contaminations near site people may one day able safely get closer fukushima daiichi current established evacuation zones golay said
+18: united states government instructed americans stay 50 miles plant japanese citizens evacuation zone 12 miles
+19: fact differing policies mean u.s. thinks dangerous golay said
+20: simply u.s. position help citizens japan said
+21: situation fukushima daiichi worse three mile island pennsylvania plant suffered partial core meltdown one reactors 1979 golay said
+22: fukushima daiichi radioactive material involved less contained said
+23: chernobyl disaster world worst nuclear power plant accident occurred 1986 facility sealed large concrete sarcophagus
+24: hard say whether need happen fukushima daiichi experts say
+25: depends extent contamination unknown said
+26: sealing three mile island also discussed time disaster kauffman said instead reactor cleaned damaged fuel core debris shipped off-site put storage
+27: still wait-and-see mode kauffman said
+
+=================================
+Gold summary:
+experts restoring electric power essential stabilizing fukushima daiichi
+work ongoing establish new power supply system says tepco
+unknown whether plant need sealed chernobyl
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 8, 4, 23
+	Results: 
+		rouge-1: 0.3182
+		rouge-2: 0.1364
+		rouge-l: 0.2609
+		mean: 0.2385
+	Summary: 
+		obviously hoping bring various cooling problems control near future said ian hutchinson professor nuclear science engineering massachusetts institute technology
+		workers hope install crucial panel annex building severely affected last friday post-earthquake tsunami new power supply system finished friday morning official tokyo power company said friday morning
+		chernobyl disaster world worst nuclear power plant accident occurred 1986 facility sealed large concrete sarcophagus
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4091
+		rouge-2: 0.2273
+		rouge-l: 0.3043
+		mean: 0.3136
+	Summary: 
+		anything still happen quake-stricken fukushima daiichi nuclear power plant japan experts hopeful situation stabilize
+		best-case scenario electrical power cooling would restored six units plant said tom kauffman spokesman nuclear energy institute policy organization nuclear energy technologies industry washington
+		restoring electric power essential stabilizing plant said michael golay professor nuclear science engineering massachusetts institute technology
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 2, 4, 24
+	Results: 
+		rouge-1: 0.6364
+		rouge-2: 0.3636
+		rouge-l: 0.4783
+		mean: 0.4928
+	Summary: 
+		restoring electric power essential stabilizing plant said michael golay professor nuclear science engineering massachusetts institute technology
+		workers hope install crucial panel annex building severely affected last friday post-earthquake tsunami new power supply system finished friday morning official tokyo power company said friday morning
+		hard say whether need happen fukushima daiichi experts say
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4091
+		rouge-2: 0.2273
+		rouge-l: 0.3043
+		mean: 0.3136
+	Summary: 
+		anything still happen quake-stricken fukushima daiichi nuclear power plant japan experts hopeful situation stabilize
+		best-case scenario electrical power cooling would restored six units plant said tom kauffman spokesman nuclear energy institute policy organization nuclear energy technologies industry washington
+		restoring electric power essential stabilizing plant said michael golay professor nuclear science engineering massachusetts institute technology

@@ -1,0 +1,109 @@
+DOCUMENT:
+0: u.s. coast guard jamaica defence force suspended searches sunday signs prominent new york couple whose plane crashed caribbean sea north jamaica
+1: coast guard suspends search rescue case extremely great care deliberation capt. todd m. coggeshall chief response management coast guard said news release
+2: search area saturated several times maximum number assets resources crew effort persons distress still located decision made suspend case
+3: jamaica suspended search bad weather said capt. basil jarett jamaica defence force
+4: coast guard said c-130 aircraft located several small objects water
+5: crew used smoke flares two data marker buoys mark location coast guard jamaican defense force boat crews coast guard said none searchers could relocate objects saturday
+6: jamaica said one military search team spotted objects
+7: single-engine tbm-900 aircraft owned estate developer larry glazer wife jane crashed caribbean hours pilot told air traffic controller something wrong flew south eastern united states
+8: couple went plane helped reshape city
+9: plane radio silent hours pilot call prompting u.s. cuban military jets trail small private plane
+10: north american aerospace defense command said aboard might suffered hypoxia sets oxygen lacking
+11: conflicting reports many people plane u.s. coast guard indicating three
+12: relatives said couple two people board headed rochester new york vacation home naples florida
+13: aboard unresponsive four hours drifting southward u.s. mainland atlantic ocean eventually caribbean
+14: plane crash happened
+15: pilot seen slumped
+16: u.s. fighter jet pilots said looked aircraft saw pilot slumped windows frosted
+17: plane radio communication ended 10 a.m. et friday federal aviation administration said
+18: time statesville north carolina 600 miles south rochester airport left around 8:45 a.m.
+19: pilot asked descend 18,000 feet indication correct plane according stream transmission posted liveatc.net provides live air traffic control broadcasts
+20: air traffic controller told pilot stand proceed 25,000 feet worked clearing plane go lower
+21: conversation continued four minutes though largely one-sided pilot clear remarks declare sort emergency
+22: one point simply repeated call sign twice controller asked heard request drop 20,000 feet
+23: data indicate plane descend
+24: cruised hours 25,000 feet ground
+25: private plane dropped radar 2:11 p.m. according flight tracking site flightaware.com
+26: estimates suggested fuel would run 2:15 p.m.
+27: crashed 14 miles jamaica northeast coast
+28: fate couple unknown
+29: jamaica united states swiftly dispatched government aircraft scene
+30: jamaican authorities said found oil slick prime search area
+31: coast guard said search crews completed 12 search patterns covering 3,750 square miles 70 hours
+32: searched glazer family rochester mourned
+33: couple three children
+34: children said statement devastated tragic sudden loss parents
+35: said waiting answers
+36: larry glazer co-founded buckingham properties 1970 graduating columbia university
+37: company owns manages 50 properties greater rochester area according official bio
+38: tbm-900 plane owned company
+39: jane glazer founded qci direct 100-employee company outlet store according website
+40: glazers knew fly
+41: u.s. cuban fighter jets trail aircraft
+42: government stepped plane lost communications air traffic control
+43: norad dispatched two f-16 fighter jets base richland county south carolina
+44: another pair fighter jets homestead florida took around 11:30 a.m. escorted plane past u.s. mainland
+45: american fighter jets broke pursuit 12 miles cuba point cuban fighter jet took
+46: despite longstanding tensions two countries cuba cooperated united states consider plane movement violation airspace
+47: cuba let u.s. coast guard aircraft go airspace gave permission american military aircraft necessary according official statement
+48: cnn claudia dominguez chelsea j. carter aaron cooper john newsome margot haddad mike m. ahlers patrick oppmann ray sanchez rande iaboni deanna hackney contributed report
+
+=================================
+Gold summary:
+new u.s. coast guard jamaica suspend search sunday
+radio single-engine aircraft went silent friday morning
+united states cuba dispatched fighter jets trail plane
+couple aboard flying new york florida vacation
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 36, 29, 46
+	Results: 
+		rouge-1: 0.2414
+		rouge-2: 0.0345
+		rouge-l: 0.1667
+		mean: 0.1475
+	Summary: 
+		larry glazer co-founded buckingham properties 1970 graduating columbia university
+		jamaica united states swiftly dispatched government aircraft scene
+		despite longstanding tensions two countries cuba cooperated united states consider plane movement violation airspace
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3793
+		rouge-2: 0.1379
+		rouge-l: 0.2333
+		mean: 0.2502
+	Summary: 
+		u.s. coast guard jamaica defence force suspended searches sunday signs prominent new york couple whose plane crashed caribbean sea north jamaica
+		coast guard suspends search rescue case extremely great care deliberation capt. todd m. coggeshall chief response management coast guard said news release
+		search area saturated several times maximum number assets resources crew effort persons distress still located decision made suspend case
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 7, 9
+	Results: 
+		rouge-1: 0.5862
+		rouge-2: 0.2069
+		rouge-l: 0.4000
+		mean: 0.3977
+	Summary: 
+		u.s. coast guard jamaica defence force suspended searches sunday signs prominent new york couple whose plane crashed caribbean sea north jamaica
+		single-engine tbm-900 aircraft owned estate developer larry glazer wife jane crashed caribbean hours pilot told air traffic controller something wrong flew south eastern united states
+		plane radio silent hours pilot call prompting u.s. cuban military jets trail small private plane
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 38
+	Results: 
+		rouge-1: 0.3448
+		rouge-2: 0.1379
+		rouge-l: 0.2333
+		mean: 0.2387
+	Summary: 
+		u.s. coast guard jamaica defence force suspended searches sunday signs prominent new york couple whose plane crashed caribbean sea north jamaica
+		coast guard suspends search rescue case extremely great care deliberation capt. todd m. coggeshall chief response management coast guard said news release
+		tbm-900 plane owned company

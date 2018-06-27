@@ -1,0 +1,123 @@
+DOCUMENT:
+0: joaquin el chapo guzman assault rifle handy authorities raided beachside hideaway weekend world wanted drug lord never opened fire
+1: marines used infrared body-heat scanners pinpoint locations everyone inside condo make sure asleep mexican official told cnn
+2: saturday pre-dawn operation captured guzman mexican pacific resort town mazatlan marked dramatic twist case long captivated country frustrated investigators sides u.s.-mexico border
+3: notorious sinaloa cartel leader nickname means shorty belies tall near-mythic status guzman achieved recent years ability elude capture using bribes safe houses army cartel helpers
+4: 13 years lam ended saturday inside no-frills condo tower investigators found guzman lying shirtless next beauty-queen wife
+5: mexican official asked identified authorized speak publicly case said guzman body guard drug lord 2-year-old twin daughters also sleeping condo
+6: ak-47 next bed
+7: mexican marines entered condominium still asleep said michael vigil former drug enforcement administration official says briefed raid
+8: used element surprise chance react seize weapon
+9: escape sewer tunnels
+10: guzman assault rifle ammunition close mexican marines broke apartment surgical operation mexican official said
+11: authorities closing guzman months mexican marines swooped mexican attorney general jesus murillo karam told reporters
+12: earlier police operations yielded trove intelligence including cell phone data u.s. law enforcement official said
+13: helped mexican authorities u.s. drug enforcement administration agents hunting guzman gain confidence recent weeks could arrest
+14: guzman capture mexican federal forces made several significant arrests sinaloa cartel associates including two people authorities said suspected providing security top leaders cartel
+15: key discovery earlier month marked turning point investigation seven houses mexican city culiacan connected secret tunnels also tied city sewage system
+16: mario hidalgo arguello courier flipped questioning mexican authorities told interrogators series safe houses according u.s. officials familiar hunt guzman
+17: authorities raided one last week turned guzman main residence town culiacan
+18: time took mexican marines get past house reinforced steel doors enough allow guzman escape via hidden hatch bathtub officials said
+19: investigation thorough continued murillo said
+20: authorities temporarily trail guzman slipped culiacan sewer tunnels mexican official told cnn
+21: eventually made way mazatlan beach resort city 125 miles 200 km away
+22: informants wiretaps
+23: months authorities nabbed u.s. authorities made major break case
+24: november arrested serafin zambada-ortiz nogales arizona border crossing
+25: son guzman closest lieutenant ismael el mayo zambada likely sinaloa chief heir apparent
+26: arrests intensified recent months providing phones led trove new data helped map associates ever-closer touch guzman u.s. officials familiar hunt said
+27: agents dea immigration customs enforcement u.s. marshals service fed intelligence gleaned wiretaps informants mexican authorities years
+28: cell phone led dozens others time
+29: went phone phone basic law enforcement one u.s. officials said
+30: recent months investigators focused five wiretaps four operated dea one ice yielded valuable intelligence officials said
+31: hunt intensified guzman lieutenants stopped using certain phones apparently aware surveillance
+32: final days ice wiretap one still producing activity officials said
+33: captured alongside guzman carlos manuel hoo-ramirez u.s. authorities say appeared serve el chapo communications conduit
+34: carried multiple phones proved crucial finding drug boss officials said
+35: hunt marked rumors close calls
+36: ever since escape laundry cart mexico puente grande prison 2001 hunt guzman grabbed headlines
+37: drug lord nearly 13 years lam rumors swirled whereabouts
+38: time time investigators suggested hot trail
+39: even mexico stepped pressure cartels remained elusive target
+40: many country suggested whereabouts open secret government must deliberately steering clear capturing
+41: 2009 archbishop mexico durango state told reporters guzman lived near mountain town guanacevi
+42: everyone knows except authorities said
+43: days later investigators found bodies two slain army lieutenants durango mountains accompanied note neither government priests handle el chapo
+44: year later asked reporters guzman whereabouts archbishop said omnipresent
+45: 2012 mexican official told associated press authorities nearly caught guzman raid beach mansion cabo san lucas mexico barely day hillary clinton met foreign ministers across hemisphere resort town
+46: last year guatemalan authorities said man resembled guzman died peten guatemala shootout
+47: later changed story said guzman killed shootout may never even happened
+48: family still spotlight
+49: guzman managed avoid authorities attention wrath rivals media glare members family lucky
+50: authorities arrested guzman brother known el pollo chicken mexico city september 2001
+51: three years later shot death fellow inmate maximum-security prison
+52: legend el chapo guzman also arrested mexico capital according account malcolm beith book last narco inside hunt el chapo world wanted drug lord
+53: police station lifted suitcase put desk capital chief police beith writes
+54: inside 50,000 cash within minutes chapo door
+55: members rival cartel gunned edgar beltran guzman one el chapo sons mexican shopping mall parking lot 2008
+56: police found 500 bullet casings scene
+57: last year authorities arrested guzman father-in-law sonora mexico charging drug-related crimes
+58: focus guzman family tied organized crime
+59: september 2011 word eked guzman beauty-queen wife emma coronel citizen united states mexico given birth twin girls hospital lancaster california
+60: year later authorities arrested alejandrina gisselle guzman salazar one el chapo daughters border crossing san ysidro california
+61: deported back mexico several months later
+62: attorneys said pregnant coming united states baby
+
+=================================
+Gold summary:
+raid joaquin el chapo guzman ak-47 next bed
+sinaloa cartel boss captured decade run
+official investigators used infrared scanners pinpoint guzman location
+wiretaps informants helped authorities close
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 18, 54, 23
+	Results: 
+		rouge-1: 0.1154
+		rouge-2: 0.0000
+		rouge-l: 0.0741
+		mean: 0.0632
+	Summary: 
+		time took mexican marines get past house reinforced steel doors enough allow guzman escape via hidden hatch bathtub officials said
+		inside 50,000 cash within minutes chapo door
+		months authorities nabbed u.s. authorities made major break case
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4615
+		rouge-2: 0.1923
+		rouge-l: 0.3333
+		mean: 0.3291
+	Summary: 
+		joaquin el chapo guzman assault rifle handy authorities raided beachside hideaway weekend world wanted drug lord never opened fire
+		marines used infrared body-heat scanners pinpoint locations everyone inside condo make sure asleep mexican official told cnn
+		saturday pre-dawn operation captured guzman mexican pacific resort town mazatlan marked dramatic twist case long captivated country frustrated investigators sides u.s.-mexico border
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 1, 27
+	Results: 
+		rouge-1: 0.4615
+		rouge-2: 0.2308
+		rouge-l: 0.4074
+		mean: 0.3666
+	Summary: 
+		joaquin el chapo guzman assault rifle handy authorities raided beachside hideaway weekend world wanted drug lord never opened fire
+		marines used infrared body-heat scanners pinpoint locations everyone inside condo make sure asleep mexican official told cnn
+		agents dea immigration customs enforcement u.s. marshals service fed intelligence gleaned wiretaps informants mexican authorities years
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4615
+		rouge-2: 0.1923
+		rouge-l: 0.3333
+		mean: 0.3291
+	Summary: 
+		joaquin el chapo guzman assault rifle handy authorities raided beachside hideaway weekend world wanted drug lord never opened fire
+		marines used infrared body-heat scanners pinpoint locations everyone inside condo make sure asleep mexican official told cnn
+		saturday pre-dawn operation captured guzman mexican pacific resort town mazatlan marked dramatic twist case long captivated country frustrated investigators sides u.s.-mexico border

@@ -1,0 +1,75 @@
+DOCUMENT:
+0: washington cnn former florida gov. jeb bush said sunday release 250,000 emails two terms office write ebook outlining governing philosophy
+1: moves set political sphere atwitter speculation closer ever deciding run president 2016
+2: appears move classic political procedure getting ahead opposition bush told wplg-tv intention promote transparency
+3: part serving running transparency said
+4: let people make minds
+5: evidence presidential run might looming report miami herald bush recently lost 15 pounds per unnamed source
+6: bush also admitted kind fun go back look back previous campaigns remind possible move needle run big ideas
+7: need right america said brother former president george w. bush son former president george h.w. bush
+8: controlling release emails writing book accompany bush opportunity frame potential controversial subjects like support common core education policy immigration reform
+9: well aware holds positions step conservative wing party bush admits
+10: ebook noteworthy bush run office since 2002 invention iphone
+11: release digital product might serve flag former governor prepared build modernized digital campaign
+12: digital digital cool guess bushed joked emailing
+13: book comes bush finances including overseas investment work venture capital firms come scrutiny
+14: released emails could cast light already controversial narrative beginning form likely serve timely distraction
+15: bush says going make mind running short order plans release emails sometime early next year
+
+=================================
+Gold summary:
+jeb bush said sunday release 250,000 emails time florida governor
+also publish ebook along emails outlining governing philosophy
+announcements fueled speculation run president 2016
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 8, 2, 7
+	Results: 
+		rouge-1: 0.2174
+		rouge-2: 0.0000
+		rouge-l: 0.1250
+		mean: 0.1141
+	Summary: 
+		controlling release emails writing book accompany bush opportunity frame potential controversial subjects like support common core education policy immigration reform
+		appears move classic political procedure getting ahead opposition bush told wplg-tv intention promote transparency
+		need right america said brother former president george w. bush son former president george h.w. bush
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.6957
+		rouge-2: 0.4348
+		rouge-l: 0.6250
+		mean: 0.5851
+	Summary: 
+		washington cnn former florida gov. jeb bush said sunday release 250,000 emails two terms office write ebook outlining governing philosophy
+		moves set political sphere atwitter speculation closer ever deciding run president 2016
+		appears move classic political procedure getting ahead opposition bush told wplg-tv intention promote transparency
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 1, 11
+	Results: 
+		rouge-1: 0.7391
+		rouge-2: 0.4348
+		rouge-l: 0.6250
+		mean: 0.5996
+	Summary: 
+		washington cnn former florida gov. jeb bush said sunday release 250,000 emails two terms office write ebook outlining governing philosophy
+		moves set political sphere atwitter speculation closer ever deciding run president 2016
+		release digital product might serve flag former governor prepared build modernized digital campaign
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.6957
+		rouge-2: 0.4348
+		rouge-l: 0.6250
+		mean: 0.5851
+	Summary: 
+		washington cnn former florida gov. jeb bush said sunday release 250,000 emails two terms office write ebook outlining governing philosophy
+		moves set political sphere atwitter speculation closer ever deciding run president 2016
+		appears move classic political procedure getting ahead opposition bush told wplg-tv intention promote transparency

@@ -1,0 +1,94 @@
+DOCUMENT:
+0: president barack obama national security adviser said friday full-throated praise army sgt. bowe bergdahl appropriate given former taliban prisoner willingness go war country despite questions whether deserted army colleagues
+1: susan rice sunday said bergdahl served united states honor distinction told cnn interview speaking fact idaho native enlisted went afghanistan service country
+2: realize lots discussion controversy around rice said
+3: referring fact young man volunteered serve country uniform time war
+4: honorable thing
+5: obama administration come fire decision trade five taliban prisoners previously held guantanamo bay bergdahl held nearly five years
+6: soldiers served bergdahl claimed deserted post afghanistan
+7: army-led investigation conducted months bergdahl disappeared 2009 found left outpost deliberately free according military official briefed report
+8: rice syria aid
+9: definitive finding bergdahl deserted would require knowing intent something army officials could without talking soldier
+10: military said investigating matter
+11: rice said friday essential military hear bergdahl side story coming conclusions prompted capture taliban
+12: six soldiers center bergdahl debate
+13: young man whose circumstances still going learn said
+14: americans innocent proven guilty
+15: tried court public opinion gone enormously traumatic five years captivity
+16: military finds reason believe bergdahl deserted army comrades consequences delivered rice said
+17: meantime let remember young man volunteered serve country
+18: taken prisoner war
+19: suffered captivity continued
+20: trying begin process recovery
+21: let let happen
+22: let know facts including side story make judgment
+23: rice comments last weekend first time prompted criticism appearance one washington sunday talk shows
+24: september 2012 appeared several programs following attack american diplomatic post benghazi libya asserted incident prompted spontaneous protest anti-muslim video made united states
+25: administration later acknowledged attack terrorist assault u.s. compound
+26: susan rice talking points become political flashpoint spurring congressional investigations administration explanations potentially major headache former secretary state hillary clinton runs president 2016
+27: rice said simply providing best information administration time friday contended information provided day turned inaccurate mean willfully misleading americans
+28: upfront american people always best behalf country best tell facts know said
+29: case benghazi rice said provided best information u.s. government time
+30: parts turned wrong said
+31: regret information provided wrong delivered american people
+32: make liar
+33: makes public servant trying say knew time
+
+=================================
+Gold summary:
+cnn conducts interview national security adviser susan rice
+bowe berghdahl tried court public opinion rice says
+rice says never intentionally misled public benghazi bergdahl
+regrets information provided benghazi wrong
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 11, 29, 30
+	Results: 
+		rouge-1: 0.2500
+		rouge-2: 0.0000
+		rouge-l: 0.1379
+		mean: 0.1293
+	Summary: 
+		rice said friday essential military hear bergdahl side story coming conclusions prompted capture taliban
+		case benghazi rice said provided best information u.s. government time
+		parts turned wrong said
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3750
+		rouge-2: 0.1111
+		rouge-l: 0.2069
+		mean: 0.2310
+	Summary: 
+		president barack obama national security adviser said friday full-throated praise army sgt. bowe bergdahl appropriate given former taliban prisoner willingness go war country despite questions whether deserted army colleagues
+		susan rice sunday said bergdahl served united states honor distinction told cnn interview speaking fact idaho native enlisted went afghanistan service country
+		realize lots discussion controversy around rice said
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 15, 31
+	Results: 
+		rouge-1: 0.5000
+		rouge-2: 0.2222
+		rouge-l: 0.3793
+		mean: 0.3672
+	Summary: 
+		president barack obama national security adviser said friday full-throated praise army sgt. bowe bergdahl appropriate given former taliban prisoner willingness go war country despite questions whether deserted army colleagues
+		tried court public opinion gone enormously traumatic five years captivity
+		regret information provided wrong delivered american people
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3750
+		rouge-2: 0.1111
+		rouge-l: 0.2069
+		mean: 0.2310
+	Summary: 
+		president barack obama national security adviser said friday full-throated praise army sgt. bowe bergdahl appropriate given former taliban prisoner willingness go war country despite questions whether deserted army colleagues
+		susan rice sunday said bergdahl served united states honor distinction told cnn interview speaking fact idaho native enlisted went afghanistan service country
+		realize lots discussion controversy around rice said

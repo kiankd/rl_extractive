@@ -1,0 +1,75 @@
+DOCUMENT:
+0: cnn outlive owners chunmun monkey could set one comfortable primate
+1: indian couple estranged families say named chunmun child bequeathing house northern india uttar pradesh state properties money
+2: brijesh srivastava owner businesses including flour mill cable network company wife shabista lawyer estranged families disapproved interfaith marriage years ago
+3: brijesh srivastava hindu shabista muslim
+4: shabista told cnn friday bought chunmun month old roadside artist 2005 seeing owner beat animal stick
+5: though husband children shabista said take care chunmun like son
+6: feeds pet diet milk dry nuts fruits morning home-cooked food night
+7: like child
+8: ca stay away shabista said
+9: 2010 chunmun marry another monkey bitty gave pets room air conditioning
+10: couple home fitted railings freely move around house shabista said
+11: couple specify much money could coming chunmun way say millions rupees bank accounts
+12: one million rupees equates 16,000
+13: besides bequeathing everything chunmun couple say started fund raise money rescue monkeys build centers rehabilitation
+14: people india care animals feel like humans
+15: need love affection shabista said
+
+=================================
+Gold summary:
+brijesh shabista srivastava say made pet monkey heir
+couple estranged families disapproved interfaith marriage
+like child ca stay away shabista says monkey
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 10, 7, 15
+	Results: 
+		rouge-1: 0.2000
+		rouge-2: 0.0476
+		rouge-l: 0.1818
+		mean: 0.1431
+	Summary: 
+		couple home fitted railings freely move around house shabista said
+		like child
+		need love affection shabista said
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.6000
+		rouge-2: 0.2381
+		rouge-l: 0.3182
+		mean: 0.3854
+	Summary: 
+		cnn outlive owners chunmun monkey could set one comfortable primate
+		indian couple estranged families say named chunmun child bequeathing house northern india uttar pradesh state properties money
+		brijesh srivastava owner businesses including flour mill cable network company wife shabista lawyer estranged families disapproved interfaith marriage years ago
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 2, 7, 8
+	Results: 
+		rouge-1: 0.6500
+		rouge-2: 0.4286
+		rouge-l: 0.5909
+		mean: 0.5565
+	Summary: 
+		brijesh srivastava owner businesses including flour mill cable network company wife shabista lawyer estranged families disapproved interfaith marriage years ago
+		like child
+		ca stay away shabista said
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.6000
+		rouge-2: 0.2381
+		rouge-l: 0.3182
+		mean: 0.3854
+	Summary: 
+		cnn outlive owners chunmun monkey could set one comfortable primate
+		indian couple estranged families say named chunmun child bequeathing house northern india uttar pradesh state properties money
+		brijesh srivastava owner businesses including flour mill cable network company wife shabista lawyer estranged families disapproved interfaith marriage years ago

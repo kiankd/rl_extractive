@@ -1,0 +1,76 @@
+DOCUMENT:
+0: potential hit list suggesting individuals u.s. government industry media posted jihadi web forums according fbi intelligence bulletin obtained cnn
+1: fbi document dated june 8 says information posted detailed appears aspirational nature unknown whether threat progress beyond discussion internet
+2: bulletin says forum members posted names 40 people included photographs 26 suggested targets
+3: fbi noted uptick postings jihadi sites since osama bin laden death u.s. military raid said list target specific threat postings since demise
+4: fbi said list spurred june 3 video featuring american-born al qaeda propagandist adam gadahn encourages acts individual jihad
+5: first web post made note gadahn call assassinations
+6: led forum members start suggesting possible targets
+7: man helm al qaeda video
+8: web posts include suggestion collect photographs well home work addresses people possible target list
+9: bulletin says list includes target suggestions ranging u.s.-based think tanks military contractors
+10: al qaeda used english-speaking gadahn numerous videos
+11: fbi document notes one march 2010 gadahn called small attacks united states failed observable resonance within online extremist community
+12: bulletin warns bin laden death may cause share ideology receptive
+13: law enforcement official told cnn indication specific plot exists
+14: official know individuals list possible targets briefed law enforcement whether given recommendations protect safety
+15: fbi bulletins intended use law enforcement homeland security officials
+16: cnn homeland security correspondent jeanne meserve contributed report
+
+=================================
+Gold summary:
+fbi says list appears aspirational nature
+contains names 40 people photos 26
+law enforcement official told cnn indication specific plot exists
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 1, 13, 6
+	Results: 
+		rouge-1: 0.6667
+		rouge-2: 0.5000
+		rouge-l: 0.6667
+		mean: 0.6111
+	Summary: 
+		fbi document dated june 8 says information posted detailed appears aspirational nature unknown whether threat progress beyond discussion internet
+		law enforcement official told cnn indication specific plot exists
+		led forum members start suggesting possible targets
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5238
+		rouge-2: 0.2000
+		rouge-l: 0.4286
+		mean: 0.3841
+	Summary: 
+		potential hit list suggesting individuals u.s. government industry media posted jihadi web forums according fbi intelligence bulletin obtained cnn
+		fbi document dated june 8 says information posted detailed appears aspirational nature unknown whether threat progress beyond discussion internet
+		bulletin says forum members posted names 40 people included photographs 26 suggested targets
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 2, 13
+	Results: 
+		rouge-1: 0.8571
+		rouge-2: 0.6000
+		rouge-l: 0.8571
+		mean: 0.7714
+	Summary: 
+		fbi document dated june 8 says information posted detailed appears aspirational nature unknown whether threat progress beyond discussion internet
+		bulletin says forum members posted names 40 people included photographs 26 suggested targets
+		law enforcement official told cnn indication specific plot exists
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5238
+		rouge-2: 0.2000
+		rouge-l: 0.4286
+		mean: 0.3841
+	Summary: 
+		potential hit list suggesting individuals u.s. government industry media posted jihadi web forums according fbi intelligence bulletin obtained cnn
+		fbi document dated june 8 says information posted detailed appears aspirational nature unknown whether threat progress beyond discussion internet
+		bulletin says forum members posted names 40 people included photographs 26 suggested targets

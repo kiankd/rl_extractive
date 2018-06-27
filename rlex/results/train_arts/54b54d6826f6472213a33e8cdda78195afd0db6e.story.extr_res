@@ -1,0 +1,71 @@
+DOCUMENT:
+0: last winter chicago crime commission u.s. drug enforcement administration named mexican billionaire guzman loera city public enemy no. 1
+1: also known shorty guzman heads world largest narcotics operation infamous sinaloa cartel allegedly pushes 1,500 2,000 kilograms cocaine chicago month
+2: commission executive vice president arthur bilek said direct link violence street gangs narcotics business said guzman fingerprints guns used many shootings plaguing chicago today
+3: know guzman ever chicago new york times magazine reported calls chicago cartel home port
+4: head city dea office jack riley says sinaloa cartel causes much havoc chicago guzman deserves title
+5: time chicago police took step designating public enemy no. 1 1930 targeted al capone
+6: gangster used city hub various illegal activities authorized violent crimes enforce rule
+7: yet law enforcement managed put capone behind bars brutal acts
+8: serious offense could make stick capone income tax evasion
+9: crimes changed times
+10: today suspected drug lords like guzman zeta cartel boss miguel ã
+
+=================================
+Gold summary:
+writers chicago named mexican drug cartel leader public enemy no. 1
+say stopping flow drug money effective arresting criminals
+writers criminals use anonymous corporations u.s. money laundering
+writers proposed law longer allow owners hide thus money tracked
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 9, 3, 4
+	Results: 
+		rouge-1: 0.0645
+		rouge-2: 0.0000
+		rouge-l: 0.0541
+		mean: 0.0395
+	Summary: 
+		crimes changed times
+		know guzman ever chicago new york times magazine reported calls chicago cartel home port
+		head city dea office jack riley says sinaloa cartel causes much havoc chicago guzman deserves title
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3226
+		rouge-2: 0.1111
+		rouge-l: 0.1892
+		mean: 0.2076
+	Summary: 
+		last winter chicago crime commission u.s. drug enforcement administration named mexican billionaire guzman loera city public enemy no. 1
+		also known shorty guzman heads world largest narcotics operation infamous sinaloa cartel allegedly pushes 1,500 2,000 kilograms cocaine chicago month
+		commission executive vice president arthur bilek said direct link violence street gangs narcotics business said guzman fingerprints guns used many shootings plaguing chicago today
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 7, 10
+	Results: 
+		rouge-1: 0.3548
+		rouge-2: 0.1111
+		rouge-l: 0.2162
+		mean: 0.2274
+	Summary: 
+		last winter chicago crime commission u.s. drug enforcement administration named mexican billionaire guzman loera city public enemy no. 1
+		yet law enforcement managed put capone behind bars brutal acts
+		today suspected drug lords like guzman zeta cartel boss miguel ã
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3226
+		rouge-2: 0.1111
+		rouge-l: 0.1892
+		mean: 0.2076
+	Summary: 
+		last winter chicago crime commission u.s. drug enforcement administration named mexican billionaire guzman loera city public enemy no. 1
+		also known shorty guzman heads world largest narcotics operation infamous sinaloa cartel allegedly pushes 1,500 2,000 kilograms cocaine chicago month
+		commission executive vice president arthur bilek said direct link violence street gangs narcotics business said guzman fingerprints guns used many shootings plaguing chicago today

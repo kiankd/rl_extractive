@@ -1,0 +1,81 @@
+DOCUMENT:
+0: bruno senna signed formula one constructor williams 18 years uncle former three-time world champion ayrton died driving team
+1: brazilian partner pastor maldonado 2012 f1 season gets underway australia march 18 replacing veteran compatriot rubens barrichello
+2: bruno uncle ayrton one greatest drivers sport seen winning drivers championship crowns 1988 1990 1991 died crash san marino grand prix 1994
+3: third race williams
+4: williams cars carried name ever since tragedy imola racing circuit bruno made debut hrt 2010 says excited follow uncle footsteps
+5: ferrari alonso slams f1 testing rules
+6: interesting drive team uncle driven particularly quite people actually worked ayrton 28-year-old told williams website
+7: hopefully bring back memories create great new ones
+8: also want get good results return support country given help get position today
+9: proud brazilian motivated ever demonstrate
+10: ever since first sat go-kart never wanted anything else
+11: team principal frank williams charge williams ayrton senna died said looking forward seeing bruno compete highest level
+12: driver struggled hrt team debut season moved renault reserve driver replacing nick heidfeld final eight races 2011 scored points one eight races finished ninth italian grand prix
+13: circumstances bruno two seasons formula one given ideal opportunity deliver consistently essential spent much time possible understand evaluate driver said
+14: done track simulator proven quick technically insightful capable learning applying learning quickly consistently
+15: looking forward seeing talent race car
+16: senna deal williams could spell end barrichello formula one career 39-year-old without team new season two months away
+17: said official twitter account wo driving williams car year
+18: wish friend @bsenna best
+19: future wide open
+20: hrt team seat available yet confirm race partner pedro de la rosa
+
+=================================
+Gold summary:
+bruno senna joins formula one constructor williams 2012 season
+senna nephew three-time world champion ayrton died 18 years ago
+ayrton driving williams killed san marino 1994
+bruno partner pastor maldonado new formula one season begins
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 16, 9, 20
+	Results: 
+		rouge-1: 0.2500
+		rouge-2: 0.0303
+		rouge-l: 0.1429
+		mean: 0.1411
+	Summary: 
+		senna deal williams could spell end barrichello formula one career 39-year-old without team new season two months away
+		proud brazilian motivated ever demonstrate
+		hrt team seat available yet confirm race partner pedro de la rosa
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.7857
+		rouge-2: 0.3636
+		rouge-l: 0.4571
+		mean: 0.5355
+	Summary: 
+		bruno senna signed formula one constructor williams 18 years uncle former three-time world champion ayrton died driving team
+		brazilian partner pastor maldonado 2012 f1 season gets underway australia march 18 replacing veteran compatriot rubens barrichello
+		bruno uncle ayrton one greatest drivers sport seen winning drivers championship crowns 1988 1990 1991 died crash san marino grand prix 1994
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.7857
+		rouge-2: 0.3636
+		rouge-l: 0.4571
+		mean: 0.5355
+	Summary: 
+		bruno senna signed formula one constructor williams 18 years uncle former three-time world champion ayrton died driving team
+		brazilian partner pastor maldonado 2012 f1 season gets underway australia march 18 replacing veteran compatriot rubens barrichello
+		bruno uncle ayrton one greatest drivers sport seen winning drivers championship crowns 1988 1990 1991 died crash san marino grand prix 1994
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.7857
+		rouge-2: 0.3636
+		rouge-l: 0.4571
+		mean: 0.5355
+	Summary: 
+		bruno senna signed formula one constructor williams 18 years uncle former three-time world champion ayrton died driving team
+		brazilian partner pastor maldonado 2012 f1 season gets underway australia march 18 replacing veteran compatriot rubens barrichello
+		bruno uncle ayrton one greatest drivers sport seen winning drivers championship crowns 1988 1990 1991 died crash san marino grand prix 1994

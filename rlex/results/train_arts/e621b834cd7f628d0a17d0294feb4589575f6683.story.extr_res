@@ -1,0 +1,126 @@
+DOCUMENT:
+0: seldom set foot neighbor house much hate
+1: rival english cities liverpool manchester familiarity proximity quote king james bible suggests indeed bred contempt
+2: two cities concerned history ill feeling
+3: rivalry bitterly played football pitch liverpool manchester united bragging rights grabs even music culture
+4: english football faces litmus test civility
+5: years two sides met liverpool anfield stadium united ground old trafford hostilities festered grew
+6: cruel songs sung tragedies munich air disaster affected united hillsborough tragedy cast pall merseyside supporters mocked players taunted
+7: ugly sideshow inter-city sporting endeavour reached crescendo last season dispute racism sunday fires stoked two teams meet anfield
+8: one biggest rivalries world sport rivalries whether barcelona vs. real madrid whoever thrive upon element spite explains author liverpool native kevin sampson
+9: rabbit hole depression premier league
+10: doubt though liverpool vs. manchester united rivalry deteriorated hatred
+11: almost every regard alarming similarities two areas
+12: proud industrial history made significant contributions popular culture widely viewed modern forward-thinking cities
+13: ultimate irony said sampson
+14: proud working-class traditions enormous contributions music art pop culture sport global footballing legend liverpool manchester set lasting international legacy
+15: much common either cares admit
+16: perhaps rivalry endure
+17: blog whatever happened rafael benitez
+18: particular feud beatles vs. oasis hacienda vs. cavern club
+19: goes back industrial revolution explains manchester united supporters trust must chairman gerard shamash referring construction world largest ship canal 1887
+20: mancunians regard somewhat superior liverpool perhaps unjustifiably way added shamash
+21: back football pitch one winner recent years
+22: scottish manager sir alex ferguson arrived united 1986 expressed aim knocking liverpool undisputed force english football time f *** ing perch
+23: quarter century later ferguson clambered atop perch united 19th english title overhauling liverpool record 18
+24: meanwhile liverpool quest 19th championship reds last league title 1991 downfall number managers including club legend kenny dalglish european champions league winner rafael benitez
+25: consolation liverpool come european cup known champions league anfield trophy cabinet showcasing european club football top prize five occasions compared three wins united
+26: clubs believe biggest world continues sampson
+27: united terms fanbase revenue liverpool terms folklore success
+28: recent months rivalry two raised questions whether tribalism place 21st century
+29: liverpool striker luis suarez handed eight-match ban racially abusing united defender patrice evra game teams october 2011
+30: issue dragged two sets fans even apart group launching staunch defence player
+31: two teams met february year prematch handshake overshadowed on-pitch action
+32: uruguay suarez refused accept hand frenchman adjudged racially abused
+33: evra plays poor form suggests may endure hostile reception doubt said sampson ahead meeting liverpool anfield stadium
+34: atmosphere matches always intense
+35: moments kick-off sunday ahead 186th meeting two teams evra suarez opportunity set mood example two sets spectators
+36: talk suggesting evra shake suarez hand vice versa said shamash
+37: think time move
+38: would set right tone
+39: sincerely hope bury hatchet handshake
+40: ever time air reverence two clubs
+41: last week saw release independent report hillsborough stadium disaster tragedy saw 96 liverpool lose lives fa cup semifinal 1989
+42: report absolved fans blame fatal crush instead pointing authorities failed take necessary preventative actions
+43: chant always victims never fault directed liverpool supporters small minority united fans recent times must outlined opposition strong disapproval anti-hillsborough slurs
+44: nothing surprises comes football rivalries accepted norms abandoned 90 minutes added sampson
+45: fans fling anything long lets know much despise one another
+46: ideal world liverpool manchester united two clubs whose fanbases known football tragic lows along indelible highs would set better standard
+47: coping loss something else binds two football institutions
+48: united darkest hour arrived munich air field february 1958
+49: matt busby vibrant young team hailed busby babes stopping germany following european cup tie belgrade yugoslavia
+50: snowy slippery conditions plane crashed killing 23 people eight united team
+51: among fatalities duncan edwards 21-year-old midfielder tipped superstardom died hospital 15 days crash
+52: hillsborough disaster small minority liverpool fans used crash stick beat united supporters
+53: must slightest truck anyone suggests happened hillsborough complete utter failure state insisted shamash
+54: remember seeing coffins coming home germany munich air disaster number people killed substantial many killed hillsborough
+55: always felt happened hillsborough absolutely monstrous would thought would sort cross sympathy supporters sometimes people things thinking
+56: liverpool fans wrongfully blamed tragedy two decades police statements amended remove criticism authorities
+57: asked reaction report sampson replied relief truth last delight families affected tragedy take steps towards kind peace
+58: also anger people club unfairly tarred long
+59: may take time heal
+60: healing process could aided weekend gesture goodwill support united fans away end towards liverpool counterparts gathered fabled kop
+61: united season ticket holder journalist paul vallely suggests ultimate show sympathy club fans could sing liverpool famous anthem never walk alone
+62: united manager sir alex ferguson called end hostility club liverpool vallely wrote article church times
+63: perhaps remind fans eight manchester united players died munich air crash 1958 liverpool offered united five players manchester club could finish season
+64: ahead match liverpool man utd sunday needs make gesture considerable magnitude
+65: day united fans know sing
+
+=================================
+Gold summary:
+liverpool manchester united meet english premier league sunday
+people two cities rivals 100 years
+last week release independent report hillsborough disaster adds tension
+racism row luis suarez patrice evra also soured relations
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 12, 31, 47
+	Results: 
+		rouge-1: 0.0625
+		rouge-2: 0.0000
+		rouge-l: 0.0312
+		mean: 0.0312
+	Summary: 
+		proud industrial history made significant contributions popular culture widely viewed modern forward-thinking cities
+		two teams met february year prematch handshake overshadowed on-pitch action
+		coping loss something else binds two football institutions
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1562
+		rouge-2: 0.0645
+		rouge-l: 0.1250
+		mean: 0.1153
+	Summary: 
+		seldom set foot neighbor house much hate
+		rival english cities liverpool manchester familiarity proximity quote king james bible suggests indeed bred contempt
+		two cities concerned history ill feeling
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 29, 41
+	Results: 
+		rouge-1: 0.5000
+		rouge-2: 0.2258
+		rouge-l: 0.3125
+		mean: 0.3461
+	Summary: 
+		rival english cities liverpool manchester familiarity proximity quote king james bible suggests indeed bred contempt
+		liverpool striker luis suarez handed eight-match ban racially abusing united defender patrice evra game teams october 2011
+		last week saw release independent report hillsborough stadium disaster tragedy saw 96 liverpool lose lives fa cup semifinal 1989
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 1, 0, 10
+	Results: 
+		rouge-1: 0.1562
+		rouge-2: 0.0645
+		rouge-l: 0.0938
+		mean: 0.1048
+	Summary: 
+		rival english cities liverpool manchester familiarity proximity quote king james bible suggests indeed bred contempt
+		seldom set foot neighbor house much hate
+		doubt though liverpool vs. manchester united rivalry deteriorated hatred

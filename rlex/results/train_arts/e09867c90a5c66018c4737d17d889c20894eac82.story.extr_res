@@ -1,0 +1,73 @@
+DOCUMENT:
+0: crowdfunding model entrepreneurs seek online pledges finance pet projects appears alive well
+1: kickstarter platform helped launch pebble smartwatch oculus rift gaming headset upcoming veronica mars movie said surpassed 1 billion pledges monday
+2: although kickstarter around almost five years said half money pledged past 12 months
+3: 1 billion means people care new ideas said company special page announcing milestone
+4: money helped bankroll 57,000 creative projects films comic books tech gadgets video games
+5: pledges came 5.7 million people 224 countries commonly united states 663 million uk 54 million canada 45 million
+6: far cry kickstarter first day april 28 2009 grand total 40 people pledged 1,084 seven projects
+7: kickstarter top 50 projects shipped
+8: site requires project creators choose deadline target funding goal financial backers typically receiving preferential access product
+9: kickstarter takes 5 successfully funded projects
+10: investors charged project reaches stated goal within alloted time fundraising otherwise money changes hands
+11: wondering wednesday day week backers pledged money pledges usually drop weekends
+12: kickstarter part growing number crowdfunding sites include indiegogo rockethub crowdrise
+13: last month kickstarter urged users change passwords revealing hacked
+
+=================================
+Gold summary:
+kickstarter says surpassed 1 billion pledges monday
+money helped bankroll 57,000 creative projects
+crowdfunding site launched 2009
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 0, 9, 11
+	Results: 
+		rouge-1: 0.2941
+		rouge-2: 0.0000
+		rouge-l: 0.1176
+		mean: 0.1373
+	Summary: 
+		crowdfunding model entrepreneurs seek online pledges finance pet projects appears alive well
+		kickstarter takes 5 successfully funded projects
+		wondering wednesday day week backers pledged money pledges usually drop weekends
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5882
+		rouge-2: 0.2500
+		rouge-l: 0.4118
+		mean: 0.4167
+	Summary: 
+		crowdfunding model entrepreneurs seek online pledges finance pet projects appears alive well
+		kickstarter platform helped launch pebble smartwatch oculus rift gaming headset upcoming veronica mars movie said surpassed 1 billion pledges monday
+		although kickstarter around almost five years said half money pledged past 12 months
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 4, 12
+	Results: 
+		rouge-1: 0.7647
+		rouge-2: 0.6250
+		rouge-l: 0.7647
+		mean: 0.7181
+	Summary: 
+		kickstarter platform helped launch pebble smartwatch oculus rift gaming headset upcoming veronica mars movie said surpassed 1 billion pledges monday
+		money helped bankroll 57,000 creative projects films comic books tech gadgets video games
+		kickstarter part growing number crowdfunding sites include indiegogo rockethub crowdrise
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5882
+		rouge-2: 0.2500
+		rouge-l: 0.4118
+		mean: 0.4167
+	Summary: 
+		crowdfunding model entrepreneurs seek online pledges finance pet projects appears alive well
+		kickstarter platform helped launch pebble smartwatch oculus rift gaming headset upcoming veronica mars movie said surpassed 1 billion pledges monday
+		although kickstarter around almost five years said half money pledged past 12 months

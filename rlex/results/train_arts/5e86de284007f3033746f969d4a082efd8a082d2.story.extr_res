@@ -1,0 +1,104 @@
+DOCUMENT:
+0: president barack obama postponed military exercises egypt last week due intensifying violence military supporters ousted president mohamed morsy warned potential steps
+1: much discussion since focused fate 1.2 billion american military aid defense secretary chuck hagel reiterated monday every aspect u.s.-egyptian relationship table
+2: obama warns steps egypt
+3: mean exactly much leverage united states egyptian affairs
+4: beyond military support would holding financing economic programs impact
+5: immigration visa programs
+6: would new action issues change behavior egyptian military
+7: half americans new poll believe united states halt military aid
+8: experts tell cnn relations complex
+9: united states kind damned damned situation said tarek radwan associate director research atlantic council
+10: time.com u.s. military aid egypt iv drip side effects
+11: u.s. want
+12: jon alterman director middle east program center strategic international studies question really washington want accomplish
+13: trying change decision-making process egyptian military hard right believe locked existential struggle
+14: trying demonstrate resolve rest world people looking another issue
+15: egypt edge amid questions u.s. aid
+16: though isobel coleman senior fellow council foreign relations says military assistance pretty much card united states play enforce call end violence quick return civilian rule
+17: mean say next step suspend military aid egyptians mean say looking political compromise coleman said
+18: one-sided relationship
+19: military jets helicopters equipment provided united states supports trilateral peace region involving egypt jordan israel largest recipient american military aid related strategic advantages
+20: instance united states granted preferential use suez canal economic hub connects mediterranean red sea overflight rights gives u.s. military ability fly egypt way bases region
+21: would egypt respond cuts aid restricting access suez air space
+22: unlikely said coleman radwan
+23: suez canal extremely important
+24: important international commerce wardwan said adding doubts privileges changed aid suspended
+25: cutting aid anything
+26: obama administration decided call military ouster morsy coup would require end military assistance u.s. law
+27: sen. john mccain leading authority military matters congress recently returned egypt
+28: said turning aid response military crackdown protesters necessary
+29: influence use influence influence mccain said sunday cnn state union
+30: half money military assistance year reduced somewhat budget cuts united states delivered according state department
+31: egypt gets another 250 million economic programs
+32: new pew research center survey 1,000 adults nationwide conducted thursday sunday showed 51 americans believed better washington cut military aid put pressure government 26 said better continue aid maintain influence
+33: complexity region trading rights diplomatic advantages would cutting aid effective way change policy egypt
+34: likely said experts particularly saudi arabia said would consider matching u.s. assistance administration decide cut
+35: congress compete amount money egypt coleman said
+36: saudis deep pockets ready put egypt disposal
+37: little agreement among experts whether cut would make difference
+38: whether changing aid policy good u.s. long run answer yes radwan said
+39: diversify engagement egypt deepen beyond rhetoric hear obama administration administration would policy flexibility
+40: alterman hand sounded warning
+41: easier cut things resume concluded
+42: may instead sending warning shot gets egyptians change behavior may spiraling relations
+43: cnn holly yan contributed report
+
+=================================
+Gold summary:
+experts say relations u.s. egypt complicated military aid
+expert says cutting aid little change egypt regime behavior
+saudi arabia promised make aid u.s. cuts
+egypt could retaliate cutting aid changing u.s. preferential access suez canal
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 8, 25, 11
+	Results: 
+		rouge-1: 0.1852
+		rouge-2: 0.0303
+		rouge-l: 0.1429
+		mean: 0.1194
+	Summary: 
+		experts tell cnn relations complex
+		cutting aid anything
+		u.s. want
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1111
+		rouge-2: 0.0303
+		rouge-l: 0.1143
+		mean: 0.0852
+	Summary: 
+		president barack obama postponed military exercises egypt last week due intensifying violence military supporters ousted president mohamed morsy warned potential steps
+		much discussion since focused fate 1.2 billion american military aid defense secretary chuck hagel reiterated monday every aspect u.s.-egyptian relationship table
+		obama warns steps egypt
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 20, 21, 34
+	Results: 
+		rouge-1: 0.4444
+		rouge-2: 0.0909
+		rouge-l: 0.2000
+		mean: 0.2451
+	Summary: 
+		instance united states granted preferential use suez canal economic hub connects mediterranean red sea overflight rights gives u.s. military ability fly egypt way bases region
+		would egypt respond cuts aid restricting access suez air space
+		likely said experts particularly saudi arabia said would consider matching u.s. assistance administration decide cut
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1111
+		rouge-2: 0.0303
+		rouge-l: 0.1143
+		mean: 0.0852
+	Summary: 
+		president barack obama postponed military exercises egypt last week due intensifying violence military supporters ousted president mohamed morsy warned potential steps
+		much discussion since focused fate 1.2 billion american military aid defense secretary chuck hagel reiterated monday every aspect u.s.-egyptian relationship table
+		obama warns steps egypt

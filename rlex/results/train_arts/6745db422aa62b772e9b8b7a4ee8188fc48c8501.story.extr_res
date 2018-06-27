@@ -1,0 +1,75 @@
+DOCUMENT:
+0: costa rica nicaragua must refrain sending maintaining civilians security forces police disputed border area international court justice ordered tuesday offering side something could claim victory
+1: tensions two countries flared calero island parcel land atlantic coast since last year
+2: november costa rica foreign ministry said country filed lawsuit court end situation threatens imminent irreparable harm costa rica
+3: suit asked court stop construction canal costa rican soil ministry said
+4: nicaragua claimed never entered costa rican territory worked land
+5: court order provisional measure case judges
+6: may several years final ruling made
+7: barring persons disputed area unanimous decision
+8: court order nicaragua refrain dredging
+9: 13-4 vote justices said costa rica could send personnel area protect environment manner wo escalate tensions
+10: judges also ordered nicaragua costa rica refrain action might aggravate extend dispute court make difficult resolve
+11: finally judges agreed countries inform court compliance order
+12: international court justice united nation high court based hague
+13: costa rican president laura chinchilla praised court ruling calling decision
+14: first sends clear message borders redefined unilateral manner force second creates conditions allow two friendly nations return dialogue told cnn en espanol
+
+=================================
+Gold summary:
+new court allows nicaragua continue dredging
+court order bars sides sending civilians security forces
+allows costa rica protect area environment
+two countries disputed territory since last year
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 1, 5, 7
+	Results: 
+		rouge-1: 0.3600
+		rouge-2: 0.1538
+		rouge-l: 0.1852
+		mean: 0.2330
+	Summary: 
+		tensions two countries flared calero island parcel land atlantic coast since last year
+		court order provisional measure case judges
+		barring persons disputed area unanimous decision
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.6000
+		rouge-2: 0.2308
+		rouge-l: 0.4074
+		mean: 0.4127
+	Summary: 
+		costa rica nicaragua must refrain sending maintaining civilians security forces police disputed border area international court justice ordered tuesday offering side something could claim victory
+		tensions two countries flared calero island parcel land atlantic coast since last year
+		november costa rica foreign ministry said country filed lawsuit court end situation threatens imminent irreparable harm costa rica
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 1, 8
+	Results: 
+		rouge-1: 0.6800
+		rouge-2: 0.2692
+		rouge-l: 0.4074
+		mean: 0.4522
+	Summary: 
+		costa rica nicaragua must refrain sending maintaining civilians security forces police disputed border area international court justice ordered tuesday offering side something could claim victory
+		tensions two countries flared calero island parcel land atlantic coast since last year
+		court order nicaragua refrain dredging
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 2, 1
+	Results: 
+		rouge-1: 0.6000
+		rouge-2: 0.2308
+		rouge-l: 0.4444
+		mean: 0.4251
+	Summary: 
+		costa rica nicaragua must refrain sending maintaining civilians security forces police disputed border area international court justice ordered tuesday offering side something could claim victory
+		november costa rica foreign ministry said country filed lawsuit court end situation threatens imminent irreparable harm costa rica
+		tensions two countries flared calero island parcel land atlantic coast since last year

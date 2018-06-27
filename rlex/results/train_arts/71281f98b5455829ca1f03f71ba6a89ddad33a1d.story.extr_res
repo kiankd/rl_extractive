@@ -1,0 +1,103 @@
+DOCUMENT:
+0: anyone holding hope pluto reinstated major planet probably say movie frozen let go
+1: new exciting find far reaches solar system astronomers discovered dwarf planet even farther away pluto far fact orbit reaches new edge solar system
+2: dwarf planet current name 2012 vp113 located wasteland badland solar system said astronomer chad trujillo head adaptive optics gemini observatory hawaii co-discoverer object
+3: study published wednesday journal nature
+4: big question formed
+5: get object
+6: really know answer yet
+7: dwarf planet unusual orbit trujillo said
+8: elliptical path closest ever comes sun still far away rest solar system
+9: full orbit farther orbit object know solar system
+10: nothing currently know solar system make objects distant time never come close planets trujillo said
+11: distant major planet sun neptune orbiting star distance 30 astronomical units
+12: one astronomical unit average distance earth sun 150 million kilometers 93 million miles
+13: beyond neptune kuiper belt doughnut-shaped ring small objects extends 30 55 au according nasa
+14: belt may contain hundreds thousands large icy objects trillions comets
+15: pluto considered dwarf planet kuiper belt
+16: awkwardly-named 2012 vp113 much farther sun currently 83 astronomical units
+17: puts 83 times distance planet sun closest point orbit 80 astronomical units
+18: terms average distance sun dwarf planet even farther eris trujillo helped discover
+19: eris bigger pluto satellite called dysnomia
+20: presence eris helped scientists determine pluto counted among major planets
+21: sedna dwarf planet trujillo co-discovered well 2004 located distant area takes 10,500 years orbit sun
+22: finding sedna far away seemed odd potentially fluke said mike brown professor astronomy california institute technology e-mail
+23: one beginning make look like might typical place objects
+24: would guessed
+25: home sedna 2012 vp113 called inner oort cloud
+26: may comets come trujillo said
+27: trujillo study also suggests could large planet one seen way 250 astronomical units affecting orbits sedna new dwarf planet
+28: theory planet detected
+29: brown involved study also co-discovered sedna
+30: unusual objects sedna new one tell us early solar system sun planets forming brown said
+31: scientists able discern 2012 vp113 composition would suspect icy distance sun trujillo said
+32: color slightly reddish especially unusual compared kuiper belt objects trujillo said
+33: trujllio colleagues estimate new dwarf planet relatively small 450 kilometers 280 miles diameter less driving distance philadelphia boston
+34: probably ball-shaped said
+35: major planet mercury venus earth mars
+36: trujillo explains bona fide planet big enough objects orbit sucked gravitationally
+37: dwarf planet big enough become gravitationally dominant small pull objects area path
+38: possible dwarf planet formed early solar system history region jupiter saturn got thrown beyond pluto
+39: one theory billions years ago another star passed sun took material distant orbit
+40: far know cold dwarf planet liquid water trujillo said
+41: discovery really shows verge finally able read story sedna trying tell us next years bring flood new discoveries new region outer solar system brown said
+42: 2012 vp113 eventually renamed trujillo website says informally called biden vp designation
+43: follow elizabeth landau twitter @lizlandau
+
+=================================
+Gold summary:
+2012 vp113 newly discovered dwarf planet
+full orbit farther orbit solar system object
+located 83 times distance earth sun
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 40, 17, 43
+	Results: 
+		rouge-1: 0.3889
+		rouge-2: 0.1667
+		rouge-l: 0.3158
+		mean: 0.2904
+	Summary: 
+		far know cold dwarf planet liquid water trujillo said
+		puts 83 times distance planet sun closest point orbit 80 astronomical units
+		follow elizabeth landau twitter @lizlandau
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.6111
+		rouge-2: 0.2222
+		rouge-l: 0.4211
+		mean: 0.4181
+	Summary: 
+		anyone holding hope pluto reinstated major planet probably say movie frozen let go
+		new exciting find far reaches solar system astronomers discovered dwarf planet even farther away pluto far fact orbit reaches new edge solar system
+		dwarf planet current name 2012 vp113 located wasteland badland solar system said astronomer chad trujillo head adaptive optics gemini observatory hawaii co-discoverer object
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 9, 17
+	Results: 
+		rouge-1: 0.7222
+		rouge-2: 0.4444
+		rouge-l: 0.6842
+		mean: 0.6170
+	Summary: 
+		new exciting find far reaches solar system astronomers discovered dwarf planet even farther away pluto far fact orbit reaches new edge solar system
+		full orbit farther orbit object know solar system
+		puts 83 times distance planet sun closest point orbit 80 astronomical units
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.6111
+		rouge-2: 0.2222
+		rouge-l: 0.4211
+		mean: 0.4181
+	Summary: 
+		anyone holding hope pluto reinstated major planet probably say movie frozen let go
+		new exciting find far reaches solar system astronomers discovered dwarf planet even farther away pluto far fact orbit reaches new edge solar system
+		dwarf planet current name 2012 vp113 located wasteland badland solar system said astronomer chad trujillo head adaptive optics gemini observatory hawaii co-discoverer object

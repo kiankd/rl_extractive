@@ -1,0 +1,75 @@
+DOCUMENT:
+0: u.s. officials urged american citizens germany keep low profile remain wary surroundings terrorist organization al qaeda posted video message threatening attacks country
+1: german special police patrol berlin last month visit israeli prime minister benajmin netanyahu
+2: state department travel alert issued wednesday remains effect november 11 two weeks germany holds federal elections sunday
+3: al qaeda posted video threat internet september 18 vowing attacks elections come way wants
+4: day german government reacted video raising alert level heightening security
+5: british foreign office also issued advisory citizens living traveling germany
+6: state department travel alert asks americans keep abreast news reports consider security procedures place visit public places pick hotels restaurants
+7: germany interior ministry said earlier month country noted increase threats al qaeda islamist groups since beginning year
+8: nearly 26-minute video statement man identified bekay harrach using pseudonym abu talha speaking german said september 27 elections vote power parties pledge pull german troops afghanistan rude awakening
+9: speaker called muslims living germany stay away public life first two weeks elections implying attacks would take place
+10: speaker repeatedly criticized german chancellor angela merkel support wars iraq afghanistan
+11: also criticized merkel rivals social democrats offered possibility peace offer
+12: german people vote peace mujahedeen choose peace germany well said
+13: withdrawal last german soldier afghanistan last mujahed also leave germany
+14: al qaeda gives word
+
+=================================
+Gold summary:
+al qaeda terror group posts video message threatening attacks germany
+u.s. officials urge citizens germany keep low profile wary
+germany interior ministry report increase threats al qaeda year
+message criticizes chancellor merkel wars iraq afghanistan
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 11, 5, 14
+	Results: 
+		rouge-1: 0.1667
+		rouge-2: 0.0303
+		rouge-l: 0.1143
+		mean: 0.1038
+	Summary: 
+		also criticized merkel rivals social democrats offered possibility peace offer
+		british foreign office also issued advisory citizens living traveling germany
+		al qaeda gives word
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4667
+		rouge-2: 0.2727
+		rouge-l: 0.3143
+		mean: 0.3512
+	Summary: 
+		u.s. officials urged american citizens germany keep low profile remain wary surroundings terrorist organization al qaeda posted video message threatening attacks country
+		german special police patrol berlin last month visit israeli prime minister benajmin netanyahu
+		state department travel alert issued wednesday remains effect november 11 two weeks germany holds federal elections sunday
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 7, 10
+	Results: 
+		rouge-1: 0.8000
+		rouge-2: 0.4545
+		rouge-l: 0.6000
+		mean: 0.6182
+	Summary: 
+		u.s. officials urged american citizens germany keep low profile remain wary surroundings terrorist organization al qaeda posted video message threatening attacks country
+		germany interior ministry said earlier month country noted increase threats al qaeda islamist groups since beginning year
+		speaker repeatedly criticized german chancellor angela merkel support wars iraq afghanistan
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4667
+		rouge-2: 0.2727
+		rouge-l: 0.3143
+		mean: 0.3512
+	Summary: 
+		u.s. officials urged american citizens germany keep low profile remain wary surroundings terrorist organization al qaeda posted video message threatening attacks country
+		german special police patrol berlin last month visit israeli prime minister benajmin netanyahu
+		state department travel alert issued wednesday remains effect november 11 two weeks germany holds federal elections sunday

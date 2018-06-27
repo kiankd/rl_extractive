@@ -1,0 +1,90 @@
+DOCUMENT:
+0: activists tea party movement tend male rural upscale overwhelmingly conservative according new national poll
+1: cnn/opinion research corp. survey released wednesday also indicates tea party activists would vote overwhelmingly republican two-party race congress
+2: party gop leanings poll suggests may pose problem tea party movement tries turn third party compete two major parties year general election
+3: tea party runs candidates u.s. house virtually every vote tea party candidate gets would siphoned gop candidate potentially allowing democrats win districts might otherwise lost said cnn polling director keating holland
+4: concept independent third party extremely popular americans including tea party supporters favor third party would result winner disagrees major issues
+5: according survey roughly 11 percent americans say actively supported tea party movement either donating money attending rally taking active step support movement
+6: core group tea party activists 6 10 male half live rural areas
+7: nearly three-quarters tea party activists attended college compared 54 percent americans 3 4 call conservatives
+8: keep mind pretty small sample tea party activists holland said
+9: even taking account demographic gaps poll finds activists general public gender education income ideology voting behavior appear significant differences
+10: poll indicates 24 percent public generally favors tea party movement taken actions donating money attending rally
+11: adding 11 percent say active total 35 percent could described tea party supporters
+12: larger group also predominantly male higher-income conservative
+13: 45 percent americans say know enough tea party view movement 1 5 say oppose tea party
+14: according survey tea party activists describe independents
+15: slightly misleading 87 percent say would vote gop candidate congressional district third-party candidate endorsed tea party holland said
+16: would happen tea party supported independent candidates congress
+17: poll indicates two-way race so-called generic ballot question gop candidates 47 percent 45 percent edge
+18: throw tea party candidate mix two-point advantage becomes 12-point deficit
+19: virtually everyone would vote tea party candidate three-way contest would choose republican two-way race
+20: democratic candidate gets 45 percent scenarios gop candidate share vote drops 47 percent two-way contest 33 percent tea party candidate ballot
+21: historically problem many political movements faced try become full-fledged party
+22: often wind ensuring victory candidate dislike holland added
+23: see complete cnn/opinion research poll pdf
+24: sixty-four percent americans say like idea third party would run democrats republicans
+25: 38 percent would support third party presence ballot would mean winning candidate one disagrees major issues
+26: according poll tea party activists feel way 4 10 favor third party would result election candidates like
+27: cnn/opinion research corp. poll conducted telephone february 12-15 1,023 adult americans including 124 respondents said taken active steps support tea party donating money attending rally self
+28: survey overall sampling error plus minus 3 percentage points plus minus 9 percentage points tea party activists
+29: cnn deputy political director paul steinhauser contributed report
+
+=================================
+Gold summary:
+tea party activists tend male rural upscale overwhelmingly conservative
+poll tea party activists would vote overwhelmingly gop two-party race congress
+polling analyst third parties problem siphon votes closest allies
+tea party activists views third parties mirror national trend poll shows
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 10, 3, 22
+	Results: 
+		rouge-1: 0.2333
+		rouge-2: 0.0294
+		rouge-l: 0.1750
+		mean: 0.1459
+	Summary: 
+		poll indicates 24 percent public generally favors tea party movement taken actions donating money attending rally
+		tea party runs candidates u.s. house virtually every vote tea party candidate gets would siphoned gop candidate potentially allowing democrats win districts might otherwise lost said cnn polling director keating holland
+		often wind ensuring victory candidate dislike holland added
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.6667
+		rouge-2: 0.3529
+		rouge-l: 0.5750
+		mean: 0.5315
+	Summary: 
+		activists tea party movement tend male rural upscale overwhelmingly conservative according new national poll
+		cnn/opinion research corp. survey released wednesday also indicates tea party activists would vote overwhelmingly republican two-party race congress
+		party gop leanings poll suggests may pose problem tea party movement tries turn third party compete two major parties year general election
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.6667
+		rouge-2: 0.3529
+		rouge-l: 0.5750
+		mean: 0.5315
+	Summary: 
+		activists tea party movement tend male rural upscale overwhelmingly conservative according new national poll
+		cnn/opinion research corp. survey released wednesday also indicates tea party activists would vote overwhelmingly republican two-party race congress
+		party gop leanings poll suggests may pose problem tea party movement tries turn third party compete two major parties year general election
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.6667
+		rouge-2: 0.3529
+		rouge-l: 0.5750
+		mean: 0.5315
+	Summary: 
+		activists tea party movement tend male rural upscale overwhelmingly conservative according new national poll
+		cnn/opinion research corp. survey released wednesday also indicates tea party activists would vote overwhelmingly republican two-party race congress
+		party gop leanings poll suggests may pose problem tea party movement tries turn third party compete two major parties year general election

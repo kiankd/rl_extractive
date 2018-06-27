@@ -1,0 +1,116 @@
+DOCUMENT:
+0: editor note john smoltz star pitcher atlanta braves cy young award national league best pitcher 1996
+1: second all-time 15 post-season wins color commentary tbs baseball playoff coverage gets way wednesday
+2: baseball post-season starts wednesday six eight playoff teams facing best-of-five series
+3: first texas rangers travel st. petersburg take tampa bay rays
+4: later wednesday defending national league champion philadelphia phillies host cincinnati reds defending world series champion new york yankees open defense title twins minnesota
+5: san francisco giants atlanta braves open national league division series thursday
+6: john smoltz eight-time all-star pitched major leagues 20 years spoke cnn watch tune games
+7: cnn half-dozen players even casual baseball fan enjoy watching playoffs
+8: john smoltz couple young players come mind
+9: national league buster posey rookie catcher handling veteran pitching staff giants
+10: interesting see
+11: series jason heyward braves young phenom playoffs first season
+12: happen often two rookies expected lead teams like posey heyward
+13: people know lot cincinnati reds joey votto exciting player put incredibly great offensive numbers .324 batting average 37 home runs 113 rbi
+14: interesting see fares philadelphia three-headed pitching monster star pitchers roy halladay roy oswalt cole hamels
+15: carl crawford tampa bay exciting player fun watch
+16: steal bases hit power plays tremendous defense outfield
+17: going question mark yankees andy pettitte return injury dominance post-season games pitcher
+18: -lsb- smoltz second
+19: minnesota kinds great stories
+20: starting pitcher first game francisco liriano coming injury spring training even know make roster
+21: -lsb- -rsb- starting game one
+22: cnn blown calls umpires last post-season
+23: see use replay
+24: smoltz wo replays used -lsb- last year -rsb-
+25: replay used home-run calls fair foul
+26: opinion eventually get point least post-season replay used run would affected
+27: runner third infield chopper guy looks like safe call think would reviewable since run -lsb- -rsb- scored
+28: trapped ball two outs man third would thing
+29: kind things could really affect outcome game would reviewable component run crosses home plate
+30: home run run affected
+31: cnn style game changed recent years either due stringent steroid testing reasons
+32: smoltz style game drastically changed
+33: become specialized game mean pitchers used per game makes hitting much difficult facing specialist guys throw 90 96 miles per hour coming bullpen
+34: big component changed strategy
+35: starting pitchers pitch long anymore relief pitchers pitch one two three batters time
+36: also think confidence hitters impacted steroid stuff contributed lack home runs
+37: cnn home field matter
+38: smoltz would argue always matters
+39: know statistics may show differently home field matter
+40: imagine football always got ball last fourth quarter matter score
+41: would impact
+42: baseball bat last means strategic advantage mention home-team crowd serve well
+43: best-of-five series -lsb- round one format -rsb- coin flip
+44: first game best-of-five means lot game one best-of-seven -lsb- format league championship world series -rsb-
+45: time recover best-of-seven best-of-five
+46: pressure best-of-five reduces chances -lsb- -rsb- best team winning
+47: cnn manager directly impact game steal win team
+48: smoltz bobby cox braves done greatest managing job career
+49: getting incredible testament patience ability put team position
+50: joe maddon rays uncanny well-thought-out theories applies team
+51: without knowing whole lot give nod joe maddon
+52: cnn would surprise post-season
+53: smoltz atlanta braves winning series giants ran gas sustained many injuries
+54: cincinnati knocking philadelphia heavily favored
+55: cnn prediction wins world series
+56: smoltz philadelphia beats tampa bay close series
+
+=================================
+Gold summary:
+john smoltz says keep eye young players leading teams baseball playoffs
+says use replay correct umpires calls
+smoltz says braves reds winning series would biggest surprise
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 0, 8, 37
+	Results: 
+		rouge-1: 0.2174
+		rouge-2: 0.0833
+		rouge-l: 0.1538
+		mean: 0.1515
+	Summary: 
+		editor note john smoltz star pitcher atlanta braves cy young award national league best pitcher 1996
+		john smoltz couple young players come mind
+		cnn home field matter
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3043
+		rouge-2: 0.0417
+		rouge-l: 0.1923
+		mean: 0.1794
+	Summary: 
+		editor note john smoltz star pitcher atlanta braves cy young award national league best pitcher 1996
+		second all-time 15 post-season wins color commentary tbs baseball playoff coverage gets way wednesday
+		baseball post-season starts wednesday six eight playoff teams facing best-of-five series
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 8, 23, 53
+	Results: 
+		rouge-1: 0.3913
+		rouge-2: 0.1667
+		rouge-l: 0.3846
+		mean: 0.3142
+	Summary: 
+		john smoltz couple young players come mind
+		see use replay
+		smoltz atlanta braves winning series giants ran gas sustained many injuries
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3043
+		rouge-2: 0.0417
+		rouge-l: 0.1923
+		mean: 0.1794
+	Summary: 
+		editor note john smoltz star pitcher atlanta braves cy young award national league best pitcher 1996
+		second all-time 15 post-season wins color commentary tbs baseball playoff coverage gets way wednesday
+		baseball post-season starts wednesday six eight playoff teams facing best-of-five series

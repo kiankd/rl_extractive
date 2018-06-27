@@ -1,0 +1,91 @@
+DOCUMENT:
+0: wired work ibm bring iphone work forget using phone voice-activated digital assistant
+1: siri welcome big blue networks
+2: siri ships everything say big data center maiden north carolina
+3: story really happens siri-launched searches e-mail messages inappropriate jokes bit black box
+4: ibm cio jeanette horan told mit technology review week company banned siri outright according magazine company worries spoken queries might stored somewhere
+5: apple new spaceship campus neighbors say
+6: turns horan right worry
+7: fact apple iphone software license agreement spells use siri dictation things say recorded sent apple order convert say text apple says
+8: siri collects bunch information names people address book unspecified user data help siri better job
+9: long apple store stuff gets look
+10: well company actually say
+11: user agreement using siri dictation agree consent apple subsidiaries agents transmission collection maintenance processing use information including voice input user data provide improve siri dictation apple products services
+12: apple samsung begin settlement talks
+13: data siri collects personal american civil liberties union put warning siri couple months ago
+14: privacy always big concern siri developers says edward wrenbeck lead developer original siri iphone app eventually acquired apple
+15: corporate users even potential pitfalls
+16: known certain customer location might violation non-disclosure agreement says
+17: apple designer winces past product choices
+18: agrees many issues raised apple siri data handling similar internet companies face
+19: really think something worry says
+20: people already things mobile devices
+21: maybe siri makes life little bit easier exactly opening new avenue
+22: companies pressured privacy groups way store customer data
+23: google example come fire past way handles massive database user search data
+24: ibm ban google
+25: neither apple ibm could reached comment tuesday couple important differences siri google may ibm worried one siri used write e-mails text messages
+26: theory apple could storing confidential ibm messages
+27: former apple employee explains upside-down logo
+28: another difference dogged privacy advocates google anonymizes search results making difficult impossible trace back individual user nine months
+29: maybe apple agreed something like siri would welcome armonk new york
+30: subscribe wired magazine less 1 issue get free gift
+31: copyright 2011 wired.com
+
+=================================
+Gold summary:
+ibm bans siri network according technology review
+technology company worries apple may store voice requests
+messages sent apple order convert say text
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 25, 27, 1
+	Results: 
+		rouge-1: 0.3000
+		rouge-2: 0.0000
+		rouge-l: 0.2273
+		mean: 0.1758
+	Summary: 
+		neither apple ibm could reached comment tuesday couple important differences siri google may ibm worried one siri used write e-mails text messages
+		former apple employee explains upside-down logo
+		siri welcome big blue networks
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1500
+		rouge-2: 0.0000
+		rouge-l: 0.1364
+		mean: 0.0955
+	Summary: 
+		wired work ibm bring iphone work forget using phone voice-activated digital assistant
+		siri welcome big blue networks
+		siri ships everything say big data center maiden north carolina
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 4, 7, 25
+	Results: 
+		rouge-1: 0.7500
+		rouge-2: 0.3333
+		rouge-l: 0.5455
+		mean: 0.5429
+	Summary: 
+		ibm cio jeanette horan told mit technology review week company banned siri outright according magazine company worries spoken queries might stored somewhere
+		fact apple iphone software license agreement spells use siri dictation things say recorded sent apple order convert say text apple says
+		neither apple ibm could reached comment tuesday couple important differences siri google may ibm worried one siri used write e-mails text messages
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1500
+		rouge-2: 0.0000
+		rouge-l: 0.1364
+		mean: 0.0955
+	Summary: 
+		wired work ibm bring iphone work forget using phone voice-activated digital assistant
+		siri welcome big blue networks
+		siri ships everything say big data center maiden north carolina

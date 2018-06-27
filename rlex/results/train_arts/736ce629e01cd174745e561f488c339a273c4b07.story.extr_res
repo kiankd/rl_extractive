@@ -1,0 +1,108 @@
+DOCUMENT:
+0: denver broncos quarterback tim tebow involved big game indianapolis helped team perform another miraculous comeback fourth quarter time running
+1: action take place lucas oil stadium home super bowl xlvi
+2: virtual gridiron battle ea sports madden bowl xviii played xbox 360s bud light hotel
+3: tebow part three-member clutch team also featured new orleans saints quarterback drew brees teammate tight end jimmy graham
+4: trio beat rookie team 16-13 dramatic comeback sending justin blackmon wide receiver oklahoma state university robert griffin iii quarterback baylor university lamichael james running back university oregon home without coveted trophy
+5: brees admitted tebow brings magic although twist brees played quarterback final drive tebow playing wide receiver
+6: tebow cover ea sports ncaa football 11 said happy part video game tournament
+7: humbling great athletes football players around friends continue build relationships wonderful said tebow
+8: opportunities madden game madden bowl really privilege
+9: even veteran players like san diego chargers tight end antonio gates drawn virtual competition offers something much important trophy
+10: madden bowl popular still competition said gates
+11: built competition
+12: characteristics competing winning
+13: come get see players enjoy festivities
+14: back everybody mind still want win madden bowl
+15: even news still want bragging rights
+16: gates said jacksonville jaguars running back maurice jones-drew madden bowl xvi spent time talking year competition hawaii pro bowl last weekend
+17: something like super bowl said miami dolphins wide receiver pro bowl mvp brandon marshall
+18: lot guys take pride madden game wagers made
+19: always fun watch
+20: ea keeps nfl biggest names involved tournament even hang cleats
+21: madden legends team featured hall famers barry sanders deion sanders warren sapp retired 2008
+22: came four buttons front quit playing madden said sapp laughing
+23: competition sapp said whole new brand used play nfl much trio
+24: enjoy focus video game puts sport still love watch
+25: constant influx new talent rookies typically edge video game skills many weaned intricate controllers atari nintendo generation learn
+26: fans see real field nothing beats experience football knowledge
+27: playing madden bowl tremendous experience said houston texans veteran running back arian foster played all-madden team tournament year
+28: guys come locker room say hey got killing madden
+29: awesome feeling madden helped get name today
+30: denver broncos linebacker von miller came party check high definition gridiron action become game game super bowl week
+31: crazy madden said nfl rookie miller
+32: another dream
+33: always dreamed playing nfl madden amazing
+34: play madden big deal
+35: everyone happy outcome madden bowl xviii
+36: perhaps player takes video game tournament seriously jones-drew
+37: said plays madden every day constantly preparing competition
+38: happy format change player versus player three-man teams last year
+39: beat anyone one-on-one way madden supposed played said jones-drew part all-madden team san francisco 49ers linebacker patrick willis foster
+40: tebow much time since going pro play video games
+41: competitive real field comes madden bowl teammates
+42: enjoy playing madden said tebow
+43: stay pretty busy like play lot
+44: good time playing brothers teammates get pretty competitive
+45: competitive nature already started madden nfl 13
+46: ea sports announced madden bowl 64 players two players nfl team compete chance cover new game
+47: fans final say picking cleveland browns running back peyton hillis year game
+48: tebow work magic grace cover august football game
+
+=================================
+Gold summary:
+tim tebow part three-member clutch team ea sports madden bowl xviii
+quarterback says happy part video game tournament
+ea keeps nfl biggest names involved tournament even hang cleats
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 25, 26, 6
+	Results: 
+		rouge-1: 0.3200
+		rouge-2: 0.1852
+		rouge-l: 0.2857
+		mean: 0.2636
+	Summary: 
+		constant influx new talent rookies typically edge video game skills many weaned intricate controllers atari nintendo generation learn
+		fans see real field nothing beats experience football knowledge
+		tebow cover ea sports ncaa football 11 said happy part video game tournament
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4400
+		rouge-2: 0.1852
+		rouge-l: 0.2857
+		mean: 0.3036
+	Summary: 
+		denver broncos quarterback tim tebow involved big game indianapolis helped team perform another miraculous comeback fourth quarter time running
+		action take place lucas oil stadium home super bowl xlvi
+		virtual gridiron battle ea sports madden bowl xviii played xbox 360s bud light hotel
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 3, 6, 20
+	Results: 
+		rouge-1: 0.8000
+		rouge-2: 0.7037
+		rouge-l: 0.7857
+		mean: 0.7631
+	Summary: 
+		tebow part three-member clutch team also featured new orleans saints quarterback drew brees teammate tight end jimmy graham
+		tebow cover ea sports ncaa football 11 said happy part video game tournament
+		ea keeps nfl biggest names involved tournament even hang cleats
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 2, 1
+	Results: 
+		rouge-1: 0.4400
+		rouge-2: 0.1852
+		rouge-l: 0.2857
+		mean: 0.3036
+	Summary: 
+		denver broncos quarterback tim tebow involved big game indianapolis helped team perform another miraculous comeback fourth quarter time running
+		virtual gridiron battle ea sports madden bowl xviii played xbox 360s bud light hotel
+		action take place lucas oil stadium home super bowl xlvi

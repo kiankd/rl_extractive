@@ -1,0 +1,106 @@
+DOCUMENT:
+0: sharon phillips regular anchorage jobs center midtown grateful resource bit frustrated keep coming
+1: 900 people week visit anchorage jobs center midtown
+2: alaska unemployment rate 8.3 percent
+3: one 70 80 people putting every position phillips told us visit past week
+4: phillips looking work eight months often using computerized job listings state-run jobs center
+5: put probably 10 eight 10 jobs week
+6: interviewed four week
+7: still unemployed said
+8: brad gillespie anchorage alaska regional manager job centers says 900 people week visit midtown facility
+9: 20 percent 30 percent time year ago
+10: seasonal economy getting winter season gillespie said
+11: construction work
+12: anchorage international airport international hub freight operations impacted economy turning
+13: new numbers released friday show state unemployment rate 8.4 percent 6.7 percent year ago
+14: job market tight state posts caution division employment security web site suggesting people move alaska unless already work lined
+15: fair amount people think alaska promised land misconceptions maybe
+16: load family head alaska highway want encourage something lined get gillespie said
+17: state economist neal fried says alaska often isolated national economic trends economy different manufacturing part limited seafood processing economy built mostly around energy sector federal spending military government installations
+18: numbers lie
+19: part like rest country fried said
+20: appear attached affected recession ever prior recessions country
+21: pain hardest rural remote communities energy food costs way national average transportation costs
+22: recent university alaska anchorage analysis said unemployment among native alaskans approaching 20 percent
+23: carol wren director employment training cook inlet tribal council community center says toughest stretch seen 10 years work center
+24: among native alaskans said education rates tend lower poverty rates higher
+25: folks may credentials experience said
+26: competitive less likely get positions
+27: making difficult help folks find work
+28: center benefited federal stimulus money help families training child care costs
+29: wren grateful assistance still sees tough stretch ahead
+30: think starting feel says recession
+31: democratic sen. mark begich believes stimulus money helping cushion blow
+32: drive around town see roads paved construction projects said begich former anchorage mayor
+33: said state received 1.6 billion stimulus funds quarter said spent alaska military installations
+34: lot think buffered us right time begich said
+35: republican gov. sean parnell agrees stimulus money helped state says would prefer washington take steps says would bring longer-term improvements
+36: tax cuts aimed job creation one wish faster decision proposals new exploration leases outercontinental shelf another
+37: outercontinental shelf development 35,000 new jobs parnell said
+38: concerns delays companies awaiting many federal permits like see move forward
+39: stimulus money parnell said try pump states year two know new medicaid funds cut states two years later leaves every state trying patch fix hole
+40: problem stimulus funds ¹ great come horrible ¹ gone
+41: dependence gets created lead freedom prosperity long run
+42: looking ahead parnell pushing new tourism marketing incentives help buffer early point looks like another tough tourism season next summer
+43: believes alaska hard hit many states parnell voices concerns many saying fact recession arrived late leads worries could linger long
+44: alaska tends trail rest united states comes economy
+45: rest economy headed takes alaska time behind said
+
+=================================
+Gold summary:
+recession hurts tourism construction work freight operations alaska
+state unemployment rate 8.4 percent 6.7 percent year ago
+alaska often isolated national trends economy different
+governor worries recession came late linger longer
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 33, 27, 5
+	Results: 
+		rouge-1: 0.1071
+		rouge-2: 0.0000
+		rouge-l: 0.0645
+		mean: 0.0572
+	Summary: 
+		said state received 1.6 billion stimulus funds quarter said spent alaska military installations
+		making difficult help folks find work
+		put probably 10 eight 10 jobs week
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1429
+		rouge-2: 0.0333
+		rouge-l: 0.1290
+		mean: 0.1017
+	Summary: 
+		sharon phillips regular anchorage jobs center midtown grateful resource bit frustrated keep coming
+		900 people week visit anchorage jobs center midtown
+		alaska unemployment rate 8.3 percent
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 13, 17, 43
+	Results: 
+		rouge-1: 0.6786
+		rouge-2: 0.4333
+		rouge-l: 0.6129
+		mean: 0.5749
+	Summary: 
+		new numbers released friday show state unemployment rate 8.4 percent 6.7 percent year ago
+		state economist neal fried says alaska often isolated national economic trends economy different manufacturing part limited seafood processing economy built mostly around energy sector federal spending military government installations
+		believes alaska hard hit many states parnell voices concerns many saying fact recession arrived late leads worries could linger long
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1429
+		rouge-2: 0.0333
+		rouge-l: 0.1290
+		mean: 0.1017
+	Summary: 
+		sharon phillips regular anchorage jobs center midtown grateful resource bit frustrated keep coming
+		900 people week visit anchorage jobs center midtown
+		alaska unemployment rate 8.3 percent

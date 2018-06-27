@@ -1,0 +1,97 @@
+DOCUMENT:
+0: cindy haynes 42 made decision
+1: life wife mom
+2: kids growing divorce finalized landed first real job
+3: lauren hetrovicz 21 stands across river eiffel tower paris france
+4: decided two groups people life haynes said
+5: people went dream never really accomplish anything
+6: decided doer
+7: 47 haynes backpacked europe three times
+8: top machu picchu peru
+9: gone china new york city yankees game
+10: sung famous cavern club liverpool beatles first met manager seen iditarod sled dog race alaska
+11: want get dying breath wish done something haynes said
+12: want get dying breath say
+13: recent death dave freeman co-author 100 things die hitting head fall prompted ireport.com ask users places want miss
+14: freeman visited half places list relatives told associated press
+15: haynes one number ireporters ambitious travel dreams
+16: others taken cues bucket list 2007 movie starring jack nicholson morgan freeman terminally ill cancer patients set achieve lists dreams die
+17: ireporters writing places want go starting plan get
+18: things die lists include anything watching sunsets climbing mount everest
+19: see photos ireporters bucket list trips
+20: put dreams goals paper try plan accomplish make reality said eric shoen 31-year-old rochester new york
+21: shoen meets friend year rewrite bucket lists crossing things accomplished adding new ones
+22: travels included grand canyon arizona madrid barcelona spain economy bus tour italy gelato included course
+23: take one day time shoen said
+24: die tomorrow hope people say lived full life fun
+25: someone died liston family recent trip would bury body come back later tj liston said
+26: 48-year-old coach lynchburg virginia took wife son daughter nephew son girlfriend 10-day canoe trip labrador canada
+27: six joined cook guide journey humans rarely travel one even guide 10 years
+28: many places world going go completely isolated remote still pristine liston said
+29: kind -lsb- area -rsb- indians went 300 400 years ago
+30: lauren hetrovicz often sticks tropical climates frozen tundra places 21 years life people see lifetime
+31: recent college graduate walked along great wall china looked upon paris height eiffel tower horseback rode exploding volcano saw christmas festival munich germany gazed upon acropolis parthenon athens greece kissed blarney stone luck near cork ireland
+32: even half
+33: hetrovicz studied abroad four countries india china costa rica italy father generosity scholarships
+34: illinois native encourages everyone broaden international perspective
+35: come back definitely different person hetrovicz said
+36: would say dump budget travel dream destination day pass opportunity slip hands
+
+=================================
+Gold summary:
+people around country creating bucket lists
+lists include anything see sunsets climb mount everest
+tj liston took family 10-day canoe trip labrador canada
+eric shoen meets friend revise bucket list year
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 2, 10, 23
+	Results: 
+		rouge-1: 0.0345
+		rouge-2: 0.0000
+		rouge-l: 0.0323
+		mean: 0.0222
+	Summary: 
+		kids growing divorce finalized landed first real job
+		sung famous cavern club liverpool beatles first met manager seen iditarod sled dog race alaska
+		take one day time shoen said
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.0000
+		rouge-2: 0.0000
+		rouge-l: 0.0000
+		mean: 0.0000
+	Summary: 
+		cindy haynes 42 made decision
+		life wife mom
+		kids growing divorce finalized landed first real job
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 18, 21, 26
+	Results: 
+		rouge-1: 0.5862
+		rouge-2: 0.3333
+		rouge-l: 0.3871
+		mean: 0.4355
+	Summary: 
+		things die lists include anything watching sunsets climbing mount everest
+		shoen meets friend year rewrite bucket lists crossing things accomplished adding new ones
+		48-year-old coach lynchburg virginia took wife son daughter nephew son girlfriend 10-day canoe trip labrador canada
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 4
+	Results: 
+		rouge-1: 0.0345
+		rouge-2: 0.0000
+		rouge-l: 0.0323
+		mean: 0.0222
+	Summary: 
+		cindy haynes 42 made decision
+		life wife mom
+		decided two groups people life haynes said

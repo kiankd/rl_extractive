@@ -1,0 +1,74 @@
+DOCUMENT:
+0: nasa planning catch asteroid place orbit around moon
+1: sounds like something science fiction actually part president barack obama proposed federal budget next fiscal year according florida senator
+2: budget expected unveiled week
+3: money needed prevent big asteroid strike
+4: nutshell plan nasa hands calls catching asteroid robotic spacecraft towing back toward earth would placed stable orbit around moon read statement office florida sen. bill nelson
+5: opinion meteor shows crucial keep eye sky
+6: astronauts would travel asteroid could mining activities research ways deflecting asteroid striking earth testing develop technology trip deep space mars said
+7: nasa plan similar one suggested last year experts california institute technology said nelson chairman senate subcommittee science space
+8: plan proposed bringing 500-ton asteroid closer earth
+9: meteor lights east coast social media
+10: obama supports nasa plan including 100 million proposed budget kick senator said
+11: president previously said wants send astronauts asteroid first time 2025
+12: nasa plan would bump date four years 2021 according nelson office
+13: proposal may gotten unexpected boost february asteroid exploded russia injuring 1,000 people causing millions dollars damage sparking fresh concerns severity space threats
+14: catch space science news light years
+
+=================================
+Gold summary:
+nasa aims tow asteroid back toward earth says florida sen. bill nelson
+astronauts would travel study
+president barack obama supports plan nelson says
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 1, 5, 6
+	Results: 
+		rouge-1: 0.4286
+		rouge-2: 0.1818
+		rouge-l: 0.1739
+		mean: 0.2614
+	Summary: 
+		sounds like something science fiction actually part president barack obama proposed federal budget next fiscal year according florida senator
+		opinion meteor shows crucial keep eye sky
+		astronauts would travel asteroid could mining activities research ways deflecting asteroid striking earth testing develop technology trip deep space mars said
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2857
+		rouge-2: 0.0909
+		rouge-l: 0.2174
+		mean: 0.1980
+	Summary: 
+		nasa planning catch asteroid place orbit around moon
+		sounds like something science fiction actually part president barack obama proposed federal budget next fiscal year according florida senator
+		budget expected unveiled week
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 4, 6, 10
+	Results: 
+		rouge-1: 0.7143
+		rouge-2: 0.4091
+		rouge-l: 0.6522
+		mean: 0.5919
+	Summary: 
+		nutshell plan nasa hands calls catching asteroid robotic spacecraft towing back toward earth would placed stable orbit around moon read statement office florida sen. bill nelson
+		astronauts would travel asteroid could mining activities research ways deflecting asteroid striking earth testing develop technology trip deep space mars said
+		obama supports nasa plan including 100 million proposed budget kick senator said
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 4
+	Results: 
+		rouge-1: 0.6667
+		rouge-2: 0.3182
+		rouge-l: 0.3913
+		mean: 0.4587
+	Summary: 
+		nasa planning catch asteroid place orbit around moon
+		sounds like something science fiction actually part president barack obama proposed federal budget next fiscal year according florida senator
+		nutshell plan nasa hands calls catching asteroid robotic spacecraft towing back toward earth would placed stable orbit around moon read statement office florida sen. bill nelson

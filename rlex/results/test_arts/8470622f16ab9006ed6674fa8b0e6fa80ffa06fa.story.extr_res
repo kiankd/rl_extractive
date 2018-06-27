@@ -1,0 +1,92 @@
+DOCUMENT:
+0: ew.com weekend ridley scott-directed drama starring michael fassbender javier bardem cameron diaz brad pitt got trounced box office johnny knoxville old-man costume
+1: yep jackass presents bad grandpa topped chart excellent 32 million first three days giving knoxville sixth no. 1 movie three jackass films men black ii dukes hazzard
+2: bad run guy built career getting pushed street curbs sitting inside shopping carts
+3: bad grandpa paramount made 15 million budget feature entire jackass crew still posted numbers line rest irreverent prank franchise
+4: benedict cumberbatch fifth estate worst debut 2013
+5: film opened 2010â ² jackass 3-d debuted 50 million boosted part 3-d ticket prices beat openings jackass movie 22.8 million jackass number two 29 million
+6: audiences gave middling b cinemascore grade performs similarly jackass predecessors bad grandpa finish 70-80 million total
+7: bad grandpa finally knocked gravity first place warner bros 100 million space drama starring sandra bullock george clooney still managed terrific hold fourth weekend
+8: film dropped 32 percent 20.3 million giving 200.5 million total making clooney highest-grossing film ever ahead ocean eleven earned 183.4 million 2001
+9: one rung tom hanks nautical drama captain phillips stayed course third voyage
+10: sony 55 million film sank 28 percent 11.8 million 70.1 million total
+11: trio misfires larry crowne extremely loud incredibly close cloud atlas phillips marks major return-to-form hanks
+12: likely awards attention weeks come film could sail 100 million mark
+13: casting net ben affleck direct star africa-set thriller
+14: fourth place ridley scott star-studded drama counselor failed gate 8 million 3,044 theaters
+15: fox spent 25 million film audiences impressed convoluted ad campaign â impressed final product either slapping counselor distressing cinemascore grade
+16: gravity captain phillips thrived recent weeks adult dramas like jon rush fifth estate counselor fallen wayside
+17: disappointing debut horror remake carrie plummeted 63 percent second weekend 5.9 million giving screen gems mgm 30 million film awful 26 million total
+18: much halloween appeal easing decline sophomore frame
+19: opened door cloudy chance meatballs 2 score one final weekend top five grossing 6.1 million pushing total past 100 million
+20: jackass presents bad grandpa 32 million
+21: gravity 20.3 million
+22: captain phillips 11.8 million
+23: counselor 8 million
+24: cloudy chance meatballs 2 6.1 million
+25: oscar contender 12 years slave jumped top 10 expanding 19 123 theaters
+26: harrowing slavery drama earned cinemascore audiences last weekend grossed 2.2 million yielding 17,480 location average weekend excellent 3.4 million total 10 days
+27: fox searchlight continue expand film produced brad pitt production company plan b â bad news star weekend weeks come
+28: see original story ew.com
+29: click try 2 risk free issues entertainment weekly
+30: © 2011 entertainment weekly time inc.
+31: rights reserved
+
+=================================
+Gold summary:
+jackass presents bad grandpa earned 32 million first three days
+bad grandpa star johnny knoxville sixth no. 1 movie
+film also knocked gravity no. 1
+film grossed 200.5 million
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 25, 4, 6
+	Results: 
+		rouge-1: 0.1739
+		rouge-2: 0.0385
+		rouge-l: 0.1379
+		mean: 0.1168
+	Summary: 
+		oscar contender 12 years slave jumped top 10 expanding 19 123 theaters
+		benedict cumberbatch fifth estate worst debut 2013
+		audiences gave middling b cinemascore grade performs similarly jackass predecessors bad grandpa finish 70-80 million total
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.6522
+		rouge-2: 0.4615
+		rouge-l: 0.4828
+		mean: 0.5322
+	Summary: 
+		ew.com weekend ridley scott-directed drama starring michael fassbender javier bardem cameron diaz brad pitt got trounced box office johnny knoxville old-man costume
+		yep jackass presents bad grandpa topped chart excellent 32 million first three days giving knoxville sixth no. 1 movie three jackass films men black ii dukes hazzard
+		bad run guy built career getting pushed street curbs sitting inside shopping carts
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 7, 8
+	Results: 
+		rouge-1: 0.8261
+		rouge-2: 0.5000
+		rouge-l: 0.6552
+		mean: 0.6604
+	Summary: 
+		yep jackass presents bad grandpa topped chart excellent 32 million first three days giving knoxville sixth no. 1 movie three jackass films men black ii dukes hazzard
+		bad grandpa finally knocked gravity first place warner bros 100 million space drama starring sandra bullock george clooney still managed terrific hold fourth weekend
+		film dropped 32 percent 20.3 million giving 200.5 million total making clooney highest-grossing film ever ahead ocean eleven earned 183.4 million 2001
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 23
+	Results: 
+		rouge-1: 0.6522
+		rouge-2: 0.4615
+		rouge-l: 0.5172
+		mean: 0.5437
+	Summary: 
+		ew.com weekend ridley scott-directed drama starring michael fassbender javier bardem cameron diaz brad pitt got trounced box office johnny knoxville old-man costume
+		yep jackass presents bad grandpa topped chart excellent 32 million first three days giving knoxville sixth no. 1 movie three jackass films men black ii dukes hazzard
+		counselor 8 million

@@ -1,0 +1,96 @@
+DOCUMENT:
+0: cnn robert downey jr. making headlines walking interview british journalist dared veer away superhero movie downey promote
+1: journalist instead started asking personal questions actor political beliefs dark periods addiction jail time
+2: twitter course abuzz journalist krishnan guru-murthy go far
+3: must every interview license journalist ask anything like
+4: start 7-minute television interview seems evident downey particularly interested even ultimately benefit promoting latest film avengers age ultron
+5: grows increasingly agitated even line questioning remains on-topic attitude meanwhile grew increasingly smug
+6: eyes glaze reporter talks makes condescending comments gestures seem intended intimidate imply much smarter guru-murthy repeatedly looks toward handler say really sit guy
+7: one point makes fun guru-murthy seeming nervous saying foot starting jump little bit
+8: better get next question
+9: guru-murthy asks downey whether thinks free referring downey history taking drugs drinking building tension comes head
+10: sorry says downey
+11: guru-murthy replies asking questions indeed
+12: downey right refuse answer question course next
+13: instead throws celebrity interview equivalent tantrum smiles arrogantly says bye
+14: stands leave
+15: sure showed
+16: true live culture feel right know everything celebrities dating eating vacation meant made comment 10 years ago
+17: journalists often go far even job
+18: certainly every journalist good job
+19: downey may understandably tired answering questions past questions asked business business
+20: entertainment industry entertaining people
+21: tend like watch actors seem like want watched
+22: celebrities especially big budget movie promote agree interviews seek recognition general
+23: recognition longer serves
+24: want bemoan
+25: downey seemed misunderstand interview format gives journalists right ask questions
+26: certainly decline answer questions feel appropriate even ones simply feel like answering
+27: right absolved behavior rude demeaning disrespectful even celebrity even felt uncomfortable put-off
+28: video shows movie star bullying streak
+29: removes microphone handlers begin hustling kid gloves actor resist parting shot
+30: turns reporter sure look directly camera way says seem okay
+31: getting little diane sawyer followed sounds like kind schmuck
+32: downey might mood questioned days moods understandable
+33: yet case well bad
+34: actor agreed interview part job
+35: agreed engage conversation another professional human
+36: given terms entitled call shots
+37: thinks perhaps celebrity-obsessed revere famous surprise reveal regard better everyone else
+
+=================================
+Gold summary:
+peggy drexler interview promote movie robert downey jr. walked asked personal questions
+says behavior rude demeaning interviewer job
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 24, 12, 30
+	Results: 
+		rouge-1: 0.1111
+		rouge-2: 0.0000
+		rouge-l: 0.1111
+		mean: 0.0741
+	Summary: 
+		want bemoan
+		downey right refuse answer question course next
+		turns reporter sure look directly camera way says seem okay
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4444
+		rouge-2: 0.1765
+		rouge-l: 0.2778
+		mean: 0.2996
+	Summary: 
+		cnn robert downey jr. making headlines walking interview british journalist dared veer away superhero movie downey promote
+		journalist instead started asking personal questions actor political beliefs dark periods addiction jail time
+		twitter course abuzz journalist krishnan guru-murthy go far
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 1, 27
+	Results: 
+		rouge-1: 0.6111
+		rouge-2: 0.2941
+		rouge-l: 0.4444
+		mean: 0.4499
+	Summary: 
+		cnn robert downey jr. making headlines walking interview british journalist dared veer away superhero movie downey promote
+		journalist instead started asking personal questions actor political beliefs dark periods addiction jail time
+		right absolved behavior rude demeaning disrespectful even celebrity even felt uncomfortable put-off
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4444
+		rouge-2: 0.1765
+		rouge-l: 0.2778
+		mean: 0.2996
+	Summary: 
+		cnn robert downey jr. making headlines walking interview british journalist dared veer away superhero movie downey promote
+		journalist instead started asking personal questions actor political beliefs dark periods addiction jail time
+		twitter course abuzz journalist krishnan guru-murthy go far

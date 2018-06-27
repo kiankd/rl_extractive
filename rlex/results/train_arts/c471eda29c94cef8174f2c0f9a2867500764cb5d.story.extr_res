@@ -1,0 +1,109 @@
+DOCUMENT:
+0: cnn yaya toure trappings english premier league footballer
+1: reported 334,000-a-week salary luxury homes cars mention silverware last season manchester city premier league english league cup
+2: yet despite success including fourth straight african player year title city ivory coast talisman describes 2014 horrible year
+3: wonder barely six months since younger brother ibrahim died toure brother kolo world cup duty brazil
+4: lies store 2015 idea
+5: asked wants stay put city toure says wide-ranging interview cnn amanda davies big question easy question well easy answer see
+6: pressed whether plans still etihad stadium 2015-16 premier league season says know
+7: city great club achieved lots things
+8: less equivocal answers bring us toure marie antoinette let eat cake moment
+9: city title triumph last season agent dimitri seluk said toure upset ivorian birthday properly acknowledged club
+10: got cake roberto carlos birthday president russian side anzhi makhachkala gave bugatti seluk reportedly said
+11: sometimes makes disappointed story going wrong says toure looking back episode
+12: want open heart open mind newspaper -lsb- reports -rsb- disappointing things running newspaper hurt lot
+13: guy strong mentally
+14: toure says felt let certain individuals story unfolded though divulging names
+15: however quick credit city supporters well chairman khaldoon al mubarak manager manuel pellegrini ensuring felt loved
+16: though playing provides greatest solace
+17: football keeps peaceful adds toure
+18: feeling going ball makes happy
+19: see city fans singing name manager told want cover take space makes feel happy want
+20: toure much player wears heart sleeve becomes apparent reflects highs lows 2014
+21: biggest low came brazil news ibrahim death broken phone another brothers
+22: toure tragedy still remains raw 2014 think say horrible year
+23: disappointing world cup
+24: course premier league cup year think death brother hard one hardest one preparing support situation
+25: family one love one care rest think ibrahim guy
+26: passed away time quite difficult beginning season premier league manage difficult
+27: amid tragedy toure sibling kolo plays liverpool opted stay brazil represent country
+28: decision still regrets day
+29: playing ensuing game greece admits mind thinking game calling -lsb- ibrahim -rsb-
+30: still asking feel game played greece
+31: passed away game
+32: perhaps memory ways raw brothers back international action country upcoming africa cup nations afcon equatorial guinea
+33: time loyalties african players tested given many play top european club often fighting titles cups
+34: difficult country club always hardest divide especially city fans chairman boss well good want give 100 said 31-year-old
+35: elephants undeniably one strongest teams continent africa given call likes toures recent city signing wilfried bony salomon kalou cheick tiote
+36: nation always shone international level especially africa prestigious tournament winning one afcon title back 1992 finishing runners-up 2006 two years ago
+37: think lack concentration maybe fear team
+38: think best desire determination says toure reflecting country relative under-performance tournament
+39: mentally ready hard battle africa opponent fight
+40: fight temperature well fight field
+41: tournament due take place morocco amid fears ebola crisis north african nation withdrew hosts equatorial guinea stepped hosts
+42: ebola remains talking point among players toure qualms something concerns ahead opening game guinea disease taken hold
+43: difficult feel like family maybe contract infection little bit afraid says
+44: yes fear ca say want go situation need educate people people understand protect infection
+45: talk perhaps scrapping tournament year due threat posed ebola toure believes organizers right go ahead
+46: january time african people enjoy says
+47: african player coming europe like moment dream african see us coming always happy
+48: going like big fiesta people enjoy dance love want
+49: toure tumultuous 2014 hopeful prove perfect start 2015
+
+=================================
+Gold summary:
+toure says see asked expects still manchester city next season
+midfielder relives horror hearing death brother ibrahim world cup
+toure sights set winning african cup nations ivory coast
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 41, 11, 12
+	Results: 
+		rouge-1: 0.1154
+		rouge-2: 0.0000
+		rouge-l: 0.0714
+		mean: 0.0623
+	Summary: 
+		tournament due take place morocco amid fears ebola crisis north african nation withdrew hosts equatorial guinea stepped hosts
+		sometimes makes disappointed story going wrong says toure looking back episode
+		want open heart open mind newspaper -lsb- reports -rsb- disappointing things running newspaper hurt lot
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3077
+		rouge-2: 0.0741
+		rouge-l: 0.2500
+		mean: 0.2106
+	Summary: 
+		cnn yaya toure trappings english premier league footballer
+		reported 334,000-a-week salary luxury homes cars mention silverware last season manchester city premier league english league cup
+		yet despite success including fourth straight african player year title city ivory coast talisman describes 2014 horrible year
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 2, 3, 5
+	Results: 
+		rouge-1: 0.4615
+		rouge-2: 0.1481
+		rouge-l: 0.2143
+		mean: 0.2747
+	Summary: 
+		yet despite success including fourth straight african player year title city ivory coast talisman describes 2014 horrible year
+		wonder barely six months since younger brother ibrahim died toure brother kolo world cup duty brazil
+		asked wants stay put city toure says wide-ranging interview cnn amanda davies big question easy question well easy answer see
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3077
+		rouge-2: 0.0741
+		rouge-l: 0.2500
+		mean: 0.2106
+	Summary: 
+		cnn yaya toure trappings english premier league footballer
+		reported 334,000-a-week salary luxury homes cars mention silverware last season manchester city premier league english league cup
+		yet despite success including fourth straight african player year title city ivory coast talisman describes 2014 horrible year

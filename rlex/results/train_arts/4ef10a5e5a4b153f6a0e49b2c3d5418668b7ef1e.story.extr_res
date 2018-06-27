@@ -1,0 +1,111 @@
+DOCUMENT:
+0: first time saw oscar pistorius run captivated
+1: witnessing caused jump
+2: 10-year-old son amputee since first week life calmly commented mom man
+3: suppose curbed enthusiasm
+4: see man motion without use feet simply magical
+5: saw future superhero son missing part right forearm hand
+6: completely inspired felt though witnessed messiah
+7: captivated started posting likeness facebook page
+8: short caught oscar-mania
+9: even church pastor preached pistorius
+10: blade runner said represented christian values
+11: embodied things wish son life
+12: seeing pistorius olympic paralympic games amazing something special raise awareness athletes physical differences
+13: however hysteria lost sight one simple thing son able see pistorius man
+14: ability make mistakes mortals
+15: god person got caught passion
+16: full pistorius affidavit court
+17: know really happened
+18: would like believe reeva steenkamp death horrible accident
+19: oscar pistorius may may guilty
+20: whatever happened lesson often life put people pedestals
+21: set fail
+22: reality despite seemingly superhuman performances people sets challenges
+23: truth wanted son role model
+24: first part life filled questions
+25: wanted someone tell would ok
+26: born first couple times saw someone limb difference would race start conversation
+27: beginning approach brought comfort
+28: one morning gym spotted man limb difference like son
+29: time baby 6 months old
+30: ran said hello
+31: guy turned looked
+32: thick french-canadian accent responded hello dear
+33: completely embarrassed thrust baby range vision stumbled say like
+34: suddenly seductive voice changed matter-of-fact tone
+35: instant said words never forgotten issue
+36: son never really see different unless let
+37: continued young control perceives
+38: relax enjoy
+39: mortified completely perplexed
+40: another level grateful words
+41: made husband laugh
+42: man lacks hair remarked honey run every bald guy
+43: expect connection every person whose limb difference like son
+44: life lesson
+45: want reminded ordinary people capable extraordinary things
+46: despite whatever heroic inspiring feats accomplish potentially capable great harm
+47: grateful pistorius flash greatness sad fallen
+48: ever learned important lesson children
+49: share cnn ireport comments
+50: opinions expressed commentary solely cynthia falardeau
+
+=================================
+Gold summary:
+cynthia falardeau son 10 lost part right arm newborn
+falardeau saw runner oscar pistorius role model son
+son cautioned mom man
+personal essay share world submit cnn ireport
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 17, 2, 28
+	Results: 
+		rouge-1: 0.1200
+		rouge-2: 0.0370
+		rouge-l: 0.1071
+		mean: 0.0881
+	Summary: 
+		know really happened
+		10-year-old son amputee since first week life calmly commented mom man
+		one morning gym spotted man limb difference like son
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2400
+		rouge-2: 0.0741
+		rouge-l: 0.2143
+		mean: 0.1761
+	Summary: 
+		first time saw oscar pistorius run captivated
+		witnessing caused jump
+		10-year-old son amputee since first week life calmly commented mom man
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 5, 13, 49
+	Results: 
+		rouge-1: 0.4000
+		rouge-2: 0.0741
+		rouge-l: 0.2857
+		mean: 0.2533
+	Summary: 
+		saw future superhero son missing part right forearm hand
+		however hysteria lost sight one simple thing son able see pistorius man
+		share cnn ireport comments
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2400
+		rouge-2: 0.0741
+		rouge-l: 0.2143
+		mean: 0.1761
+	Summary: 
+		first time saw oscar pistorius run captivated
+		witnessing caused jump
+		10-year-old son amputee since first week life calmly commented mom man

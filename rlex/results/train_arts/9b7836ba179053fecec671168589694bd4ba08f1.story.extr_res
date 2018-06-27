@@ -1,0 +1,118 @@
+DOCUMENT:
+0: ty ziegel peers beneath marine corps baseball cap boyish face burned beyond recognition suicide bomber attack iraq three days christmas 2004
+1: ty ziegel marine badly wounded iraq
+2: battled va disability benefits returned
+3: lost part skull blast part brain damaged
+4: half left arm amputated fingers blown right hand
+5: ziegel 25-year-old marine sergeant knew dangers war deployed second tour iraq
+6: expect new battle returned home wounded warrior fight department veterans affairs
+7: sometimes get lost system told cnn
+8: feel like social security number
+9: feel like tyler ziegel
+10: story one example medical advances battlefield outpaced home front
+11: many wounded veterans return home feeling va system specifically 62-year-old disability ratings system failed
+12: watch ziegel display model skull
+13: va system ready simply time catch tammy duckworth wounded veteran heads illinois department veteran affairs told senate veterans affairs committee march
+14: va acting secretary gordon mansfield said cases like ziegel rare majority veterans moving process taken care
+15: also said veterans fairly compensated
+16: veteran issue medical disability going get exact result anywhere system said
+17: 28,500 troops wounded operation iraqi freedom including 8,500 needed air transport according u.s. military
+18: see photos iraq war heroes
+19: recent harvard study found cost caring wounded course lifetime could ultimately cost 660 billion
+20: ziegel case spent nearly two years recovering brooke army medical center texas
+21: got hospital unable hold job
+22: anticipated receiving monthly va disability check sufficient cover small-town lifestyle washington illinois
+23: instead got check far less expected
+24: pressing answers ziegel finally received letter va rated injuries 80 percent facial disfigurement 60 percent left arm amputation mere 10 percent head trauma nothing left lobe brain injury right eye blindness jaw fracture
+25: get mad many things said
+26: getting ready beat white house door need
+27: expecting live lap luxury added
+28: asking make comfortable raise family struggle
+29: within 48 hours telling story cnn summer office then-va secretary jim nicholson acted ziegel case
+30: va changed head trauma injury rated 10 percent traumatic brain injury rated 100 percent substantially increasing monthly disability check
+31: duckworth illinois va chief knows exactly ziegel severely wounded vets going
+32: lost legs rocket-propelled grenade struck blackhawk helicopter november 12 2004
+33: right arm also shattered
+34: watch duckworth wounds changed life
+35: told cnn received incredible care walter reed 13 months soon realized transition va would smooth
+36: started worrying fact maybe country wo remember five years war wounded duckworth said
+37: garrett anderson illinois national guard example fighting va since october 15 2005
+38: shrapnel tore head body roadside bomb blew truck driving
+39: lost right arm
+40: va initially rejected claim saying severe shrapnel wounds service connected
+41: watch anderson describe arm hanging
+42: would want tell iraqi afghanistan soldier blown ied wounds caused service
+43: said anderson wife sam
+44: pressure sen. dick durbin illinois va acted anderson case
+45: since awarded compensation traumatic brain injury
+46: upsets va system operates way takes people power know know get want said anderson retired
+47: asked anderson case specifically va mansfield said cases make dedicated fixing system
+48: july president bush commission appointed review care veterans returning war announced need complete overhaul disability ratings system dates back world war ii
+49: va considering action commission recommendations
+50: ziegel eventually battle
+51: still feels many others believes getting cheated system
+52: feeding war machine never think war machine comes home needs know feeding back home said
+53: family hopes fight va
+54: august ty ziegel brother 22-year-old zach ziegel deployed iraq
+55: want make va system better go anything went really going upset
+56: make fuse real short hot ty ziegel said
+57: e-mail friend
+
+=================================
+Gold summary:
+ty ziegel lost arm part skull attacked iraq
+va initially rated brain injury 0 meaning got compensation
+another vet va rejected claim saying wounds service connected
+ziegel want make va system better
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 50, 36, 54
+	Results: 
+		rouge-1: 0.1034
+		rouge-2: 0.0323
+		rouge-l: 0.0938
+		mean: 0.0765
+	Summary: 
+		ziegel eventually battle
+		started worrying fact maybe country wo remember five years war wounded duckworth said
+		august ty ziegel brother 22-year-old zach ziegel deployed iraq
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1379
+		rouge-2: 0.0323
+		rouge-l: 0.1562
+		mean: 0.1088
+	Summary: 
+		ty ziegel peers beneath marine corps baseball cap boyish face burned beyond recognition suicide bomber attack iraq three days christmas 2004
+		ty ziegel marine badly wounded iraq
+		battled va disability benefits returned
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 24, 40, 55
+	Results: 
+		rouge-1: 0.5862
+		rouge-2: 0.3226
+		rouge-l: 0.5312
+		mean: 0.4800
+	Summary: 
+		pressing answers ziegel finally received letter va rated injuries 80 percent facial disfigurement 60 percent left arm amputation mere 10 percent head trauma nothing left lobe brain injury right eye blindness jaw fracture
+		va initially rejected claim saying severe shrapnel wounds service connected
+		want make va system better go anything went really going upset
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1379
+		rouge-2: 0.0323
+		rouge-l: 0.1562
+		mean: 0.1088
+	Summary: 
+		ty ziegel peers beneath marine corps baseball cap boyish face burned beyond recognition suicide bomber attack iraq three days christmas 2004
+		ty ziegel marine badly wounded iraq
+		battled va disability benefits returned

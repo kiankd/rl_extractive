@@ -1,0 +1,117 @@
+DOCUMENT:
+0: still charred brick walls reverberated music first time since 2009 fire gutted iconic georgia theatre
+1: historic venue though rebuilt modernized still showed scars blaze almost devoured entire building
+2: glands indie rock band athens georgia began sound check spot helped launch careers r.e.m. b-52s many influential groups
+3: first song played two years said owner wilmot greene smile beaming face construction complete music returned
+4: two years working sounds backhoes jackhammers greene hears rock roll
+5: major doubts whether musical landmark would come back fire
+6: august 1 theatre opened doors ticket holders triumphant two-week series performances
+7: greene said never forget reopening
+8: magical night finally see people back
+9: still-unexplained fire ignited overnight inside guest dressing room fully engulfed building mostly wooden interior
+10: hours blaze destroyed interior 100-year-old building
+11: august 2010 theater struggles fire
+12: final cost rebuild theater retrofit modern building codes 4.5 million
+13: insurance covered little owed original structure owners limited much could borrow bank
+14: donations fundraising benefits brought 250,000
+15: largest donation came grammy award winning zac brown band another product athens music scene
+16: without contributions theater might brought back life
+17: raised exactly much
+18: raised less would worked said greene
+19: theater continues accept donations high-level donors honored photo gallery inside theater documents fire rebuilding process
+20: new space transformed four blackened exterior brick walls heap smoldering rubble theater production manager ric wallace describes world class music venue
+21: everything designed operate support a-list artists said
+22: drive-by truckers guitarist singer patterson hood heartbroken got call theater burned
+23: important part town music history hood said
+24: pleased much re-build matches original grandeur
+25: think absolutely fantastic job said
+26: blown away
+27: rickety wooden steps one point led patrons balcony replaced elevator three floors fire-safe enclosed spiral staircase
+28: worn tattered bars rebuilt using wood salvaged rubble
+29: new 65,000 watt sound system fills room completely ensure 1,087 fans get came music
+30: though insides changed remodeled structure still pays homage original
+31: signature marquee remains
+32: still two bars flank either side main level
+33: stately red curtains still outline stage exposed brick walls though charred still
+34: starting blank slate also gave theater management ability make improvements
+35: three-tiered balcony gives great vantage point see shows rooftop bar allows concertgoers opportunity step outside soak evening
+36: remodelers ultimate goal though give theater updated look without taking away feel original layout
+37: even though different place still still grand old theater wallace said
+38: building transformed movie theater 1930s everything ymca masonic temple furniture store
+39: became music venue 1978 backdrop r.e.m. shiny happy people john mayer thing videos
+40: major artists widespread panic zac brown cut teeth playing sweaty fans inside theatre
+41: became type venue gave something everybody
+42: many shows span several genres music fan find niche
+43: one night derek trucks band would jam mellow southern blues
+44: another night cee lo green would blow roof r&b
+45: mind owners decided hold two-week grand opening cover full gamut musical styles fully encapsulates diversity theater
+46: always loved georgia theatre clean palette kind artist paint said greene
+47: drive-by truckers among dozen acts performed grand reopening
+48: others included big boi bela fleck flecktones
+49: fabulous greene said first weeks shows
+50: crowds full bands happy
+51: really gone fantastic
+52: fans come back droves selling shows since reopening
+53: theatre able resume purpose giving people place enjoy music
+54: real primeval thing going concert greene said
+55: feel like people dancing around fire since humans
+56: two years massive effort dancing returned
+
+=================================
+Gold summary:
+burned mysterious fire venue holds grand re-opening
+theater hosted early gigs r.e.m. b-52s indigo girls widespread panic
+2-week re-opening features artists drive-by truckers big boi
+truckers patterson hood blown away
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 51, 22, 39
+	Results: 
+		rouge-1: 0.2857
+		rouge-2: 0.0690
+		rouge-l: 0.1333
+		mean: 0.1627
+	Summary: 
+		really gone fantastic
+		drive-by truckers guitarist singer patterson hood heartbroken got call theater burned
+		became music venue 1978 backdrop r.e.m. shiny happy people john mayer thing videos
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1429
+		rouge-2: 0.0345
+		rouge-l: 0.1333
+		mean: 0.1036
+	Summary: 
+		still charred brick walls reverberated music first time since 2009 fire gutted iconic georgia theatre
+		historic venue though rebuilt modernized still showed scars blaze almost devoured entire building
+		glands indie rock band athens georgia began sound check spot helped launch careers r.e.m. b-52s many influential groups
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 2, 22, 26
+	Results: 
+		rouge-1: 0.3571
+		rouge-2: 0.1379
+		rouge-l: 0.2667
+		mean: 0.2539
+	Summary: 
+		glands indie rock band athens georgia began sound check spot helped launch careers r.e.m. b-52s many influential groups
+		drive-by truckers guitarist singer patterson hood heartbroken got call theater burned
+		blown away
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1429
+		rouge-2: 0.0345
+		rouge-l: 0.1333
+		mean: 0.1036
+	Summary: 
+		still charred brick walls reverberated music first time since 2009 fire gutted iconic georgia theatre
+		historic venue though rebuilt modernized still showed scars blaze almost devoured entire building
+		glands indie rock band athens georgia began sound check spot helped launch careers r.e.m. b-52s many influential groups

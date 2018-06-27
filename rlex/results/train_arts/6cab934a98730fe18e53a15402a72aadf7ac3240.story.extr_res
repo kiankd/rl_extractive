@@ -1,0 +1,84 @@
+DOCUMENT:
+0: double world champion sebastian vettel suffered disrupted second practice session ahead sunday abu dhabi grand prix mclaren lewis hamilton setting pace friday
+1: red bull driver vettel back track claimed first two world championships 12 months ago youngest driver achieve feat german spun first corner yas marina circuit
+2: vettel 11 17 races 2011 recovered rejoin practice 10 minutes remaining finished sixth position track past two years
+3: ended day half second behind hamilton leading time one minute 39.586 secs
+4: hamilton world champion 2008 fifth overall disappointing season led second-placed teammate jenson button ahead saturday qualifying
+5: latest f1 standings indian gp
+6: lost car entrance turn one vettel clinched 2011 championship third place japan last month told sport official website
+7: think wide far kerb lost rear could catch car anymore
+8: lucky get end p2 much damage apart front wing
+9: british racer hamilton pleased form confident ahead season penultimate race
+10: really positive day 26-year-old said
+11: track got better better today slowly chipped away set-up
+12: tires behaving well last race degradation pace feels much better weekend
+13: real positive
+14: come friday without problems definitely makes feel confident rest weekend
+15: button 2009 world champion running second year admitted experimenting practice run track passing traditionally difficult
+16: playing around overtaking long run 31-year-old said
+17: still reckon difficult overtake people drs zones
+18: think going bit struggle make moves stick race means going important qualify front
+19: tricky around made good progress afternoon evening
+20: ferrari fernando alonso also slid spent short period leading field
+21: double world champion eventually came home third ahead brazilian teammate felipe massa
+22: vettel fellow red bull driver mark webber fifth fastest seven-time world champion michael schumacher seventh mercedes
+23: 2011 campaign finish brazilian grand prix sao paulo november 27
+
+=================================
+Gold summary:
+mclaren lewis hamilton heads practice ahead sunday abu dhabi grand prix
+world champion sebastian vettel spins finishes sixth friday
+hamilton teammate jenson button sets second fastest time yas marina
+sunday race penultimate grand prix 2011 season
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 1, 18, 22
+	Results: 
+		rouge-1: 0.2188
+		rouge-2: 0.0588
+		rouge-l: 0.1111
+		mean: 0.1296
+	Summary: 
+		red bull driver vettel back track claimed first two world championships 12 months ago youngest driver achieve feat german spun first corner yas marina circuit
+		think going bit struggle make moves stick race means going important qualify front
+		vettel fellow red bull driver mark webber fifth fastest seven-time world champion michael schumacher seventh mercedes
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.6250
+		rouge-2: 0.3235
+		rouge-l: 0.3056
+		mean: 0.4180
+	Summary: 
+		double world champion sebastian vettel suffered disrupted second practice session ahead sunday abu dhabi grand prix mclaren lewis hamilton setting pace friday
+		red bull driver vettel back track claimed first two world championships 12 months ago youngest driver achieve feat german spun first corner yas marina circuit
+		vettel 11 17 races 2011 recovered rejoin practice 10 minutes remaining finished sixth position track past two years
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 4, 9
+	Results: 
+		rouge-1: 0.6875
+		rouge-2: 0.3824
+		rouge-l: 0.3611
+		mean: 0.4770
+	Summary: 
+		double world champion sebastian vettel suffered disrupted second practice session ahead sunday abu dhabi grand prix mclaren lewis hamilton setting pace friday
+		hamilton world champion 2008 fifth overall disappointing season led second-placed teammate jenson button ahead saturday qualifying
+		british racer hamilton pleased form confident ahead season penultimate race
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.6250
+		rouge-2: 0.3235
+		rouge-l: 0.3056
+		mean: 0.4180
+	Summary: 
+		double world champion sebastian vettel suffered disrupted second practice session ahead sunday abu dhabi grand prix mclaren lewis hamilton setting pace friday
+		red bull driver vettel back track claimed first two world championships 12 months ago youngest driver achieve feat german spun first corner yas marina circuit
+		vettel 11 17 races 2011 recovered rejoin practice 10 minutes remaining finished sixth position track past two years

@@ -1,0 +1,88 @@
+DOCUMENT:
+0: islamist fighters somalia made significant gains country according latest statement purportedly al qaeda second-in-command ayman al-zawahiri
+1: ayman al-zawahiri pictured 2006 also spoke yemen gaza afghanistan pakistan
+2: 25-minute audio recording titled kabul mogadishu focuses primarily important developments somalia al-zawahiri called step path victory islam
+3: cnn authenticate message released sunday interspersed television news reports statements various al qaeda-linked commanders
+4: cnn analysts listened recording say voice consistent intonation accent
+5: third message al-zawahiri espousing views al qaeda terror network 2009 two focused israel recent military operation hamas leaders gaza
+6: addition somalia al-zawahiri also addresses situations yemen gaza afghanistan pakistan
+7: al-zawahiri praised al-shabaab fighters somalia recently seized control baidoa u.n.-backed transitional government based
+8: warned newly installed government president sheikh sharif sheikh ahmed squander gains submitting american demands abiding sharia islamic law
+9: call muslim brothers beloved somalia deceived agree secularist constitutions vie sharia right rule said
+10: al-zawahiri also addressed awakening yemen many suspected al qaeda militants wanted neighboring saudi arabia believed fled
+11: group includes several former detainees u.s. military detention facility guantanamo bay cuba
+12: al qaeda leader accused yemeni president ali abdullah salih government servants slaves united states allowing yemen used supply center muslim countries
+13: agree let ruling authority yemen cia
+14: al-zawahiri asked people yemen
+15: al-zawahiri spent last eight minutes addressing situation afghanistan pakistan gaza
+16: focus somalia yemen accounted 17 minutes 25-minute address departure topics previous messages
+17: cnn terrorism analyst peter bergen suggested reflection al qaeda recent losses result u.s. missile strikes along afghanistan-pakistan border
+18: three 2007 34 2008 count bergen said
+19: strikes causing al qaeda leaders consider options
+20: al qaeda considered relocating base somalia yemen according former u.s. official familiar intelligence
+21: analysts suggested would difficult al qaeda gain stronghold somalia radical agenda unpopular moderate islamic country
+22: john prendergast studies horn africa center american progress think tank said expects al-shabaab overseas ties dry recent withdrawal ethiopian forces basis support somalia
+23: j. anthony holmes director africa program council foreign relations said unlikely somalia emerge breeding ground terrorism clan-based society
+24: bergen noted somalia yemen lack strong central government therefore attractive locations al qaeda
+25: al qaeda also on-and-off presence somalia since 1992 even earlier yemen said
+26: seen also yemen weak government permissive attitude jihadists made increasingly attractive venue saudi members al qaeda
+27: bergen said likely al-zawahiri chose focus half latest message yemen somalia
+
+=================================
+Gold summary:
+25-minute audio recording titled kabul mogadishu
+voice claiming ayman al-zawahiri praises al-shabaab fighters somalia
+third message al-zawahiri espousing views al qaeda network 2009
+al qaeda considered relocating base somalia yemen ex-u.s. official says
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 16, 27, 12
+	Results: 
+		rouge-1: 0.2414
+		rouge-2: 0.0645
+		rouge-l: 0.1818
+		mean: 0.1626
+	Summary: 
+		focus somalia yemen accounted 17 minutes 25-minute address departure topics previous messages
+		bergen said likely al-zawahiri chose focus half latest message yemen somalia
+		al qaeda leader accused yemeni president ali abdullah salih government servants slaves united states allowing yemen used supply center muslim countries
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4483
+		rouge-2: 0.2581
+		rouge-l: 0.2424
+		mean: 0.3163
+	Summary: 
+		islamist fighters somalia made significant gains country according latest statement purportedly al qaeda second-in-command ayman al-zawahiri
+		ayman al-zawahiri pictured 2006 also spoke yemen gaza afghanistan pakistan
+		25-minute audio recording titled kabul mogadishu focuses primarily important developments somalia al-zawahiri called step path victory islam
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 2, 5, 20
+	Results: 
+		rouge-1: 0.7241
+		rouge-2: 0.5484
+		rouge-l: 0.7273
+		mean: 0.6666
+	Summary: 
+		25-minute audio recording titled kabul mogadishu focuses primarily important developments somalia al-zawahiri called step path victory islam
+		third message al-zawahiri espousing views al qaeda terror network 2009 two focused israel recent military operation hamas leaders gaza
+		al qaeda considered relocating base somalia yemen according former u.s. official familiar intelligence
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4483
+		rouge-2: 0.2581
+		rouge-l: 0.2424
+		mean: 0.3163
+	Summary: 
+		islamist fighters somalia made significant gains country according latest statement purportedly al qaeda second-in-command ayman al-zawahiri
+		ayman al-zawahiri pictured 2006 also spoke yemen gaza afghanistan pakistan
+		25-minute audio recording titled kabul mogadishu focuses primarily important developments somalia al-zawahiri called step path victory islam

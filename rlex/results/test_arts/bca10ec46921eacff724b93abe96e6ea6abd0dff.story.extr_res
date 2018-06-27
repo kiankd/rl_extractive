@@ -1,0 +1,103 @@
+DOCUMENT:
+0: twenty years ago newt gingrich gop rode power capitol hill slick policy manifesto called
+1: contract america
+2: today republican lawmakers calling another contract hope stimulate greater interest republican ideas policies
+3: frustrated colleagues seem interested attacking president obama proposing new ideas sen. lindsey graham others seeking reprise 1994 gingrich platform touted five ideas republicans promised pursue voters gave power midterm elections
+4: even republicans move forward new manifesto gop oppose fear overpromising anything era washington seems incapable anything product would little effect big problem republicans facing
+5: republicans stand good chance retaining house regaining control senate midterms polls show republican brand name big trouble huge portions electorate trust party power
+6: bode well future presidential elections many voters turn midterms long-term fortunes capitol hill
+7: problems facing gop much bigger anything media-friendly set promises provide
+8: years republicans inflicted great damage image party
+9: according new gallup poll difference conservatives liberals many issues shrunk dramatically
+10: conservatives lost advantage enjoyed issues gay rights
+11: gallup predicts voters soon reporting liberal social issues conservative trend continues
+12: even much electorate moved toward center even left social cultural issues like gay rights legalization marijuana official republican party stood still adhering ideas culture wars 1980s rather adjusting realities modern times
+13: true immigration reform party hued hardline stance path citizenship despite fact polls show strong public support liberal legislation
+14: moment republicans could moved different direction
+15: white house president george w. bush ideas compassionate conservatism well strong advocacy liberalized immigration policies push party move away hardline social conservatism focusing instead economic national security ideas
+16: hardline republicans blocked agenda controversies iraq handled hurricane katrina undermined political strength
+17: republicans capitol hill debate party whole paying cost
+18: neither republicans helped economic policy
+19: ultimately political parties ca thrive without support middle class
+20: republicans inhabited white house recent decades ranging richard nixon campaign appeal silent majority ronald reagan lure disaffected democrats found different ways let voters know would back middle class
+21: nixon railed tumult 1960s appealing middle-class white americans said ignored
+22: even courting business still accepted policies helped
+23: recently republicans trouble making work
+24: economic policies leave many americans feeling left party
+25: 47 remark mitt romney 2012 election resonated powerfully
+26: republicans still better shape economic policies issues fading advantage
+27: look like party 1 time many middle-class americans struggling get
+28: republicans greatly damaged reputation party even wants govern
+29: polls consistently show americans trust democrats republicans handle major issues day
+30: republican strategy obstruction successful stifling obama rallying support among party faithful
+31: vicious attacks terrific way motivate activists get polls good winning broad support among moderate independent voters want elected officials lead
+32: many americans concluded republicans interested obstruction solving policy problems
+33: although congressional obstruction cause great problems white house sen. mitch mcconnell famously understood day one obama presidency good way build broader support party
+34: look like adults control room republicans charge
+35: matter say republicans still look like big parts american electorate
+36: leadership party still white still male affect voters think candidates support
+37: recent study center american women politics rutgers university provided devastating findings party front showing gender gap terms political candidates huge even republicans made slight slight progress recent years
+38: six times many women study found representing democrats republicans
+39: number female republican candidates running declined since 2012 despite concerted effort party bring gender balance tickets
+40: time democrats steadily improved pdf gender diversity
+41: problems point fact republicans really substantial rebuilding work ahead coming years
+42: party solution five-point printout unlikely find overcoming leadership gap face
+43: gop needs make promises party needs reconfigure basic policy agenda prove become party left much electorate behind
+
+=================================
+Gold summary:
+20 years ago policy manifesto helped gop ride power capitol hill
+julian zelizer says similar document today would impact
+republicans need major shift stance attract younger voters says
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 19, 18, 35
+	Results: 
+		rouge-1: 0.1111
+		rouge-2: 0.0000
+		rouge-l: 0.0714
+		mean: 0.0608
+	Summary: 
+		ultimately political parties ca thrive without support middle class
+		neither republicans helped economic policy
+		matter say republicans still look like big parts american electorate
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3333
+		rouge-2: 0.1481
+		rouge-l: 0.2500
+		mean: 0.2438
+	Summary: 
+		twenty years ago newt gingrich gop rode power capitol hill slick policy manifesto called
+		contract america
+		today republican lawmakers calling another contract hope stimulate greater interest republican ideas policies
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 20, 29
+	Results: 
+		rouge-1: 0.4444
+		rouge-2: 0.1481
+		rouge-l: 0.3214
+		mean: 0.3047
+	Summary: 
+		twenty years ago newt gingrich gop rode power capitol hill slick policy manifesto called
+		republicans inhabited white house recent decades ranging richard nixon campaign appeal silent majority ronald reagan lure disaffected democrats found different ways let voters know would back middle class
+		polls consistently show americans trust democrats republicans handle major issues day
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 28
+	Results: 
+		rouge-1: 0.3333
+		rouge-2: 0.1481
+		rouge-l: 0.2500
+		mean: 0.2438
+	Summary: 
+		twenty years ago newt gingrich gop rode power capitol hill slick policy manifesto called
+		contract america
+		republicans greatly damaged reputation party even wants govern

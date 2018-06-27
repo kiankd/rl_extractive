@@ -1,0 +1,82 @@
+DOCUMENT:
+0: runaway teen said father threatened kill converting islam christianity returned florida ohio yet family mother lawyer said tuesday
+1: rifqa bary 17 custody franklin county children services issues case settled attorney roger weeden said
+2: happy rifqa back close parents weeden said
+3: allegations abuse neglect unfounded
+4: unification begin
+5: florida judge ruled earlier month favor parents mohamed aysha bary requested daughter transferred ohio
+6: teen attorney john stemberger leads christian advocacy organization opposed move
+7: teen left family columbus ohio july took refuge home minister orlando florida
+8: later moved foster care said affidavit muslim father threatened finding conversion
+9: father denied allegation
+10: judge daniel dawson october 13 decision said bary best interest emergency custody case continue ohio
+11: transfer delayed teen immigration status determined
+12: attorneys parents sri lanka sent immigration documents court within two weeks
+13: return ohio comes months legal wrangling including affidavit teenager claiming father pressured family mosque ohio deal situation referring conversion
+14: earlier court filing rifqa bary alleged father said jesus heart dead
+15: teenager claims father added kill
+16: mohamed bary 47 denied accusations
+17: would harm said saying knew daughter involved christian organizations
+18: problem practicing faith bary said acknowledged prefers practice islam
+19: report florida department law enforcement says investigation provided clear evidence criminal activity
+20: florida court hearing teen periodically read bible many supporters filled courtroom
+21: supporters said disappointed ruling believe jesus bary matter goes
+22: cnn john couwels contributed report
+
+=================================
+Gold summary:
+rifqa bary returned ohio back family lawyer says
+teen ran florida said father threatened converting islam christianity
+mohamed bary denies threatening daughter says knew christian groups
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 12, 6, 22
+	Results: 
+		rouge-1: 0.0833
+		rouge-2: 0.0000
+		rouge-l: 0.0769
+		mean: 0.0534
+	Summary: 
+		attorneys parents sri lanka sent immigration documents court within two weeks
+		teen attorney john stemberger leads christian advocacy organization opposed move
+		cnn john couwels contributed report
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.6250
+		rouge-2: 0.2000
+		rouge-l: 0.3077
+		mean: 0.3776
+	Summary: 
+		runaway teen said father threatened kill converting islam christianity returned florida ohio yet family mother lawyer said tuesday
+		rifqa bary 17 custody franklin county children services issues case settled attorney roger weeden said
+		happy rifqa back close parents weeden said
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 5, 17
+	Results: 
+		rouge-1: 0.7083
+		rouge-2: 0.1600
+		rouge-l: 0.4615
+		mean: 0.4433
+	Summary: 
+		runaway teen said father threatened kill converting islam christianity returned florida ohio yet family mother lawyer said tuesday
+		florida judge ruled earlier month favor parents mohamed aysha bary requested daughter transferred ohio
+		would harm said saying knew daughter involved christian organizations
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 5
+	Results: 
+		rouge-1: 0.6667
+		rouge-2: 0.2000
+		rouge-l: 0.3846
+		mean: 0.4171
+	Summary: 
+		runaway teen said father threatened kill converting islam christianity returned florida ohio yet family mother lawyer said tuesday
+		rifqa bary 17 custody franklin county children services issues case settled attorney roger weeden said
+		florida judge ruled earlier month favor parents mohamed aysha bary requested daughter transferred ohio

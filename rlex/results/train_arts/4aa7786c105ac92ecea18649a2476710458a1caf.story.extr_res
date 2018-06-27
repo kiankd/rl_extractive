@@ -1,0 +1,114 @@
+DOCUMENT:
+0: imagine tiny boat afloat thrashing sea water pouring gaping hole hull
+1: sailor frantically bailing dark angry water matter much scoops water line never seems recede waves pummel face like particularly insecure middle-school bully
+2: friends metaphor average worker e-mail inbox
+3: yeah know tons new communication technologies e-mail still reigns supreme worker realm recent study even shows e-mail eats mobile time among americans
+4: think high time outline annoying practices comes business e-mails practices might make compatriots drown frustration
+5: read avoid making 10 mistakes
+6: 1 yelling
+7: ever get e-mail like
+8: subject line client urgently needs speak
+9: hot tip type caps basically likening crazy dudes yell end times subway perhaps bit subdued present
+10: yeah one wants talk
+11: 2 going kindergarten fonts
+12: remember lebron james spurned cleveland cavaliers joined forces miami heat prompting cavaliers owner dan gilbert pen long letter team website tearing james
+13: remember font gilbert used
+14: right comic sans aka great underminer
+15: stick helvetica folks people remember sentiment instead poor choice typeface
+16: say nothing pink fonts word art-like signatures splashed across floral graphics
+17: 3 misnomers
+18: unless supremely stupid senile illiterate real excuse getting business contact name wrong right his/her e-mail address
+19: consider cautionary tale
+20: prone typos well copy-paste
+21: 4 emoticons
+22: stated past back called brief break smiley emoticons reached std-like proportions since inception spreading one person another like particularly expressive herpes
+23: ok see necessity using placating smiley e-mail contact might need spoonful sugar make idea sucks medicine go
+24: nix emoticons initial e-mails new contacts
+25: 5 overly informal greetings
+26: helloz sar-sar
+27: imma tell super rad product let face us gurlz totally peep burnin hot love life want avoid burnin hot things know talkin
+28: one strong enough stomach deal epistles sort daily basis
+29: save lolcat speech old gray shooting adorable kitten-packed e-mails grumbling grandkids
+30: ca fire obnoxious
+31: 6 rambling
+32: allow narrate internal dialogue average desk-bound minion spreadsheets sure lot lines hungry hope one notices hickey joe accounting gave happy hour last night
+33: hungry look
+34: blue bird outside cocked head
+35: get point
+36: approximately three sentences cut said desk worker mental clutter oh someone sent video dog hugging turtle
+37: 7 unclear subject lines
+38: important news
+39: means say subject line
+40: hiding vital correspondence behind subject line hey anyone favors except competition
+41: 8 sending many e-mails row
+42: probably spend oh 20 hours per day glued form computer-esque device soon machines destroy us means receive immediate response e-mail possible well overreact much like clingy lover waiting answer dinner tonight different kind spooning
+43: desperate loser
+44: wait least 24 hours sending follow-up e-mail unless emergency case handy thing called phone know five-second walk co-worker desk
+45: yeah know real life communications hard
+46: 9 clip art
+47: imagine intelligent enough figure ok
+48: 10 using right method contact
+49: never message business contact facebook
+50: facebook go look pictures people high school drunk even plug-in prevent ruining social media life whilst whiskey-soaked
+51: sending business-oriented message via facebook like wandering debauched party expecting everyone listen start talking sales figures
+52: issues finding someone professional contact info sure send him/her message facebook twitter asking info carry whole convo right
+53: unless looking dirt said contact case sure send message around 4 a.m. defenses
+
+=================================
+Gold summary:
+stick helvetica people remember sentiment instead typeface
+ramble three sentences get co-worker attention
+important news say subject line
+conduct business facebook play time
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 41, 29, 38
+	Results: 
+		rouge-1: 0.0870
+		rouge-2: 0.0455
+		rouge-l: 0.0870
+		mean: 0.0731
+	Summary: 
+		8 sending many e-mails row
+		save lolcat speech old gray shooting adorable kitten-packed e-mails grumbling grandkids
+		important news
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.0435
+		rouge-2: 0.0000
+		rouge-l: 0.0435
+		mean: 0.0290
+	Summary: 
+		imagine tiny boat afloat thrashing sea water pouring gaping hole hull
+		sailor frantically bailing dark angry water matter much scoops water line never seems recede waves pummel face like particularly insecure middle-school bully
+		friends metaphor average worker e-mail inbox
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 15, 38, 39
+	Results: 
+		rouge-1: 0.5217
+		rouge-2: 0.3182
+		rouge-l: 0.5217
+		mean: 0.4539
+	Summary: 
+		stick helvetica folks people remember sentiment instead poor choice typeface
+		important news
+		means say subject line
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.0435
+		rouge-2: 0.0000
+		rouge-l: 0.0435
+		mean: 0.0290
+	Summary: 
+		imagine tiny boat afloat thrashing sea water pouring gaping hole hull
+		sailor frantically bailing dark angry water matter much scoops water line never seems recede waves pummel face like particularly insecure middle-school bully
+		friends metaphor average worker e-mail inbox

@@ -1,0 +1,95 @@
+DOCUMENT:
+0: youtube really verge buying video game-streaming website twitch least one reason behind move old business eliminating competition
+1: little known outside gaming world twitch quietly skyrocketed claiming 43 million monthly users three years launched
+2: users twitch says watch hour-and-a-half video day much live coverage things like video game competitions players working way new games
+3: turns watching people play video games big deal web
+4: youtube owned google players amassed follower bases 1 million people posting video gaming
+5: upstart like twitch comes along analysts say makes sense google act
+6: google defensive measure much anything else said james mcquivey technology analyst forrester research
+7: google found early youtube play-throughs video games huge traffic draw
+8: watch videos even know exist youtube
+9: people watch see
+10: sunday wall street journal variety reporting youtube talks buy twitch 1 billion
+11: neither company commenting publicly monday
+12: microsoft amazon among several companies reportedly trying purchase site
+13: place stream video twitch also succeeded becoming social network sorts mcquivey said
+14: comments integrated site videos letting viewers talk even players watch
+15: longer wanting see someone defeated boss level 5 said
+16: social experience comradeship fellow gamers
+17: twitch nailed google realize people watching stale old videos going dry
+18: internet traffic means money
+19: advertisers like live events level excitement create fact reach target audience mcquivey said
+20: twitch made headlines february version pokemon red/blue 1990s game nintendo game boy streamed online video platform days allowing 80,000 people play simultaneously
+21: twitch appeal eight-figure deal aside eight figures would gaining google arguably unrivaled resources support expand site
+22: ways twitch massive growth short time blessing curse
+23: twitch generates traffic hbo go united states tripled amount bandwidth uses past year according sandvine networking-equipment company
+24: quite honest ca keep growth twitch vice president matt dipietro told verge last year
+25: good problem
+26: add google mix problem disappears
+27: think whole concept started social experiment mcquivey said
+28: became commercial business rapidly prepared resources
+29: google wants care outcome business ends really good deal
+30: way unlike facebook recent purchase oculus vr gave upstart maker virtual-reality headsets access facebook vast resources user base
+31: regardless outcome deal mcquivey says live streaming something youtube going figure
+32: increasingly entertainment industry using live tv events sound music live voting voice attract viewers become increasingly spoiled overabundance digital media disposal
+33: next thing going get live-streaming high school football game trying conquer new rail skateboard mcquivey said
+34: get world someone wants show better half-pipe anybody else world could couple thousand people watching live see pull back flip
+
+=================================
+Gold summary:
+reports say google youtube talks buy twitch
+twitch website focuses live-streaming video games
+quietly amassed huge audience short time
+analyst says move would let google eliminate competition
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 8, 34, 28
+	Results: 
+		rouge-1: 0.0400
+		rouge-2: 0.0000
+		rouge-l: 0.0370
+		mean: 0.0257
+	Summary: 
+		watch videos even know exist youtube
+		get world someone wants show better half-pipe anybody else world could couple thousand people watching live see pull back flip
+		became commercial business rapidly prepared resources
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3600
+		rouge-2: 0.0000
+		rouge-l: 0.1852
+		mean: 0.1817
+	Summary: 
+		youtube really verge buying video game-streaming website twitch least one reason behind move old business eliminating competition
+		little known outside gaming world twitch quietly skyrocketed claiming 43 million monthly users three years launched
+		users twitch says watch hour-and-a-half video day much live coverage things like video game competitions players working way new games
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 7, 10, 22
+	Results: 
+		rouge-1: 0.4000
+		rouge-2: 0.1923
+		rouge-l: 0.2963
+		mean: 0.2962
+	Summary: 
+		google found early youtube play-throughs video games huge traffic draw
+		sunday wall street journal variety reporting youtube talks buy twitch 1 billion
+		ways twitch massive growth short time blessing curse
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3600
+		rouge-2: 0.0000
+		rouge-l: 0.1852
+		mean: 0.1817
+	Summary: 
+		youtube really verge buying video game-streaming website twitch least one reason behind move old business eliminating competition
+		little known outside gaming world twitch quietly skyrocketed claiming 43 million monthly users three years launched
+		users twitch says watch hour-and-a-half video day much live coverage things like video game competitions players working way new games

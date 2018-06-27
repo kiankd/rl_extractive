@@ -1,0 +1,90 @@
+DOCUMENT:
+0: tensions west bank heightened recent death israeli prison 30-year-old palestinian arrested last week
+1: arafat jaradat died saturday inciting palestinian officials decry conditions israeli prisons
+2: prisoner martyr jaradat went prison come back corpse determined find done palestinian authority president mahmoud abbas said monday according state news agency wafa
+3: know act let israelis drag us square bear responsibility
+4: united nations weighed monday calling thorough probe jaradat death
+5: united nations expects autopsy followed independent transparent investigation circumstances mr. jaradat death results made public soon possible robert serry u.n. special coordinator middle east peace process said written statement
+6: israel said doctors worked save inmate suffering previous injuries
+7: palestinian officials said jaradat tortured
+8: palestinians israeli prisons 4,500 people took part hunger strike sunday crowds protested streets west bank palestinian officials called international investigation inmate death
+9: palestinian officials told cnn jaradat 203rd palestinian die israeli prisons since 1967
+10: buried monday near home west bank dozens masked members al-aqsa martyr brigade armed wing fatah fired rifles air protest
+11: killed five days sister told palestinian tv
+12: kidnapped life
+13: oh dear little brother
+14: oh love
+15: palestinian official sent warning sunday u.s. president barack obama plans make first trip israel president next month
+16: president obama wants visit region peacefully exert pressure israel release prisoners especially ones hunger strike else visit palestine fire minister prisoner affairs issa qaraqe said
+17: israeli officials sunday called palestinian authority calm territories large protests recent days conditions palestinian prisoners
+18: israeli prime minister benjamin netanyahu liaison palestinians yitzhak molco passed demand calm palestinian authority israeli government officials said
+19: jaradat death came amid fury series questions surrounding death prisoner 2010 referred prisoner x. details came light recent days court document released
+20: jaradat held interrogation since monday 2011 incident israeli citizen injured rock-throwing palestinian protestors
+21: jaradat confessed israeli security sources said
+22: human rights watch called israel saturday immediately charge release palestinians detained without charge trial prolonged periods
+23: palestinian prisoners israeli detention one many flashpoints middle east conflict
+24: prisoners launched hunger strikes past hopes bringing attention cause pushing israel ease conditions allow prisoners leave
+25: israeli officials said prisoners include members extremist groups blood hands
+26: october 2011 israel freed 1,000 palestinian prisoners including hundreds serving life sentences attacks israelis exchange one person israeli soldier gilad shalit held hamas five years
+27: united nations appeals maximum restraint parties prevent violence
+28: united nations continue engaging parties ground view finding solution addresses plight prisoners preserves calm monday u.n. statement said
+29: cnn kareem khadder reported jerusalem steve almasy wrote story atlanta
+
+=================================
+Gold summary:
+arafat jaradat detained five days died
+palestinian president says israelis killed
+israeli officials say previous injuries call calm
+u.n. calls transparent investigation death
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 26, 19, 21
+	Results: 
+		rouge-1: 0.3043
+		rouge-2: 0.0000
+		rouge-l: 0.1739
+		mean: 0.1594
+	Summary: 
+		october 2011 israel freed 1,000 palestinian prisoners including hundreds serving life sentences attacks israelis exchange one person israeli soldier gilad shalit held hamas five years
+		jaradat death came amid fury series questions surrounding death prisoner 2010 referred prisoner x. details came light recent days court document released
+		jaradat confessed israeli security sources said
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3478
+		rouge-2: 0.0455
+		rouge-l: 0.2174
+		mean: 0.2036
+	Summary: 
+		tensions west bank heightened recent death israeli prison 30-year-old palestinian arrested last week
+		arafat jaradat died saturday inciting palestinian officials decry conditions israeli prisons
+		prisoner martyr jaradat went prison come back corpse determined find done palestinian authority president mahmoud abbas said monday according state news agency wafa
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 5, 11
+	Results: 
+		rouge-1: 0.5652
+		rouge-2: 0.1364
+		rouge-l: 0.3478
+		mean: 0.3498
+	Summary: 
+		arafat jaradat died saturday inciting palestinian officials decry conditions israeli prisons
+		united nations expects autopsy followed independent transparent investigation circumstances mr. jaradat death results made public soon possible robert serry u.n. special coordinator middle east peace process said written statement
+		killed five days sister told palestinian tv
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 7
+	Results: 
+		rouge-1: 0.3043
+		rouge-2: 0.0455
+		rouge-l: 0.2609
+		mean: 0.2036
+	Summary: 
+		tensions west bank heightened recent death israeli prison 30-year-old palestinian arrested last week
+		arafat jaradat died saturday inciting palestinian officials decry conditions israeli prisons
+		palestinian officials said jaradat tortured

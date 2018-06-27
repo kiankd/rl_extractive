@@ -1,0 +1,107 @@
+DOCUMENT:
+0: come neighborhood park colorado springs plan bringing trash bags
+1: save money city removed trash cans
+2: need catch bus
+3: try evenings weekends
+4: city cut service
+5: sun goes colorado springs going look little bit dimmer
+6: crews removing third city streetlight save money electricity light bulbs
+7: watch city psa streetlight deactivation
+8: conservative city way closing 28.5 million budget gap
+9: cry fiscal situation take opportunity change reinvent innovate going colorado springs city councilman sean paige said
+10: governments considering higher taxes avoid cutbacks state colorado taxpayers bill rights
+11: prevents state city governments raising taxes unless measure approved voters
+12: put ballot last fall said said paige republican
+13: declined write city blank check said city tighten belts
+14: going respect added
+15: going cry
+16: new concept colorado springs touted web sites libertarian paradise
+17: city garbage collection zoo philharmonic privately funded
+18: city even auctioning police helicopters internet
+19: want place bid
+20: latest budget cuts could felt community centers like meadows park bustling after-school programs kids well exercise classes hot meals seniors
+21: unless center find private funding colorado springs slated shut end march
+22: hoping sort miracle happen keep centers open said sheryle nix 56
+23: every day nix eats 2 lunch center ca afford eat restaurant trouble preparing food
+24: traumatic brain injury really helps keep schedule eat lunch explained
+25: jeanie schweitzer 55 returned colorado springs take care grandmother elsie suffered stroke
+26: brings elsie center get house
+27: think shutting
+28: enough money schweizer said
+29: much big picture keep open
+30: center lifeline parents work pick kids school ends afternoon
+31: lindon jackson 13 coming meadows park after-school program since 3
+32: asked center shuts said nothing
+33: home nothing
+34: whether government continue funding meadows park community centers like strikes heart political argument role government particularly economic downturn
+35: model governments federal government municipal governments work anymore according chuck fowler chairman city committee alliance local businesspeople set paige
+36: take much money
+37: ca possibly provide amount services pay employees pay pensions
+38: something got give
+39: fowler believes solution may weaning people government services
+40: larger government conditioning certain people need take personal responsibility life said
+41: budget cuts according fowler could really recondition people ideas government
+42: things really focused vital things clearly public interest
+43: brian kates runs meadows park community center says people affected government cutbacks pawns game
+44: people trying lazy live system kates said
+45: hard-working intelligent bright -lsb- people -rsb- asking much
+46: giving basics
+
+=================================
+Gold summary:
+colorado springs faces nearly 30 million budget hole
+programs elderly kids might cut
+supporters say better raising taxes
+opponents say basic services sacrificed
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 40, 33, 30
+	Results: 
+		rouge-1: 0.0455
+		rouge-2: 0.0000
+		rouge-l: 0.0435
+		mean: 0.0296
+	Summary: 
+		larger government conditioning certain people need take personal responsibility life said
+		home nothing
+		center lifeline parents work pick kids school ends afternoon
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.0909
+		rouge-2: 0.0455
+		rouge-l: 0.0870
+		mean: 0.0744
+	Summary: 
+		come neighborhood park colorado springs plan bringing trash bags
+		save money city removed trash cans
+		need catch bus
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 11, 16, 20
+	Results: 
+		rouge-1: 0.3182
+		rouge-2: 0.0909
+		rouge-l: 0.2174
+		mean: 0.2088
+	Summary: 
+		prevents state city governments raising taxes unless measure approved voters
+		new concept colorado springs touted web sites libertarian paradise
+		latest budget cuts could felt community centers like meadows park bustling after-school programs kids well exercise classes hot meals seniors
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 17
+	Results: 
+		rouge-1: 0.0909
+		rouge-2: 0.0455
+		rouge-l: 0.0870
+		mean: 0.0744
+	Summary: 
+		come neighborhood park colorado springs plan bringing trash bags
+		save money city removed trash cans
+		city garbage collection zoo philharmonic privately funded

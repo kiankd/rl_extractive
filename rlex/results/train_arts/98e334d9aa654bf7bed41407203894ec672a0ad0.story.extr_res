@@ -1,0 +1,121 @@
+DOCUMENT:
+0: indiana financial manager pilot marcus schrenker smooth talker promised investors steady returns money said two former commercial pilots named indiana department insurance complaint
+1: marcus schrenker companies investigation indiana securities division
+2: police believe schrenker attempted fake death bailing plane alabama
+3: found late tuesday quincy florida marks body consistent suicide attempt said lt. jim porter spokesman gadsden county sheriff office said
+4: knew schrenker shared stories charming man lofty promises
+5: joe mazzone charles kinney said trusted schrenker came highly recommended pilots
+6: word mouth pilot trust
+7: used said mazzone 57 auburn alabama
+8: modus operandi flies city dressed thousand-dollar suit sits buys lunch next thing know side move money heritage wealth management
+9: judge indiana froze schrenker assets request investigators looking business dealings
+10: order also applies schrenker wife seeking divorce three companies heritage wealth management heritage insurance services icon wealth management
+11: companies subjects active investigation indiana securities division said jim gavin spokesman indiana secretary state
+12: think nothing would surprise jim atterholt indiana department insurance said tuesday
+13: less honest tell shock anybody going jump airplane avoid one hearings next week certainly unusual hear
+14: schrenker 38 took indiana destin florida sunday night
+15: told air traffic controllers windshield imploded
+16: authorities believe parachuted aircraft crashed east milton florida
+17: watch authorities believe happened
+18: schrenker approached home childersburg alabama telling residents canoeing accident
+19: police identified using pilot license took hotel nearby harpersville
+20: hearing crash found used fictitious name check gone
+21: authorities say later found stashed motorcycle storage facility harpersville using fake name saying would retrieve monday
+22: police think used leave town
+23: hundreds thousands dollars stake upwards million dollars potentially atterholt said
+24: folks calling since seen media coverage story new folks calling know scope damage done alleged done
+25: schrenker licensed said allegedly defrauding investors annuities
+26: annuity sell lot penalties insured incurs first time buy annuity agent makes nice commission atterholt said
+27: every time sells new annuity gets nice commission
+28: double hit consumer nice bump agent
+29: kinney 49 norcross georgia said befriended schrenker 1996
+30: guy charming guy ever meet said kinney allowed schrenker manage money starting 2003
+31: kinney encouraged parents invest 2 million schrenker
+32: guy family kinney said
+33: fantastic nice guy
+34: customer service impeccable
+35: call guy phone would get
+36: told parents investing various insurance products really know meant
+37: really know either
+38: trusted kinney continued
+39: said safe place put money avoid world dangers like terrorism impending doom gloom associated
+40: climate back bought
+41: believed would protect money
+42: pilots say schrenker gave vague explanations money invested
+43: kinney mazzone said schrenker assured making commissions investments pilots families would receive one statement year showing returns
+44: schrenker business dealings upcoming hearings state officials seemed getting according friend neighbor tom britt
+45: always seemed little stressed said britt said known schrenker four five years
+46: schrenker wife michelle filed divorce hamilton county superior court december 30 according herald bulletin anderson indiana
+47: hearing set february 5
+48: britt told cnn affiliate wrtv indianapolis indiana couple two young sons daughter schrenker involved school activities
+49: insurance companies found schrenker activities atterholt said attempting help consumers
+50: working trying fix problem occurred said
+51: department seeking fines schrenker revocation license atterholt said
+52: gentleman allegations true clearly crudball said
+53: anyone would friends neighbors brash deserves full penalty coming
+54: attorney lisa harpeneau said took call kinney august 2007 told rogue agent state indiana
+55: however schrenker also accused defrauding people outside financial arena
+56: suit filed january 2008 houston county alabama accuses misrepresenting condition aircraft sold local man
+57: schrenker told barnett hudson 1996 extra flugzeugbau ea 300l aircraft squawk free exceptional maintenance never damaged according suit
+58: hudson says later learned plane made hard landing wing overstressed schrenker made 104,000 claim insurance company damage plane made cosmetic repairs
+59: suit claims defendants including schrenker breached express warranty selling aircraft squawk-free damaged fit even flown given internal damage wing
+60: cnn ashley fantz tristan smith kathleen johnston contributed report
+
+=================================
+Gold summary:
+alleged victims fellow pilots said trusted marcus schrenker
+authorities say pilot tried fake death crashing private plane
+pilot thinks schrenker protecting money despite lack specifics
+neighbor said missing pilot financial manager stressed
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 49, 20, 23
+	Results: 
+		rouge-1: 0.0714
+		rouge-2: 0.0000
+		rouge-l: 0.0625
+		mean: 0.0446
+	Summary: 
+		insurance companies found schrenker activities atterholt said attempting help consumers
+		hearing crash found used fictitious name check gone
+		hundreds thousands dollars stake upwards million dollars potentially atterholt said
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3929
+		rouge-2: 0.0968
+		rouge-l: 0.1875
+		mean: 0.2257
+	Summary: 
+		indiana financial manager pilot marcus schrenker smooth talker promised investors steady returns money said two former commercial pilots named indiana department insurance complaint
+		marcus schrenker companies investigation indiana securities division
+		police believe schrenker attempted fake death bailing plane alabama
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 5, 21
+	Results: 
+		rouge-1: 0.4286
+		rouge-2: 0.1290
+		rouge-l: 0.2188
+		mean: 0.2588
+	Summary: 
+		indiana financial manager pilot marcus schrenker smooth talker promised investors steady returns money said two former commercial pilots named indiana department insurance complaint
+		joe mazzone charles kinney said trusted schrenker came highly recommended pilots
+		authorities say later found stashed motorcycle storage facility harpersville using fake name saying would retrieve monday
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3929
+		rouge-2: 0.0968
+		rouge-l: 0.1875
+		mean: 0.2257
+	Summary: 
+		indiana financial manager pilot marcus schrenker smooth talker promised investors steady returns money said two former commercial pilots named indiana department insurance complaint
+		marcus schrenker companies investigation indiana securities division
+		police believe schrenker attempted fake death bailing plane alabama

@@ -1,0 +1,73 @@
+DOCUMENT:
+0: 100 meter boat full tropical garden something likely see often
+1: fact probably never seen
+2: wally island vessel comforts home
+3: however giant mega-yacht wally island offers exactly
+4: designed super-yacht designers wally still design stage company yet managed sell concept buyer
+5: vessel boasts 1000 square meters forward deck space allowing features full garden pool tennis court several heli-pads
+6: view photos wally island
+7: designers intended offer owner opportunity live completely independently vessel
+8: boat designers said could make life like home personal estate owner
+9: although interior spaces pushed towards aft vessel still room owners suite six double-king sized suites
+10: addition numerous rooms entertaining guests
+11: think wally island
+12: seen better super-yacht
+13: share thoughts sound box
+
+=================================
+Gold summary:
+99-meter vessel wally designed super-yacht designers wally
+wally island still design stage awaiting buyer
+deck contains tropical garden converted tennis court
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 0, 8, 13
+	Results: 
+		rouge-1: 0.1579
+		rouge-2: 0.0500
+		rouge-l: 0.0952
+		mean: 0.1010
+	Summary: 
+		100 meter boat full tropical garden something likely see often
+		boat designers said could make life like home personal estate owner
+		share thoughts sound box
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2632
+		rouge-2: 0.1000
+		rouge-l: 0.0952
+		mean: 0.1528
+	Summary: 
+		100 meter boat full tropical garden something likely see often
+		fact probably never seen
+		wally island vessel comforts home
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 3, 4, 5
+	Results: 
+		rouge-1: 0.7368
+		rouge-2: 0.3500
+		rouge-l: 0.6190
+		mean: 0.5686
+	Summary: 
+		however giant mega-yacht wally island offers exactly
+		designed super-yacht designers wally still design stage company yet managed sell concept buyer
+		vessel boasts 1000 square meters forward deck space allowing features full garden pool tennis court several heli-pads
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 2, 1
+	Results: 
+		rouge-1: 0.2632
+		rouge-2: 0.1000
+		rouge-l: 0.0952
+		mean: 0.1528
+	Summary: 
+		100 meter boat full tropical garden something likely see often
+		wally island vessel comforts home
+		fact probably never seen

@@ -1,0 +1,127 @@
+DOCUMENT:
+0: menachem zivotofsky 12-year-old boy without country u.s. citizen born city jerusalem
+1: lies dilemma
+2: u.s. state department unusual exception allow family list israel nation birth american passport
+3: supreme court decide whether granting small gesture behalf child half world away others like would disrupt obama administration ongoing efforts secure binding lasting peace settlement troubled region
+4: oral arguments separation powers dispute set nov. 3
+5: issue whether federal law explicitly directs state department record birthplace american citizen passport impermissibly infringes president power recognize foreign sovereign
+6: 50,000 americans last 10 years born jerusalem many would like israel indicated place birth passports said sarah cleveland columbia university law school professor recently counselor international law state department
+7: also extremely important geopolitical issue sensitive foreign relations issue united states
+8: high court case zivotofsky v. kerry key player dispute perhaps famous city world one oldest human settlements still existence jerusalem
+9: name translates city peace holy sanctuary others
+10: israel largest city capital though recognized united nations world community
+11: divided east jerusalem populated mostly muslims west jerusalem populated mostly jews city spans 48 square miles 775,000 people
+12: terms east west come layered political social religious geographic questions amorphous often misleading terms symbolic larger struggle control recognition city represents
+13: use terms jewish arab jerusalem refer sections
+14: old city heart region holy symbol three major abrahamic religions christianity islam judaism
+15: tiny area third one square mile contains temple mount western wall church holy sepulcher dome rock al-aqsa mosque
+16: believed first settled fourth millennium bc according bible established capital kingdom israel around 1000 bc king david
+17: destroyed twice attacked besieged captured hundred times
+18: canaanites hebrews arabs greeks romans persians crusaders turks british laid claim land
+19: status today remains one thorniest issues blocking comprehensive mideast peace agreement state israel palestinian people claiming sovereignty
+20: 1948 war western part city annexed newly formed nation israel eastern part annexed jordan
+21: eastern part captured israel 1967 six-day war
+22: considers east jerusalem part undivided capital international community deems annexations illegal part palestinian land
+23: israeli government based foreign embassies
+24: city home ari naomi zivotofsky
+25: couple two oldest sons born united states family migrated israel decade ago october 2002 youngest menachem binyamin born
+26: proud fact born israel live israel modern state israel ari zivotofsky told cnn
+27: religiously historically significant
+28: father said son center legal fight 11 12 years frequently reminds siblings one zivotofsky born current home
+29: preparing bar mitzvah
+30: three weeks menachem born united states congress gave american citizens born jerusalem individual discretion ask israel listed passports consular reports says place birth
+31: president george w. bush signed bill issued executive signing statement indicating would comply
+32: law said impermissibly interferes president constitutional authority conduct nation foreign affairs supervise unitary executive branch
+33: state department official foreign affairs manual still reads person born jerusalem write jerusalem place birth passport
+34: write israel jordan west bank person born within current municipal borders jerusalem
+35: first time congress white house clashed region
+36: american embassy remains tel aviv despite u.s. lawmakers objections
+37: boy mother made israel request two months birth embassy officials refused
+38: passport fact shows round innocent face jerusalem listed place birth
+39: state department practice general rule american citizens born abroad passport lists country birth said alyza lewin zivotofsky lawyer
+40: citizen born instance paris says france
+41: born tel aviv haifa says israel
+42: born jerusalem instead saying country city listed city jerusalem
+43: attorneys zivotofskys framed case modest request one implicate president foreign policy power
+44: asking high court decide political question simply tell administration enforce law sake little boy
+45: personal case
+46: stake deep personal pride sense identification state israel right given congress express passport said nathan lewin argue family case high court
+47: pride national pride others clearly makes region much front page news often
+48: think case asking kind broader determination allowing individuals opportunity
+49: government thinking bigger picture
+50: state department officials would comment record pending case president obama acknowledged stalled peace process created divisions region united states
+51: palestinians know territorial outlines state israelis know basic security concerns met said may 2010 speech
+52: know steps alone resolve conflict
+53: two wrenching emotional issues remain future jerusalem fate palestinian refugees
+54: moving forward basis territory security provides foundation resolve two issues way fair respects rights aspirations israelis palestinians
+55: justices 2012 allowed zivotofsky legal claim proceed confront larger questions whether congressional law steps president foreign policy power
+56: one issues people probably find remarkable addressed cleveland said
+57: presidents recognizing states governments 200 years
+58: congress generally acquiesced president done
+59: little conflict exercise power traditionally example taiwan -lsb- conflict mainland china -rsb- particular jerusalem
+60: issue festering source tension congress presidents decades
+61: family plans attend court session washington next week
+62: choosing home able decide call may seem like fundamental right
+63: nothing easy jerusalem mentioned
+64: zivotofskys say recognize geo-political complexity think case judicial forum solution simple
+65: whatever else decide whatever else bigger issues decide said ari zivotofsky
+66: request exactly lawsuit says implement law write passport son born israel
+67: ruling high court expected months
+
+=================================
+Gold summary:
+boy u.s. citizen born jerusalem
+state department wo allow use israel birthplace u.s. passports
+supreme court hear case nov. 3
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 35, 20, 62
+	Results: 
+		rouge-1: 0.0526
+		rouge-2: 0.0000
+		rouge-l: 0.0500
+		mean: 0.0342
+	Summary: 
+		first time congress white house clashed region
+		1948 war western part city annexed newly formed nation israel eastern part annexed jordan
+		choosing home able decide call may seem like fundamental right
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4737
+		rouge-2: 0.1579
+		rouge-l: 0.4500
+		mean: 0.3605
+	Summary: 
+		menachem zivotofsky 12-year-old boy without country u.s. citizen born city jerusalem
+		lies dilemma
+		u.s. state department unusual exception allow family list israel nation birth american passport
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 6, 46
+	Results: 
+		rouge-1: 0.5789
+		rouge-2: 0.2105
+		rouge-l: 0.4500
+		mean: 0.4132
+	Summary: 
+		menachem zivotofsky 12-year-old boy without country u.s. citizen born city jerusalem
+		50,000 americans last 10 years born jerusalem many would like israel indicated place birth passports said sarah cleveland columbia university law school professor recently counselor international law state department
+		stake deep personal pride sense identification state israel right given congress express passport said nathan lewin argue family case high court
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4737
+		rouge-2: 0.1579
+		rouge-l: 0.4500
+		mean: 0.3605
+	Summary: 
+		menachem zivotofsky 12-year-old boy without country u.s. citizen born city jerusalem
+		lies dilemma
+		u.s. state department unusual exception allow family list israel nation birth american passport

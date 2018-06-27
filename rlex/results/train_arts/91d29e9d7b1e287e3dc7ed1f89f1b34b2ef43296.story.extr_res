@@ -1,0 +1,97 @@
+DOCUMENT:
+0: four days passed since panamanian authorities discovered undeclared military weapons hidden aboard north korean ship painstaking process examining entire vessel crawling snail pace
+1: ship five cargo holds one emptied thursday
+2: technicians board told us cargo loaded way makes difficult unload panamanian security minister jose raul mulino said
+3: north korean crew resisted panamanian authorities cut cables onboard cranes
+4: panamanian investigators brought cranes removing containers inside cargo holds odyssey mulino said
+5: ship originated cuba cubans admitted owning military equipment claiming sent north korea repaired returned
+6: many questions remain
+7: weapons secret hidden sacks sugar
+8: captain attempt commit suicide
+9: public prosecutor charging captain 35 north korean crew members illegal possession weapons international arms trafficking panamanian government spokesman eduardo camacho said
+10: north korean officials meanwhile asked panama release cargo ship let crew go
+11: panama formally asked united nations guidance handle case
+12: us important finish operation wait united nations come decide proceed mulino said
+13: panama completely transparent experience dealing type problem
+14: pursuing nuclear weapons north korea banned united nations importing exporting weapons
+15: scene port
+16: port manzanillo inspectors opened shipping containers front reporters
+17: heavily armed troops stand guard
+18: first cargo hold six shipping containers found underneath sacks brown sugar two stacks three
+19: tops containers caved weight sugar
+20: inside containers lies military equipment
+21: inspectors walked inside containers taking pictures
+22: cuban officials described materiel 240 metric tons obsolete defensive weapons sent north korea repaired returned cuba
+23: equipment manufactured mid-20th century included two anti-aircraft missile systems nine missiles parts spares two mig-21 jets 15 motors type airplane cuban foreign ministry said
+24: u.s. involved investigation
+25: united states panama tracking ship crossed panama canal cuba back two u.s. officials said
+26: u.s. state department spokeswoman said wednesday united states would help investigation
+27: panamanians asked united states imaging equipment technicians fully examine boat determine board according u.s. official declined identified person authorized speak publicly
+28: speculation surged since panama announced find warning troubling sign weapons deals north korea cuba others disputing whether dangers lay within antiquated haul
+29: cuba says weapons obsolete
+30: experts identified early cold war relics soviet-designed sa-2 air defense system among ship cargo say far truth
+31: today reason western pilot hit sa-2
+32: get caught one done something bloody stupid got bad luck said james editor jane land based air defence jane strategic weapon systems
+33: modern country wants seen
+34: others saw weapons haul ominous sign
+35: letter u.s. secretary state john kerry sen. marco rubio florida frequent critic cuban government described weapons shipment flagrant violation multiple united nations security council resolutions
+36: cnn catherine e. shoichet atlanta journalist may lee panama contributed report
+
+=================================
+Gold summary:
+new captain crew face weapons trafficking charges
+investigators emptied one five cargo holds ship
+found military weapons shipping containers
+cubans say equipment bound north korea repair
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 26, 3, 15
+	Results: 
+		rouge-1: 0.0800
+		rouge-2: 0.0000
+		rouge-l: 0.0385
+		mean: 0.0395
+	Summary: 
+		u.s. state department spokeswoman said wednesday united states would help investigation
+		north korean crew resisted panamanian authorities cut cables onboard cranes
+		scene port
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3600
+		rouge-2: 0.1200
+		rouge-l: 0.1538
+		mean: 0.2113
+	Summary: 
+		four days passed since panamanian authorities discovered undeclared military weapons hidden aboard north korean ship painstaking process examining entire vessel crawling snail pace
+		ship five cargo holds one emptied thursday
+		technicians board told us cargo loaded way makes difficult unload panamanian security minister jose raul mulino said
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 5, 18
+	Results: 
+		rouge-1: 0.5600
+		rouge-2: 0.1600
+		rouge-l: 0.3077
+		mean: 0.3426
+	Summary: 
+		ship five cargo holds one emptied thursday
+		ship originated cuba cubans admitted owning military equipment claiming sent north korea repaired returned
+		first cargo hold six shipping containers found underneath sacks brown sugar two stacks three
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 7
+	Results: 
+		rouge-1: 0.3600
+		rouge-2: 0.1200
+		rouge-l: 0.1923
+		mean: 0.2241
+	Summary: 
+		four days passed since panamanian authorities discovered undeclared military weapons hidden aboard north korean ship painstaking process examining entire vessel crawling snail pace
+		ship five cargo holds one emptied thursday
+		weapons secret hidden sacks sugar

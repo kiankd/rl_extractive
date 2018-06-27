@@ -1,0 +1,101 @@
+DOCUMENT:
+0: prince harry spoken first time notorious romp las vegas hotel suite photographs published around world nude weeks began tour duty afghanistan
+1: prince photographed game strip billiards hotel suite friends group women met
+2: prince said probably let let family let people
+3: end day private area certain amount privacy one expect
+4: back home close friends rallied round great
+5: added probably classic example know probably much army enough prince
+6: simple case
+7: action naked prince harry photos palace says
+8: deployment 662 squadron 3 regiment army air corps allowed withdraw public eye speaking stationed camp bastion afghanistan allowed frustration media show
+9: harry received news duchess cambridge expecting baby tour duty afar expressed sympathy sister-in-law treatment hands press
+10: ca wait uncle
+11: think unfair forced publicize media
+12: hope mainly catherine hopefully gets necessary protection allow mother-to-be enjoy privacy comes
+13: harry privacy clearly concern prince well made little attempt hide
+14: referring tv producer addressing said never wanted guys agreement made invite deal media speculate deployment
+15: reason guys
+16: back home media glare inevitably brighter last four months
+17: pressure back 28-year-old settle
+18: find right person everything feels right takes time especially brother
+19: ai ever going find someone going jump position would hold
+20: harry said put military role ahead royal duties
+21: wearing uniform part gang know fine queen grandson good stuff
+22: love representing honest far see far william sees well service towards country military whichever shape form takes always come first
+23: know people look thinking big bluff reason keep public duties well certain extent yes
+24: reason us public duties public service
+25: harry afghan mission take life save life
+26: life army normal going get harry said relishes chance hang treated one guys
+27: asked comfortable captain wales prince harry answered definitely
+28: always like
+29: father always trying remind stuff like
+30: easy forget army
+31: everyone wearing uniform kind thing
+32: harry admitted home aircraft cockpit classroom
+33: know one people flying course especially would fine flying probably done lot reading
+34: fine flying
+35: every written test would come would absolutely useless exams always nightmare
+36: anything like kicking ball around playing playstation flying genuinely find bit easier walking sometimes
+37: brother probably exactly father flew uncles flown sorts people flown family would suggest comes great fun
+38: given opportunity could say
+39: think prince harry comments
+40: leave comments
+
+=================================
+Gold summary:
+prince harry spoken first time notorious romp las vegas hotel suite
+harry probably let let family let people
+prince speaking reporters military tour afghanistan
+expressed frustration media adding never wanted journalists
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 17, 29, 39
+	Results: 
+		rouge-1: 0.0741
+		rouge-2: 0.0333
+		rouge-l: 0.0645
+		mean: 0.0573
+	Summary: 
+		pressure back 28-year-old settle
+		father always trying remind stuff like
+		think prince harry comments
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.6296
+		rouge-2: 0.5000
+		rouge-l: 0.5484
+		mean: 0.5593
+	Summary: 
+		prince harry spoken first time notorious romp las vegas hotel suite photographs published around world nude weeks began tour duty afghanistan
+		prince photographed game strip billiards hotel suite friends group women met
+		prince said probably let let family let people
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 2, 8
+	Results: 
+		rouge-1: 0.7407
+		rouge-2: 0.5333
+		rouge-l: 0.6774
+		mean: 0.6505
+	Summary: 
+		prince harry spoken first time notorious romp las vegas hotel suite photographs published around world nude weeks began tour duty afghanistan
+		prince said probably let let family let people
+		deployment 662 squadron 3 regiment army air corps allowed withdraw public eye speaking stationed camp bastion afghanistan allowed frustration media show
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.6296
+		rouge-2: 0.5000
+		rouge-l: 0.5484
+		mean: 0.5593
+	Summary: 
+		prince harry spoken first time notorious romp las vegas hotel suite photographs published around world nude weeks began tour duty afghanistan
+		prince photographed game strip billiards hotel suite friends group women met
+		prince said probably let let family let people

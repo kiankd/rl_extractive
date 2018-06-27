@@ -1,0 +1,98 @@
+DOCUMENT:
+0: luke loves yemen wants best future yemenis
+1: yemen times english-language newspaper country wrote american photographer luke somers earlier week al qaeda militants holding somers hostage threatened life videotape
+2: sentiment somers deeply dedicated yemen shared family members friends
+3: somers killed yemen friday attempted rescue mission u.s. navy seals
+4: u.s. official speaking condition anonymity said united states certain one militants shot somers south african hostage pierre korkie rescuers moved
+5: president barack obama issued statement saturday morning condemning killing
+6: secretary state john kerry called reminder brutality terrorists
+7: al qaeda kerry said statement knows hate know murder robbed family idealistic young photojournalist went yemen practice calling document lives ordinary yemenis
+8: dedicated yemen
+9: somers 33
+10: born united kingdom american citizen
+11: like many journalists generation traveled middle east tell stories region strife people affected
+12: friends said arab spring uprising 2011 motivator
+13: also like many colleagues somers freelanced taking photographs licensed published news outlets like al jazeera bbc
+14: tik root said crossed paths somers freelancing yemen said somers really dedicated yemen spent two years continuously telling stories documenting people met
+15: really truly seemed enjoy root said interview cnn new day saturday
+16: one sites photos could licensed hundreds photos political meetings protests interspersed ordinary scenes yemeni capital
+17: somers taken hostage september 2013
+18: november raid special forces freed eight hostages somers
+19: militants subsequently issued demands threat kill
+20: triggered editorial yemen times also worked calls somers release many others including mother paula brother jordan
+21: good person trying good things yemeni population jordan somers said video message
+22: u.s. embassy yemen echoed feeling statement death confirmed
+23: yemen lost friend today statement read
+24: committee protect journalists said somers third american freelance journalist die year held captive james foley steven sotloff murdered syria
+25: organization also pointed raid least third launched u.s. special forces attempt rescue american journalists held hostage syria yemen
+26: raids failed rescue journalists
+27: professor smart thoughtful sensitive
+28: somers graduated beloit college southern wisconsin 2008
+29: following year edited book nature stories written tamarack song director teaching drum outdoor school three lakes wisconsin
+30: song described somers extremely intelligent restless spirit inquisitive reporter eye
+31: skills writer skills photographer tools song said
+32: another tool would worked would used
+33: professor taught somers two classes beloit said smart thoughtful sensitive
+34: well-liked campus shawn gillen said
+35: made friends students around world
+36: beloit significant international student population luke grew close beyond polite introductions
+37: somers good writer driving curiosity excellent journalist gillen said
+
+=================================
+Gold summary:
+former professor says somers good writer curious
+somers 33 born united kingdom american citizen
+freelance photographer work published al jazeera bbc
+somers third u.s. journalist killed captivity mideast terrorists year
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 24, 37, 30
+	Results: 
+		rouge-1: 0.2857
+		rouge-2: 0.1034
+		rouge-l: 0.1667
+		mean: 0.1853
+	Summary: 
+		committee protect journalists said somers third american freelance journalist die year held captive james foley steven sotloff murdered syria
+		somers good writer driving curiosity excellent journalist gillen said
+		song described somers extremely intelligent restless spirit inquisitive reporter eye
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1429
+		rouge-2: 0.0000
+		rouge-l: 0.1333
+		mean: 0.0921
+	Summary: 
+		luke loves yemen wants best future yemenis
+		yemen times english-language newspaper country wrote american photographer luke somers earlier week al qaeda militants holding somers hostage threatened life videotape
+		sentiment somers deeply dedicated yemen shared family members friends
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 10, 13, 24
+	Results: 
+		rouge-1: 0.5000
+		rouge-2: 0.2414
+		rouge-l: 0.4333
+		mean: 0.3916
+	Summary: 
+		born united kingdom american citizen
+		also like many colleagues somers freelanced taking photographs licensed published news outlets like al jazeera bbc
+		committee protect journalists said somers third american freelance journalist die year held captive james foley steven sotloff murdered syria
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1429
+		rouge-2: 0.0000
+		rouge-l: 0.1333
+		mean: 0.0921
+	Summary: 
+		luke loves yemen wants best future yemenis
+		yemen times english-language newspaper country wrote american photographer luke somers earlier week al qaeda militants holding somers hostage threatened life videotape
+		sentiment somers deeply dedicated yemen shared family members friends

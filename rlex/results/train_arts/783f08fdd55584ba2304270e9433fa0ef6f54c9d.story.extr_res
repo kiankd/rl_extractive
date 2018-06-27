@@ -1,0 +1,93 @@
+DOCUMENT:
+0: cnn republicans try breathe new life old scandal
+1: seen time time
+2: step one republicans nothing arsenal use hillary clinton selectively leak reporters scandalous tidbit often one previously reported
+3: step two new media bites
+4: step three media hyperventilates suffocates airwaves repetition story
+5: step four upon examination story falls apart
+6: exactly latest media hype time hillary clinton use emails state department played
+7: presents yet another chapter benghazi hoax
+8: new york times story hillary clinton use private email account state department perfect example gotcha journalism reporters take bait republicans give without proper vetting
+9: new york times history
+10: whitewater anyone
+11: times story suggests secretary clinton broke federal rules relation email
+12: times main source allegation says clinton violated laws
+13: yes clinton used private email account communicate secretary state
+14: secretaries state
+15: according state department spokesman marie harf john kerry first secretary state ever rely primarily official state department email
+16: clinton asks state release emails need know
+17: october 2014 18 months clinton left state department engaged process updating records preservation policies
+18: state department asked every secretary state dating back madeleine albright provide records including emails time office
+19: clinton responded state department request emails providing department 55,000 pages emails
+20: months ago
+21: clinton fully transparent asked state department emails made public
+22: republican investigators seeking hype current benghazi investigation leaked issue keep dying investigation alive
+23: reporters bit
+24: days since new york times posted story dozens dozens stories written topic
+25: clintons held double standard comes media scrutiny
+26: perfectly usual board behavior spun secretive unaccountable republicans left relatively unscathed
+27: mitt romney used private email account discuss political business left governor office administration destroyed records rather turn state archives
+28: scott walker county executive office used secret email system investigators determined used engage campaign work county time avoid public records disclosure laws
+29: mike huckabee office files including emails cleaned physically destroyed including travel records calendars call logs emails
+30: behavior scrutinized
+31: last name clinton
+32: end left benign fact hillary clinton used personal email account state department
+33: even revelation known years
+34: looks like republicans wasted breath nothing
+
+=================================
+Gold summary:
+david brock story another example gop efforts create phony controversy
+hillary clinton email practices break law says
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 0, 11, 21
+	Results: 
+		rouge-1: 0.1765
+		rouge-2: 0.0000
+		rouge-l: 0.1765
+		mean: 0.1176
+	Summary: 
+		cnn republicans try breathe new life old scandal
+		times story suggests secretary clinton broke federal rules relation email
+		clinton fully transparent asked state department emails made public
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1176
+		rouge-2: 0.0625
+		rouge-l: 0.1176
+		mean: 0.0993
+	Summary: 
+		cnn republicans try breathe new life old scandal
+		seen time time
+		step one republicans nothing arsenal use hillary clinton selectively leak reporters scandalous tidbit often one previously reported
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 7, 8, 12
+	Results: 
+		rouge-1: 0.4118
+		rouge-2: 0.0625
+		rouge-l: 0.2941
+		mean: 0.2561
+	Summary: 
+		presents yet another chapter benghazi hoax
+		new york times story hillary clinton use private email account state department perfect example gotcha journalism reporters take bait republicans give without proper vetting
+		times main source allegation says clinton violated laws
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1176
+		rouge-2: 0.0625
+		rouge-l: 0.1176
+		mean: 0.0993
+	Summary: 
+		cnn republicans try breathe new life old scandal
+		seen time time
+		step one republicans nothing arsenal use hillary clinton selectively leak reporters scandalous tidbit often one previously reported

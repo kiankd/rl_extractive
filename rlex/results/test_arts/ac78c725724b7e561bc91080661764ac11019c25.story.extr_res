@@ -1,0 +1,99 @@
+DOCUMENT:
+0: news fahrenheit 451 author ray bradbury passed away tuesday night age 91 celebrity admiration rolling twitter day
+1: surprisingly twitterverse alive admiring work particularly sci-fi brilliance commitment reading
+2: check round-up tweets
+3: rip ray bradbury made mars time travel illustrated men real reality 14 year old
+4: #ripray rainn wilson
+5: ray bradbury dead 91 http://www.buzzfeed.com/whitneyjeffers setting fire books office honor
+6: morgan spurlock
+7: indeed legend
+8: rest peace ray bradbury
+9: duran duran
+10: pour dandelion wine ray bradbury
+11: goodbye mr. bradbury
+12: see october country
+13: patton oswalt
+14: libraries raised
+15: could go college went library three days week 10 years
+16: ray bradbury nina garcia
+17: rip ray bradbury native waukegan illinois
+18: brilliant sci-fi especially fahrenheit 451 mandatory reading
+19: tom morello
+20: great ray bradbury left planet
+21: younger read one else
+22: lucky enough shake hand
+23: r rip
+24: jonathan ross
+25: going introduce son public library today honor ray bradbury
+26: #rip alyssa milano
+27: rip ray bradbury :-lrb- touched many lives work even recently might expected
+28: sleep well dude
+29: dead mau5
+30: rip ray bradbury
+31: see future brad bird
+32: talk write
+33: ray bradbury
+34: cameron crowe
+35: yesterday recorded man forgot ray bradbury
+36: rest peace ray
+37: wo ever forget
+38: neil gaiman
+39: see full story ew.com
+
+=================================
+Gold summary:
+celebrity admiration ray bradbury rolling twitter day
+indeed legend rest peace ray bradbury duran duran
+rip ray bradbury see future brad bird
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 1, 2, 30
+	Results: 
+		rouge-1: 0.1765
+		rouge-2: 0.1053
+		rouge-l: 0.1364
+		mean: 0.1394
+	Summary: 
+		surprisingly twitterverse alive admiring work particularly sci-fi brilliance commitment reading
+		check round-up tweets
+		rip ray bradbury
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4118
+		rouge-2: 0.2105
+		rouge-l: 0.2273
+		mean: 0.2832
+	Summary: 
+		news fahrenheit 451 author ray bradbury passed away tuesday night age 91 celebrity admiration rolling twitter day
+		surprisingly twitterverse alive admiring work particularly sci-fi brilliance commitment reading
+		check round-up tweets
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 8, 31
+	Results: 
+		rouge-1: 0.7647
+		rouge-2: 0.5263
+		rouge-l: 0.5909
+		mean: 0.6273
+	Summary: 
+		news fahrenheit 451 author ray bradbury passed away tuesday night age 91 celebrity admiration rolling twitter day
+		rest peace ray bradbury
+		see future brad bird
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 16, 10
+	Results: 
+		rouge-1: 0.4118
+		rouge-2: 0.2105
+		rouge-l: 0.4091
+		mean: 0.3438
+	Summary: 
+		news fahrenheit 451 author ray bradbury passed away tuesday night age 91 celebrity admiration rolling twitter day
+		ray bradbury nina garcia
+		pour dandelion wine ray bradbury

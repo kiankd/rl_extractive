@@ -1,0 +1,80 @@
+DOCUMENT:
+0: james tully says stopped many times law enforcement way work stopped counting
+1: apparently resembles fugitive eric frein accused fatally shooting pennsylvania state trooper injuring another trooper september shootout
+2: search frein jolted canadensis area pennsylvania pocono mountains leading school closures roadblocks multiple police interactions tully walks 5 miles work back day car
+3: walking carrying book bag reason people seem think one looking tully told cnn affiliate wnep
+4: lost count 20 total
+5: one round-trip stretch seven times
+6: even started wearing work id around neck easy identification
+7: one concerned citizen looking take target tully back
+8: dawn debiase east stroudsburg pennsylvania started online fundraiser help father two purchase car
+9: campaign raised 22,000 five days
+10: debiase said touched tully plight
+11: good guy
+12: working support children
+13: street boo-hooing car walking work every day
+14: due overwhelming response debiase said closing fundraiser week tully request
+15: want greedy help debiase said
+16: ready take
+17: meantime others community stepped give rides work
+18: absolutely appreciates everything
+19: totally overwhelmed everything said
+20: humble hardworking guy
+
+=================================
+Gold summary:
+james tully says stopped 20 times manhunt accused killer
+tully walks 5 miles work back day car
+members community start online campaign raise money buy car
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 12, 4, 7
+	Results: 
+		rouge-1: 0.1250
+		rouge-2: 0.0000
+		rouge-l: 0.1154
+		mean: 0.0801
+	Summary: 
+		working support children
+		lost count 20 total
+		one concerned citizen looking take target tully back
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5417
+		rouge-2: 0.4000
+		rouge-l: 0.5385
+		mean: 0.4934
+	Summary: 
+		james tully says stopped many times law enforcement way work stopped counting
+		apparently resembles fugitive eric frein accused fatally shooting pennsylvania state trooper injuring another trooper september shootout
+		search frein jolted canadensis area pennsylvania pocono mountains leading school closures roadblocks multiple police interactions tully walks 5 miles work back day car
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 2, 8
+	Results: 
+		rouge-1: 0.5417
+		rouge-2: 0.4000
+		rouge-l: 0.5769
+		mean: 0.5062
+	Summary: 
+		james tully says stopped many times law enforcement way work stopped counting
+		search frein jolted canadensis area pennsylvania pocono mountains leading school closures roadblocks multiple police interactions tully walks 5 miles work back day car
+		dawn debiase east stroudsburg pennsylvania started online fundraiser help father two purchase car
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5417
+		rouge-2: 0.4000
+		rouge-l: 0.5385
+		mean: 0.4934
+	Summary: 
+		james tully says stopped many times law enforcement way work stopped counting
+		apparently resembles fugitive eric frein accused fatally shooting pennsylvania state trooper injuring another trooper september shootout
+		search frein jolted canadensis area pennsylvania pocono mountains leading school closures roadblocks multiple police interactions tully walks 5 miles work back day car

@@ -1,0 +1,102 @@
+DOCUMENT:
+0: cnn since lena baker african-american convicted murder randolph county georgia executed woman
+1: state scheduled snap 70-year streak wednesday
+2: kelly renee gissendaner 47 convicted february 1997 murder plot targeted husband suburban atlanta
+3: gissendaner romantically involved gregory owen conspired 43-year-old husband douglas gissendaner killed according court testimony
+4: owen wanted kelly gissendaner file divorce concerned husband would leave alone simply divorced court documents said
+5: gissendaners already divorced 1993 remarried 1995
+6: details crime laid trial provided georgia attorney general sam olens follows
+7: owen kelly gissendaner planned murder months
+8: february 7 1997 dropped owen home gave nightstick hunting knife went dancing girlfriends
+9: douglas gissendaner also spent evening away home going church friend house work cars
+10: owen lay wait returned
+11: douglas gissendaner came home around 11:30 p.m. owen forced knifepoint car drove remote area gwinnett county
+12: owen ordered victim woods took watch wallet make look like robbery hit head nightstick stabbed douglas gissendaner neck eight 10 times
+13: kelly gissendaner arrived murder took place immediately get car
+14: later checked husband make sure dead owen followed douglas gissendaner car retrieve kerosene kelly gissendaner left
+15: owen set husband car fire effort hide evidence left scene kelly gissendaner
+16: police discovered burned-out automobile morning murder find body
+17: authorities kicked search
+18: kelly gissendaner meanwhile went local television appealing public information husband whereabouts
+19: owen story started unravel series police interviews
+20: february 20 douglas gissendaner face-down body found mile car
+21: autopsy determined cause death knife wounds neck medical examiner could tell strike killed douglas gissendaner animals devoured skin soft tissue right side neck
+22: february 24 owen confessed killing implicated kelly gissendaner arrested next day charged
+23: jail awaiting trial kelly gissendaner grew angry heard owen receive 25-year sentence role murder
+24: owen serving life prison facility davisboro according georgia department corrections records
+25: began writing letters hire third person would falsely confess taking crime scene gunpoint
+26: asked cellmate laura mcduffie find someone willing job 10,000 mcduffie turned kelly gissendaner letters authorities via attorney
+27: kelly gissendaner exhausted state federal appeals attorney general said statement
+28: state board pardons paroles consider clemency request tuesday
+29: late tuesday afternoon decision made said spokesman board
+30: clemency application gissendaner lawyers argue equally less culpable owen actually killing
+31: defendants offered identical plea bargains trial life prison agreement seek parole 25 years
+32: owen accepted plea bargain testified former girlfriend
+33: gissendaner willing plead guilty current lawyers said consulted trial lawyer asked prosecutors remove stipulation waiting 25 years apply parole
+34: according clemency appeal lead trial attorney edwin wilson said thought jury would sentence death woman actually kill doug
+35: pushed take plea thought would get straight life convicted
+36: appeal lawyers also argue gissendaner expressed deep remorse actions become model inmate grown spiritually
+37: say death would cause hardship two children
+38: last meal requested extravagant one two burger king whoppers cheese everything two large orders fries popcorn cornbread side buttermilk salad tomatoes bell peppers onions carrots cheese boiled eggs paul newman buttermilk dressing cnn affiliate wgcl-tv atlanta reported
+39: also requested glass lemonade cherry-vanilla ice cream dessert
+40: kelly gissendaner currently woman georgia death row
+41: would first woman executed state since baker 1945
+42: 15 women executed united states since 1977 according death penalty information center
+
+=================================
+Gold summary:
+kelly gissendaner sentenced death murder plot targeting husband
+lover time committed murder confessed implicated gissendaner
+gissendaner requested burgers fries popcorn salad ice cream last meal
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 16, 1, 11
+	Results: 
+		rouge-1: 0.0909
+		rouge-2: 0.0000
+		rouge-l: 0.0800
+		mean: 0.0570
+	Summary: 
+		police discovered burned-out automobile morning murder find body
+		state scheduled snap 70-year streak wednesday
+		douglas gissendaner came home around 11:30 p.m. owen forced knifepoint car drove remote area gwinnett county
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2273
+		rouge-2: 0.0417
+		rouge-l: 0.2000
+		mean: 0.1563
+	Summary: 
+		cnn since lena baker african-american convicted murder randolph county georgia executed woman
+		state scheduled snap 70-year streak wednesday
+		kelly renee gissendaner 47 convicted february 1997 murder plot targeted husband suburban atlanta
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 2, 22, 38
+	Results: 
+		rouge-1: 0.5909
+		rouge-2: 0.1667
+		rouge-l: 0.4800
+		mean: 0.4125
+	Summary: 
+		kelly renee gissendaner 47 convicted february 1997 murder plot targeted husband suburban atlanta
+		february 24 owen confessed killing implicated kelly gissendaner arrested next day charged
+		last meal requested extravagant one two burger king whoppers cheese everything two large orders fries popcorn cornbread side buttermilk salad tomatoes bell peppers onions carrots cheese boiled eggs paul newman buttermilk dressing cnn affiliate wgcl-tv atlanta reported
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 2, 7
+	Results: 
+		rouge-1: 0.2273
+		rouge-2: 0.0833
+		rouge-l: 0.2400
+		mean: 0.1835
+	Summary: 
+		cnn since lena baker african-american convicted murder randolph county georgia executed woman
+		kelly renee gissendaner 47 convicted february 1997 murder plot targeted husband suburban atlanta
+		owen kelly gissendaner planned murder months

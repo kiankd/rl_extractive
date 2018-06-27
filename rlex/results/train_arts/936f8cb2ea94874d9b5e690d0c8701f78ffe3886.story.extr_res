@@ -1,0 +1,85 @@
+DOCUMENT:
+0: time.com heady talk misleadingly deific recently confirmed quantum specks named scottish physicists another kind historic event transpired record-shattering laser beam single shot fired july 5 2012 generated power united states single instant
+1: spooky astonishing
+2: think extreme sports science kind lab-based game automatic one-upmanship researchers fiddle incredibly complex painstakingly calibrated machinery produce unprecedented results outdo
+3: time.com 9 examples improbable superhero technology
+4: national ignition facility home world largest laser pulled trigger 192 beams optically amplified electromagnetic radiation-emitting light fired within trillionths second deliver 500 trillion watts terawatts peak power 1.85 megajoules ultraviolet laser light
+5: framed eye-catching terms nif says 500 terawatts outpaces entire u.s. power used instant time 1.85 megajoules amounts roughly 100 times laser produces regularly
+6: wonder two power unit prefixes tera mega come greek words meaning monster great
+7: else would expect laser housed building size three football fields science lab word like ignition moniker
+8: nif located livermore california came online march 2009 goals manifold primary mission given funding national nuclear security administration nnsa semi-autonomous agency within u.s. department energy responsible enhancing national security application nuclear science nation national security enterprise duplicate happens contemporary nuclear weapons part render underground nuclear testing unnecessary
+9: time.com clamshell
+10: story greatest computing form factor time
+11: also repository scientists sort poke around sub-sub-atomic levels elemental quantum particles looking understand extreme states matter exist centers planets stars celestial objects
+12: last least well beyond holster-loaded conventions mere pulp sci-fi skirmishing nif laser puzzling something called fusion ignition point nuclear fusion reactions become self-sustaining nif words provide abundant sustainable clean energy
+13: fusion reaction arguably exciting nif goals catalyze self-sustaining nuclear fusion wherein two light atomic nuclei fuse together produce single heavier nucleus converting mass incredible amounts energy
+14: many words stars born something scientists working achieve since 1950s
+15: 500-terawatt shot july 5 brings scientists closer solving longstanding physics challenge arguably field holy grail getting back energy give
+16: time.com mission mars 8 amazing tech tools aboard nasa curiosity rover
+17: 500 tw shot extraordinary accomplishment nif team creating unprecedented conditions laboratory hitherto existed deep stellar interiors said mit physicist dr. richard petrasso statement nif site
+18: scientists across nation world like actively pursuing fundamental science extreme conditions goal laboratory fusion ignition remarkable exciting achievement
+19: july 5 shot actually nif third series test fires series seen power ramped nearly 100 terawatts since march 15 nif fired shot delivered 1.8 megajoules peak power 411 terawatts
+20: electricity produced sustained controlled fusion reactions may commercially viable well ever depending talk say 30 40 years others say indefinitely given technical challenges putting star-stuff container july 5 laser shot appears major step forward
+21: nif becoming everything scientists planned conceived two decades ago said nif director edward moses july 5 shot
+22: january 2012 moses predicted fusion ignition would happen next 6-18 months
+23: getting close words might call end beginning long expensive experimental international fusion reactor built france said cost 16 billion euros nearly us$ 20 billion road theoretically limitless energy generation
+24: article originally appeared time.com laser beam 1,000 times powerful united states
+
+=================================
+Gold summary:
+nif laser generates power single blast u.s. single instant
+laser produces 1.85 megajoules power 100 times laser emits
+nif experiments nuclear energy improve national security
+laser experiments could give insight sustainable clean energy
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 21, 14, 23
+	Results: 
+		rouge-1: 0.0800
+		rouge-2: 0.0000
+		rouge-l: 0.0909
+		mean: 0.0570
+	Summary: 
+		nif becoming everything scientists planned conceived two decades ago said nif director edward moses july 5 shot
+		many words stars born something scientists working achieve since 1950s
+		getting close words might call end beginning long expensive experimental international fusion reactor built france said cost 16 billion euros nearly us$ 20 billion road theoretically limitless energy generation
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1600
+		rouge-2: 0.0312
+		rouge-l: 0.1212
+		mean: 0.1042
+	Summary: 
+		time.com heady talk misleadingly deific recently confirmed quantum specks named scottish physicists another kind historic event transpired record-shattering laser beam single shot fired july 5 2012 generated power united states single instant
+		spooky astonishing
+		think extreme sports science kind lab-based game automatic one-upmanship researchers fiddle incredibly complex painstakingly calibrated machinery produce unprecedented results outdo
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 5, 8, 12
+	Results: 
+		rouge-1: 0.6400
+		rouge-2: 0.2500
+		rouge-l: 0.5152
+		mean: 0.4684
+	Summary: 
+		framed eye-catching terms nif says 500 terawatts outpaces entire u.s. power used instant time 1.85 megajoules amounts roughly 100 times laser produces regularly
+		nif located livermore california came online march 2009 goals manifold primary mission given funding national nuclear security administration nnsa semi-autonomous agency within u.s. department energy responsible enhancing national security application nuclear science nation national security enterprise duplicate happens contemporary nuclear weapons part render underground nuclear testing unnecessary
+		last least well beyond holster-loaded conventions mere pulp sci-fi skirmishing nif laser puzzling something called fusion ignition point nuclear fusion reactions become self-sustaining nif words provide abundant sustainable clean energy
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 4
+	Results: 
+		rouge-1: 0.2800
+		rouge-2: 0.0625
+		rouge-l: 0.2424
+		mean: 0.1950
+	Summary: 
+		time.com heady talk misleadingly deific recently confirmed quantum specks named scottish physicists another kind historic event transpired record-shattering laser beam single shot fired july 5 2012 generated power united states single instant
+		spooky astonishing
+		national ignition facility home world largest laser pulled trigger 192 beams optically amplified electromagnetic radiation-emitting light fired within trillionths second deliver 500 trillion watts terawatts peak power 1.85 megajoules ultraviolet laser light

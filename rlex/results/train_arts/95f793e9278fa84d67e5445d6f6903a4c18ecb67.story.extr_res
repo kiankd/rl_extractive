@@ -1,0 +1,71 @@
+DOCUMENT:
+0: least 20 police officers feared killed tuesday maoist raid indian state chhattisgarh authorities said
+1: unconfirmed sources tell us 20 policemen lost lives said arun dev gautam state police inspector general
+2: morning attack targeted police security team 40 personnel sukma district said
+3: gautam rule use landmines assault believed involve 200 rebel fighters
+4: maoists ambushed police team included state armed federal personnel provided security construction workers said
+5: police conference new delhi november india home minister sushil kumar shinde described rebels major threat national security
+6: least 97 security personnel many guerrillas killed maoist assaults last year said
+7: rebels officials say aim seize power armed liberation struggle
+8: since 1960s militants said fighting dispossessed
+9: authorities suspect maoists enjoy support poorest areas tribal communities also among youth intellectuals
+10: addition targeting police alleged police informers people call class enemies insurgents also attack infrastructure roads bridges railways power telecommunication networks
+11: 2013 indian politician suffered brutal treatment maoist attack
+
+=================================
+Gold summary:
+morning attack targets police security team
+victims include state armed federal officials
+india home minister describes rebels major threat national security
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 1, 6, 9
+	Results: 
+		rouge-1: 0.1500
+		rouge-2: 0.0000
+		rouge-l: 0.0952
+		mean: 0.0817
+	Summary: 
+		unconfirmed sources tell us 20 policemen lost lives said arun dev gautam state police inspector general
+		least 97 security personnel many guerrillas killed maoist assaults last year said
+		authorities suspect maoists enjoy support poorest areas tribal communities also among youth intellectuals
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3000
+		rouge-2: 0.1500
+		rouge-l: 0.2381
+		mean: 0.2294
+	Summary: 
+		least 20 police officers feared killed tuesday maoist raid indian state chhattisgarh authorities said
+		unconfirmed sources tell us 20 policemen lost lives said arun dev gautam state police inspector general
+		morning attack targeted police security team 40 personnel sukma district said
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 2, 4, 5
+	Results: 
+		rouge-1: 0.7500
+		rouge-2: 0.5500
+		rouge-l: 0.7619
+		mean: 0.6873
+	Summary: 
+		morning attack targeted police security team 40 personnel sukma district said
+		maoists ambushed police team included state armed federal personnel provided security construction workers said
+		police conference new delhi november india home minister sushil kumar shinde described rebels major threat national security
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3000
+		rouge-2: 0.1500
+		rouge-l: 0.2381
+		mean: 0.2294
+	Summary: 
+		least 20 police officers feared killed tuesday maoist raid indian state chhattisgarh authorities said
+		unconfirmed sources tell us 20 policemen lost lives said arun dev gautam state police inspector general
+		morning attack targeted police security team 40 personnel sukma district said

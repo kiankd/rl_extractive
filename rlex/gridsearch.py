@@ -7,8 +7,10 @@ import argparse
 import numpy as np
 import time
 from collections import OrderedDict, defaultdict
+from copy import deepcopy
 from itertools import product
 from rlex.rl_extraction import PolicyGradientExtractor
+from rlex.oracle_extraction import RandomSummarizer, GreedyOracleSummarizer, Lead3Summarizer
 from rlex.abstract_extraction import Params
 from rlex.load_data import get_samples
 
@@ -27,13 +29,23 @@ PARAMS_TO_TEST = {
 }
 
 TINY_PARAMS_TEST = {
-    'v_lr': [0.35],
-    'p_lr': [0.225],
-    'pca_features': [100],
+    'v_lr': [0],
+    'p_lr': [0.275],
+    'pca_features': [1000],
     'tfidf_max_features': [5000],
     'n_training_steps': [500],
-    'update_only_last': [True, False],
-    'batch_mean': [True],
+    'update_only_last': [False],
+    'batch_mean': [False],
+}
+
+BASELINE_PARAMS = {
+    'v_lr': '-',
+    'p_lr': '-',
+    'pca_features': '-',
+    'tfidf_max_features': '-',
+    'n_training_steps': '-',
+    'update_only_last': '-',
+    'batch_mean': None, # put the name here, gross I know
 }
 
 class TaskLog(object):
@@ -41,9 +53,9 @@ class TaskLog(object):
     Object to hold the results of a RL training task.
     Convenient for results serialization. Basically just a dict.
     """
-    def __init__(self, params_tested, train_res, test_res, time_taken):
+    def __init__(self, params_tested, train_res, val_res, test_res, time_taken):
         self.task_conclusion = OrderedDict()
-        for d in params_tested, train_res, test_res:
+        for d in params_tested, train_res, val_res, test_res:
             for key, value in d.items():
                 self.task_conclusion[key] = value
         self.task_conclusion['time_taken'] = '{:.4f}'.format(time_taken)
@@ -123,10 +135,11 @@ def generate_param_tests(component, n_components):
         all_tests.append({key: value for key, value in zip(keys, combo)})
     return all_tests
 
-def run_rl_task(train_a, test_a, params_dict, verbose=False):
+def run_rl_task(train_a, val_a, test_a, params_dict, verbose=False):
     """
     Runs a specific task for testing our RL model based on parameters passed.
     :param train_a: List of articles to train on
+    :param val_a: articles for validation testing
     :param test_a: List of articles to test on
     :param params_dict: Dict of parameters we are testing for this task
     :param verbose: verbosity 101
@@ -142,7 +155,7 @@ def run_rl_task(train_a, test_a, params_dict, verbose=False):
     )
     model = PolicyGradientExtractor(params)
     if verbose: print('\textracting features...')
-    model.set_features(train_a + test_a, **{k: v for k, v in params_dict.items() if k in FEATURES})
+    model.set_features(train_a + val_a + test_a, **{k: v for k, v in params_dict.items() if k in FEATURES})
     if verbose: print('\ttraining model...')
     model.train_on_batch_articles(
         article_training_steps=params_dict['n_training_steps'],
@@ -155,8 +168,28 @@ def run_rl_task(train_a, test_a, params_dict, verbose=False):
     # now store the train and test results
     if verbose: print('\tgetting final results to report...')
     train_results = get_article_set_results(model, train_a, 'train')
+    val_results = get_article_set_results(model, val_a, 'val')
     test_results = get_article_set_results(model, test_a, 'test')
-    return TaskLog(params_dict, train_results, test_results, time.time() - start)
+    return TaskLog(params_dict, train_results, val_results, test_results, time.time() - start)
+
+def run_baselines(train_a, val_a, test_a):
+    task_logs = []
+    for model in RandomSummarizer(1848), Lead3Summarizer(), GreedyOracleSummarizer():
+        start = time.time()
+
+        # a bit of a hack to work with the RL based parameter stuff
+        baseline_params = deepcopy(BASELINE_PARAMS)
+        baseline_params['batch_mean'] = model.name
+
+        # get the results
+        train_results = get_article_set_results(model, train_a, 'train')
+        val_results = get_article_set_results(model, val_a, 'val')
+        test_results = get_article_set_results(model, test_a, 'test')
+
+        # make the task log
+        tl = TaskLog(baseline_params, train_results, val_results, test_results, time.time() - start)
+        task_logs.append(tl)
+    return task_logs
 
 def get_article_set_results(model, articles, test_name):
     """
@@ -267,9 +300,10 @@ if __name__ == '__main__':
         pass
 
     # get all the articles, clean always
-    all_articles = get_samples(True)
+    all_articles = get_samples(clean=True)
     train_articles = all_articles[:args.n_samples]
-    test_articles = all_articles[args.n_samples:]
+    val_articles = all_articles[args.n_samples:]
+    test_articles = get_samples(clean=True, test=True)
 
     # run the tasks!
     crt_res_write = ''
@@ -281,11 +315,15 @@ if __name__ == '__main__':
         print(f' <RLTask {i} - {param_test}>')
 
         # run the task, get results
-        task_log = run_rl_task(train_articles, test_articles, param_test, args.verbose)
+        task_log = run_rl_task(train_articles, val_articles, test_articles, param_test, args.verbose)
         num_res += 1
 
-        # write header (for first step), append the actrual values
-        if i == 0: crt_res_write = '{}\n'.format(task_log.keys_to_csv_string())
+        # write header (for first step), append the actrual values, add the baseline results too
+        if i == 0:
+            crt_res_write = '{}\n'.format(task_log.keys_to_csv_string())
+            for baseline_tl in run_baselines(train_articles, val_articles, test_articles):
+                crt_res_write = '{}{}\n'.format(crt_res_write, baseline_tl.values_to_csv_string())
+
         crt_res_write = '{}{}\n'.format(crt_res_write, task_log.values_to_csv_string())
 
         # serialize results into CSV

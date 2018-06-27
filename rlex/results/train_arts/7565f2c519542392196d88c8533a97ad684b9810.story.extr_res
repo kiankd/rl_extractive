@@ -1,0 +1,109 @@
+DOCUMENT:
+0: become permanent fixture football calendar nfl prepares descend london seems permanent touchdown fast approaching
+1: new england patriots st. louis rams jet sunday sixth annual regular season clash wembley stadium growing sense nfl franchise could based fulltime british capital decade
+2: league voted persist experiment least 2016 jacksonville jaguars committing four years visits london nfl hoping build spike interest since landing firm feet foreign shores 2005
+3: nfl commissioner roger goodell confirmed announcement new affirmation overseas football latest deal would increase swell support game likely necessary franchise flourish across atlantic
+4: nfl st. louis rams play 3 home games london
+5: team base europe london anywhere else must commit ingraining culture game city adopts new home guard antagonizing u.s.-based fans according sports business expert simon chadwick
+6: successful overseas expansion require nfl create embed culture american football overseas territories need successfully engage local stakeholders told cnn
+7: us fans important see sport core values traditional markets compromised undermined overseas expansion
+8: moreover think nfl sell expansion existing fans important future sustainability success sport
+9: building fan base
+10: franchise touch london success would hinge following attracts something league trying build since first regular-season match new york giants miami dolphins drew crowd 81,000 wembley 2007
+11: figures promising
+12: according nfl fan base 11 million uk represents 32 increase last two years
+13: people playing game amateur level
+14: television numbers also rise sunday games showing 154 increase viewers amount people watching showpiece super bowl gone 74 since 2006
+15: goodell admitted part nfl reasoning extending period moonlighting london pave way future franchise
+16: play multiple regular-season games gives better opportunity successful choose put franchise london goodell said comments sent cnn nfl
+17: reason putting two games london trying build fan base london
+18: welcome fans coming parts europe
+19: way really build fan base right london critical franchise
+20: according goodell nfl teams clamoring visit london bid spread word teams cities attract new fans tap potentially lucrative new revenue streams
+21: minnesota vikings owner mark wilf said team clash pittsburgh steelers 2013 would offer acute exposure minnesota impressive business community tourism industry well offering franchise europe-based fans chance see team action
+22: chadwick says difficult nfl fully infiltrate country fervent following major three sports soccer cricket rugby intrinsically american nature
+23: nfl one sports deeply socio-culturally embedded quintessentially american means limited appeal outside core markets much way sport like cricket said
+24: attendances nfl games cities like london healthy likely generate financial return nfl
+25: yet sustainable revenue streams might across season open question
+26: hence games overseas territories building fan base view generating long-term financial return
+27: sustainability sports nfl requires culture shift implementation appropriate strategy
+28: culture shift needs place hearts minds potential customers strategy needs acknowledge different approach marketing nfl uk needed compared united states
+29: need new markets
+30: new england patriots owner robert kraft certainly fan idea outfit prepare second visit wembley
+31: quotes nfl international website kraft says game danger tapping states due increased popularity
+32: look last super bowl past season 180 million people watching almost two-thirds america said
+33: us grow game expand globally
+34: think said last time 2009 next decade hope team
+35: think would right nfl fan base proven deserve
+36: nfl u.s. sport travel europe search greater riches
+37: nba staged first regular season game london march 2011 16th played foreign soil countries japan mexico
+38: nhl also dipped toe thames holding first regular season match 2007
+39: american sports seeking worldwide expansion plans gone well nfl proposal
+40: soccer club barcelona example refused play preseason super cup beijing despite spanish league signed deal chinese promoter
+41: barca said china far away club members might want attend game though acknowledge china represents attractive market
+42: strong backlash idea 39th english premier league match held overseas possibility mooted several years ago domestic fans bridled prospect administrators might tamper beautiful game
+43: italian sides juventus napoli qualms contested italian super cup beijing bird nest stadium back august
+44: chadwick added increasingly trend sports take domestic games abroad italian football super cup formula one races places like india
+45: long-term sustainability sports increasingly appears dictated ability successfully internationalize globalize
+46: premier league clubs already premier league trophy held asia uefa market champions league heavily countries
+47: nevertheless sense inevitability previously mentioned 39th game return agenda sometime soon
+48: premier league compete sporting properties looking overseas markets best take advantage opportunities potentially present
+
+=================================
+Gold summary:
+nfl returns wembley sunday new england patriots play st. louis rams
+sixth regular season game played london since 2007
+nfl commissioner raises prospect london-based nfl franchise future
+sports also following u.s. lead taking matches around globe
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 48, 42, 14
+	Results: 
+		rouge-1: 0.1471
+		rouge-2: 0.0000
+		rouge-l: 0.0556
+		mean: 0.0675
+	Summary: 
+		premier league compete sporting properties looking overseas markets best take advantage opportunities potentially present
+		strong backlash idea 39th english premier league match held overseas possibility mooted several years ago domestic fans bridled prospect administrators might tamper beautiful game
+		television numbers also rise sunday games showing 154 increase viewers amount people watching showpiece super bowl gone 74 since 2006
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4412
+		rouge-2: 0.1714
+		rouge-l: 0.3333
+		mean: 0.3153
+	Summary: 
+		become permanent fixture football calendar nfl prepares descend london seems permanent touchdown fast approaching
+		new england patriots st. louis rams jet sunday sixth annual regular season clash wembley stadium growing sense nfl franchise could based fulltime british capital decade
+		league voted persist experiment least 2016 jacksonville jaguars committing four years visits london nfl hoping build spike interest since landing firm feet foreign shores 2005
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 3, 10
+	Results: 
+		rouge-1: 0.5588
+		rouge-2: 0.2000
+		rouge-l: 0.3611
+		mean: 0.3733
+	Summary: 
+		new england patriots st. louis rams jet sunday sixth annual regular season clash wembley stadium growing sense nfl franchise could based fulltime british capital decade
+		nfl commissioner roger goodell confirmed announcement new affirmation overseas football latest deal would increase swell support game likely necessary franchise flourish across atlantic
+		franchise touch london success would hinge following attracts something league trying build since first regular-season match new york giants miami dolphins drew crowd 81,000 wembley 2007
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4412
+		rouge-2: 0.1714
+		rouge-l: 0.3333
+		mean: 0.3153
+	Summary: 
+		become permanent fixture football calendar nfl prepares descend london seems permanent touchdown fast approaching
+		new england patriots st. louis rams jet sunday sixth annual regular season clash wembley stadium growing sense nfl franchise could based fulltime british capital decade
+		league voted persist experiment least 2016 jacksonville jaguars committing four years visits london nfl hoping build spike interest since landing firm feet foreign shores 2005

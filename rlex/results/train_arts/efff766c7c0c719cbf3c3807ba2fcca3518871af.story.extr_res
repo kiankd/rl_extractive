@@ -1,0 +1,91 @@
+DOCUMENT:
+0: crowd students marched central london wednesday disrupting traffic shouting slogans protest increase university tuition
+1: students also protested cities across britain including leeds cambridge birmingham
+2: police said 15 arrests london one oxford glasgow scotland
+3: three arrests happened students filled whitehall street runs trafalgar square past prime minister residence toward parliament
+4: police penned protesters either end try limit criminal damage line police fluorescent yellow vests kept students reaching parliament square
+5: kettled freezing everyone needs toilet fun protester clare solomon told cnn using local term penned
+6: solomon president university london student union said police containing five hours 6 p.m. 1 p.m. et
+7: obviously people starting get angry
+8: everyone really hungry said
+9: thought demonstration success
+10: estimated 20,000 25,000 people turned
+11: police said could give estimate size london crowd
+12: students starting self-organize solomon said
+13: get 25,000 streets major organization sign things come
+14: british universities follow american model students pay large tuition fees seek loans grants ca pay argued
+15: excludes poor people higher education said
+16: students held signs saying stop education cuts education segregation unite fight
+17: managed break police van inside containment area whitehall smashing windshield spray-painting sides trying topple
+18: students stood way tried stop
+19: students set firecrackers crowd
+20: otherwise unrest appear reach level seen similar protests two weeks ago protesters invaded building holding headquarters conservative party
+21: students angry government plans allow universities charge much 9,000 pounds 14,200 year tuition fees substantial rise current cap 3,000 pounds 4,700
+22: government wants raise fees scrap subsidies university students tries cut massive budget deficit
+23: defenders plan say universities necessarily charge maximum allowed education experts disputed
+24: protests two weeks ago students spray-painted anarchy symbols broke windows set flares conservative headquarters forced
+25: set fires shot firecrackers outside building
+26: violence marred otherwise largely peaceful protest
+27: national union students said 50,000 demonstrators streets protest
+28: two officers injured london activities london metropolitan police said
+29: female officer broke hand male officer suffered leg injuries police said
+30: cnn richard allen greene jo shelley contributed report
+
+=================================
+Gold summary:
+new police pen student demonstrators hours protester says
+students angry government plans allow tuition increases
+large crowd filled street near parliament london
+protests reported leeds cambridge birmingham
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 8, 28, 29
+	Results: 
+		rouge-1: 0.0741
+		rouge-2: 0.0000
+		rouge-l: 0.0370
+		mean: 0.0370
+	Summary: 
+		everyone really hungry said
+		two officers injured london activities london metropolitan police said
+		female officer broke hand male officer suffered leg injuries police said
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2963
+		rouge-2: 0.0769
+		rouge-l: 0.1852
+		mean: 0.1861
+	Summary: 
+		crowd students marched central london wednesday disrupting traffic shouting slogans protest increase university tuition
+		students also protested cities across britain including leeds cambridge birmingham
+		police said 15 arrests london one oxford glasgow scotland
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 6, 21
+	Results: 
+		rouge-1: 0.4815
+		rouge-2: 0.2308
+		rouge-l: 0.2963
+		mean: 0.3362
+	Summary: 
+		students also protested cities across britain including leeds cambridge birmingham
+		solomon president university london student union said police containing five hours 6 p.m. 1 p.m. et
+		students angry government plans allow universities charge much 9,000 pounds 14,200 year tuition fees substantial rise current cap 3,000 pounds 4,700
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2963
+		rouge-2: 0.0769
+		rouge-l: 0.1852
+		mean: 0.1861
+	Summary: 
+		crowd students marched central london wednesday disrupting traffic shouting slogans protest increase university tuition
+		students also protested cities across britain including leeds cambridge birmingham
+		police said 15 arrests london one oxford glasgow scotland

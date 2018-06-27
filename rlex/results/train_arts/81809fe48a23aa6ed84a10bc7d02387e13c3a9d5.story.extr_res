@@ -1,0 +1,92 @@
+DOCUMENT:
+0: editor note staff cnn.com recently intrigued journalism vice independent media company web site based brooklyn new york
+1: vbs.tv vice broadband television network
+2: reports produced solely vice reflect transparent approach journalism viewers taken along every step reporting process
+3: believe unique reporting approach worthy sharing cnn.com readers
+4: viewer discretion advised
+5: brooklyn new york vbs.tv january 22 2006 new york times reported foreign journalists banned pakistan tribal areas called dangerous place world
+6: week cia fired missiles remotely predator aircraft waziristan tribal area
+7: hoping eradicate bunch al qaeda operatives
+8: instead killed 18 women children
+9: one week arrived pakistan visit darra adamkhel massive open-air market located deep tribal areas frighteningly high percentage islamic holy warriors goes buy guns
+10: gaining access tribal areas next impossible
+11: took months pre-planning consul general pakistan montreal top officials peshawar
+12: repeatedly denied us entry according pakistani army many sensitive operations going region
+13: without personal advantage family friendship governor northwest frontier province never would gotten
+14: government assigned team political agent named naeem afridi
+15: born raised tribal areas
+16: took care us godsend
+17: ca anything part world without someone like naeem
+18: see stories vbs.tv
+19: driver stopped security point outside town center introduced frontier agency militia six angry-dad-looking guys aks sidearms
+20: became personal bodyguards followed us tight warren gun shops factories barren little brick rooms upward 1,000 guns manufactured every day
+21: work done hand
+22: vendors pashtuns basically toughest people world
+23: comprised majority mujahideen kicked soviets afghanistan late
+24: days town rumored completely overrun taliban
+25: purchase guns cross border fight u.s. army afghanistan drive mountains south fight pakistani army
+26: summer went back pakistan found fuse powder keg become even shorter
+27: pakistani army surged troops tribal areas attempting eradicate taliban al qaeda
+28: u.s. british troops attempting thing side border afghanistan
+29: meanwhile pakistan seen violence spread major urban centers extremists detonating bombs taking police stations
+30: time cultural explosion taking place vibrant art scene metal rock bands popping everywhere
+31: whole situation become ultra charged fact tons news channels operating uncensored insanely corrupt government
+32: pakistan volatile turbulent fascinating moment time
+
+=================================
+Gold summary:
+vbs.tv gains rare access gun market pakistani tribal area
+massive shop manufactures 1,000 guns day hand
+area home base taliban since u.s. invasion afghanistan
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 10, 20, 14
+	Results: 
+		rouge-1: 0.2609
+		rouge-2: 0.0435
+		rouge-l: 0.2083
+		mean: 0.1709
+	Summary: 
+		gaining access tribal areas next impossible
+		became personal bodyguards followed us tight warren gun shops factories barren little brick rooms upward 1,000 guns manufactured every day
+		government assigned team political agent named naeem afridi
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.0435
+		rouge-2: 0.0000
+		rouge-l: 0.0417
+		mean: 0.0284
+	Summary: 
+		editor note staff cnn.com recently intrigued journalism vice independent media company web site based brooklyn new york
+		vbs.tv vice broadband television network
+		reports produced solely vice reflect transparent approach journalism viewers taken along every step reporting process
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 9, 20, 25
+	Results: 
+		rouge-1: 0.4348
+		rouge-2: 0.0435
+		rouge-l: 0.2917
+		mean: 0.2566
+	Summary: 
+		one week arrived pakistan visit darra adamkhel massive open-air market located deep tribal areas frighteningly high percentage islamic holy warriors goes buy guns
+		became personal bodyguards followed us tight warren gun shops factories barren little brick rooms upward 1,000 guns manufactured every day
+		purchase guns cross border fight u.s. army afghanistan drive mountains south fight pakistani army
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.0435
+		rouge-2: 0.0000
+		rouge-l: 0.0417
+		mean: 0.0284
+	Summary: 
+		editor note staff cnn.com recently intrigued journalism vice independent media company web site based brooklyn new york
+		vbs.tv vice broadband television network
+		reports produced solely vice reflect transparent approach journalism viewers taken along every step reporting process

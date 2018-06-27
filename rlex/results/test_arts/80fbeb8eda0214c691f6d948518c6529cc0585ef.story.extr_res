@@ -1,0 +1,83 @@
+DOCUMENT:
+0: candidate australia parliamentary elections referred islam country
+1: result referred former candidate
+2: stephanie banister 27-year-old welder running seat rankin queensland unleashed series blunders interview cnn affiliate 7 news
+3: oppose islam country feel laws welcome australia banister said
+4: added less 2 australians follow haram
+5: unclear whether meant muslim holy book quran
+6: haram refers things forbidden islamic law
+7: enough got religions mixed
+8: australia abbott makes suppository wisdom gaffe
+9: jews haram religion follows jesus christ said
+10: judaism based old testament predates birth jesus christ
+11: blunders though limited religion
+12: said australian national disability insurance scheme working moment
+13: set begin 2016 according 7 news
+14: banister candidate anti-immigration one nation party next month elections
+15: interview gained worldwide notoriety commentators describing australian sarah palin
+16: palin republican john mccain ticket 2008 presidential election former governor alaska known blunders
+17: campaign cited russia proximity alaska bolstering foreign policy credentials
+18: unclear banister interview aired went viral soon
+19: accused affiliate editing numerous phrases corrected said islamic countries
+20: way channel seven edited interview left quite fool banister said
+21: saturday mother two withdrew race citing threats family
+22: campaign lasted total 48 hours
+23: opinion gaffes good us
+
+=================================
+Gold summary:
+stephanie banister candidate seat rankin queensland
+anymore made religious political gaffes
+later accused television station editing comments
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 11, 21, 15
+	Results: 
+		rouge-1: 0.0000
+		rouge-2: 0.0000
+		rouge-l: 0.0000
+		mean: 0.0000
+	Summary: 
+		blunders though limited religion
+		saturday mother two withdrew race citing threats family
+		interview gained worldwide notoriety commentators describing australian sarah palin
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3529
+		rouge-2: 0.1875
+		rouge-l: 0.2941
+		mean: 0.2782
+	Summary: 
+		candidate australia parliamentary elections referred islam country
+		result referred former candidate
+		stephanie banister 27-year-old welder running seat rankin queensland unleashed series blunders interview cnn affiliate 7 news
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 2, 14, 19
+	Results: 
+		rouge-1: 0.4706
+		rouge-2: 0.2500
+		rouge-l: 0.4118
+		mean: 0.3775
+	Summary: 
+		stephanie banister 27-year-old welder running seat rankin queensland unleashed series blunders interview cnn affiliate 7 news
+		banister candidate anti-immigration one nation party next month elections
+		accused affiliate editing numerous phrases corrected said islamic countries
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3529
+		rouge-2: 0.1875
+		rouge-l: 0.2941
+		mean: 0.2782
+	Summary: 
+		candidate australia parliamentary elections referred islam country
+		result referred former candidate
+		stephanie banister 27-year-old welder running seat rankin queensland unleashed series blunders interview cnn affiliate 7 news

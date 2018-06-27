@@ -1,0 +1,86 @@
+DOCUMENT:
+0: canadian investigators want talk actress pamela anderson recent revelation suffered sexual abuse child
+1: anderson 46 described several incidents sex abuse launch charity pamela anderson foundation cannes film festival france friday
+2: incidents started age 6 said molested babysitter
+3: former baywatch star grew british columbia starting modeling acting career united states
+4: given nature allegations investigator ladysmith rcmp process reaching ms. anderson discuss matter directly royal canadian mounted police spokesman darren lagan said thursday
+5: given sensitive nature allegations respect ms. anderson privacy provide comment time
+6: although loving parents anderson said easy childhood
+7: never told parents abuse
+8: child sex abuse taboo topic parents
+9: feel might time reveal painful memories said according transcript posted blog
+10: recounted molested ages 6 10 female babysitter raped 12 25-year-old brother friend boyfriend
+11: man decided would teach backgammon led back massage led rape said
+12: coincidentally cannes event revealed rape backgammon tournament
+13: needless say hard time trusting humans anderson said
+14: wanted earth
+15: although parents tried keep safe world safe place said
+16: mother busy two waitressing jobs said
+17: anderson said love animals saved
+18: loyalty remained animal kingdom said
+19: vowed protect
+20: prayed whales feet ocean
+21: real friends till children
+22: acting career took anderson started career playboy centerfold appearing 13 covers magazine starting 1989
+23: pamela anderson remarries ex-husband rick salomon
+24: anderson fronts racing team
+25: cnn dave alsup contributed report
+
+=================================
+Gold summary:
+rcmp reaching ms. anderson discuss matter police spokesman says
+anderson described childhood sex abuse event france
+baywatch actress says never told parents molestation rapes
+feel might time reveal painful memories says
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 2, 3, 7
+	Results: 
+		rouge-1: 0.1786
+		rouge-2: 0.0667
+		rouge-l: 0.1290
+		mean: 0.1248
+	Summary: 
+		incidents started age 6 said molested babysitter
+		former baywatch star grew british columbia starting modeling acting career united states
+		never told parents abuse
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2143
+		rouge-2: 0.0333
+		rouge-l: 0.1935
+		mean: 0.1471
+	Summary: 
+		canadian investigators want talk actress pamela anderson recent revelation suffered sexual abuse child
+		anderson 46 described several incidents sex abuse launch charity pamela anderson foundation cannes film festival france friday
+		incidents started age 6 said molested babysitter
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 4, 7, 9
+	Results: 
+		rouge-1: 0.6429
+		rouge-2: 0.4000
+		rouge-l: 0.5484
+		mean: 0.5304
+	Summary: 
+		given nature allegations investigator ladysmith rcmp process reaching ms. anderson discuss matter directly royal canadian mounted police spokesman darren lagan said thursday
+		never told parents abuse
+		feel might time reveal painful memories said according transcript posted blog
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 4
+	Results: 
+		rouge-1: 0.4643
+		rouge-2: 0.2000
+		rouge-l: 0.2581
+		mean: 0.3075
+	Summary: 
+		canadian investigators want talk actress pamela anderson recent revelation suffered sexual abuse child
+		anderson 46 described several incidents sex abuse launch charity pamela anderson foundation cannes film festival france friday
+		given nature allegations investigator ladysmith rcmp process reaching ms. anderson discuss matter directly royal canadian mounted police spokesman darren lagan said thursday

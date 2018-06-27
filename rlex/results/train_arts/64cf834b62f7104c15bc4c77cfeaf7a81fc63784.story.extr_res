@@ -1,0 +1,103 @@
+DOCUMENT:
+0: paying five homeless people outside studio manila help chew 700 pieces bubble gum louie cordero began wonder undertaken name art
+1: well certainly took longer imagined would thought would recalls
+2: two days aching jaws potent mix gum spittle resin went create one cordero larger-than-life sculptures bright green figure part tribal warrior part horror flick monster cordero imagination
+3: starting turn brown sugar gum oxidizes cordero still turning wild machinations surreal twisted biomorphic figures sculptures paintings one group contemporary artists philippines turning heads vibrancy unique filipino vision
+4: awash tubes bright acrylic paint cordero studio cubao area manila main base around 10 years situated minutes away stadium muhammad ali joe frazier thriller manila bout 1975
+5: working two new pieces month hong kong international art fair sipping industrial strength coffee cordero admits attitude work really altered decade local artists seemingly starting punch weight
+6: things changed lot terms financial gain artistic gain
+7: new artists thing international scene represented
+8: career strategized says
+9: manila used artist run galleries
+10: big galleries looking new artist wants sell big money
+11: every week like three openings used one show per month
+12: long way 34-year-old life graduated university philippines college fine arts
+13: back could afford paint spent days drawing comic strips one gained cult following philippines japan taking illustration jobs pay bills
+14: joining friends contemporaries also ran artist spaces impromptu exhibitions
+15: since moved feature joint exhibitions hong kong prominent solo shows including one new york 2010
+16: inspired explosive mix comic art pop culture gore-fest films cordero also retains strong filipino flavor art drawing everything jeepney art turbulent politics almost inescapable impact religion philippine society
+17: occupied colonized american spanish artists contemplate concept hang-ups especially catholic influence get school age upwards says
+18: playing religious imagery still cause huge controversy philippines
+19: last year collage artist mideo cruz cultural center philippines depicted jesus wooden penis glued face
+20: condemned church groups even attracted ire former first lady imelda marcos
+21: resulting furor led exhibition closed
+22: cordero admits gleefully prodding country cultural soft spots younger 2001 piece mixed jesus ronald mcdonald thinks cruz unlucky
+23: center whole nation tensions
+24: started like scandalous work like young full angst idealistic
+25: dealing religion sad people priests politicians condemn touch sensibility
+26: become circus
+27: fine art people common people still many go art exhibition
+28: need sensation people go
+29: public tastes catholic philippines art collectors starting wake breadth diversity work contemporary filipino artists
+30: last month painting filipino artist ronald ventura entitled grayground sold sotheby hong kong 1.1 million making first piece contemporary southeast asian artist fetch 1 million
+31: ventura work going 1million likes established 19th century painter juan luna could meet reserve price something going art market says independent curator cordero partner isabel ching
+32: next door cordero studio fabrication workshop run jeremy guiab cordero latest projects thrones made fiberglass bones twisted totem polls made
+33: gold mine curios industrial oddities also hub local artists fresh art school longer-serving artists like romeo lee
+34: around since 1980s
+35: filipinos started struggle new generation chance smart says lee
+36: old generation like keep going happy someone wants pay art
+37: increasing interest work cordero contemporaries like nona garcia predecessors like manuel ocampo come desire collectors know come says magnus renfrew director hong kong international art fair
+38: relatively early days international profile art philippines says renfrew
+39: becoming case collectors willing engage artists wide variety cultural aesthetic backgrounds
+40: among sparks spot-welding smell resin workshop cordero content continue mix things work regardless changing tastes collectors galleries
+41: know challenge
+42: reason art keep challenging saying want
+
+=================================
+Gold summary:
+manila-based artists finding feet international stage
+louie cordero visceral paintings sculptures full philippine culture
+unique mix cultures history creates diverse group artists says cordero
+international art collectors open philippine art says head hong kong art fair
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 40, 17, 13
+	Results: 
+		rouge-1: 0.1724
+		rouge-2: 0.0000
+		rouge-l: 0.1111
+		mean: 0.0945
+	Summary: 
+		among sparks spot-welding smell resin workshop cordero content continue mix things work regardless changing tastes collectors galleries
+		occupied colonized american spanish artists contemplate concept hang-ups especially catholic influence get school age upwards says
+		back could afford paint spent days drawing comic strips one gained cult following philippines japan taking illustration jobs pay bills
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1724
+		rouge-2: 0.0286
+		rouge-l: 0.1111
+		mean: 0.1040
+	Summary: 
+		paying five homeless people outside studio manila help chew 700 pieces bubble gum louie cordero began wonder undertaken name art
+		well certainly took longer imagined would thought would recalls
+		two days aching jaws potent mix gum spittle resin went create one cordero larger-than-life sculptures bright green figure part tribal warrior part horror flick monster cordero imagination
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 3, 16, 37
+	Results: 
+		rouge-1: 0.5517
+		rouge-2: 0.0857
+		rouge-l: 0.3333
+		mean: 0.3236
+	Summary: 
+		starting turn brown sugar gum oxidizes cordero still turning wild machinations surreal twisted biomorphic figures sculptures paintings one group contemporary artists philippines turning heads vibrancy unique filipino vision
+		inspired explosive mix comic art pop culture gore-fest films cordero also retains strong filipino flavor art drawing everything jeepney art turbulent politics almost inescapable impact religion philippine society
+		increasing interest work cordero contemporaries like nona garcia predecessors like manuel ocampo come desire collectors know come says magnus renfrew director hong kong international art fair
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1724
+		rouge-2: 0.0286
+		rouge-l: 0.1111
+		mean: 0.1040
+	Summary: 
+		paying five homeless people outside studio manila help chew 700 pieces bubble gum louie cordero began wonder undertaken name art
+		well certainly took longer imagined would thought would recalls
+		two days aching jaws potent mix gum spittle resin went create one cordero larger-than-life sculptures bright green figure part tribal warrior part horror flick monster cordero imagination

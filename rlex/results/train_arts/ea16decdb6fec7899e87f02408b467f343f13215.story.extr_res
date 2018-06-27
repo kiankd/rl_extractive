@@ -1,0 +1,119 @@
+DOCUMENT:
+0: would buy secondhand car li tian
+1: probably choice
+2: 10 years selling used cars dongguan factory town southern china knows every trick book
+3: already sold four cars today
+4: five says guides us dongguan used cars trading center mainly sells western japanese cars
+5: looking score sixth sale day
+6: volkswagen good says opens door 2006 jetta sedan starts engine offers seat
+7: loud chinese pop music starts pumping sound system
+8: one previous owner continues
+9: know good buy
+10: asked price immediately shaves 15 rmb 68,000 10,900 continues pitch
+11: volkswagen safe
+12: best car family
+13: want find new girlfriend buy mercedes-benz says wink
+14: dongguan used cars trading center business booming
+15: across country small big car markets popping response growing demand
+16: secondhand cars used hard sell china owning one associated settling less
+17: things rapidly changing drivers realize get decent car reasonable price buy secondhand
+18: last year number used cars china increased 8.6 5.2 million units turnover grew 10.6 rmb 291 billion according china automotive distribution industry automotive aftermarket report
+19: plenty room growth
+20: today used vehicles make 19.1 total car sales volume china compared 72.4 united states
+21: nasdaq-listed china auto logistics buys sells imported cars identified used cars market long-term growth potential
+22: transforming newly acquired 26,000-square-meter auto mall tianjin flagship site used car business
+23: used cars sales become much bigger slice auto sales pie china see major opportunity car king tianjin years ahead said ceo tong shiping statement month referring china auto logistics used car flagship store
+24: used car salesman
+25: liu xiao mei ceo antong used cars dongguan says business good last decade chinese drivers increasingly upgrade new cars sell old ones
+26: started company 2004 small shop
+27: grown bigger bigger
+28: things look bright says liu
+29: company focuses high-end used cars 100 vehicles gleaming parking lot
+30: today unbelievable offer almost brand new mercedes-benz e260 run 100 kilometers rmb 438,000
+31: former owner lost money casino macau sell
+32: never chance drive says slashes price another rmb 18,000 hopes buy
+33: makes company different others promise customers get perfect car says
+34: shall step office
+35: hard cast aside stereotypes used car salespeople loose relationship truth
+36: quest buy used car china found market quite opaque
+37: first extremely fragmented
+38: used car markets big football stadiums packed countless dealers brands varying quality
+39: commonly shops tiny cars parked side road
+40: often staff manning shops
+41: customers must call phone number normally always salesperson comes running
+42: since market young price comparison difficult
+43: number peer-to-peer mobile apps websites launched serve benchmark pricing finding accurate consistent information still problem makes easier dealers push margins
+44: bigger concern though large share used cars offer road accident record
+45: first thing many car dealers dongguan say costumers car accident one accident totally safe
+46: vincent yin 30-year-old businessman dongguan car valued antong used cars says buying used cars china gamble
+47: many cars bad quality
+48: old cars sometimes get superficial facelift new paint hide rust scratches
+49: look inside difficult know
+50: never trust car dealer
+51: yin particularly wary cars made chinese brands reputation unsafe
+52: believe chinese cars often pass ncap test
+53: chinese car manufacturers hate test says yin referring new car assessment program european car safety crash test
+54: first time chinese car earned full five stars test late 2013
+55: qoros 3 compact sedan
+56: yin advice anyone buying used car visit markets check prices online ignore salespeople
+57: friends police force ask check car accident report
+58: give dealer offer says
+
+=================================
+Gold summary:
+last year number used cars china increased 8.6 5.2 million units
+used vehicles make 19.1 total car sales china compared 72.4 u.s.
+chinese used car market opaque smooth-talking salespeople wide price range
+local driver warns safety issues used cars
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 20, 5, 44
+	Results: 
+		rouge-1: 0.3333
+		rouge-2: 0.2432
+		rouge-l: 0.3077
+		mean: 0.2948
+	Summary: 
+		today used vehicles make 19.1 total car sales volume china compared 72.4 united states
+		looking score sixth sale day
+		bigger concern though large share used cars offer road accident record
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1212
+		rouge-2: 0.0270
+		rouge-l: 0.0769
+		mean: 0.0751
+	Summary: 
+		would buy secondhand car li tian
+		probably choice
+		10 years selling used cars dongguan factory town southern china knows every trick book
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 18, 20, 36
+	Results: 
+		rouge-1: 0.6364
+		rouge-2: 0.5135
+		rouge-l: 0.6410
+		mean: 0.5970
+	Summary: 
+		last year number used cars china increased 8.6 5.2 million units turnover grew 10.6 rmb 291 billion according china automotive distribution industry automotive aftermarket report
+		today used vehicles make 19.1 total car sales volume china compared 72.4 united states
+		quest buy used car china found market quite opaque
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 46, 2
+	Results: 
+		rouge-1: 0.1212
+		rouge-2: 0.0541
+		rouge-l: 0.1538
+		mean: 0.1097
+	Summary: 
+		would buy secondhand car li tian
+		vincent yin 30-year-old businessman dongguan car valued antong used cars says buying used cars china gamble
+		10 years selling used cars dongguan factory town southern china knows every trick book

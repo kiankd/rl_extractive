@@ -1,0 +1,67 @@
+DOCUMENT:
+0: gone backup dancer biggest thing asian pop culture actor singer sold millions albums
+1: 27-year-old south korean even faced u.s. comedian steven colbert spoof dance-off
+2: comedy skit came rain placed higher time magazine 2008 online poll 100 influential people
+3: well sense humor dance moves shook colbert satirical posture praise rain also known one hardest working men entertainment business
+4: rain real name jung ji-hoon broke notoriously tough world south korean show business jyp entertainment 18 years old
+5: made first mark hollywood last year role speed racer appearing alongside christina ricci matthew fox
+6: singer five albums name faced thousands screaming fans concerts across world recently faced questions
+7: watch show find makes rain tick
+
+=================================
+Gold summary:
+korean pop culture sensation talk asia later month
+27-year-old gone backup dancer appearing hollywood films
+rain appearing answers questions
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 0, 3, 6
+	Results: 
+		rouge-1: 0.3889
+		rouge-2: 0.1667
+		rouge-l: 0.2632
+		mean: 0.2729
+	Summary: 
+		gone backup dancer biggest thing asian pop culture actor singer sold millions albums
+		well sense humor dance moves shook colbert satirical posture praise rain also known one hardest working men entertainment business
+		singer five albums name faced thousands screaming fans concerts across world recently faced questions
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4444
+		rouge-2: 0.1667
+		rouge-l: 0.2105
+		mean: 0.2739
+	Summary: 
+		gone backup dancer biggest thing asian pop culture actor singer sold millions albums
+		27-year-old south korean even faced u.s. comedian steven colbert spoof dance-off
+		comedy skit came rain placed higher time magazine 2008 online poll 100 influential people
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 4, 5
+	Results: 
+		rouge-1: 0.5000
+		rouge-2: 0.1667
+		rouge-l: 0.2632
+		mean: 0.3099
+	Summary: 
+		gone backup dancer biggest thing asian pop culture actor singer sold millions albums
+		rain real name jung ji-hoon broke notoriously tough world south korean show business jyp entertainment 18 years old
+		made first mark hollywood last year role speed racer appearing alongside christina ricci matthew fox
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 4
+	Results: 
+		rouge-1: 0.4444
+		rouge-2: 0.1667
+		rouge-l: 0.2105
+		mean: 0.2739
+	Summary: 
+		gone backup dancer biggest thing asian pop culture actor singer sold millions albums
+		27-year-old south korean even faced u.s. comedian steven colbert spoof dance-off
+		rain real name jung ji-hoon broke notoriously tough world south korean show business jyp entertainment 18 years old

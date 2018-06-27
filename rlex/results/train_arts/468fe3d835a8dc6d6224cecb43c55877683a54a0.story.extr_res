@@ -1,0 +1,100 @@
+DOCUMENT:
+0: addition unforgettable work comedian actor robin williams leaves behind close friends family loved also tribe fellow artists hope follow footsteps
+1: hollywood fans mourned loss williams committed suicide california home monday younger generation comedic actors expressed admiration legendary performer
+2: like rest us tried make sense
+3: poignant essay published guardian actor comedian russell brand gave assessment williams hidden behind beard kindness compliments kind awkwardness like wrong context element fallen bird hard floor
+4: yet much talent
+5: robin williams exciting seemed sat upon geyser comedy brand wrote
+6: like manufacture laboriously within open valve would come bursting effervescent jets
+7: plugged mains comedy
+8: ways brand ideal person write williams
+9: pair shared willingness shock unconventional stand-up work
+10: british comic one benefiting trails williams blazed
+11: tuesday late-night hosts jimmy fallon seth meyers conan took time honor williams share memories
+12: expressed joy watching perform sadness succumbed demons
+13: think particularly courageous someone generous spirit face kind depression said
+14: chris rock known edgy political humor told abc williams one funniest guys ever saw life
+15: remember first time saw mork mindy rock said
+16: know sounds weird like watching first time saw actual human funny bugs bunny
+17: know mean
+18: like human sense
+19: cast alien perfect another world
+20: hollywood competitive rock said williams warm always supportive colleagues
+21: never heard guy trash know comedians sit around trash day rock said
+22: never heard robin williams say anything remotely bad comedian
+23: respect art form general levels
+24: like williams let make deal host comic wayne brady enjoys career built funny approachable guy
+25: brady paid homage star despite academy award winner took time duet improv show whose line anyway
+26: getting work life high brady tweeted
+27: u get meet ppl look often glad say never disappointed
+28: mindy kaling mindy project star made career exploring american culture shared special connection williams place pop culture
+29: named character robin williams tv show parents still lived africa tweeted
+30: meant much many far away
+31: girls star creator lena dunham tweeted shared moment silence set robin williams man brought much laughter joy healing many
+32: moved reading many reminiscences robin williams multitude things represented diverse people different generations dunham also tweeted
+33: age reality tv tmz reminder entertainment make us laugh cry feel known
+34: williams influence spread around globe
+35: artists paid tribute edinburgh festival major arts cultural gathering held every summer scotland
+36: american comic satirist franken told guardian williams mentored
+37: franken said upon finding son struck friendship legendary actor franken father vietnam war veteran made sure conveyed robin much performance good morning vietnam meant
+38: short time knew used share experiences comedic demons jealousy envy franken said
+39: coffee one afternoon told lucky got living lot people sit craziness
+40: got show insanity stage get
+
+=================================
+Gold summary:
+young comics share admiration robin williams
+late-night tv hosts pay tribute late comedian
+chris rock said never heard williams say harsh word comics
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 18, 12, 15
+	Results: 
+		rouge-1: 0.0952
+		rouge-2: 0.0455
+		rouge-l: 0.0870
+		mean: 0.0759
+	Summary: 
+		like human sense
+		expressed joy watching perform sadness succumbed demons
+		remember first time saw mork mindy rock said
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1905
+		rouge-2: 0.0455
+		rouge-l: 0.1304
+		mean: 0.1221
+	Summary: 
+		addition unforgettable work comedian actor robin williams leaves behind close friends family loved also tribe fellow artists hope follow footsteps
+		hollywood fans mourned loss williams committed suicide california home monday younger generation comedic actors expressed admiration legendary performer
+		like rest us tried make sense
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 11, 21, 22
+	Results: 
+		rouge-1: 0.5238
+		rouge-2: 0.2273
+		rouge-l: 0.3478
+		mean: 0.3663
+	Summary: 
+		tuesday late-night hosts jimmy fallon seth meyers conan took time honor williams share memories
+		never heard guy trash know comedians sit around trash day rock said
+		never heard robin williams say anything remotely bad comedian
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 36
+	Results: 
+		rouge-1: 0.1905
+		rouge-2: 0.0455
+		rouge-l: 0.1304
+		mean: 0.1221
+	Summary: 
+		addition unforgettable work comedian actor robin williams leaves behind close friends family loved also tribe fellow artists hope follow footsteps
+		hollywood fans mourned loss williams committed suicide california home monday younger generation comedic actors expressed admiration legendary performer
+		american comic satirist franken told guardian williams mentored

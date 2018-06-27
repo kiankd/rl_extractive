@@ -1,0 +1,95 @@
+DOCUMENT:
+0: onne van der wal born water witnessing decades incredible sailing innovations renowned photographer feels like astronaut sea
+1: like space travel love dutchman says yachting extraordinary technological progress past 30 years
+2: quite reach helmet suit boats van der wal sails light years away used frequent youngster
+3: america cup competition particular taken advantage innovative materials carbon fiber kevlar used international space station space shuttle orbiter create futuristic racing machines
+4: started racing large sailboats offshore sails made dacron one click canvas van der wal told cnn
+5: masts built aluminum wood hulls built aluminum fiberglass
+6: today carbon-fiber boats lighter stiffer faster spars used rigging taller skinnier stiffer smaller sections
+7: sails laminated made carbon kevlar perfect shape keep shape longer periods time wider wind range importantly much lighter easier handle
+8: van der wal made first real foray world sailing photography taking part 1981 round world race event known volvo ocean race
+9: keen sailor child teenager sea second home dutchman brought hout bay south africa
+10: working commercial fishing vessels maintaining race boats van der wal spent much spare time sailing crossing atlantic 10 times well racing several events
+11: race 33 years ago etched memory relic sailing past gave little clue follow
+12: round world race adventure race business run professionals sailed well-paid professionals recalls
+13: want see change sailing look america cup
+14: boats sail extreme cool talk light years 10 years ago
+15: top speed boat 15 miles per hour nowadays hitting 50 mph
+16: foiling 72-foot catamarans wing masts space-age stuff built carbon change yachting
+17: still sure look feel like
+18: approached take photographs sail magazine 1981 race van der wal soon discovered possessed talent others could equal
+19: thrill combining love sailing penchant photography taken far north spitsbergen norwegian arctic far south antarctica
+20: living newport rhode island wife three children van der wal continued produce beautiful images sailing world seen
+21: new book sailing includes nearly 200 color photographs five gatefolds panoramic images showcases work across globe
+22: lucky job love says
+23: wonderful experiences
+24: times barely afloat gales blowing
+25: scary moments get pictures go
+26: stay home wo get photos
+27: advances technology helped experienced professionals amateur photographer better equipped ever
+28: smartphone cameras dslrs make taking photos easier ever van der wal believes developments good photography long run
+29: come hell long way since film adds
+30: change radical dramatically changed photography professionals brought masses well
+31: everybody shoots smartphone dslr
+32: pictures better sharper better color grain super sensitive low light shoot candle light needed
+33: blow images size billboard top much easier
+34: tools today make much better photography everyone love
+
+=================================
+Gold summary:
+onne van der wal one world famous sailing photographers
+born netherlands moved south africa child
+started taking pictures sailing 1981-82 race around world
+sailed north spitsbergen norwegian arctic far south antarctica
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 32, 16, 4
+	Results: 
+		rouge-1: 0.2143
+		rouge-2: 0.0667
+		rouge-l: 0.0968
+		mean: 0.1259
+	Summary: 
+		pictures better sharper better color grain super sensitive low light shoot candle light needed
+		foiling 72-foot catamarans wing masts space-age stuff built carbon change yachting
+		started racing large sailboats offshore sails made dacron one click canvas van der wal told cnn
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2143
+		rouge-2: 0.1000
+		rouge-l: 0.1935
+		mean: 0.1693
+	Summary: 
+		onne van der wal born water witnessing decades incredible sailing innovations renowned photographer feels like astronaut sea
+		like space travel love dutchman says yachting extraordinary technological progress past 30 years
+		quite reach helmet suit boats van der wal sails light years away used frequent youngster
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 8, 9, 19
+	Results: 
+		rouge-1: 0.5714
+		rouge-2: 0.3000
+		rouge-l: 0.4839
+		mean: 0.4518
+	Summary: 
+		van der wal made first real foray world sailing photography taking part 1981 round world race event known volvo ocean race
+		keen sailor child teenager sea second home dutchman brought hout bay south africa
+		thrill combining love sailing penchant photography taken far north spitsbergen norwegian arctic far south antarctica
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2143
+		rouge-2: 0.1000
+		rouge-l: 0.1935
+		mean: 0.1693
+	Summary: 
+		onne van der wal born water witnessing decades incredible sailing innovations renowned photographer feels like astronaut sea
+		like space travel love dutchman says yachting extraordinary technological progress past 30 years
+		quite reach helmet suit boats van der wal sails light years away used frequent youngster

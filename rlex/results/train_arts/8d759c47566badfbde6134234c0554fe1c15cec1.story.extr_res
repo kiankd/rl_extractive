@@ -1,0 +1,83 @@
+DOCUMENT:
+0: hellish holiday travel night wednesday hundreds flights canceled thousands delayed punishing
+1: silver lining thanksgiving day
+2: storms leaving conditions return normal
+3: maine vermont new hampshire still see snow
+4: new york get dusting good news lining macy thanksgiving day parade
+5: weekend cold cold
+6: least dry
+7: folks able get home ok sunday
+8: contrast relatively rosy outlook conditions wednesday
+9: winter storm snarled travel across east coast causing trouble nation roadways delays six hours airports northeast one busiest travel days year
+10: 10 ways survive holiday travel
+11: massachusetts state police reported least 100 spin outs across state
+12: fortunately accidents minor result injuries
+13: airlines canceled 742 flights 4,748 delays within united states wednesday
+14: huge number cancellations due holiday flights full fewer available seats accommodate displaced passengers canceled flights flightaware.com daniel baker said
+15: midwest affected
+16: northeast region hit bad weather
+17: light snow forecast thursday minneapolis chicago parts upper midwest
+18: aaa estimated 46 million americans would travel 50 miles home thanksgiving weekend 90 would traveling car
+19: would travelers since 2007
+20: drivers check weather forecasts setting road travelers also check tire pressure car batteries windshield wipers
+21: winter weather tracker
+22: bright side people traveling car probably pay less gas recent years aaa says
+23: current average price gasoline united states 2.85 per gallon 43 cents per gallon lower average price time last year
+
+=================================
+Gold summary:
+46 million people expected travel holiday since 2007
+east coast travelers got hit mix snow rain
+travelers returning home still check forecast departure
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 18, 3, 13
+	Results: 
+		rouge-1: 0.2727
+		rouge-2: 0.0455
+		rouge-l: 0.2174
+		mean: 0.1785
+	Summary: 
+		aaa estimated 46 million americans would travel 50 miles home thanksgiving weekend 90 would traveling car
+		maine vermont new hampshire still see snow
+		airlines canceled 742 flights 4,748 delays within united states wednesday
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.0909
+		rouge-2: 0.0000
+		rouge-l: 0.0435
+		mean: 0.0448
+	Summary: 
+		hellish holiday travel night wednesday hundreds flights canceled thousands delayed punishing
+		silver lining thanksgiving day
+		storms leaving conditions return normal
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 9, 18, 19
+	Results: 
+		rouge-1: 0.4091
+		rouge-2: 0.1364
+		rouge-l: 0.2174
+		mean: 0.2543
+	Summary: 
+		winter storm snarled travel across east coast causing trouble nation roadways delays six hours airports northeast one busiest travel days year
+		aaa estimated 46 million americans would travel 50 miles home thanksgiving weekend 90 would traveling car
+		would travelers since 2007
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.0909
+		rouge-2: 0.0000
+		rouge-l: 0.0435
+		mean: 0.0448
+	Summary: 
+		hellish holiday travel night wednesday hundreds flights canceled thousands delayed punishing
+		silver lining thanksgiving day
+		storms leaving conditions return normal

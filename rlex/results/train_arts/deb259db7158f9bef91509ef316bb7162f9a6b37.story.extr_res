@@ -1,0 +1,67 @@
+DOCUMENT:
+0: one nature spectacular sites aurora borealis northern lights known captivated onlookers thousands years
+1: past weekend saw particularly stunning display following phenomenon known coronal mass ejection sun spews burst particles space reach earth one three days later
+2: bursts toward earth cause electromagnetic storms react earth magnetic field resulting explosion color sky
+3: see regularly quite spectacular -lsb- sunday -rsb- night said halldor sigurdsson iceland captured display
+4: busload tourists came certainly got money worth
+5: meanwhile tiny icelandic fishing village ólafsvík photographer tour guide occasional fisherman stefán ingvar guðmundsson spent three hours driving around beautiful snæfellsjökull glacier near home take photos
+6: always big wow last night overwhelming said monday
+7: northern lights particularly spectacular 2013 sun expected reach peak 11-year solar cycle later year
+
+=================================
+Gold summary:
+lights particularly stunning 2013 due sun peak 11 year solar cycle
+ireporters iceland u.s. sent images
+lights described overwhelming one ireporter
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 1, 4, 5
+	Results: 
+		rouge-1: 0.2000
+		rouge-2: 0.0500
+		rouge-l: 0.1905
+		mean: 0.1468
+	Summary: 
+		past weekend saw particularly stunning display following phenomenon known coronal mass ejection sun spews burst particles space reach earth one three days later
+		busload tourists came certainly got money worth
+		meanwhile tiny icelandic fishing village ólafsvík photographer tour guide occasional fisherman stefán ingvar guðmundsson spent three hours driving around beautiful snæfellsjökull glacier near home take photos
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2500
+		rouge-2: 0.0500
+		rouge-l: 0.2381
+		mean: 0.1794
+	Summary: 
+		one nature spectacular sites aurora borealis northern lights known captivated onlookers thousands years
+		past weekend saw particularly stunning display following phenomenon known coronal mass ejection sun spews burst particles space reach earth one three days later
+		bursts toward earth cause electromagnetic storms react earth magnetic field resulting explosion color sky
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 6, 7
+	Results: 
+		rouge-1: 0.5500
+		rouge-2: 0.1500
+		rouge-l: 0.3333
+		mean: 0.3444
+	Summary: 
+		past weekend saw particularly stunning display following phenomenon known coronal mass ejection sun spews burst particles space reach earth one three days later
+		always big wow last night overwhelming said monday
+		northern lights particularly spectacular 2013 sun expected reach peak 11-year solar cycle later year
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2500
+		rouge-2: 0.0500
+		rouge-l: 0.2381
+		mean: 0.1794
+	Summary: 
+		one nature spectacular sites aurora borealis northern lights known captivated onlookers thousands years
+		past weekend saw particularly stunning display following phenomenon known coronal mass ejection sun spews burst particles space reach earth one three days later
+		bursts toward earth cause electromagnetic storms react earth magnetic field resulting explosion color sky

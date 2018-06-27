@@ -1,0 +1,86 @@
+DOCUMENT:
+0: montreal olympic stadium known big many city taxpayers really big owe
+1: took us 30 years pay taxpayer happy said one montreal resident echoing anger many still feel way games funded 1976
+2: well managed financial project
+3: fabulous stadium think cost covered stadia north america put together said dick pound former international olympic committee vice-president prominent resident canadian city
+4: however pound said calling montreal games 1976 bankrupt olympics bad rap pointed games actually made money
+5: said paved way new financial structure introduction lucrative new television rights deals
+6: people still come remember well montreal games staged end exciting added
+7: pretty magic
+8: olympics magic comaneci first 10 spinks brothers sugar ray leonard said
+9: mean magnificent heroes modern olympics
+10: weariness montreal known staging olympic games almost bankrupted city
+11: city mayor time jean drapeau famously remarked games end deficit men babies
+12: large part due olympic stadium construction statement seems ridiculous
+13: olympic debt nearly us$ 1.48 billion stadium engineering nightmare retractable roof struggled worked properly years almost forced closure entire arena last year amid safety concerns
+14: city current government insists montreal put legacy behind olympic stadium key attraction
+15: paid profitable montreal keep said manon barbe councillor charge sports leisure city
+16: barbe pointed legacy games created sporting city nurtures hundreds elite athletes
+17: today montreal 1,000 elite athletics 100 coaches
+18: high coincidence
+19: decided keep sporting facilities said barbe
+20: one facilities claude robillard sporting center impressive training facility dozen sports nurtures athletes ages
+21: 76 games center hosted handball water polo training center athletics swimming field hockey
+22: today hundreds aspiring athletes receive access coaching equipment much subsidized city montreal
+23: days find former canadian olympian hank palmer track either indoors outdoors training pool weights room
+24: center probably would peak would career able said sprinter competed beijing olympics 2008
+25: center really helped develop track athlete athlete general many sports around
+26: cross-train basketball soccer weight training anything
+
+=================================
+Gold summary:
+1976 montreal olympics almost left city bankrupt us$ 1.48 billion-price tag
+former ioc vice-president dick pound said games hailed sporting success
+city retained invested sporting facilities long olympics finished
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 9, 20, 22
+	Results: 
+		rouge-1: 0.1923
+		rouge-2: 0.0000
+		rouge-l: 0.1034
+		mean: 0.0986
+	Summary: 
+		mean magnificent heroes modern olympics
+		one facilities claude robillard sporting center impressive training facility dozen sports nurtures athletes ages
+		today hundreds aspiring athletes receive access coaching equipment much subsidized city montreal
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1923
+		rouge-2: 0.0000
+		rouge-l: 0.1379
+		mean: 0.1101
+	Summary: 
+		montreal olympic stadium known big many city taxpayers really big owe
+		took us 30 years pay taxpayer happy said one montreal resident echoing anger many still feel way games funded 1976
+		well managed financial project
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 3, 4, 13
+	Results: 
+		rouge-1: 0.5385
+		rouge-2: 0.1071
+		rouge-l: 0.2069
+		mean: 0.2842
+	Summary: 
+		fabulous stadium think cost covered stadia north america put together said dick pound former international olympic committee vice-president prominent resident canadian city
+		however pound said calling montreal games 1976 bankrupt olympics bad rap pointed games actually made money
+		olympic debt nearly us$ 1.48 billion stadium engineering nightmare retractable roof struggled worked properly years almost forced closure entire arena last year amid safety concerns
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 16
+	Results: 
+		rouge-1: 0.2308
+		rouge-2: 0.0000
+		rouge-l: 0.2069
+		mean: 0.1459
+	Summary: 
+		montreal olympic stadium known big many city taxpayers really big owe
+		took us 30 years pay taxpayer happy said one montreal resident echoing anger many still feel way games funded 1976
+		barbe pointed legacy games created sporting city nurtures hundreds elite athletes

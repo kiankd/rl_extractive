@@ -1,0 +1,73 @@
+DOCUMENT:
+0: monsoon flooding left 50,000 people homeless nepal killed least 74 people northern india according officials
+1: monsoon rain bought heavy flooding southern nepal pictured northern india
+2: nepalese army thursday used helicopters rescue residents southeastern nepal stranded treetops roofs monsoon flooding forced 50,000 people homes
+3: northern india monsoon flooding destroyed mud huts killed least 74 people officials said
+4: deaths state uttar pradesh
+5: latest casualties bring 300 number people killed india since start year monsoon season
+6: nepalese officials said least four southern villages inundated water embankment saptakoshi river burst monday
+7: 40,000 people living government-run relief camps others gone villages stay relatives authorities said
+8: nepalese home ministry officials said unconfirmed reports deaths related flooding authorities could reach affected areas verify reports
+9: police army troops using elephants boats helicopters rescue stranded villagers sunsari district 400 km 249 miles southeast kathmandu since monday
+10: nepal amd india midst annual monsoon season
+11: copyright 2008 cnn
+12: rights reserved.this material may published broadcast rewritten redistributed
+13: associated press contributed report
+
+=================================
+Gold summary:
+heavy rains flooding lash sourthern nepal northern india
+nepal flooding forced many 50,000 homes
+india officials say least 74 people died state uttar pradesh
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 8, 5, 7
+	Results: 
+		rouge-1: 0.1905
+		rouge-2: 0.0000
+		rouge-l: 0.1250
+		mean: 0.1052
+	Summary: 
+		nepalese home ministry officials said unconfirmed reports deaths related flooding authorities could reach affected areas verify reports
+		latest casualties bring 300 number people killed india since start year monsoon season
+		40,000 people living government-run relief camps others gone villages stay relatives authorities said
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5714
+		rouge-2: 0.1739
+		rouge-l: 0.4167
+		mean: 0.3873
+	Summary: 
+		monsoon flooding left 50,000 people homeless nepal killed least 74 people northern india according officials
+		monsoon rain bought heavy flooding southern nepal pictured northern india
+		nepalese army thursday used helicopters rescue residents southeastern nepal stranded treetops roofs monsoon flooding forced 50,000 people homes
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 2, 4
+	Results: 
+		rouge-1: 0.6667
+		rouge-2: 0.2609
+		rouge-l: 0.5000
+		mean: 0.4758
+	Summary: 
+		monsoon flooding left 50,000 people homeless nepal killed least 74 people northern india according officials
+		nepalese army thursday used helicopters rescue residents southeastern nepal stranded treetops roofs monsoon flooding forced 50,000 people homes
+		deaths state uttar pradesh
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5714
+		rouge-2: 0.1739
+		rouge-l: 0.4167
+		mean: 0.3873
+	Summary: 
+		monsoon flooding left 50,000 people homeless nepal killed least 74 people northern india according officials
+		monsoon rain bought heavy flooding southern nepal pictured northern india
+		nepalese army thursday used helicopters rescue residents southeastern nepal stranded treetops roofs monsoon flooding forced 50,000 people homes

@@ -1,0 +1,110 @@
+DOCUMENT:
+0: pennsylvania district attorney says may never closure case man suspected killing ex-wife five former in-laws
+1: excuse valid explanation
+2: justification snuffing six innocent lives injuring another child
+3: horrific tragedy montgomery county district attorney risa vetri ferman told reporters tuesday
+4: body suspect bradley william stone found looked self-inflicted wounds
+5: former marine reservist run since monday slayings shook small communities north philadelphia
+6: although final report coroner pending stone appears died self-inflicted cutting wounds center body according ferman
+7: body found wooded area 1/2 mile home pennsburg
+8: immediately clear long remains
+9: look three different locations number people killed clearly looking premeditated killing planned killing intentional deliberate killing said ferman
+10: killings broke calm several small towns montgomery county second wealthiest county pennsylvania 51st wealthiest united states according county government web page
+11: early monday morning hangup call 911 first tipped police bloodshed directing lansdale 28 miles northwest philadelphia
+12: police arrived found two slain women stone former mother-in-law former grandmother-in-law ferman said
+13: short time later neighbor stone ex-wife called 911 prosecutor explained
+14: police went apartment lower salford found 33-year-old nicole stone dead
+15: heard three four gunshots heard kids yelling saying mommy
+16: said let go
+17: got ta go neighbor want identified told cnn affiliate wfmz
+18: heard say let go
+19: got ta get car
+20: coats anything neighbor said
+21: pajamas said got ta go
+22: like hurt
+23: hurt pretty bad
+24: got car sped
+25: addition nicole stone mother grandmother sister found dead well sister husband 14-year-old daughter ferman said
+26: sister 17-year-old son treated philadelphia hospital
+27: ferman said teen sustained cutting injuries hands head serious condition
+28: stone harm two daughters living former wife
+29: 5:30 a.m. brought neighbor residence pennsburg according ferman
+30: last time seen anyone attorney said
+31: think great significance children safe right
+32: ferman said stone ex-wife involved ongoing contentious custody disputes
+33: learned last week made effort court try secure custody emergency custody children denied said
+34: according montgomery county court documents found online stones divorced 2009
+35: fast facts rampage killings united states
+36: stone served reservist u.s. marines 2011 mainly meteorologist according marines
+37: spent months iraq 2008
+38: william schafte harleysville described friend called stone caring guy loved country
+39: totally shocked
+40: really think capable horrific thing like told cnn lead jake tapper
+41: would go extra mile help anybody
+42: total shock friends
+43: stone served president american legion william e. hare post 206 lansdale decade ago said current post commander john gillmer morning call newspaper allentown reported
+44: always honor guard stuff like parades gillmer told morning call
+45: could believe
+46: never would thought one guys
+47: upper perkiomen school district called classes tuesday
+48: following announcement stone death said schools would reopen regular times wednesday
+49: cnn shimon prokupecz susan candiotti ed payne ralph ellis kristina sgueglia lawrence crook contributed report
+
+=================================
+Gold summary:
+schools reopen upper perkiomen regular times
+injured teen remains serious condition cutting wounds
+bradley william stone appears die self-inflicted wounds
+suspected killing ex-wife five relatives
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 13, 45, 37
+	Results: 
+		rouge-1: 0.0833
+		rouge-2: 0.0000
+		rouge-l: 0.0800
+		mean: 0.0544
+	Summary: 
+		short time later neighbor stone ex-wife called 911 prosecutor explained
+		could believe
+		spent months iraq 2008
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1667
+		rouge-2: 0.1250
+		rouge-l: 0.1600
+		mean: 0.1506
+	Summary: 
+		pennsylvania district attorney says may never closure case man suspected killing ex-wife five former in-laws
+		excuse valid explanation
+		justification snuffing six innocent lives injuring another child
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 4, 48
+	Results: 
+		rouge-1: 0.5417
+		rouge-2: 0.2917
+		rouge-l: 0.2000
+		mean: 0.3444
+	Summary: 
+		pennsylvania district attorney says may never closure case man suspected killing ex-wife five former in-laws
+		body suspect bradley william stone found looked self-inflicted wounds
+		following announcement stone death said schools would reopen regular times wednesday
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 4
+	Results: 
+		rouge-1: 0.3750
+		rouge-2: 0.2500
+		rouge-l: 0.2000
+		mean: 0.2750
+	Summary: 
+		pennsylvania district attorney says may never closure case man suspected killing ex-wife five former in-laws
+		excuse valid explanation
+		body suspect bradley william stone found looked self-inflicted wounds

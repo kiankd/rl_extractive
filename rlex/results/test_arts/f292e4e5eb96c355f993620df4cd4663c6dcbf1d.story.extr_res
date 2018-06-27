@@ -1,0 +1,105 @@
+DOCUMENT:
+0: new space race officially way one sci-fi geeks salivating
+1: lift space nasa interpretation space elevator may look like
+2: project space elevator experts believe concept well within bounds possibility maybe even within lifetimes
+3: conference discussing developments space elevator concepts held japan november hundreds engineers scientists asia europe americas working design lift take directly one hundred-thousandth floor
+4: despite developments could excused thinking sounds little far-fetched
+5: indeed successfully built space elevator would unprecedented feat human engineering
+6: cable anchored earth surface reaching tens thousands kilometers space balanced counterweight attached end basic design elevator
+7: thought inertia physics theory stating matter retains velocity along straight line long acted upon external force cause cable stay stretched taut allowing elevator sit geostationary orbit
+8: cable would extend sky eventually reaching satellite docking station orbiting space
+9: engineers hope elevator transport people objects space even suggestions could used dispose nuclear waste
+10: another proposed idea use elevator place solar panels space provide power homes earth
+11: sounds like stuff fiction maybe
+12: 1979 arthur c. clarke novel fountains paradise brought idea space elevator mass audience
+13: charles sheffield web worlds also featured building space elevator
+14: jump storybooks fast-forward nearly three decades japanese scientists japan space elevator association working seriously space-elevator project
+15: association spokesman akira tsuchida said organization working u.s.-based spaceward foundation european organization based luxembourg develop elevator design
+16: liftport group u.s. also working developing design total believed 300 scientists engineers engaged work around globe
+17: nasa holding 4 million space elevator challenge encourage designs successful space elevator
+18: tsuchida said technology driving race build first space elevator quickly developing material carbon nanotube
+19: lightweight tensile strength 180 times stronger steel cable
+20: currently material potential strong enough use manufacture elevator cable according tsuchida
+21: present tether made carbon nanotube one-third one-quarter strength required make space elevator
+22: expect strong enough cable 2020s 2030s tsuchida said
+23: said likely method powering elevator would carbon nanotube cable
+24: major logistical issues keeping space elevator anything dream present
+25: massachusetts institute technology aeronautics astronautics professor jeff hoffman said designing carbon nanotube appeared biggest obstacle
+26: verge material strength span 30,000 km ability make long cable carbon nanotubes moment
+27: although confident within reasonable amount time able
+28: tsuchida said one biggest challenges acquiring funding move projects forward
+29: present financial backing space elevator project japanese group 100-plus members maintain jobs earn living
+30: material enough strength construct space elevator yet difficult change people mind believe real said
+31: hoffman feels international dialogue needs encouaraged issue
+32: said number legal considerations also would taken account
+33: something one nation one company
+34: needs worldwide approach said
+35: difficulties space-elevator projects include build base elevator design set operation
+36: tsuchida said possible locations elevator include south china sea western australia galapagos islands pacific ocean
+37: said locations usually avoided typhoons could pose threat safety elevator
+38: base space elevator located geosynchronous orbit -lsb- -rsb- space elevator ground station located near equator said
+39: although japanese association set time frame 2030s get space elevator construction developments moving quickly hoffman acknowledges could little away
+40: know going lifetime 100 200 years away near enough contemplate work
+41: building space elevator matter said hoffman believes herald major new period human history
+42: revolutionary human technology space travel
+43: many people pursuing said
+44: take turn humans space-bearing species
+
+=================================
+Gold summary:
+japan group 100 engineers trying design space elevator
+carbon nanotube would used wire lift elevator space
+western australia galapagos islands potential locations base station
+group sets 2030s target begin construction although could later
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 25, 43, 5
+	Results: 
+		rouge-1: 0.1667
+		rouge-2: 0.0625
+		rouge-l: 0.0909
+		mean: 0.1067
+	Summary: 
+		massachusetts institute technology aeronautics astronautics professor jeff hoffman said designing carbon nanotube appeared biggest obstacle
+		many people pursuing said
+		indeed successfully built space elevator would unprecedented feat human engineering
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1000
+		rouge-2: 0.0312
+		rouge-l: 0.1212
+		mean: 0.0842
+	Summary: 
+		new space race officially way one sci-fi geeks salivating
+		lift space nasa interpretation space elevator may look like
+		project space elevator experts believe concept well within bounds possibility maybe even within lifetimes
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 3, 36, 39
+	Results: 
+		rouge-1: 0.5000
+		rouge-2: 0.1250
+		rouge-l: 0.3636
+		mean: 0.3295
+	Summary: 
+		conference discussing developments space elevator concepts held japan november hundreds engineers scientists asia europe americas working design lift take directly one hundred-thousandth floor
+		tsuchida said possible locations elevator include south china sea western australia galapagos islands pacific ocean
+		although japanese association set time frame 2030s get space elevator construction developments moving quickly hoffman acknowledges could little away
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1000
+		rouge-2: 0.0312
+		rouge-l: 0.1212
+		mean: 0.0842
+	Summary: 
+		new space race officially way one sci-fi geeks salivating
+		lift space nasa interpretation space elevator may look like
+		project space elevator experts believe concept well within bounds possibility maybe even within lifetimes

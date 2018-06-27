@@ -1,0 +1,70 @@
+DOCUMENT:
+0: philippine supreme court postponed introduction controversial law aims provide government-funded contraception sex education classes mainly catholic country
+1: southeast asian nation top court issued order tuesday delaying implementation law 120 days waits hear arguments several petitions new measures official philippines news agency pna reported
+2: lawmakers approved legislation named responsible parenthood reproductive health act december years campaigning public health women rights activists
+3: president benigno aquino iii signed law month office saying closed divisive chapter nation history
+4: supreme court decision reopened contentious topic raising hopes leaders catholic church philippines oppose measures
+5: good sign victory law said bishop arturo bastes sorsogon according pna
+6: said believed pope francis officially inaugurated tuesday would happy hear delay
+7: despite widespread support new measures philippines catholic church lobbied legislation saying would undermine marriage morality
+8: 80 philippines 96 million citizens catholic
+9: one petitions submitted court law argues state general principle routinely invade privacy married couples exercise intimate rights duties respective spouses according pna
+10: supporters legislation like sen. miriam defensor santiago say necessary help people philippines escape vicious cycle poverty giving options manage sexual lives plan families control procreative activities
+
+=================================
+Gold summary:
+philippine lawmakers approved reproductive health bill late last year
+supreme court delays implementation hear petitions
+catholic bishops country welcome decision
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 8, 0, 2
+	Results: 
+		rouge-1: 0.4500
+		rouge-2: 0.1579
+		rouge-l: 0.2500
+		mean: 0.2860
+	Summary: 
+		80 philippines 96 million citizens catholic
+		philippine supreme court postponed introduction controversial law aims provide government-funded contraception sex education classes mainly catholic country
+		lawmakers approved legislation named responsible parenthood reproductive health act december years campaigning public health women rights activists
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.6000
+		rouge-2: 0.1579
+		rouge-l: 0.3000
+		mean: 0.3526
+	Summary: 
+		philippine supreme court postponed introduction controversial law aims provide government-funded contraception sex education classes mainly catholic country
+		southeast asian nation top court issued order tuesday delaying implementation law 120 days waits hear arguments several petitions new measures official philippines news agency pna reported
+		lawmakers approved legislation named responsible parenthood reproductive health act december years campaigning public health women rights activists
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 2, 4
+	Results: 
+		rouge-1: 0.5000
+		rouge-2: 0.1579
+		rouge-l: 0.4000
+		mean: 0.3526
+	Summary: 
+		philippine supreme court postponed introduction controversial law aims provide government-funded contraception sex education classes mainly catholic country
+		lawmakers approved legislation named responsible parenthood reproductive health act december years campaigning public health women rights activists
+		supreme court decision reopened contentious topic raising hopes leaders catholic church philippines oppose measures
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 4
+	Results: 
+		rouge-1: 0.4500
+		rouge-2: 0.0526
+		rouge-l: 0.3500
+		mean: 0.2842
+	Summary: 
+		philippine supreme court postponed introduction controversial law aims provide government-funded contraception sex education classes mainly catholic country
+		southeast asian nation top court issued order tuesday delaying implementation law 120 days waits hear arguments several petitions new measures official philippines news agency pna reported
+		supreme court decision reopened contentious topic raising hopes leaders catholic church philippines oppose measures

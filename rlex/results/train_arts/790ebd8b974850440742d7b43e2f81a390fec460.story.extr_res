@@ -1,0 +1,84 @@
+DOCUMENT:
+0: construction accident site brazilian stadium host opening match world cup killed two workers sao paulo fire officials said wednesday
+1: officials initially said three victims fire department amended death toll twitter account
+2: arena corinthians one venues host world cup matches 2014
+3: crane hoisting part metal roof collapsed causing piece fall partially damaging building according statement released construction company odebrecht infrastructure
+4: procedure carried many times construction site without incident including installation week ago piece roof proportions company said
+5: stadium home sport club corinthians paulista
+6: club directors issued statement expressing sadness incident
+7: construction company identified victims fabio luiz pereira 42 ronaldo oliveira dos santos 44
+8: accident comes brazil faces approaching deadline finish construction world cup stadiums
+9: earlier year fifa secretary general jerome valcke declared stadiums would ready december
+10: tournament held june 12 july 13
+11: august brazil sports minister aldo rebelo relayed concerns delays five stadiums built
+12: unknown much wednesday incident would affect construction arena corinthians
+13: state-run agencia brasil news agency reported third stadium closed officials investigate accident
+14: workers excused several days mourning
+15: less concerned timelines andres sanchez former president corinthians told reporters according agencia brasil
+16: concerned satisfying attending victims families
+17: brazil suffered setback last month judge ordered suspension construction another host venue due safety concerns
+18: judge stopped work arena de baixada city curitiba concerns workers danger buried run falling heights hit material among serious risks
+19: preparations world cup controversial brazil
+20: protesters outraged consider lavish spending world cup well 2016 olympic games
+21: also critical lack investment public services schools hospitals transportation
+22: led thousands march earlier year streets across country
+23: cnn shasta darlington miguel castro james masters john sinnott contributed report
+
+=================================
+Gold summary:
+new state media 30 stadium closed authorities investigate
+crane hoisting piece roofing collapsed arena corinthians
+two workers killed
+accident comes brazil tries meet deadline completing stadiums
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 1, 20, 12
+	Results: 
+		rouge-1: 0.0769
+		rouge-2: 0.0400
+		rouge-l: 0.0769
+		mean: 0.0646
+	Summary: 
+		officials initially said three victims fire department amended death toll twitter account
+		protesters outraged consider lavish spending world cup well 2016 olympic games
+		unknown much wednesday incident would affect construction arena corinthians
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2692
+		rouge-2: 0.0800
+		rouge-l: 0.1154
+		mean: 0.1549
+	Summary: 
+		construction accident site brazilian stadium host opening match world cup killed two workers sao paulo fire officials said wednesday
+		officials initially said three victims fire department amended death toll twitter account
+		arena corinthians one venues host world cup matches 2014
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 3, 8
+	Results: 
+		rouge-1: 0.5000
+		rouge-2: 0.1600
+		rouge-l: 0.3462
+		mean: 0.3354
+	Summary: 
+		construction accident site brazilian stadium host opening match world cup killed two workers sao paulo fire officials said wednesday
+		crane hoisting part metal roof collapsed causing piece fall partially damaging building according statement released construction company odebrecht infrastructure
+		accident comes brazil faces approaching deadline finish construction world cup stadiums
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2692
+		rouge-2: 0.0800
+		rouge-l: 0.1154
+		mean: 0.1549
+	Summary: 
+		construction accident site brazilian stadium host opening match world cup killed two workers sao paulo fire officials said wednesday
+		officials initially said three victims fire department amended death toll twitter account
+		arena corinthians one venues host world cup matches 2014

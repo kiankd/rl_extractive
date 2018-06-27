@@ -1,0 +1,71 @@
+DOCUMENT:
+0: australian maxi wild thing survived collision spectator boat rolex sydney-hobart yacht race got spectacular start boxing day
+1: wild thing skippered 2003 line honors winner grant wharington keen lead annual classic leaving sydney harbor sunday
+2: coming together small craft contained media representatives put paid hope
+3: official race website
+4: wild thing forced early last year mast problems fortunately repeat wharington reported light damage
+5: luckily hook wiped bbq back corner boat told official race website
+6: 628-nautical mile test entered first night four-time line honors winner wild oats xi race lead followed wild thing super-maxi investec loyal
+7: wild oats current record-holder expected first finish line late tuesday local time britain ran owned skype founder niklas zennstrom among favorites victory handicap
+8: strong winds forecast 87-strong fleet battles tasman sea notorious bass strait
+9: annual bluewater classic first held 1945 become one highlights yachting calendar
+10: changeable conditions offer spell disaster 1998 edition saw five yachts sunk six people died
+
+=================================
+Gold summary:
+eighty-seven-strong fleet contest annual rolex sydney-hobart yachting classic
+wild oats xi early leader 628-nautical mile race tasmania capital
+line honors rival wild thing collides spectator boat start sydney harbor
+1998 race saw sixth deaths brutal conditions bass strait
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 0, 8, 5
+	Results: 
+		rouge-1: 0.3056
+		rouge-2: 0.1081
+		rouge-l: 0.1842
+		mean: 0.1993
+	Summary: 
+		australian maxi wild thing survived collision spectator boat rolex sydney-hobart yacht race got spectacular start boxing day
+		strong winds forecast 87-strong fleet battles tasman sea notorious bass strait
+		luckily hook wiped bbq back corner boat told official race website
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3889
+		rouge-2: 0.1351
+		rouge-l: 0.1842
+		mean: 0.2361
+	Summary: 
+		australian maxi wild thing survived collision spectator boat rolex sydney-hobart yacht race got spectacular start boxing day
+		wild thing skippered 2003 line honors winner grant wharington keen lead annual classic leaving sydney harbor sunday
+		coming together small craft contained media representatives put paid hope
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 1, 6
+	Results: 
+		rouge-1: 0.5000
+		rouge-2: 0.2162
+		rouge-l: 0.2368
+		mean: 0.3177
+	Summary: 
+		australian maxi wild thing survived collision spectator boat rolex sydney-hobart yacht race got spectacular start boxing day
+		wild thing skippered 2003 line honors winner grant wharington keen lead annual classic leaving sydney harbor sunday
+		628-nautical mile test entered first night four-time line honors winner wild oats xi race lead followed wild thing super-maxi investec loyal
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 5
+	Results: 
+		rouge-1: 0.3889
+		rouge-2: 0.1351
+		rouge-l: 0.2105
+		mean: 0.2449
+	Summary: 
+		australian maxi wild thing survived collision spectator boat rolex sydney-hobart yacht race got spectacular start boxing day
+		wild thing skippered 2003 line honors winner grant wharington keen lead annual classic leaving sydney harbor sunday
+		luckily hook wiped bbq back corner boat told official race website

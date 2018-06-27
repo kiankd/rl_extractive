@@ -1,0 +1,105 @@
+DOCUMENT:
+0: moments marine explorer sylvia earle finished passionate plea preserve vast stretches world oceans last year ted conference foundation executive walked pledged million dollars cause
+1: one nearly 400 offers support earle received revealing wish wanted granted winner ted prize given nonprofit organization whose motto ideas worth spreading
+2: grants winners 100,000 organizational support impact prize typically magnified backing influential audience attending conferences
+3: wednesday british celebrity chef nutrition advocate jamie oliver reveal wish winner 2010 prize
+4: every year looking around someone inspire world something big interesting says chris anderson runs ted title curator
+5: issue obesity us worldwide big deal shocking problem world got lot people starving lot people killing overeating eating wrong things
+6: interested finding inspirational figure could address
+7: past ted prizes gone former president bill clinton rock star philanthropist bono biologist e.o. wilson
+8: since 2005 ted granted wishes three people year continues work past winners achieving wishes
+9: year winner oliver built empire cooking shows cookbooks restaurants
+10: oliver 34-year-old son owners pub/restaurant essex england came public attention starred bbc television series naked chef
+11: followed many series including one nutrition america due launch spring abc
+12: chef branched advocacy feed better campaign improved school lunches u.k.
+13: presented petition 270,000 signatures prime minister residence 10 downing street 2005 officials promised spend added 280 million pounds 437 million improve school food quality
+14: ted prize winners typically keep wishes secret conference
+15: anderson told cnn last week know oliver wish
+16: whole idea winner actually wish anything
+17: taking bit gamble know could wish hot tub full models
+18: suspense part magical nature prize moment unveiling special excites people
+19: oliver tipping hand wish saying spokesman humbly passionately hope wish speech inspire everyone room watching internet take action issue affects whole world
+20: ted began 1980s conference california focusing technology entertainment design since expanded include virtually subject conferences locations
+21: speakers dressed informally prowl big stage lectern present views clock ticks away 18 minutes allotted
+22: year conference long beach california 1,500 people attending person 500 watching simulcast tedactive conference palm springs features bill gates sheryl crow sarah silverman james cameron david byrne eve ensler among roster speakers fields technology science philosophy art music design
+23: anderson built eventually sold magazine publishing empire 1980s 1990s first attended ted conference 1998 intrigued many people said highlight year
+24: acquired ted 2001 hosted first conference 2003
+25: three years later ted began posting videos talks web
+26: viewed 200 million times many given subtitles 70 languages work volunteer translators
+27: ted prize organization goes beyond simply spreading ideas
+28: whenever ted struck towards end conference room full influential connected people absolutely burning possibility inspiration felt like something could done anderson said
+29: brainstorming session participants idea ted prize emerged prize instead looking back looked forward
+30: brought someone conference instead honoring granted wish chance make difference world wish without restrictions
+31: amy novogratz director ted prize said year biologist e.o. wilson wished database document every species earth organization helped launch encyclopedia life
+32: bono humanitarian rock star 2005 novogratz said wished million americans sign say care poverty africa
+33: bono organization launched one.org delivered petition g8 summer almost 2 million signatures
+34: sylvia earle marine biologist led dozens expeditions including all-female team lived weeks underwater 1970
+35: also walked sea floor untethered lower depth woman
+36: talk last year pointed past 50 years 90 percent big fish oceans consumed nearly half ocean coral reefs disappeared
+37: less one percent ocean protected destructive fishing earle believes seas go irreversible decline unless much larger portion experts say much 30 percent protected
+38: earle said world needs act swiftly protect calls blue heart planet basically keeps us alive
+39: told cnn interview major public awareness campaign launched year plans underway conference sea get influential people use talents intellect come new ways address problems
+40: earle attributes initiatives involvement ted
+41: allows us tap individuals organizations world would able individual said
+42: create awareness frame issues way people get inspired help
+43: true gift
+44: real prize
+
+=================================
+Gold summary:
+ted organization motto ideas worth spreading
+ted prize gone bono bill clinton e.o. wilson among others
+winner jamie oliver announce secret wish change world ted2010 approximately 8:50 pm et wednesday feb 10 live cnn.com
+oliver celebrity chef crusaded improved school nutrition u.k.
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 2, 28, 30
+	Results: 
+		rouge-1: 0.1000
+		rouge-2: 0.0000
+		rouge-l: 0.0714
+		mean: 0.0571
+	Summary: 
+		grants winners 100,000 organizational support impact prize typically magnified backing influential audience attending conferences
+		whenever ted struck towards end conference room full influential connected people absolutely burning possibility inspiration felt like something could done anderson said
+		brought someone conference instead honoring granted wish chance make difference world wish without restrictions
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2500
+		rouge-2: 0.0976
+		rouge-l: 0.1667
+		mean: 0.1714
+	Summary: 
+		moments marine explorer sylvia earle finished passionate plea preserve vast stretches world oceans last year ted conference foundation executive walked pledged million dollars cause
+		one nearly 400 offers support earle received revealing wish wanted granted winner ted prize given nonprofit organization whose motto ideas worth spreading
+		grants winners 100,000 organizational support impact prize typically magnified backing influential audience attending conferences
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 7, 12
+	Results: 
+		rouge-1: 0.4750
+		rouge-2: 0.1707
+		rouge-l: 0.3810
+		mean: 0.3422
+	Summary: 
+		one nearly 400 offers support earle received revealing wish wanted granted winner ted prize given nonprofit organization whose motto ideas worth spreading
+		past ted prizes gone former president bill clinton rock star philanthropist bono biologist e.o. wilson
+		chef branched advocacy feed better campaign improved school lunches u.k.
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 40
+	Results: 
+		rouge-1: 0.2500
+		rouge-2: 0.0976
+		rouge-l: 0.1667
+		mean: 0.1714
+	Summary: 
+		moments marine explorer sylvia earle finished passionate plea preserve vast stretches world oceans last year ted conference foundation executive walked pledged million dollars cause
+		one nearly 400 offers support earle received revealing wish wanted granted winner ted prize given nonprofit organization whose motto ideas worth spreading
+		earle attributes initiatives involvement ted

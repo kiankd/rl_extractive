@@ -1,0 +1,68 @@
+DOCUMENT:
+0: actress daryl hannah arrested tuesday sit-in front white house protesting pipeline expansion project would significantly increase amount oil united states imports canada controversial alberta oil sands
+1: splash actress among 100 people arrested demonstration according group organized protest
+2: stand today say slavery say tar sands oil keystone pipeline hannah said arrest
+3: representative actress unaware arrest contacted cnn tuesday afternoon
+4: state department set issue could final ruling allow massive new pipeline expansion central alberta gulf mexico
+5: decision expected end year state department spokeswoman heide fulton said briefing last month
+6: known keystone project expansion existing pipeline terminates oklahoma
+7: stretching 1,600 miles twice length trans-alaska system new pipeline would one biggest country
+8: canada oil sands drawn numerous critics say way oil extracted harms environment
+
+=================================
+Gold summary:
+sit-in held front white house tuesday
+hannah among demonstrators protesting plans oil pipeline expansion
+state department expected rule issue end year
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 2, 4, 7
+	Results: 
+		rouge-1: 0.3333
+		rouge-2: 0.1000
+		rouge-l: 0.2381
+		mean: 0.2238
+	Summary: 
+		stand today say slavery say tar sands oil keystone pipeline hannah said arrest
+		state department set issue could final ruling allow massive new pipeline expansion central alberta gulf mexico
+		stretching 1,600 miles twice length trans-alaska system new pipeline would one biggest country
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5238
+		rouge-2: 0.1500
+		rouge-l: 0.3333
+		mean: 0.3357
+	Summary: 
+		actress daryl hannah arrested tuesday sit-in front white house protesting pipeline expansion project would significantly increase amount oil united states imports canada controversial alberta oil sands
+		splash actress among 100 people arrested demonstration according group organized protest
+		stand today say slavery say tar sands oil keystone pipeline hannah said arrest
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 4, 5
+	Results: 
+		rouge-1: 0.7619
+		rouge-2: 0.2500
+		rouge-l: 0.5714
+		mean: 0.5278
+	Summary: 
+		actress daryl hannah arrested tuesday sit-in front white house protesting pipeline expansion project would significantly increase amount oil united states imports canada controversial alberta oil sands
+		state department set issue could final ruling allow massive new pipeline expansion central alberta gulf mexico
+		decision expected end year state department spokeswoman heide fulton said briefing last month
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5238
+		rouge-2: 0.1500
+		rouge-l: 0.3333
+		mean: 0.3357
+	Summary: 
+		actress daryl hannah arrested tuesday sit-in front white house protesting pipeline expansion project would significantly increase amount oil united states imports canada controversial alberta oil sands
+		splash actress among 100 people arrested demonstration according group organized protest
+		stand today say slavery say tar sands oil keystone pipeline hannah said arrest

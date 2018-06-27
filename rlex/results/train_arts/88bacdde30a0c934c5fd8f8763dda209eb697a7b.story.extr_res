@@ -1,0 +1,76 @@
+DOCUMENT:
+0: brett favre 297-game nfl record consecutive starts quarterbacks wo getting longer
+1: 41-year-old iron man held record since 1999 monday night game new york giants vikings spokesman jeff anderson said
+2: favre sprained joint throwing arm last week game buffalo bills throw ball saturday walk-through
+3: limited participation friday practice first time week participated
+4: got reprieve sunday scheduled date game giants
+5: vikings forced reschedule game inflatable roof metrodome collapsed 16 inches snow
+6: game played monday detroit
+7: favre knocked last week game first passing attempt started every game since fourth game 1992 season green bay packers
+8: started every game 2008 season new york jets every game since joining vikings 2009
+9: including playoff games started almost unbelievable 321 consecutive games
+10: lengthy career means lot records nfl quarterback throw 500 touchdown passes pass 70,000 yards among many others
+11: 297 straight starts puts first non-special teams players well quarterbacks
+12: took quarterbacks lead consecutive starts november 7 1999 chicago bears
+13: 117th consecutive start putting one ahead then-record holder ron jaworski philadelphia eagles
+14: jaworski held record since 1984
+15: favre record likely stand least six years long would take favre nearest competitor department peyton manning indianapolis colts catch
+16: manning started games colts beginning september 1998 205 consecutive starts
+
+=================================
+Gold summary:
+brett favre 297 consecutive starts tops quarterbacks non-special teams players
+day delay game help get starting lineup
+peyton manning second list
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 16, 13, 7
+	Results: 
+		rouge-1: 0.2381
+		rouge-2: 0.0500
+		rouge-l: 0.1429
+		mean: 0.1437
+	Summary: 
+		manning started games colts beginning september 1998 205 consecutive starts
+		117th consecutive start putting one ahead then-record holder ron jaworski philadelphia eagles
+		favre knocked last week game first passing attempt started every game since fourth game 1992 season green bay packers
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2857
+		rouge-2: 0.1000
+		rouge-l: 0.2857
+		mean: 0.2238
+	Summary: 
+		brett favre 297-game nfl record consecutive starts quarterbacks wo getting longer
+		41-year-old iron man held record since 1999 monday night game new york giants vikings spokesman jeff anderson said
+		favre sprained joint throwing arm last week game buffalo bills throw ball saturday walk-through
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 11, 15
+	Results: 
+		rouge-1: 0.5238
+		rouge-2: 0.2500
+		rouge-l: 0.4762
+		mean: 0.4167
+	Summary: 
+		brett favre 297-game nfl record consecutive starts quarterbacks wo getting longer
+		297 straight starts puts first non-special teams players well quarterbacks
+		favre record likely stand least six years long would take favre nearest competitor department peyton manning indianapolis colts catch
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 7
+	Results: 
+		rouge-1: 0.2857
+		rouge-2: 0.1000
+		rouge-l: 0.2857
+		mean: 0.2238
+	Summary: 
+		brett favre 297-game nfl record consecutive starts quarterbacks wo getting longer
+		41-year-old iron man held record since 1999 monday night game new york giants vikings spokesman jeff anderson said
+		favre knocked last week game first passing attempt started every game since fourth game 1992 season green bay packers

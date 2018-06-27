@@ -1,0 +1,74 @@
+DOCUMENT:
+0: comedian betty white currently enjoying career resurgence age 88 said wednesday credits longevity entertainment industry sheer blind luck
+1: luckiest old broad ever drew breath white told cnn larry king live
+2: cameo popular super bowl commercial january series comedic sketches craig ferguson late late show white fans campaigned successfully via facebook host nbc saturday night live
+3: white admitted king nervous may 8 show said finds questioning
+4: said approached host snl three times many many years ago declined associated show new york california girl new york
+5: white got start show business 1949 local television show
+6: went star two hit sitcoms mary tyler moore show golden girls
+7: think reason longevity several generations gotten know years become sort part family said
+8: recently appeared blockbuster proposal sandra bullock ryan reynolds
+9: add current hot streak white recently signed series regular new tv land cable channel sitcom titled hot cleveland opposite jane leeves wendie malick valerie bertinelli
+10: hot surprised still working white said
+11: amazed thrilled going along enjoying
+12: white also continued work animal health well-being including 46-year partnership los angeles zoo calling one two loves life alongside show business course
+13: fun said
+14: stop something enjoy much
+
+=================================
+Gold summary:
+white host nbc saturday night live may 8
+comedian wo hit sitcoms mary tyler moore show golden girls
+star popularity surged popular super bowl commercial january
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 9, 10, 3
+	Results: 
+		rouge-1: 0.1538
+		rouge-2: 0.0400
+		rouge-l: 0.1538
+		mean: 0.1159
+	Summary: 
+		add current hot streak white recently signed series regular new tv land cable channel sitcom titled hot cleveland opposite jane leeves wendie malick valerie bertinelli
+		hot surprised still working white said
+		white admitted king nervous may 8 show said finds questioning
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5000
+		rouge-2: 0.3200
+		rouge-l: 0.2692
+		mean: 0.3631
+	Summary: 
+		comedian betty white currently enjoying career resurgence age 88 said wednesday credits longevity entertainment industry sheer blind luck
+		luckiest old broad ever drew breath white told cnn larry king live
+		cameo popular super bowl commercial january series comedic sketches craig ferguson late late show white fans campaigned successfully via facebook host nbc saturday night live
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 2, 3, 6
+	Results: 
+		rouge-1: 0.8462
+		rouge-2: 0.6400
+		rouge-l: 0.6154
+		mean: 0.7005
+	Summary: 
+		cameo popular super bowl commercial january series comedic sketches craig ferguson late late show white fans campaigned successfully via facebook host nbc saturday night live
+		white admitted king nervous may 8 show said finds questioning
+		went star two hit sitcoms mary tyler moore show golden girls
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5000
+		rouge-2: 0.3200
+		rouge-l: 0.2692
+		mean: 0.3631
+	Summary: 
+		comedian betty white currently enjoying career resurgence age 88 said wednesday credits longevity entertainment industry sheer blind luck
+		luckiest old broad ever drew breath white told cnn larry king live
+		cameo popular super bowl commercial january series comedic sketches craig ferguson late late show white fans campaigned successfully via facebook host nbc saturday night live

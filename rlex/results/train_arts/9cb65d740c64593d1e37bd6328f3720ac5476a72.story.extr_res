@@ -1,0 +1,144 @@
+DOCUMENT:
+0: country music fans loyal like see legends fall
+1: randy travis one genre revered traditional singer-songwriters arrested week found naked smelling apparently alcohol lying remote roadway northern texas authorities said
+2: genre largely led artists achieve chart-topping tunes high-grossing concert tours industry consultants radio station personalities say travis 53 faces significant challenges ahead first address whatever issues may led incident
+3: country unique cradle grave fan base likely stick travis one industry expert told cnn
+4: country music fans notorious loyalty said wade jessen senior chart manager billboard nashville
+5: tend live artist lives good bad point
+6: country singer travis arrested accused dwi
+7: say travis may reached point tuesday evening
+8: travis driving black 1998 pontiac trans went north side highway west tioga texas resides struck several barricades construction zone said texas highway patrol trooper mark tackett
+9: travis found naked tackett said
+10: singer brought grayson county jail 3 a.m. hospital visit still clothes sgt. rickey wheeler said
+11: given paper suit jail uniform made paper wheeler told cnn
+12: travis charged driving intoxicated felony retaliation allegedly threatening fatally shoot highway patrol troopers responded concerned caller notified authorities man lying roadway tuesday
+13: incident happened six months pleaded contest public intoxication another case
+14: singer camp responded cnn requests comment
+15: travis course first country star run problems
+16: hank williams george jones known tumultuous lifestyles drinking
+17: jones even earned moniker show jones missed many performances
+18: difference george jones clothes said country radio consultant joel raab
+19: certainly first time celebrity genre found middle personal public relations challenge
+20: r&b star chris brown worked way back charts convicted three years ago assaulting ex-girlfriend rihanna
+21: former two half men star charlie sheen back television public firing meltdown
+22: susan keel nashville-based publicist represented country singers said travis postpone current tour issue statement indicating getting help
+23: apologize officer public friends fans indicate get life back track said keel
+24: travis burst onto country music scene 1986 storms life
+25: north carolina-born singer debut album sold nearly 4 million copies made star new traditional scene
+26: travis heyday mid-1980s mid-1990s recording classics diggin bones forever ever amen
+27: baritone voice songs even retro wardrobe harkened traditional country style
+28: julie stevens program director krty san jose california said travis george strait came like breath fresh air mid-1980s country radio stations suffering low ratings
+29: horrible said stevens
+30: coming john travolta whole urban cowboy thing
+31: travis ran string successful songs albums
+32: two together saved format stevens said
+33: know george endured randy
+34: travis eventually moved toward gospel music today largely plays smaller venues including casinos
+35: strait meanwhile still bringing large crowds arenas
+36: predictable sound according billboard jessen strait adept making sound fresh album album
+37: think blame randy travis decline format jessen said
+38: long time since hit record
+39: observers point travis top-selling record decade
+40: finding one could give needed boost
+41: make hit record work country radio today country fans said raab
+42: would hard-pressed find randy travis song contemporary country radio station today
+43: estimated 2,000 stations contemporary considered primary marketing vehicle country music jessen told cnn
+44: listeners ages 25 54 key demographic successful musicians keep songs coming
+45: take general terms randy travis considered veteran artist said jessen
+46: randy singles radio time
+47: current artists new single radio time
+48: tour record
+49: tour record
+50: tour record
+51: still travis seven grammy awards five country music association awards 10 academy country music statuettes 10 american music awards seven music city news awards eight dove awards gospel music association according website
+52: star hollywood walk fame member grand ole opry since 1986 according website
+53: travis last major hit came 2002 three wooden crosses song faith redemption
+54: three wooden crosses right side highway
+55: four heaven knows
+56: guess take leave world behind
+57: leave behind go
+58: travis able tell sincerity hit jessen said
+59: jess wright program director on-air personality wfre frederick maryland said station plays traditional country songs favored likes travis
+60: right song hard find right place play wright told cnn
+61: raab provides consultant services 27 stations classic meaning play songs 1950s 1990s
+62: spoke thursday individual one station
+63: discussed travis recent incident never discussed whether songs taken air
+64: think legacy music necessarily tarnished said raab
+65: difficulties include lawsuits
+66: past two years difficult ones travis
+67: divorced longtime wife 2010
+68: according lawsuit filed earlier year elizabeth travis remained personal manager terminated agreement 2011 without proper notice suit alleges
+69: randy travis countersued may contending elizabeth travis divulged confidential information order damage reputation career
+70: provide specifics
+71: february legendary performer arrested public intoxication sitting car front church sanger texas
+72: apologize resulted following evening celebrating super bowl travis told cnn statement arrest
+73: committed responsible accountable apologize actions
+74: fewer songs radio travis primarily reaches fan base touring said jessen
+75: old rule country music men like sung women like sung
+76: randy done
+77: diehard fans going stay jessen said
+78: wish well stay tuned news
+79: country music fans like see legends fall
+80: keel said country music industry still considers travis legend
+81: supportive community forgiving community said
+82: comments talented guy end mug shot like
+83: cnn david ariosto michael martinez contributed report
+
+=================================
+Gold summary:
+randy travis faces charges traffic incident
+industry consultants said address issues
+travis seen reduced radio play recent years
+travis pleaded no-contest previous incident involved civil litigation
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 48, 75, 47
+	Results: 
+		rouge-1: 0.0435
+		rouge-2: 0.0000
+		rouge-l: 0.0385
+		mean: 0.0273
+	Summary: 
+		tour record
+		old rule country music men like sung women like sung
+		current artists new single radio time
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4348
+		rouge-2: 0.0800
+		rouge-l: 0.2692
+		mean: 0.2613
+	Summary: 
+		country music fans loyal like see legends fall
+		randy travis one genre revered traditional singer-songwriters arrested week found naked smelling apparently alcohol lying remote roadway northern texas authorities said
+		genre largely led artists achieve chart-topping tunes high-grossing concert tours industry consultants radio station personalities say travis 53 faces significant challenges ahead first address whatever issues may led incident
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 2, 63
+	Results: 
+		rouge-1: 0.4783
+		rouge-2: 0.0800
+		rouge-l: 0.3462
+		mean: 0.3015
+	Summary: 
+		randy travis one genre revered traditional singer-songwriters arrested week found naked smelling apparently alcohol lying remote roadway northern texas authorities said
+		genre largely led artists achieve chart-topping tunes high-grossing concert tours industry consultants radio station personalities say travis 53 faces significant challenges ahead first address whatever issues may led incident
+		discussed travis recent incident never discussed whether songs taken air
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 4
+	Results: 
+		rouge-1: 0.1304
+		rouge-2: 0.0400
+		rouge-l: 0.1154
+		mean: 0.0953
+	Summary: 
+		country music fans loyal like see legends fall
+		randy travis one genre revered traditional singer-songwriters arrested week found naked smelling apparently alcohol lying remote roadway northern texas authorities said
+		country music fans notorious loyalty said wade jessen senior chart manager billboard nashville

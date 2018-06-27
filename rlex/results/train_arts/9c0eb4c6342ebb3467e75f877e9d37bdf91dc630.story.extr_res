@@ -1,0 +1,99 @@
+DOCUMENT:
+0: nurse release tuesday atlanta hospital leaves single person united states battling ebola though others including president barack obama stressed fight deadly virus
+1: day celebration gratitude ask lose focus thousands families continue labor burden disease west africa said 29-year-old amber vinson
+2: two weeks ago vinson became second nurse texas health presbyterian hospital dallas get virus caring thomas eric duncan liberian man began showing ebola symptoms arriving texas died
+3: nina pham dallas nurse discharged national institutes health facility maryland friday differ handful u.s. ebola cases united states caught disease america rather contracting west africa
+4: vinson diagnosis came amid wave national concern prospect ebola could spread united states especially became known flown two commercial flights treating duncan
+5: yet alarm tuesday
+6: instead emory university hospital dr. bruce ribner declared vinson recovered infection ebola virus return community life without concerns infecting anyone
+7: ebola outbreak get speed
+8: standing behind lectern gray suit vinson thanked god well atlanta hospital arrived october 15
+9: also voiced appreciation dr. kent brantly nancy writebol two americans got ebola africa treated emory contributions plasma people united states struggling disease
+10: dr. craig spencer person united states treated ebola
+11: 33-year-old admitted bellevue hospital new york city developing fever thursday six days returning united states week leaving guinea worked doctors without borders
+12: timeline spencer activities returning home
+13: even without cases ebola remains hot topic conversation around country
+14: includes debate whether anyone allowed united states guinea liberia sierra leone least whether health care volunteers others coming ebola-ravaged nations quarantined three weeks upon arrival
+15: president barack obama said tuesday monitoring movement guidance returning region sensible long based science unnecessarily prove obstacle risk lives livelihoods head overseas help need
+16: want discourage health workers going front lines dealing effective way obama said
+17: react based fears
+18: react based facts
+19: obama ca react based fears
+20: u.s. focused west africa
+21: ribner emory said hospital learned great deal treating four ebola patients
+22: includes lessons things fluid electrolyte management physicians successfully treat ebola patients need dialysis
+23: still sharing information u.s. health care professionals could helpful wo end threat
+24: thing really keep mind way truly able make citizens safe control outbreak africa said ribner
+25: point obama made repeatedly including tuesday
+26: insists nation much make sure contain ebola source medical experts ground approximately 1,000 u.s. troops 3,000 come involved helping local officials everything logistics building treatment centers
+27: american service members quarantine army base vicenza italy returning west africa according maj. gen. darryl williams commander u.s. army forces africa among isolated
+28: williams talks cnn quarantine
+29: washington even dispatched top diplomat ambassador united nations samantha power arrived tuesday liberian capital monrovia
+30: told reporters visit aims show solidarity people region know alone face terrible epidemic well help liberia emerge crisis stronger resilient
+31: speaking tuesday members multiagency disaster assistance response team west africa since august president offered hint optimism
+32: good news starting impact obama said u.s. efforts
+33: starting see progress liberia infrastructure beginning get built
+34: still progress equate victory
+35: according world health organization 10,000 confirmed suspected cases ebola almost guinea liberia sierra leone nearly 5,000 deaths
+36: ones authorities able count region health care access record-keeping limited
+37: united nations health authority said mortality rate current outbreak starting first death december 70
+38: complete coverage ebola
+
+=================================
+Gold summary:
+discharged nurse asks lose focus suffering west africa
+u.s. react based fears president obama says
+u.s. diplomat arrives liberia show solidarity
+one person doctor new york ebola united states
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 32, 33, 30
+	Results: 
+		rouge-1: 0.1786
+		rouge-2: 0.0357
+		rouge-l: 0.1724
+		mean: 0.1289
+	Summary: 
+		good news starting impact obama said u.s. efforts
+		starting see progress liberia infrastructure beginning get built
+		told reporters visit aims show solidarity people region know alone face terrible epidemic well help liberia emerge crisis stronger resilient
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3929
+		rouge-2: 0.1071
+		rouge-l: 0.2069
+		mean: 0.2356
+	Summary: 
+		nurse release tuesday atlanta hospital leaves single person united states battling ebola though others including president barack obama stressed fight deadly virus
+		day celebration gratitude ask lose focus thousands families continue labor burden disease west africa said 29-year-old amber vinson
+		two weeks ago vinson became second nurse texas health presbyterian hospital dallas get virus caring thomas eric duncan liberian man began showing ebola symptoms arriving texas died
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 3, 19, 30
+	Results: 
+		rouge-1: 0.5357
+		rouge-2: 0.1786
+		rouge-l: 0.2759
+		mean: 0.3300
+	Summary: 
+		nina pham dallas nurse discharged national institutes health facility maryland friday differ handful u.s. ebola cases united states caught disease america rather contracting west africa
+		obama ca react based fears
+		told reporters visit aims show solidarity people region know alone face terrible epidemic well help liberia emerge crisis stronger resilient
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3929
+		rouge-2: 0.1071
+		rouge-l: 0.2069
+		mean: 0.2356
+	Summary: 
+		nurse release tuesday atlanta hospital leaves single person united states battling ebola though others including president barack obama stressed fight deadly virus
+		day celebration gratitude ask lose focus thousands families continue labor burden disease west africa said 29-year-old amber vinson
+		two weeks ago vinson became second nurse texas health presbyterian hospital dallas get virus caring thomas eric duncan liberian man began showing ebola symptoms arriving texas died

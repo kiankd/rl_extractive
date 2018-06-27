@@ -1,0 +1,82 @@
+DOCUMENT:
+0: novak djokovic head london defend atp world tour finals crown high winning back paris masters title sunday
+1: serbian ended david ferrer reign bercy winning final 7-5 7-5 two hours become 15th tennis player hold 40 atp tour titles
+2: kept alive hopes ending year world no. 1 third consecutive time defeating man made possible ferrer eliminated top-ranked rafael nadal saturday semis
+3: australian open champion six titles year also reached finals u.s. open wimbledon
+4: definitely playing best tennis year said djokovic also 2009 paris title
+5: playing high level lots confidence game
+6: djokovic 17 matches row since losing nadal new york 66-9 record year
+7: tuesday start london campaign roger federer beat saturday ferrer faces rematch nadal four-man group
+8: played maybe better yesterday lost said world no. 3 ferrer
+9: happy game last tournaments played well happy
+10: bryan brothers go london clear favorites doubles thrashing closest rivals alexander peya bruno soares 6-3 6-3 sunday paris final
+11: mike bob almost double ranking points austrian/brazilian duo make debut season-ending event
+12: happy performance team fantastic year playing lot confidence moment bob bryan said ahead 11th appearance
+13: meanwhile italy clinched fourth fed cup title sunday beating weakened russia team 4-0 sardinia
+14: world no. 7 sara errani clinched country first women crown since 2010 beating 183rd-ranked alisa kleybanova 6-1 6-1
+15: second reverse singles played karin knapp flavia pennetta beat margarita gasparyan irina khromacheva dead doubles rubber
+16: russia top 11 players unavailable final clashed wta tour tournament champions bulgaria
+17: simona halep capped breakthrough season claiming sixth title passing 1 million prize money year came behind beat former u.s. open champion sam stosur 2-6 6-2 6-2 sunday
+18: move 22-year-old 11th rankings putting within touching distance becoming third romanian player crack wta top 10
+19: managed one two virginia ruzici romanian woman win grand slam title
+20: hopefully play next year like played year well australia halep said
+21: former world no. 4 stosur also lost halep last month kremlin cup final osaka title
+
+=================================
+Gold summary:
+world no. 2 novak djokovic wins paris masters title second time
+djokovic beats defending champion david ferrer sunday final
+head london season-ending atp world tour finals
+italy clinches fourth title women fed cup beating russia 4-0 final
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 16, 17, 12
+	Results: 
+		rouge-1: 0.1818
+		rouge-2: 0.0000
+		rouge-l: 0.0811
+		mean: 0.0876
+	Summary: 
+		russia top 11 players unavailable final clashed wta tour tournament champions bulgaria
+		simona halep capped breakthrough season claiming sixth title passing 1 million prize money year came behind beat former u.s. open champion sam stosur 2-6 6-2 6-2 sunday
+		happy performance team fantastic year playing lot confidence moment bob bryan said ahead 11th appearance
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5152
+		rouge-2: 0.2500
+		rouge-l: 0.2703
+		mean: 0.3451
+	Summary: 
+		novak djokovic head london defend atp world tour finals crown high winning back paris masters title sunday
+		serbian ended david ferrer reign bercy winning final 7-5 7-5 two hours become 15th tennis player hold 40 atp tour titles
+		kept alive hopes ending year world no. 1 third consecutive time defeating man made possible ferrer eliminated top-ranked rafael nadal saturday semis
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 1, 13
+	Results: 
+		rouge-1: 0.6667
+		rouge-2: 0.2500
+		rouge-l: 0.4595
+		mean: 0.4587
+	Summary: 
+		novak djokovic head london defend atp world tour finals crown high winning back paris masters title sunday
+		serbian ended david ferrer reign bercy winning final 7-5 7-5 two hours become 15th tennis player hold 40 atp tour titles
+		meanwhile italy clinched fourth fed cup title sunday beating weakened russia team 4-0 sardinia
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5152
+		rouge-2: 0.2500
+		rouge-l: 0.2703
+		mean: 0.3451
+	Summary: 
+		novak djokovic head london defend atp world tour finals crown high winning back paris masters title sunday
+		serbian ended david ferrer reign bercy winning final 7-5 7-5 two hours become 15th tennis player hold 40 atp tour titles
+		kept alive hopes ending year world no. 1 third consecutive time defeating man made possible ferrer eliminated top-ranked rafael nadal saturday semis

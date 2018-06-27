@@ -1,0 +1,74 @@
+DOCUMENT:
+0: one win darrell wallace jr. mean african-american race car drivers present future
+1: answer question might come years
+2: nonetheless nascar wasted time saturday hailing wallace on-track success martinsville speedway southern virginia
+3: congratulate darrell wallace jr. first national series victory one remembered remarkable moment sport history said nascar chairman ceo brian france
+4: wallace took kroger 200 racing circuit camping world truck series nascar third tier
+5: still notable given african-american nascar national series race since december 1 1963 wendell scott became first ever win race nascar top level victory speedway park jacksonville florida
+6: scott virginia native served army world war ii raced 500 races career finishing top five 20 times though would victory
+7: plus 20-year-old wallace driver
+8: highly touted graduate nascar drive diversity featured numerous local national publications
+9: mobile alabama native lives concord north carolina 19th start camping world truck circuit
+10: 10 first 18 starts finished top 10
+11: shortly martinsville race ended wallace using twitter handle @bubbawallace reveled victory
+12: wrote came
+13: cnn jill martin contributed report
+
+=================================
+Gold summary:
+new came saw conquered wallace tweets
+darrell wallace jr. wins third-tier nascar race martinsville
+first nascar national series win african-african since 1963
+nascar ceo says win remembered sport history
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 1, 11, 13
+	Results: 
+		rouge-1: 0.1200
+		rouge-2: 0.0000
+		rouge-l: 0.0345
+		mean: 0.0515
+	Summary: 
+		answer question might come years
+		shortly martinsville race ended wallace using twitter handle @bubbawallace reveled victory
+		cnn jill martin contributed report
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2800
+		rouge-2: 0.0714
+		rouge-l: 0.1724
+		mean: 0.1746
+	Summary: 
+		one win darrell wallace jr. mean african-american race car drivers present future
+		answer question might come years
+		nonetheless nascar wasted time saturday hailing wallace on-track success martinsville speedway southern virginia
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 2, 3, 5
+	Results: 
+		rouge-1: 0.6400
+		rouge-2: 0.1786
+		rouge-l: 0.3793
+		mean: 0.3993
+	Summary: 
+		nonetheless nascar wasted time saturday hailing wallace on-track success martinsville speedway southern virginia
+		congratulate darrell wallace jr. first national series victory one remembered remarkable moment sport history said nascar chairman ceo brian france
+		still notable given african-american nascar national series race since december 1 1963 wendell scott became first ever win race nascar top level victory speedway park jacksonville florida
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 2, 1
+	Results: 
+		rouge-1: 0.2800
+		rouge-2: 0.0714
+		rouge-l: 0.1724
+		mean: 0.1746
+	Summary: 
+		one win darrell wallace jr. mean african-american race car drivers present future
+		nonetheless nascar wasted time saturday hailing wallace on-track success martinsville speedway southern virginia
+		answer question might come years

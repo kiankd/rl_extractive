@@ -1,0 +1,101 @@
+DOCUMENT:
+0: former fbi director louis freeh investigation possible wrongdoing penn state university appears examining football coach joe paterno apparent preference handling scandalous issues internally role may played potential cover-up involving former defensive coordinator jerry sandusky convicted 45 counts child sex abuse june 22
+1: freeh group poring internal penn state e-mails interviewed past university official way paterno influenced variety disciplinary matters according source knowledge investigation
+2: freeh leading internal review penn state handling scandal unrelated criminal investigations
+3: e-mails obtained cnn source familiar investigation first reported wall street journal show paterno wielded power went well beyond realm football even athletic department
+4: e-mails cast pall penn state paterno
+5: 2005 e-mail dr. vicky triponey vice president student affairs charge disciplining students athletic director tim curley others summarizes meeting paterno tells wants sole disciplinarian players
+6: criticizes paterno wanting limit campus code conduct incidents take place campus keeping disciplinary matters involving players private
+7: coach paterno would rather inform public football player found responsible committing serious violation law and/or student code despite moral legal obligation according e-mail
+8: e-mail triponey also refers calls office receiving coaches others
+9: must insist efforts put pressure student affairs try influence decisions simply must stop writes
+10: curley subsequent e-mail acknowledges triponey take conversation paterno accurate
+11: triponey replies curley know caught middle difficult situation apparent reference appeasing paterno
+12: subsequent e-mail then-penn state president graham spanier blunt troubled manipulative disrespectful uncivil abusive behavior football coach writes
+13: triponey interviewed freeh group according source knowledge investigation
+14: e-mail calls paterno behavior atrocious said others mimicking behavior
+15: quite shocking man idolized people everywhere teaching students writes
+16: triponey e-mails may sign freeh also examining culture around football team investigators work determine circumstances surrounding 2001 sexual incident young boy sandusky penn state shower room reported graduate assistant coach mike mcqueary
+17: purported 2001 e-mails curley schultz spanier read exclusively cnn curley appears change mind reporting locker room incident outside authorities speaking paterno wrote one e-mail
+18: sandusky convicted june four counts related 2001 shower incident including unlawful contact minors first-degree felony
+19: curley former penn state vice president gary schultz face perjury failure report child abuse charges connection sandusky case
+20: pleaded guilty
+21: disturbing e-mails could spell trouble penn state officials
+22: 2007 widely reported incident dozen players crashed off-campus party started violent brawl paterno appears send e-mail assistant spanier says want make sure everyone understands discipline players involved handled soon comfortable know facts
+23: paterno attorneys said coach use e-mail
+24: exchange shows may e-mail account assistant would still send e-mails
+25: paterno planned punish team forcing perform 10 hours community service clean stadium home games according memo provided source familiar investigation
+26: triponey tried discipline football players manner students harassed online home according source knowledge investigation
+27: front lawn somebody put sale sign
+28: police installed surveillance camera
+29: end source says spanier suggested think future penn state resigned
+30: triponey left penn state university changed discipline policy involving off-campus incidents
+31: current code conduct says applies campus conduct affects substantial university interest
+32: freeh goup university declined comment story
+33: efforts sunday night obtain comment paterno family unsuccessful
+34: paterno died complications lung cancer january
+35: 2001 2005 2007 e-mail exchanges among many investigation freeh group
+36: e-mails revealed far suggest coach paterno preferred handle bad behavior internally preference may influenced decision university officials report sandusky authorities 2001 allowed continue abuse young boys
+37: victim no. 6 violation vindication
+38: police interview matt sandusky describes abuse
+39: muralist replaces sandusky image penn state looks cases ahead
+40: painful chapter closes sandusky conviction child sex abuse
+
+=================================
+Gold summary:
+group headed former fbi director louis freeh poring penn state e-mails
+e-mails provided cnn show joe paterno wielded power beyond realm football
+official says 2005 e-mail paterno wanted keep disciplinary matters internal
+coach paterno would rather inform public despite moral legal obligation
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 2, 3, 7
+	Results: 
+		rouge-1: 0.5897
+		rouge-2: 0.3171
+		rouge-l: 0.5238
+		mean: 0.4769
+	Summary: 
+		freeh leading internal review penn state handling scandal unrelated criminal investigations
+		e-mails obtained cnn source familiar investigation first reported wall street journal show paterno wielded power went well beyond realm football even athletic department
+		coach paterno would rather inform public football player found responsible committing serious violation law and/or student code despite moral legal obligation according e-mail
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4615
+		rouge-2: 0.1951
+		rouge-l: 0.3333
+		mean: 0.3300
+	Summary: 
+		former fbi director louis freeh investigation possible wrongdoing penn state university appears examining football coach joe paterno apparent preference handling scandalous issues internally role may played potential cover-up involving former defensive coordinator jerry sandusky convicted 45 counts child sex abuse june 22
+		freeh group poring internal penn state e-mails interviewed past university official way paterno influenced variety disciplinary matters according source knowledge investigation
+		freeh leading internal review penn state handling scandal unrelated criminal investigations
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 3, 7
+	Results: 
+		rouge-1: 0.6923
+		rouge-2: 0.4390
+		rouge-l: 0.6190
+		mean: 0.5835
+	Summary: 
+		former fbi director louis freeh investigation possible wrongdoing penn state university appears examining football coach joe paterno apparent preference handling scandalous issues internally role may played potential cover-up involving former defensive coordinator jerry sandusky convicted 45 counts child sex abuse june 22
+		e-mails obtained cnn source familiar investigation first reported wall street journal show paterno wielded power went well beyond realm football even athletic department
+		coach paterno would rather inform public football player found responsible committing serious violation law and/or student code despite moral legal obligation according e-mail
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4615
+		rouge-2: 0.1951
+		rouge-l: 0.3333
+		mean: 0.3300
+	Summary: 
+		former fbi director louis freeh investigation possible wrongdoing penn state university appears examining football coach joe paterno apparent preference handling scandalous issues internally role may played potential cover-up involving former defensive coordinator jerry sandusky convicted 45 counts child sex abuse june 22
+		freeh group poring internal penn state e-mails interviewed past university official way paterno influenced variety disciplinary matters according source knowledge investigation
+		freeh leading internal review penn state handling scandal unrelated criminal investigations

@@ -1,0 +1,114 @@
+DOCUMENT:
+0: year since steve jobs death apple undergone gradual subtle brand makeover shaking unpleasant characteristics associated jobs taking bits personality new leader tim cook
+1: brilliance product design jobs showed little interest glad-handing apple partners investors
+2: contrast apple outside appeared open cook thanks number orchestrated meetings trips meant appeal various factions consumers investors politicians interested world leading tech company
+3: may cook went washington meet congressional leaders open lines communication mostly blocked previous years
+4: apple stranger lobbying although spends far less silicon valley companies like google sending cook way letting politicians know apple ready grow relationship capitol hill company might take stronger interest policy issues future
+5: apple also worked harder woo wall street
+6: bus tour investors stopped apple headquarters cupertino california treated cookies presentation apple chief financial officer
+7: sizable act goodwill cash dividend apple paid investors first 17 years
+8: call investors february cook answered questions cracked jokes generally open friendly
+9: apple fanboy fever peak steve jobs
+10: outcry working conditions factories apple manufacturing partners notably foxconn cook took swift action
+11: took trip china toured foxconn plant person
+12: apple also allowed fair labor association thorough audit conditions china factories apple vowed improve pay hours
+13: recent display company shift tone reaction bungled ios 6 maps app
+14: new maps app crafted in-house apple replace google maps iphones ipads riddled flaws missing features misplaced businesses landmarks even towns
+15: week phone hit stores cook apologized map publicly surprising humility even pointed customers competing products
+16: pundits compared swift contrite reaction terse rare public apology jobs month complaints iphone 4 antenna erupted 2010
+17: next steve jobs one
+18: cook mea culpa latest demonstration extension apple different jobs jobs era company
+19: cook comes far relaxed approachable personality less inclined center attention
+20: product announcements one-man shows presentations shared apple executives
+21: still discovering style tricky undertaking given abnormal amounts scrutiny follow apple every move
+22: recent article bloomberg businessweek citing interviews current former apple executives employees partners states company happier even somewhat transparent jobs tenure fewer frantic calls midnight less implicit pressure engineers cut short cancel vacations heat product development cycles
+23: cook recently announced apple employees company headquarters get week thanksgiving pay according reports
+24: unfortunately apple soft-spoken chief executive incessantly compared predecessor every presentation successes failures
+25: simply put steve jobs sort pedestal say apple could wrong steve leadership wrong said gartner analyst michael gartenberg
+26: remember ping apple failed attempt social network centered around music
+27: cook launched bold new products past 12 months
+28: far company released minor updates popular products like speedier laptops new mac operating system refreshed ipod line new taller iphone 5
+29: met solid reviews maps app aside sold well
+30: apple gone become valuable company history
+31: year ago october 4 apple stock closed 381.80 share
+32: wednesday closed 671.45
+33: staying course cook raised concerns may lack imagination bold ability conjure mind-blowing new products jobs hallmark
+34: cook last major responsibility decidedly left-brained streamlining apple supply chain
+35: question much credit apple recent financial success go cook much residual carryover jobs regime
+36: prepared company executives carry vision spent years grooming staff setting apple continue seamlessly without
+37: surprise continued well
+38: thoughts next steve jobs
+39: gartenberg says jobs gave appearance entirely control fact design new device single-handedly
+40: apple 12,000 employees united states counting retail support staff
+41: large well-oiled machine knows design sell beautiful products consumers want
+42: company cruise control said tero kuittinen analyst alekstra
+43: kuittinen thinks recent maps kerfuffle could material impact apple iphone sales line wo know 2013
+44: early stats like moving 5 million iphones 5s first weekend sales ca foretell going happen end model life cycle
+45: apple huge amount good among consumers
+46: started eating away said kuittinen referring map app problems
+47: kuittinen believes big decisions define cook still yet come
+48: decisions jobs never made whether drop price iphone competitive emerging markets
+49: cook already proven aggressive international sales
+50: iphone 5 100 countries end year far speedier expansive roll previous apple devices
+51: still early anyone predict cook long-term success failure observers say
+52: true impact jobs absence wo known two years
+53: biggest challenge apple product gartenberg said
+54: going manage legend steve jobs
+
+=================================
+Gold summary:
+year since steve jobs death tim cook subtly altered apple image
+concerted efforts made reach investors washington
+tim cook quieter approachable style setting new tone company
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 52, 54, 6
+	Results: 
+		rouge-1: 0.1667
+		rouge-2: 0.0417
+		rouge-l: 0.1154
+		mean: 0.1079
+	Summary: 
+		true impact jobs absence wo known two years
+		going manage legend steve jobs
+		bus tour investors stopped apple headquarters cupertino california treated cookies presentation apple chief financial officer
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4583
+		rouge-2: 0.2083
+		rouge-l: 0.4231
+		mean: 0.3632
+	Summary: 
+		year since steve jobs death apple undergone gradual subtle brand makeover shaking unpleasant characteristics associated jobs taking bits personality new leader tim cook
+		brilliance product design jobs showed little interest glad-handing apple partners investors
+		contrast apple outside appeared open cook thanks number orchestrated meetings trips meant appeal various factions consumers investors politicians interested world leading tech company
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 2, 19
+	Results: 
+		rouge-1: 0.5000
+		rouge-2: 0.2083
+		rouge-l: 0.4231
+		mean: 0.3771
+	Summary: 
+		year since steve jobs death apple undergone gradual subtle brand makeover shaking unpleasant characteristics associated jobs taking bits personality new leader tim cook
+		contrast apple outside appeared open cook thanks number orchestrated meetings trips meant appeal various factions consumers investors politicians interested world leading tech company
+		cook comes far relaxed approachable personality less inclined center attention
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4583
+		rouge-2: 0.2083
+		rouge-l: 0.4231
+		mean: 0.3632
+	Summary: 
+		year since steve jobs death apple undergone gradual subtle brand makeover shaking unpleasant characteristics associated jobs taking bits personality new leader tim cook
+		brilliance product design jobs showed little interest glad-handing apple partners investors
+		contrast apple outside appeared open cook thanks number orchestrated meetings trips meant appeal various factions consumers investors politicians interested world leading tech company

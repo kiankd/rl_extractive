@@ -1,0 +1,107 @@
+DOCUMENT:
+0: 2005 brian baker one rising stars american tennis
+1: aged 20 recorded shock win world no. 9 gaston gaudio u.s. open
+2: despite beaten second round future looked bright tennessee native
+3: however last match grand slam tournament seven years nightmare series injuries operations threatened end promising career
+4: no. 2-ranked junior world baker told cnn open court
+5: hoping start bang atp tour successful career whether top 50 top 10 top 20
+6: instead five surgeries four years
+7: recently involvement tennis playing low-ranking challenger tour coaching college team
+8: roddick exits early french open
+9: well elbow hernia injuries root baker fitness problems lie hip condition troubled since boy
+10: femoroacetabular impingement developmental condition way hip formed probably nine 10 years old doctor thomas byrd told cnn
+11: overgrowth around socket femoral head grows sort like front end car little alignment
+12: leads uneven wear inside hip
+13: remarkable able reach elite status first place
+14: spending much time battling hips opponent
+15: baker back big stage made remarkable comeback
+16: wednesday 27-year-old play second round grand slam second time career
+17: learn baker next french open opponent
+18: awarded wildcard entry french open winning challenger tournament april baker reached first atp tour final warmup event nice last weekend
+19: lost match opener roland garros monday man beat new york 2005 belgium world no. 77 xavier malisse
+20: baker next faces much tougher test french 11th seed gilles simon family glad see back court enjoying
+21: happy worked time go back said father steve
+22: done hope good time paris
+23: watched play grand slam matches first time
+24: always thought would one day go see play roland garros
+25: famous clay-court venue holds special memories baker reached 2003 french open boys final losing switzerland stanislaw wawrinka since enjoyed steady career ranked 21st world
+26: players marcos baghdatis jo-wilfried tsonga beat roland garros run winning titles climbing rankings baker trying rescue fading career
+27: think marcus beat couple times got better times baker told cnn
+28: right coming back first hip surgery
+29: idea going four surgeries ca remember beat david nalbandian somebody else
+30: definitely gave motivation maybe come back could good results
+31: baker return gained real momentum nice
+32: losing defending champion nicolas almagro final scored notable wins former junior rival world no. 14 gael monfils russia former no. 3 nikolay davydenko 21-time title winner atp tour
+33: every time go onto court want win baker told atp tour official website final defeat
+34: competitor hate losing
+35: look week whole unbelievable week
+36: hoped qualify start week win match two going roland garros
+37: obviously much better
+38: think even qualifying felt playing pretty well
+39: three matches easily knew playing good tennis
+40: baker compatriot john isner ranked 11th world pleased see former junior rival back competing highest level
+41: virtually exact age isner told cnn
+42: born days apart played juniors hands one best players country
+43: definitely deserves worked really hard
+44: let obstacles discourage
+45: still loves playing tennis well
+46: know without injuries stay healthy see top 100
+
+=================================
+Gold summary:
+brian baker playing first grand slam event since 2005 u.s. open
+american plagued injuries throughout career
+baker elbow hip problems led five operations
+27-year-old beat xavier malisse first round french open monday
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 8, 18, 14
+	Results: 
+		rouge-1: 0.1724
+		rouge-2: 0.0323
+		rouge-l: 0.0938
+		mean: 0.0995
+	Summary: 
+		roddick exits early french open
+		awarded wildcard entry french open winning challenger tournament april baker reached first atp tour final warmup event nice last weekend
+		spending much time battling hips opponent
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2414
+		rouge-2: 0.0645
+		rouge-l: 0.1562
+		mean: 0.1540
+	Summary: 
+		2005 brian baker one rising stars american tennis
+		aged 20 recorded shock win world no. 9 gaston gaudio u.s. open
+		despite beaten second round future looked bright tennessee native
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 3, 18, 19
+	Results: 
+		rouge-1: 0.5172
+		rouge-2: 0.0968
+		rouge-l: 0.2500
+		mean: 0.2880
+	Summary: 
+		however last match grand slam tournament seven years nightmare series injuries operations threatened end promising career
+		awarded wildcard entry french open winning challenger tournament april baker reached first atp tour final warmup event nice last weekend
+		lost match opener roland garros monday man beat new york 2005 belgium world no. 77 xavier malisse
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 4
+	Results: 
+		rouge-1: 0.2069
+		rouge-2: 0.0645
+		rouge-l: 0.1875
+		mean: 0.1530
+	Summary: 
+		2005 brian baker one rising stars american tennis
+		aged 20 recorded shock win world no. 9 gaston gaudio u.s. open
+		no. 2-ranked junior world baker told cnn open court

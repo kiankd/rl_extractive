@@ -1,0 +1,133 @@
+DOCUMENT:
+0: summer southeastern utah high desert like furnace wind whips hot air seemingly endless expanse arid terrain
+1: particles sand erode re-deposited new areas collapsing old formations slowly building sedimentary rock hold new ones
+2: flora fauna live amidst gusts mother nature toughest resourceful creations enduring months without drop rain withstanding desert heat sub-freezing temperatures
+3: arches national park home wildlife well world highest concentration natural sandstone arches
+4: largest landscape arch tallest double arch south park 119 square miles one unique places earth
+5: park stats visitor count arches steadily increased since 2004
+6: park drew one million guests last year averaged many since 2008
+7: location arches national park located southeast utah five miles north moab
+8: airports moab salt lake city four hours away grand junction colorado two hours away
+9: go park admission 10 per vehicle
+10: individual admission 5
+11: admission valid seven days
+12: park passports 25 provide entry arches canyonlands national park hovenweep national monument natural bridges national monument
+13: valid one year
+14: visitor center open every day except christmas sure check website hours change according season
+15: meet ranger kait thomas interpretive ranger arches national park grew monrovia indiana
+16: 11 dad started taking annual vacations national parks western united states
+17: experience profound effect says
+18: knew wanted move west says thomas 25
+19: wanted part beauty find national parks
+20: thomas 25 became pre-law student moved salt lake city college
+21: way back school 2008 summer internship working political campaign aha
+22: moment realizing completed dream move west one work national park service
+23: waltzed arches national park visitor center asked needed help says
+24: first answer thanks
+25: thomas says combination stubbornness supervisor willingness listen 45-minute impromptu meeting led volunteering six weeks 2008
+26: 2009 supervisor invited become seasonal ranger
+27: 2010 thomas became full-time ranger
+28: really first part country fell love says
+29: something desert hostile dramatic colorful
+30: contrast something incredibly harsh yet unbelievably delicate
+31: day trip miss windows trail hike
+32: thomas says area highest concentration arches park including five range 60 100 feet high
+33: nice summary park says
+34: bang buck
+35: favorite less-traveled spot hiking tower arch klondike bluff
+36: thomas says reaching klondike bluff requires driving dirt road support rvs buses
+37: 3.5 miles klondike bluff tower arch says
+38: great place escape hustle bustle find everywhere else park says
+39: favorite spot view wildlife courthouse wash.
+40: thomas says hot summer temperatures make seeing wildlife difficult
+41: see mule deer coyotes bobcats courthouse wash well big horn sheep near visitor center october december
+42: magical moment park lunch shade wall arch day collapsed august 2008
+43: thomas said patrolling devil garden trail temperature hit 105 stopped wall arch rest eat
+44: next day group tourists came visitor center wanted know trail blocked
+45: thomas rangers went investigate discovered arch collapsed
+46: realized geology always happening says
+47: one sand grain could fallen whole thing pops collapses
+48: answers arches fall special
+49: funniest moment park discovering five members norteã ± band dressed full concert costume lugged instruments three miles delicate arch began belting tunes shade
+50: norteã ± music generally comes northern mexico texas
+51: features accordion produces musical rhythms similar polkas
+52: informed needed permit play inside park says
+53: oddest moment park excited family asking identify 10 species lizards captured put black box planned take home
+54: identified lizards promptly made put back says
+55: illegal remove wildlife national parks
+56: ranger request stay trails arches
+57: land trails home biological earth crust protects erosion takes decades rejuvenate stepped
+58: arches made red sandstone mixture quartz feldspar iron oxide
+59: may look sturdy could collapse climb
+60: carry water think need
+61: thomas says heat-related illnesses no. 1 medical issue park
+62: recommends drink minimum one gallon water per day carry salty snacks maintain electrolyte levels
+63: also sure shake shoes putting
+64: scorpions gravitate toward dark cool spaces
+65: see rattlesnake trail chase
+66: thomas says majority rattlesnake bites happen park peoples hands
+67: another park like visit denali national park alaska
+68: never alaska want see really raw big mountains thomas says
+69: always biggest best
+70: want see something primitive anything else
+71: national park would like visit
+72: please share thoughts comments section
+
+=================================
+Gold summary:
+park home 2,000 sandstone arches
+iron oxide creates chemical reaction turns sandstone red
+utah high desert scalding summer freezing winter temperatures
+best time view wildlife park october december
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 18, 60, 71
+	Results: 
+		rouge-1: 0.0385
+		rouge-2: 0.0000
+		rouge-l: 0.0357
+		mean: 0.0247
+	Summary: 
+		knew wanted move west says thomas 25
+		carry water think need
+		national park would like visit
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1923
+		rouge-2: 0.0741
+		rouge-l: 0.1429
+		mean: 0.1364
+	Summary: 
+		summer southeastern utah high desert like furnace wind whips hot air seemingly endless expanse arid terrain
+		particles sand erode re-deposited new areas collapsing old formations slowly building sedimentary rock hold new ones
+		flora fauna live amidst gusts mother nature toughest resourceful creations enduring months without drop rain withstanding desert heat sub-freezing temperatures
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 3, 58
+	Results: 
+		rouge-1: 0.4615
+		rouge-2: 0.1852
+		rouge-l: 0.2143
+		mean: 0.2870
+	Summary: 
+		summer southeastern utah high desert like furnace wind whips hot air seemingly endless expanse arid terrain
+		arches national park home wildlife well world highest concentration natural sandstone arches
+		arches made red sandstone mixture quartz feldspar iron oxide
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 5
+	Results: 
+		rouge-1: 0.2308
+		rouge-2: 0.0741
+		rouge-l: 0.1429
+		mean: 0.1492
+	Summary: 
+		summer southeastern utah high desert like furnace wind whips hot air seemingly endless expanse arid terrain
+		particles sand erode re-deposited new areas collapsing old formations slowly building sedimentary rock hold new ones
+		park stats visitor count arches steadily increased since 2004

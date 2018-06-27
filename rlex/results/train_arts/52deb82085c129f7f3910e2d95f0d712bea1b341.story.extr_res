@@ -1,0 +1,113 @@
+DOCUMENT:
+0: 13-year-old witnessed another teen set fire last month apologized tuesday saying praying boy recovery sorry happened
+1: reading reporters statement jeremy jarvis whose older brother charged incident said victim michael brewer prayers
+2: want read something wrote last night jarvis said
+3: want express deepest sympathy mikey family
+4: pray mikey grow stronger every day mikey speedy recovery
+5: brewer 15 remains guarded condition university miami jackson memorial hospital burn center
+6: suffered third-degree burns 65 percent body deerfield beach florida incident october 12 authorities said
+7: police able interview brewer first time since incident broward county sheriff office said
+8: hospital officials said brewer communicate one two-word answers
+9: information better position make right decision far charges proceed said maria schneider prosecutor state attorney office broward county
+10: would say -lsb- brewer -rsb- needs little time fully prepared provide detailed account incident
+11: difficult talk
+12: difficult us listen said interview
+13: difficult around heart-wrenching
+14: much better terrible situation
+15: jeremy jarvis arrested juvenile brewer burned spent 30 days juvenile detention
+16: however prosecutors filed charges
+17: still could charged prosecutors 90 days arrest decide whether move forward case
+18: interviewed police prosecutors schneider said
+19: invoked rights counsel invoked rights silence
+20: brother denver 15 among three teenagers charged adults one count attempted second-degree murder attack
+21: pleaded guilty
+22: want tell brother d.c. love miss jeremy jarvis told reporters tuesday
+23: hope pray get
+24: boy attorney stephen melnick would allow reporters ask questions
+25: extent jeremy jarvis involvement remains investigation melnick said adding police took statement brewer monday
+26: far know -lsb- jeremy jarvis -rsb- followed watched happened said
+27: denver jarvis matthew bent also 15 accused along third teen jesus mendez 16 group poured alcohol brewer set ablaze dispute 40 video game bicycle
+28: three pleaded guilty appearance last week broward county circuit court
+29: convicted would face sentence 30 years prison
+30: detectives say eyewitnesses told mendez used lighter set fire brewer denver jarvis allegedly poured alcohol
+31: bent allegedly encouraged attack police said
+32: brewer jumped pool apartment complex put flames
+33: authorities said mendez admitted setting brewer fire
+34: according arrest transcript boy said made bad decision
+35: dr. michael brannon court-appointed forensic psychologist interviewed jarvis brothers
+36: describe afraid fearful told cnn earlier month
+37: describe tearful various times interview especially talking specific incident led injuries victim
+38: jarvis family met melnick office tuesday shortly boy read short written statement reporters
+39: took questions
+40: meeting jeremy jarvis played melnick dog
+41: although state still file charges matter melnick said
+42: important say really bothers much loves brother much hopes michael gets better
+43: said brewer close friend jeremy jarvis boy troubled brewer injury well brother facing criminal charges could land adult prison convicted
+44: doctors planned perform skin graft surgery brewer last friday decided wait let heal bit first hospital officials said
+45: doctor said faces several months hospital need multiple skin grafts surgeries
+46: melnick would say whether jeremy jarvis cooperating prosecutors said believe boy apology would affect whether charges filed
+47: something wanting say start said
+48: asking every day could say something
+49: broward county schools expelled seventh-grader arrest melnick said
+50: home-schooled family exploring alternative education arrangements
+51: jeremy jarvis turned 13 month ago understands happening melnick said
+52: spent 30 days jail
+
+=================================
+Gold summary:
+jeremy jarvis 13 saw teen set fire apologizes says praying recovery
+authorities say police able interview victim first time since incident
+victim michael brewer 15 guarded condition university miami hospital burn center
+jeremy jarvis charged extent involvement investigation attorney says
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 50, 10, 31
+	Results: 
+		rouge-1: 0.1389
+		rouge-2: 0.0000
+		rouge-l: 0.0750
+		mean: 0.0713
+	Summary: 
+		home-schooled family exploring alternative education arrangements
+		would say -lsb- brewer -rsb- needs little time fully prepared provide detailed account incident
+		bent allegedly encouraged attack police said
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3333
+		rouge-2: 0.1316
+		rouge-l: 0.2500
+		mean: 0.2383
+	Summary: 
+		13-year-old witnessed another teen set fire last month apologized tuesday saying praying boy recovery sorry happened
+		reading reporters statement jeremy jarvis whose older brother charged incident said victim michael brewer prayers
+		want read something wrote last night jarvis said
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 5, 7
+	Results: 
+		rouge-1: 0.5833
+		rouge-2: 0.3684
+		rouge-l: 0.3500
+		mean: 0.4339
+	Summary: 
+		reading reporters statement jeremy jarvis whose older brother charged incident said victim michael brewer prayers
+		brewer 15 remains guarded condition university miami jackson memorial hospital burn center
+		police able interview brewer first time since incident broward county sheriff office said
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 1, 0, 2
+	Results: 
+		rouge-1: 0.3333
+		rouge-2: 0.1316
+		rouge-l: 0.2000
+		mean: 0.2216
+	Summary: 
+		reading reporters statement jeremy jarvis whose older brother charged incident said victim michael brewer prayers
+		13-year-old witnessed another teen set fire last month apologized tuesday saying praying boy recovery sorry happened
+		want read something wrote last night jarvis said

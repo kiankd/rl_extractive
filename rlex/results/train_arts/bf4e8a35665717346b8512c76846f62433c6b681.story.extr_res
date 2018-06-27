@@ -1,0 +1,90 @@
+DOCUMENT:
+0: top coalition general wounded suicide attack saturday northern afghanistan one left seven dead eight others hurt said weeks earlier charged international troops show afghans respect part contrast brazen actions likes taliban
+1: attack taloqan occurred high-level meeting afghan coalition officials governor office provincial spokesman said
+2: taliban spokesman said group whose fight resume control afghanistan picked recent months responsible
+3: maj. gen. markus kneip veteran german office regional head nato-led international security assistance force across nine provinces northern afghanistan stable condition suffering non-life threatening injuries german general said
+4: provinces border turkmenistan east china
+5: soldier since 1975 kneip also senior commander german troops afghanistan uzbekistan according biography military alliance website
+6: returned february position also held 2006 leading 12,000 coalition troops 16 countries
+7: april press briefing coordinated u.s. department defense kneip said noticed huge difference coalition commitment region compared five years earlier saying doubling tripling efforts
+8: also spoke huge burden placed coalition troops careful actions order win afghans
+9: ask follow rules distinguish actions taliban take advantage children take advantage children put suicide attackers cruel kneip said according transcript answers u.s. department defense website
+10: attack came meeting held governor office taloqan talk security region especially demonstrations recent days german defense minister thomas de maiziere told reporters
+11: referring may 18 incident german soldiers shot front camp number demonstrators angry nato airstrike killed four insurgents including two armed females allege become violent
+12: provincial government spokesman faiz mohammad tawhidi blamed protesters said threw grenades opened fire protesters security forces
+13: two german soldiers four afghan guards injured clashes according german military
+14: new trust initiated de maiziere said saturday meeting
+15: meeting attendees included high-ranking authorities afghan national police afghan national army isaf members said interior ministry spokesman zemaray bashari
+16: telephone interview taliban spokesman zabulliah mojahed said sacrificed mujahedeen targeted high-ranking afghan authorities together international forces attending security meeting advisers planning launch operation taliban north meeting
+17: mujahedeen found meeting targeted suicide bomber told cnn unknown location
+18: two germans killed thepolice chief takhar province shah jahan noori regional police chief gen. dawood dawood said faiz mohammad tawhidi spokesman provincial gov. abdul jabar taqwa
+19: dawood dawood veteran anti-soviet anti-taliban resistance commander
+20: roles since taliban ouster include one afghanistan lead point-persons trying stifle production opium poppies drug heroin made
+21: governor secretary two guards also killed said qari sadiqullah secretary provincial council
+22: wounded suffered burns said
+23: taqwa wounded spokesman said.so three german soldiers according de maiziere
+24: german general told reporters kneip commanders participated saturday morning memorial ceremony german soldier died wednesday near kunduz
+25: isaf spokesman rear adm. vic beck condemned called senseless murder afghans coalition members fought hard people afghanistan
+26: isaf remain relentless support afghan partners find responsible bring justice said
+27: attack came two days eight u.s. troops died two improvised explosive devices blew shorabak district 100 kilometers 62 miles south kandahar according isaf
+28: region opposite end saturday attack occurred site spate recent violence taliban forces unleashed multiple attacks earlier month so-called spring offensive
+29: cnn larry shaughnessy contributed story
+
+=================================
+Gold summary:
+new high-ranking coalition officer urged troops show afghans respect
+new maj. gen. kneip head 12,000 coalition troops northern afghanistan
+wounded 8 others 7 afghan officials german troops died
+provincial governor also wounded attack occurred building
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 0, 5, 7
+	Results: 
+		rouge-1: 0.4333
+		rouge-2: 0.1471
+		rouge-l: 0.2286
+		mean: 0.2697
+	Summary: 
+		top coalition general wounded suicide attack saturday northern afghanistan one left seven dead eight others hurt said weeks earlier charged international troops show afghans respect part contrast brazen actions likes taliban
+		soldier since 1975 kneip also senior commander german troops afghanistan uzbekistan according biography military alliance website
+		april press briefing coordinated u.s. department defense kneip said noticed huge difference coalition commitment region compared five years earlier saying doubling tripling efforts
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5000
+		rouge-2: 0.1176
+		rouge-l: 0.2286
+		mean: 0.2821
+	Summary: 
+		top coalition general wounded suicide attack saturday northern afghanistan one left seven dead eight others hurt said weeks earlier charged international troops show afghans respect part contrast brazen actions likes taliban
+		attack taloqan occurred high-level meeting afghan coalition officials governor office provincial spokesman said
+		taliban spokesman said group whose fight resume control afghanistan picked recent months responsible
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 1, 3
+	Results: 
+		rouge-1: 0.6667
+		rouge-2: 0.1471
+		rouge-l: 0.3429
+		mean: 0.3855
+	Summary: 
+		top coalition general wounded suicide attack saturday northern afghanistan one left seven dead eight others hurt said weeks earlier charged international troops show afghans respect part contrast brazen actions likes taliban
+		attack taloqan occurred high-level meeting afghan coalition officials governor office provincial spokesman said
+		maj. gen. markus kneip veteran german office regional head nato-led international security assistance force across nine provinces northern afghanistan stable condition suffering non-life threatening injuries german general said
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5000
+		rouge-2: 0.1176
+		rouge-l: 0.2286
+		mean: 0.2821
+	Summary: 
+		top coalition general wounded suicide attack saturday northern afghanistan one left seven dead eight others hurt said weeks earlier charged international troops show afghans respect part contrast brazen actions likes taliban
+		attack taloqan occurred high-level meeting afghan coalition officials governor office provincial spokesman said
+		taliban spokesman said group whose fight resume control afghanistan picked recent months responsible

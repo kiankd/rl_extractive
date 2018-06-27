@@ -1,0 +1,120 @@
+DOCUMENT:
+0: reach back right wrong half-century ago
+1: correct travesty occurring right
+2: direct question president barack obama march award medal honor nation highest military honor valor group 24 veterans three still living given commendation decades ago
+3: men served three wars performed heroes battlefield
+4: 19 24 nation failed
+5: passed discrimination ranks
+6: belated recognition wonderful gesture
+7: something obama
+8: nation owes medal honor sgt. rafael peralta 25-year-old marine san diego died november 15 2004 according many accounts smothered grenade falluja iraq
+9: came united states immigrant mexico joined marines day received green card
+10: absorbing grenade blast save soldiers definition valor
+11: guarantees medal honor
+12: true three heroes 22-year-old marine cpl. jason l. dunham died way april 22 2004 karabilah iraq 19-year-old army pvt. ross mcginnis died baghdad december 4 2006 25-year-old navy seal michael a. monsoor died ramadi iraq september 29 2006
+13: peralta case marine covered grenade shot head
+14: fact fuels debate
+15: believe peralta receive medal honor claiming gunshot killed instantly already dead covered grenade
+16: would make smothering explosive involuntary action would constitute heroism
+17: group includes last three secretaries defense
+18: recently pentagon announced reopen nomination peralta
+19: according news release defense secretary chuck hagel defense department concluded evidence meet beyond reasonable doubt standard necessary medal honor
+20: nevertheless many disagree
+21: think peralta get medal honor acknowledge marine sergeant shot point assertions neurologist two neurosurgeons surgeon peralta battalion bullet traveling low velocity kill instantly
+22: assert able reach scoop grenade place body
+23: conscious decision give life save comrades amount heroism
+24: looked case several years written numerous times
+25: camp no. 2
+26: believe peralta deserves medal honor
+27: also point view entire california congressional delegation pushed pentagon years reopen nomination
+28: republican rep. duncan hunter marine combat veteran presumably knows thing two valor led push
+29: also view texas pathologist vincent di maio independent forensic expert looked evidence reached different conclusion one arrived pentagon
+30: opinion marine corps u.s. navy u.s. central command
+31: furthermore also point view real experts happened day falluja peralta comrades alpha company joined campaign medal honor
+32: need bureaucrat behind desk washington political appointee tell happened
+33: saw eyes
+34: initially seven said witnessed peralta scoop grenade sacrifice act valor came home families weddings children birthday parties anniversaries
+35: washington post last week reported two former marines peralta day died broken ranks colleagues
+36: least one recanting earlier statements
+37: two former marines claim narrative happened day advanced marines true concocted rest squad honor peralta memory
+38: insist grenade exploded near peralta underneath
+39: one former marines 30-year-old davi allen close enough peralta wounded blast spent years advancing version claims new version truth
+40: telling truth telling
+41: rep. hunter peralta family challenged washington post article insist contains inaccuracies factual omissions
+42: admitting letter post eyewitness accounts always differed hunter accused newspaper ignoring full body evidence inaccurately describing situation day falluja
+43: moreover according politico allegation peralta fellow marines concocted alternate narrative already reported marine corps times
+44: yet colonel assigned investigate case found evidence back claim
+45: comes believe
+46: much everyone seems agree corps used call peralta marine marine
+47: sounds like
+48: one member peralta fan club expected one pentagon
+49: 2008 pressure started mount defense secretary robert gates offered peralta family consolation prize navy cross
+50: citation read without hesitation complete disregard personal safety sgt. peralta reached pulled grenade body
+51: right thing supporters insisted along
+52: defense department adopts different narratives depending commendation
+53: makes sense
+54: peralta family turned navy cross held medal honor
+55: never came
+56: president obama look back half-century find miscarriage justice armed forces
+57: perfect example
+58: right thing give hero recognition deserves
+59: opinions expressed commentary solely ruben navarrette
+
+=================================
+Gold summary:
+ruben navarrette sgt. rafael peralta died iraq deserves medal honor
+says peralta many accounts smothered grenade save comrades
+said peralta shot could done consciously
+navarrette many including comrades think deserves medal
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 9, 10, 31
+	Results: 
+		rouge-1: 0.2500
+		rouge-2: 0.0345
+		rouge-l: 0.1613
+		mean: 0.1486
+	Summary: 
+		came united states immigrant mexico joined marines day received green card
+		absorbing grenade blast save soldiers definition valor
+		furthermore also point view real experts happened day falluja peralta comrades alpha company joined campaign medal honor
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.0833
+		rouge-2: 0.0345
+		rouge-l: 0.0645
+		mean: 0.0608
+	Summary: 
+		reach back right wrong half-century ago
+		correct travesty occurring right
+		direct question president barack obama march award medal honor nation highest military honor valor group 24 veterans three still living given commendation decades ago
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 8, 23, 26
+	Results: 
+		rouge-1: 0.5833
+		rouge-2: 0.2759
+		rouge-l: 0.4194
+		mean: 0.4262
+	Summary: 
+		nation owes medal honor sgt. rafael peralta 25-year-old marine san diego died november 15 2004 according many accounts smothered grenade falluja iraq
+		conscious decision give life save comrades amount heroism
+		believe peralta deserves medal honor
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.0833
+		rouge-2: 0.0345
+		rouge-l: 0.0645
+		mean: 0.0608
+	Summary: 
+		reach back right wrong half-century ago
+		correct travesty occurring right
+		direct question president barack obama march award medal honor nation highest military honor valor group 24 veterans three still living given commendation decades ago

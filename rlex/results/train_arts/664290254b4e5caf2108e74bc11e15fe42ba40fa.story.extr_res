@@ -1,0 +1,81 @@
+DOCUMENT:
+0: united states delegation upcoming winter olympics russia wo include member president barack obama family active cabinet secretary include openly gay athletes clear jab russia recent anti-gay laws
+1: billie jean king tennis legend join figure skater brian boitano games opening ceremonies february 7 white house said tuesday
+2: former homeland security secretary janet napolitano white house aide rob nabors u.s. ambassador russia round delegation sochi games
+3: king one first professional athletes come gay 1980s
+4: two weeks later group led deputy secretary state william burns attend closing ceremony
+5: speed skaters bonnie blair eric heiden well openly gay hockey player caitlin cahow also attend
+6: cahow 28 two-time olympian
+7: selection delegation sending message united states diverse place white house press secretary jay carney said wednesday pointing napolitano former cabinet secretary evidence delegation distinction
+8: first time decade president vice president first lady former president attended olympic opening closing ceremony
+9: first lady michelle obama led delegation 2012 summer olympics london president george w. bush made trek china beijing games 2008
+10: vice president joe biden wife led u.s. group last winter games held vancouver
+11: absence high-ranking u.s. officials amounts snub russia whose relationship united states fractured past year
+12: admitted nsa leaker edward snowden wanted espionage charges united states granted temporary asylum moscow russian president vladimir putin used russia veto united nations security council block action syria
+13: russia set protest zones winter olympics
+14: obama canceled meeting putin scheduled september though two met part larger group world leaders group 20 conference st. petersburg
+15: fueling rift nations new laws russia banning gay propaganda law critics say vague anyone prosecuted wearing rainbow t-shirt holding hands public someone sex
+16: carney noted wednesday selection gay athletes first time obama voiced concern russian policy
+17: message would wait send manner carney said
+18: clear president clear finds offensive anti-lgbt legislation russia
+19: obama told jay leno august patience countries try treat gays lesbians transgender persons ways intimidate harmful visit russia earlier year obama met leaders russian social activist groups
+20: russia amnesty could free pussy riot benefit greenpeace members
+
+=================================
+Gold summary:
+gay athletes billie jean king caitlin cahow u.s. delegation sochi winter olympics
+u.s. sending high-ranking officials seen snub russia
+king attend opening ceremony february 7
+cahow party appearing closing ceremony
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 1, 10, 3
+	Results: 
+		rouge-1: 0.3846
+		rouge-2: 0.1034
+		rouge-l: 0.2000
+		mean: 0.2294
+	Summary: 
+		billie jean king tennis legend join figure skater brian boitano games opening ceremonies february 7 white house said tuesday
+		vice president joe biden wife led u.s. group last winter games held vancouver
+		king one first professional athletes come gay 1980s
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5385
+		rouge-2: 0.2069
+		rouge-l: 0.2667
+		mean: 0.3373
+	Summary: 
+		united states delegation upcoming winter olympics russia wo include member president barack obama family active cabinet secretary include openly gay athletes clear jab russia recent anti-gay laws
+		billie jean king tennis legend join figure skater brian boitano games opening ceremonies february 7 white house said tuesday
+		former homeland security secretary janet napolitano white house aide rob nabors u.s. ambassador russia round delegation sochi games
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 1, 11
+	Results: 
+		rouge-1: 0.6154
+		rouge-2: 0.2069
+		rouge-l: 0.3000
+		mean: 0.3741
+	Summary: 
+		united states delegation upcoming winter olympics russia wo include member president barack obama family active cabinet secretary include openly gay athletes clear jab russia recent anti-gay laws
+		billie jean king tennis legend join figure skater brian boitano games opening ceremonies february 7 white house said tuesday
+		absence high-ranking u.s. officials amounts snub russia whose relationship united states fractured past year
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5385
+		rouge-2: 0.2069
+		rouge-l: 0.2667
+		mean: 0.3373
+	Summary: 
+		united states delegation upcoming winter olympics russia wo include member president barack obama family active cabinet secretary include openly gay athletes clear jab russia recent anti-gay laws
+		billie jean king tennis legend join figure skater brian boitano games opening ceremonies february 7 white house said tuesday
+		former homeland security secretary janet napolitano white house aide rob nabors u.s. ambassador russia round delegation sochi games

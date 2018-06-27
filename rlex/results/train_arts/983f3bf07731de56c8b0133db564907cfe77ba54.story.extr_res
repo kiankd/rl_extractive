@@ -1,0 +1,108 @@
+DOCUMENT:
+0: today live world breathtaking possibilities
+1: send instant messages loved ones side world tap finger
+2: share vacation photos friends real time
+3: entrust private data cloud service provider without worry storage space
+4: technological advancement helps drive innovation growth job creation
+5: europe embracing changes
+6: alongside progress faced new regulatory challenges
+7: recent poll 72 europeans said concerned companies use personal data
+8: worries online privacy one frequent reasons people buy goods services web
+9: confidence digital future depend whether know data safely protected
+10: consumers ones concerned businesses
+11: companies navigate 27 sometimes contradictory data protection rules across 27 european union countries
+12: current rules antiquated drawn 1995 predate widespread use internet
+13: last month proposed reforming data protection rules
+14: goal make common market european goods services accessible businesses consumers boost economy set international standard online privacy
+15: europe protection personal data fundamental right
+16: right clearly stated european union treaty legislation
+17: make right effective people need control data
+18: new rules
+19: first people need informed data used clear simple language data collected purposes long stored
+20: people need able make informed decision disclose
+21: second people give explicit consent personal data contact lists photos e-mails used
+22: companies use purposes agreed upon
+23: third people better control data
+24: need able access data easily take another provider deleted longer want used
+25: call right forgotten
+26: want clarify people shall right possibility withdraw consent
+27: finally individuals must swiftly informed personal data lost stolen hacked
+28: online security breaches affect millions people around world
+29: companies must inform data protection authorities people affected right away preferably within 24 hours
+30: new european union rules helping consumers
+31: also help businesses three key ways
+32: first create legal certainty replacing current patchwork laws europe single set rules 27 european union countries
+33: second regulatory environment simplified cutting red tape introduce one-stop shop businesses deal regulators
+34: future companies deal data protection authorities european union country based
+35: reduce administrative burdens save businesses â ‚ ¬ 2.3 billion year
+36: finally new rules provide clarity international data transfers
+37: personal data collected berlin processed bangalore
+38: improve current system binding corporate rules make types exchanges less burdensome secure
+39: end result companies able sell goods services data protection rules entire european union market 500 million people
+40: great business opportunity
+41: new rules designed stand test time
+42: give people control personal data making life easier companies well
+43: online privacy personal data protection global challenge
+44: europe tackles reform hope proposed rules inspire countries grappling privacy issues like united states
+45: follow cnn opinion twitter
+46: join conversation facebook
+47: opinions expressed commentary solely viviane reding
+
+=================================
+Gold summary:
+poll says 72 europeans concerned companies use personal data
+viviane reding current data protection rules europe badly outdated
+reding propose new online privacy rules help consumers businesses
+reding confidence digital future depend well protect personal data
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 41, 12, 37
+	Results: 
+		rouge-1: 0.2000
+		rouge-2: 0.0294
+		rouge-l: 0.1111
+		mean: 0.1135
+	Summary: 
+		new rules designed stand test time
+		current rules antiquated drawn 1995 predate widespread use internet
+		personal data collected berlin processed bangalore
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.0000
+		rouge-2: 0.0000
+		rouge-l: 0.0000
+		mean: 0.0000
+	Summary: 
+		today live world breathtaking possibilities
+		send instant messages loved ones side world tap finger
+		share vacation photos friends real time
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 7, 9, 43
+	Results: 
+		rouge-1: 0.5000
+		rouge-2: 0.2941
+		rouge-l: 0.3889
+		mean: 0.3943
+	Summary: 
+		recent poll 72 europeans said concerned companies use personal data
+		confidence digital future depend whether know data safely protected
+		online privacy personal data protection global challenge
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 37
+	Results: 
+		rouge-1: 0.0667
+		rouge-2: 0.0294
+		rouge-l: 0.0556
+		mean: 0.0505
+	Summary: 
+		today live world breathtaking possibilities
+		send instant messages loved ones side world tap finger
+		personal data collected berlin processed bangalore

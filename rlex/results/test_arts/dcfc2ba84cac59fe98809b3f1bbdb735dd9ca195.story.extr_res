@@ -1,0 +1,83 @@
+DOCUMENT:
+0: 18 months violent unrest clouds black smoke suggest conflict closing syria capital
+1: streets damascus one flinches artillery shells explode miles away
+2: residents support neither government opposition say situation control
+3: every day hearing boom boom everything else life going said rama hamdi seeking bit normalcy beauty salon
+4: worried sick nothing
+5: jolie visits syria refugees iraq
+6: despite abundance people ancient bazaar several storekeepers say business
+7: said afraid talk camera worried government might say rebels might
+8: asked shelling heard background storekeepers say afraid think war getting closer
+9: destruction government forces chased rebel free syrian army lies 10-minute drive away
+10: many days reported death toll around capital far higher areas surrounding cities
+11: nowadays go countryside without worried someone stop said rauda alaita salon owner
+12: real army army stopping
+13: answer answer
+14: really difficult stuck middle
+15: news conference banner unity array anything united opposition figures called talks government
+16: war clouds start school year syria
+17: air urgency speakers discuss situation worse year ago
+18: say need united need speak common voice
+19: even talks going hear blast distance
+20: members armed opposition free syrian army present
+21: opposition members gathered ones government tolerates
+22: like mazen bilal know powerless
+23: demanding regime guarantees safety opposition come bilal said ca impose regime
+
+=================================
+Gold summary:
+worried sick nothing woman damascus says
+another worries respond regime rebel fighters might stop
+artillery shells explode miles away busy city streets
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 10, 21, 15
+	Results: 
+		rouge-1: 0.0000
+		rouge-2: 0.0000
+		rouge-l: 0.0000
+		mean: 0.0000
+	Summary: 
+		many days reported death toll around capital far higher areas surrounding cities
+		opposition members gathered ones government tolerates
+		news conference banner unity array anything united opposition figures called talks government
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3182
+		rouge-2: 0.1905
+		rouge-l: 0.2727
+		mean: 0.2605
+	Summary: 
+		18 months violent unrest clouds black smoke suggest conflict closing syria capital
+		streets damascus one flinches artillery shells explode miles away
+		residents support neither government opposition say situation control
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 4, 23
+	Results: 
+		rouge-1: 0.5000
+		rouge-2: 0.2857
+		rouge-l: 0.2727
+		mean: 0.3528
+	Summary: 
+		streets damascus one flinches artillery shells explode miles away
+		worried sick nothing
+		demanding regime guarantees safety opposition come bilal said ca impose regime
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3182
+		rouge-2: 0.1905
+		rouge-l: 0.2727
+		mean: 0.2605
+	Summary: 
+		18 months violent unrest clouds black smoke suggest conflict closing syria capital
+		streets damascus one flinches artillery shells explode miles away
+		residents support neither government opposition say situation control

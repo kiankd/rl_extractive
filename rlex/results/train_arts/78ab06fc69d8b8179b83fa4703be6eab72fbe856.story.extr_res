@@ -1,0 +1,84 @@
+DOCUMENT:
+0: nigeria incumbent president goodluck jonathan looked likely sunday win election cnn tally preliminary results showed
+1: independent national electoral commission posted website count 28 country 36 states capital showing jonathan 19 million votes compared main challenger muhammadu buhari close 9 million votes
+2: formal announcement results could come early monday
+3: avoid runoff jonathan must get least quarter vote two-thirds 36 states capital
+4: nigerians voted saturday president week parliamentary elections marred violence accusations fraud africa populous nation
+5: jonathan front-runner despite poor performance elections people democratic party
+6: popular christian animist south
+7: former vice president assumed office president umaru yar adua died last year following treatment kidney ailment saudi arabia
+8: jonathan led nation 150 million people since may
+9: 73 million people registered vote
+10: main challenger buhari former military ruler contestant 2003 2007 elections
+11: candidate congress progressive change enjoys support mostly muslim north
+12: candidates included nuhu ribadu current kano state gov. ibrahim shekarau
+13: cnn ireporter lagos gave name jan young said saturday expected race tight
+14: incumbent president wins wo landslide victory fair split ruling opposition parties campaigned votes
+15: also expect nation would demand accountability whoever wins end day wrote
+16: saturday voting largely peaceful contrast violence characterized country parliamentary elections april 9
+17: vote separate bomb blasts ripped polling station collation center northeastern nigeria
+18: human rights watch estimated least 85 people killed political violence far
+19: new election chief promised free fair elections electoral commission forced put elections earlier year week logistical problems including party logos missing ballot papers reported nationwide
+20: major setback reminiscent nation 2007 elections european union described filled rampant vote rigging violence theft ballot boxes intimidation
+21: nigeria africa populous country largest oil producer major supplier crude oil united states hosts many western oil companies workers
+22: nigerians voted april 9 360 house representatives seats 109 senate seats
+23: gubernatorial vote held april 26
+
+=================================
+Gold summary:
+incumbent goodluck jonathan front-runner
+main challenger former military ruler muhammadu buhari
+voting largely peaceful
+official results could announced early monday
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 9, 11, 20
+	Results: 
+		rouge-1: 0.0000
+		rouge-2: 0.0000
+		rouge-l: 0.0000
+		mean: 0.0000
+	Summary: 
+		73 million people registered vote
+		candidate congress progressive change enjoys support mostly muslim north
+		major setback reminiscent nation 2007 elections european union described filled rampant vote rigging violence theft ballot boxes intimidation
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5500
+		rouge-2: 0.2632
+		rouge-l: 0.5500
+		mean: 0.4544
+	Summary: 
+		nigeria incumbent president goodluck jonathan looked likely sunday win election cnn tally preliminary results showed
+		independent national electoral commission posted website count 28 country 36 states capital showing jonathan 19 million votes compared main challenger muhammadu buhari close 9 million votes
+		formal announcement results could come early monday
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 10, 16
+	Results: 
+		rouge-1: 0.6500
+		rouge-2: 0.3158
+		rouge-l: 0.5500
+		mean: 0.5053
+	Summary: 
+		nigeria incumbent president goodluck jonathan looked likely sunday win election cnn tally preliminary results showed
+		main challenger buhari former military ruler contestant 2003 2007 elections
+		saturday voting largely peaceful contrast violence characterized country parliamentary elections april 9
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 4
+	Results: 
+		rouge-1: 0.4000
+		rouge-2: 0.1579
+		rouge-l: 0.3500
+		mean: 0.3026
+	Summary: 
+		nigeria incumbent president goodluck jonathan looked likely sunday win election cnn tally preliminary results showed
+		independent national electoral commission posted website count 28 country 36 states capital showing jonathan 19 million votes compared main challenger muhammadu buhari close 9 million votes
+		nigerians voted saturday president week parliamentary elections marred violence accusations fraud africa populous nation

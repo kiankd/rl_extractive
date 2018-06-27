@@ -1,0 +1,75 @@
+DOCUMENT:
+0: one stands tall red british phone booth
+1: height six stacked cans baked beans
+2: thursday first time man tallest recorded height world shortest man world met event london posed photos stretched awkward handshake
+3: occasion 10th annual guinness world records day celebrates record-setting achievements around globe
+4: guinness folks flew two men sultan kosen turkey chandra bahadur dangi nepal london unique photo op
+5: kosen 31 part-time farmer measures 8 feet 3 inches tall reach basketball hoop without jumping
+6: became world tallest living man 2009 overtaking china xi shun stood mere 7 feet 9 inches
+7: dangi 74 21 1/2 inches tall shortest adult human ever verified guinness world records
+8: weaver also helps look buffaloes cows remote mountain village reemkholi weighs 32 pounds
+9: able finally meet chandra time amazing kosen said event
+10: even though short tall similar struggles throughout lives look chandra eyes see good man
+11: kosen also holds record largest hands living person
+12: measure 11.2 inches wrist tip middle finger
+13: thousands people took part guinness world records events around world thursday records tumbling australia france dubai china germany japan uk united states
+14: shanghai 388 people went record largest communal breakfast bed
+
+=================================
+Gold summary:
+first time tallest recorded man world met shortest man
+sultan kosen 31 turkish farmer measures 8 feet 3 inches tall
+nepalese weaver chandra bahadur dangi 74 21 1/2 inches tall
+two men met london 10th annual guinness world records day
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 8, 9, 1
+	Results: 
+		rouge-1: 0.1143
+		rouge-2: 0.0000
+		rouge-l: 0.0500
+		mean: 0.0548
+	Summary: 
+		weaver also helps look buffaloes cows remote mountain village reemkholi weighs 32 pounds
+		able finally meet chandra time amazing kosen said event
+		height six stacked cans baked beans
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2857
+		rouge-2: 0.1316
+		rouge-l: 0.2250
+		mean: 0.2141
+	Summary: 
+		one stands tall red british phone booth
+		height six stacked cans baked beans
+		thursday first time man tallest recorded height world shortest man world met event london posed photos stretched awkward handshake
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 2, 5, 7
+	Results: 
+		rouge-1: 0.6857
+		rouge-2: 0.4737
+		rouge-l: 0.6250
+		mean: 0.5948
+	Summary: 
+		thursday first time man tallest recorded height world shortest man world met event london posed photos stretched awkward handshake
+		kosen 31 part-time farmer measures 8 feet 3 inches tall reach basketball hoop without jumping
+		dangi 74 21 1/2 inches tall shortest adult human ever verified guinness world records
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 2, 1
+	Results: 
+		rouge-1: 0.2857
+		rouge-2: 0.1316
+		rouge-l: 0.2250
+		mean: 0.2141
+	Summary: 
+		one stands tall red british phone booth
+		thursday first time man tallest recorded height world shortest man world met event london posed photos stretched awkward handshake
+		height six stacked cans baked beans

@@ -1,0 +1,70 @@
+DOCUMENT:
+0: egyptian court sentenced least 528 supporters muslim brotherhood death monday charges related violent riots southern egyptian city minya last august including murder police officer country official news agency said
+1: riots took place deadly crackdown security forces two large sit-ins cairo demonstrators supporting ousted president mohammed morsy
+2: egypt carry sentence
+3: official mena news agency reported 528 death sentences egyptian media said 529 people sentenced death
+4: semiofficial ahram online news site said largest set death sentences handed defendants modern history egypt
+5: defendants custody according egynews
+6: defendants appeal sentences
+7: court also acquitted least 16 defendants
+8: muslim brotherhood
+9: report egypt army-backed government resigns
+10: five killed clashes egyptian police muslim brotherhood protesters
+
+=================================
+Gold summary:
+charges related riots city minya last year
+riots took place security forces cracked protesters
+defendants appeal sentences
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 9, 3, 6
+	Results: 
+		rouge-1: 0.1875
+		rouge-2: 0.1250
+		rouge-l: 0.1765
+		mean: 0.1630
+	Summary: 
+		report egypt army-backed government resigns
+		official mena news agency reported 528 death sentences egyptian media said 529 people sentenced death
+		defendants appeal sentences
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.6250
+		rouge-2: 0.3750
+		rouge-l: 0.6471
+		mean: 0.5490
+	Summary: 
+		egyptian court sentenced least 528 supporters muslim brotherhood death monday charges related violent riots southern egyptian city minya last august including murder police officer country official news agency said
+		riots took place deadly crackdown security forces two large sit-ins cairo demonstrators supporting ousted president mohammed morsy
+		egypt carry sentence
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 1, 6
+	Results: 
+		rouge-1: 0.8125
+		rouge-2: 0.5000
+		rouge-l: 0.8235
+		mean: 0.7120
+	Summary: 
+		egyptian court sentenced least 528 supporters muslim brotherhood death monday charges related violent riots southern egyptian city minya last august including murder police officer country official news agency said
+		riots took place deadly crackdown security forces two large sit-ins cairo demonstrators supporting ousted president mohammed morsy
+		defendants appeal sentences
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.6250
+		rouge-2: 0.3750
+		rouge-l: 0.6471
+		mean: 0.5490
+	Summary: 
+		egyptian court sentenced least 528 supporters muslim brotherhood death monday charges related violent riots southern egyptian city minya last august including murder police officer country official news agency said
+		riots took place deadly crackdown security forces two large sit-ins cairo demonstrators supporting ousted president mohammed morsy
+		egypt carry sentence

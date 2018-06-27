@@ -1,0 +1,115 @@
+DOCUMENT:
+0: long man ambushed killed two police officers sitting patrol car new york city finger-pointing started
+1: ismaaiyl brinsley walked officers wenjian liu rafael ramos saturday brooklyn sat patrol car shot head authorities said
+2: police said later used gun commit suicide
+3: former new york gov. george pataki police union officials quickly lashed new york mayor bill de blasio
+4: governor accused de blasio putting officers lives risk mayor supported recent protests killing eric garner new york police officer indicted
+5: hospital slain officers bodies taken group fellow officers turned backs faced wall de blasio walked way news conference condemned slayings
+6: earlier officers new york fire department personnel saluted ambulance carrying two officers drove
+7: stood attention tears rolling cheeks
+8: ex-governor blames mayor
+9: pataki republican cast disdain democratic mayor u.s. attorney general post twitter
+10: sickened barbaric acts sadly predictable outcome divisive anti-cop rhetoric eric holder mayor de blasio tweeted
+11: pataki referring de blasio holder support peaceful protests decried alleged police brutality killings eric garner new york michael brown ferguson missouri two unarmed black men
+12: former new york city mayor rudy giuliani said pataki wrong making comments
+13: damaging thing say giuliani told cnn sunday
+14: mayors lost officers giuliani said officers killed term mayor
+15: added heart went bratton de blasio
+16: referring gunman ex-mayor said sounded like insane man going commit murder
+17: hours saturday attack new york suspected gunman brinsley appeared made statements social media suggesting planned kill police expressing outrage deaths garner brown
+18: pat lynch head new york patrolmen benevolent association vehemently attacked mayor day shooting
+19: blood many hands tonight lynch said making reference mayor office
+20: de blasio respond denunciations described killing officers assassination
+21: holder described cowardly attack
+22: #bluelivesmatter #blacklivesmatter
+23: brooklyn borough president eric adams joined new york borough presidents sunday urged public refrain protesting slain officers buried
+24: blood hands one individual sick man sick act said
+25: urged community find correct tone professionalism wake slayings adding painful day us
+26: allow anyone assassinate public safety city
+27: social media users joined fray many objecting blaming anyone gunman killings
+28: turned hashtags #blacklivesmatter garner brown #bluelivesmatter show respect support police officers
+29: everyone turned michael brown saint assassination cops username @mattcale52 tweeted
+30: akilah hughes tweeted #blacklivesmatter call justice call retribution
+31: pin death two nypd officers peaceful movement posted
+32: david simpson said supporters choose one side
+33: #blacklivesmatter #bluelivesmatter #alllivesmatter tweeted
+34: recognize racism push justice
+35: officials weigh
+36: murders triggered reactions condemnation sadness across nation
+37: two brave men wo going home loved ones tonight justification president said statement
+38: officers serve protect communities risk safety every single day deserve respect gratitude every single day
+39: bill de blasio
+40: addition calling shootings assassination said attack us
+41: attack everything hold dear
+42: cowardly attack underscores dangers routinely faced protect serve fellow citizens
+43: nation must always honor valor sacrifices law enforcement officers steadfast commitment keeping safe
+44: loretta e. lynch
+45: obama nominee replace holder attorney general current u.s. attorney eastern district new york
+46: pledged district support investigation
+47: today two fallen stark reminder challenges risks law enforcement officers face every day new york city throughout nation lynch said
+48: michael brown family
+49: reject kind violence directed toward members law enforcement
+50: must work together bring peace communities said statement
+51: rev. al sharpton
+52: use names eric garner michael brown connection violence killing police reprehensible pursuit justice cases
+53: stressed every rally march anyone engaged violence enemy pursuit justice eric garner michael brown
+54: cnn kristina sgueglia ben brumfield kevin liptak contributed report
+
+=================================
+Gold summary:
+new ex-mayor rudy giuliani blasts comments former gov. george pataki
+pataki blames mayor bill de blasio ag eric holder anti-cop rhetoric supporting protests
+officials public outraged killings
+police officers turn backs mayor news conference
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 52, 13, 31
+	Results: 
+		rouge-1: 0.1250
+		rouge-2: 0.0000
+		rouge-l: 0.0882
+		mean: 0.0711
+	Summary: 
+		use names eric garner michael brown connection violence killing police reprehensible pursuit justice cases
+		damaging thing say giuliani told cnn sunday
+		pin death two nypd officers peaceful movement posted
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.0938
+		rouge-2: 0.0303
+		rouge-l: 0.0588
+		mean: 0.0610
+	Summary: 
+		long man ambushed killed two police officers sitting patrol car new york city finger-pointing started
+		ismaaiyl brinsley walked officers wenjian liu rafael ramos saturday brooklyn sat patrol car shot head authorities said
+		police said later used gun commit suicide
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 3, 5, 10
+	Results: 
+		rouge-1: 0.5938
+		rouge-2: 0.2424
+		rouge-l: 0.3529
+		mean: 0.3964
+	Summary: 
+		former new york gov. george pataki police union officials quickly lashed new york mayor bill de blasio
+		hospital slain officers bodies taken group fellow officers turned backs faced wall de blasio walked way news conference condemned slayings
+		sickened barbaric acts sadly predictable outcome divisive anti-cop rhetoric eric holder mayor de blasio tweeted
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 4
+	Results: 
+		rouge-1: 0.2500
+		rouge-2: 0.0606
+		rouge-l: 0.1471
+		mean: 0.1526
+	Summary: 
+		long man ambushed killed two police officers sitting patrol car new york city finger-pointing started
+		ismaaiyl brinsley walked officers wenjian liu rafael ramos saturday brooklyn sat patrol car shot head authorities said
+		governor accused de blasio putting officers lives risk mayor supported recent protests killing eric garner new york police officer indicted

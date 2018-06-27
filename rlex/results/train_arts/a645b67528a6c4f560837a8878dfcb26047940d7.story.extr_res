@@ -1,0 +1,91 @@
+DOCUMENT:
+0: harder steering space shuttle out-machoing tom cruise set top gun
+1: scott altman commander current space shuttle mission upgrade hubble space telescope
+2: scott altman laughs answers question
+3: flying space shuttle little challenging movie although flying lot fun said altman knows little
+4: retired navy f-14 fighter pilot commander current space shuttle atlantis mission repair upgrade hubble space telescope
+5: also doubled actors including cruise southern california shoot 1986 hit movie
+6: young pilot altman gotten back 7 1/2 month tour onboard aircraft carrier got top gun call commanding officer
+7: skipper squadron picked four guys thought could trust kind carte blanche break rules little bit altman said
+8: included scene brazen navy pilot buzzes base control tower
+9: would never happen real life altman said
+10: movie features cruise young naval aviator pete maverick mitchell selected attend fighter-pilot training school then-miramar naval station north san diego
+11: prepare film cruise flew backseat f-14 several times including altman
+12: actors pretty easy get along
+13: tom cruise example motivated recalled altman making fourth trip space week
+14: enjoyed flying
+15: listened told became pilot
+16: altman one brag flying top gun
+17: u.s. space agency nasa mention film heroics either
+18: altman one movie memorable scenes
+19: flying upside inverted altman gives obscene gesture pilot enemy plane
+20: said go ahead gesture airplane said altman 49 smile
+21: looking scene communicating russian bad-guy pilots movie would finger
+22: flying scenes actors work director tony scott hoped
+23: director pay 7,600 hour rent airplane altman recalled
+24: week spending much money airplanes decided could use footage
+25: actors looked little green said
+26: altman pilots earned 23 day trouble
+27: biggest disappointment getting see film soon released
+28: pilots invited preview screening commanding officer would let go
+29: time movie hit theaters altman busy
+30: overseas another seven-month tour duty
+
+=================================
+Gold summary:
+ex-fighter pilot scott altman commander space shuttle atlantis mission
+young pilot altman stunt double 1986 hit movie top gun
+altman worked several actors film including star tom cruise
+altman cruise enjoyed flying listened told
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 16, 30, 7
+	Results: 
+		rouge-1: 0.1379
+		rouge-2: 0.0303
+		rouge-l: 0.1176
+		mean: 0.0953
+	Summary: 
+		altman one brag flying top gun
+		overseas another seven-month tour duty
+		skipper squadron picked four guys thought could trust kind carte blanche break rules little bit altman said
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3448
+		rouge-2: 0.1515
+		rouge-l: 0.2059
+		mean: 0.2341
+	Summary: 
+		harder steering space shuttle out-machoing tom cruise set top gun
+		scott altman commander current space shuttle mission upgrade hubble space telescope
+		scott altman laughs answers question
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 4, 5, 6
+	Results: 
+		rouge-1: 0.5517
+		rouge-2: 0.2424
+		rouge-l: 0.3235
+		mean: 0.3726
+	Summary: 
+		retired navy f-14 fighter pilot commander current space shuttle atlantis mission repair upgrade hubble space telescope
+		also doubled actors including cruise southern california shoot 1986 hit movie
+		young pilot altman gotten back 7 1/2 month tour onboard aircraft carrier got top gun call commanding officer
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3448
+		rouge-2: 0.1515
+		rouge-l: 0.2059
+		mean: 0.2341
+	Summary: 
+		harder steering space shuttle out-machoing tom cruise set top gun
+		scott altman commander current space shuttle mission upgrade hubble space telescope
+		scott altman laughs answers question

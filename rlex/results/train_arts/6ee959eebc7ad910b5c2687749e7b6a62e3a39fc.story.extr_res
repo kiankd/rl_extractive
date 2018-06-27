@@ -1,0 +1,81 @@
+DOCUMENT:
+0: u.s.-pakistan relations deep freeze former pakistan president pervez musharraf american officials called thursday thaw
+1: blame games rigidity arrogance insensitivity national interests certainly counter-productive musharraf said washington
+2: definitely saddens see deteriorating pakistan-united states relations said speech woodrow wilson international center
+3: twelve weeks passed since american commandos killed osama bin laden inside pakistan event dramatically widened rift two countries
+4: musharraf denied knew time president later bin laden hiding pakistan
+5: whether one believes let say confidence know declared
+6: suggested negligence complicity pakistan government allowed bin laden stay undetected
+7: complicity serious indeed musharraf said
+8: think un united states right pakistan ultimately comes believe people hiding people complicit musharraf said
+9: former president general living london pledged return pakistan next march political comeback 2013 called mother elections
+10: david petraeus making way home afghanistan commanding general soon start new job cia director reportedly told paris audience yesterday also worried relations pakistan
+11: completed visit said relationship difficult stage u.s. must continue efforts work pakistan recognizing done fight terror
+12: meanwhile washington top u.s. military leaders told senators concerns pakistan
+13: soldier poised take chief staff army gen. ray odierno said militants hiding pakistan along afghanistan border major security challenge facing united states
+14: adm. james winnefeld tapped next vice chairman joint chiefs staff said pakistan must crack insurgents like haqqani network
+15: pakistan difficult partner know
+16: always share world view opinions national interests winnefeld told senate armed services committee
+17: think need continued pressure pakistan using elements pressure able apply really friend get realize haqqani network poses threat country take steps asked take
+18: former congresswoman wilson center director jane harmon said united states pakistan made mistakes miscalculations
+19: nothing irreparable relationship got fixed harmon said musharraf speech
+20: think tough love required think needs honest straight relationship harmon said
+21: pakistanis grievances clearly grievances
+
+=================================
+Gold summary:
+former president pakistan says know osama bin laden hiding
+let say confidence know pervez musharraf tells washington group
+musharraf u.s. officials separately call thaw chilly u.s.-pakistan relations
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 18, 5, 15
+	Results: 
+		rouge-1: 0.2400
+		rouge-2: 0.1154
+		rouge-l: 0.2222
+		mean: 0.1925
+	Summary: 
+		former congresswoman wilson center director jane harmon said united states pakistan made mistakes miscalculations
+		whether one believes let say confidence know declared
+		pakistan difficult partner know
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4000
+		rouge-2: 0.0769
+		rouge-l: 0.2593
+		mean: 0.2454
+	Summary: 
+		u.s.-pakistan relations deep freeze former pakistan president pervez musharraf american officials called thursday thaw
+		blame games rigidity arrogance insensitivity national interests certainly counter-productive musharraf said washington
+		definitely saddens see deteriorating pakistan-united states relations said speech woodrow wilson international center
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 4, 5
+	Results: 
+		rouge-1: 0.6400
+		rouge-2: 0.2692
+		rouge-l: 0.3333
+		mean: 0.4142
+	Summary: 
+		u.s.-pakistan relations deep freeze former pakistan president pervez musharraf american officials called thursday thaw
+		musharraf denied knew time president later bin laden hiding pakistan
+		whether one believes let say confidence know declared
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4000
+		rouge-2: 0.0769
+		rouge-l: 0.2593
+		mean: 0.2454
+	Summary: 
+		u.s.-pakistan relations deep freeze former pakistan president pervez musharraf american officials called thursday thaw
+		blame games rigidity arrogance insensitivity national interests certainly counter-productive musharraf said washington
+		definitely saddens see deteriorating pakistan-united states relations said speech woodrow wilson international center

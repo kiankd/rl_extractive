@@ -1,0 +1,115 @@
+DOCUMENT:
+0: marine corps reservist says accidentally drove truck across u.s. border tijuana mexico arrested charged possession three firearms ammunition
+1: guns legally registered united states
+2: surprisingly however los estados unidos mexicanos firearm possession almost completely outlawed
+3: sgt. andrew tahmooressi decorated marine served two tours afghanistan shotgun handgun rifle illegal mexico
+4: also 400 pieces ammunition
+5: held weapons charges prison outside town near tijuana
+6: imagine people might thinking upon hearing news
+7: wait mexico strict gun control laws
+8: anyone southwest anyone ever tijuana might followed
+9: wait tijuana laws
+10: many 19-year-old americans go tijuana specifically border town legendary shall say relaxed legal approach minimum drinking ages competitively priced prostitutes
+11: true although mexican constitution similar u.s. constitution guarantees right arms mexico statutory ownership permit laws essentially regulated right theoretical one
+12: right mexico actually tough guns
+13: well sort
+14: controlling law ley federal de armas de fuego explosivos lfafe federal firearms explosives law
+15: terrific translation text english well academic analysis mexican gun laws check david kopel mexico gun control laws model united states
+16: short version tahmooressi held two months faces serious penalties firearms truck
+17: even possessing ammunition without prior authorization prohibited mexico federal law penalties 30 years prison
+18: mexico message clear firearms
+19: incident triggered groundswell support sergeant states
+20: raises interesting issue however
+21: tahmooressi sympathetic figure fact anything war hero many us might asking different questions
+22: accidentally drives mexico truck full firearms
+23: strip away good character remaining facts good tahmooressi especially criminal defense perspective
+24: mexican prosecutor could focus basic facts first tahmooressi drove car across border mexico second firearms ammunition truck
+25: mexico clearly defined crime
+26: defense side widely reported easy accidentally drive mexico san ysidro border crossing
+27: could help negate intent
+28: issue tahmooressi war-related conditions may contributed unfortunate choice highway ramps
+29: tahmooressi suffered severe concussion homemade bomb seriously damaged vehicle afghanistan
+30: mother said suffers directional dysfunctionality means frequently gets lost well post-traumatic stress disorder depression hypervigilance conditions acquired service
+31: credit marine make law-abiding decisions firearms lawfully registered u.s. immediately called 911 cell phone guidance realized mistake
+32: country rallied around tahmooressi exactly kind figure america rallies around good person caught bad situation
+33: happened someone else
+34: trust-fund frat boy spring break took wrong turn parents volvo ak-47 passenger seat
+35: would outpouring sympathy facts remained
+36: apply facts fictional spring-breaker one jackass guys dare say justin bieber
+37: think america would mobilized
+38: whether admit level popular support often driven character person involved underlying facts
+39: biebs made wrong turn saying good riddance would care mental health status
+40: get wrong president already sent blackhawk helicopters extract tahmooressi mercifully u.s. president
+41: even attempted prison escape
+42: course attorneys ethically forbidden counsel crime like prison escape pretty sure silently root one especially foreign jurisdiction
+43: mexico equally praised criticized gun control legislation
+44: theory written statute attempts restrict gun ownership responsible owners necessary purposes
+45: practice however know mexico hardly gun-free crime-free utopia
+46: tahmooressi responsible gun owner whose ownership comply mexican law
+47: freedom depends three factors unrelated facts
+48: first mexican government choose prosecute
+49: prosecutors states discretion withdraw prosecution interest justice
+50: hope mexican counterparts similar interests secure justice rather victory
+51: second u.s. political pressure may help secure release
+52: tahmooressi benefits either good character underlying facts
+53: underlying facts bad defendant
+54: course third option safe escape mexican jail actually recommend
+
+=================================
+Gold summary:
+marine prison driving tijuana guns truck illegal mexico
+danny cevallos penalties severe entering mexico illegally breaking gun law
+cevallos many rooting would sympathetic character
+cevallos maybe mexico wo prosecute u.s. pressure get released
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 24, 53, 30
+	Results: 
+		rouge-1: 0.0690
+		rouge-2: 0.0000
+		rouge-l: 0.0303
+		mean: 0.0331
+	Summary: 
+		mexican prosecutor could focus basic facts first tahmooressi drove car across border mexico second firearms ammunition truck
+		underlying facts bad defendant
+		mother said suffers directional dysfunctionality means frequently gets lost well post-traumatic stress disorder depression hypervigilance conditions acquired service
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2069
+		rouge-2: 0.0000
+		rouge-l: 0.0909
+		mean: 0.0993
+	Summary: 
+		marine corps reservist says accidentally drove truck across u.s. border tijuana mexico arrested charged possession three firearms ammunition
+		guns legally registered united states
+		surprisingly however los estados unidos mexicanos firearm possession almost completely outlawed
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 17, 21
+	Results: 
+		rouge-1: 0.3448
+		rouge-2: 0.0000
+		rouge-l: 0.1818
+		mean: 0.1755
+	Summary: 
+		marine corps reservist says accidentally drove truck across u.s. border tijuana mexico arrested charged possession three firearms ammunition
+		even possessing ammunition without prior authorization prohibited mexico federal law penalties 30 years prison
+		tahmooressi sympathetic figure fact anything war hero many us might asking different questions
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 24
+	Results: 
+		rouge-1: 0.2069
+		rouge-2: 0.0000
+		rouge-l: 0.1212
+		mean: 0.1094
+	Summary: 
+		marine corps reservist says accidentally drove truck across u.s. border tijuana mexico arrested charged possession three firearms ammunition
+		guns legally registered united states
+		mexican prosecutor could focus basic facts first tahmooressi drove car across border mexico second firearms ammunition truck

@@ -1,0 +1,66 @@
+DOCUMENT:
+0: norway leads 2010 list ranking prosperity 110 world nations london analytical center legatum institute
+1: norway also topped 2009 rankings
+2: prosperity index seeks understand economic fundamentals health freedom governance safety education entrepreneurial opportunity social capital influence country economic growth happiness citizens group says
+3: europe dominates top 10 taking six spots
+4: united states canada represent north america australia new zealand check pacific-asia nations
+5: eight bottom 10 nations africa zimbabwe coming last
+6: top 10
+
+=================================
+Gold summary:
+index based economy government educator factors
+norway tops rankings 2nd straight year
+united states no. 10 one spot 2009
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 2, 4, 5
+	Results: 
+		rouge-1: 0.2105
+		rouge-2: 0.0556
+		rouge-l: 0.2105
+		mean: 0.1589
+	Summary: 
+		prosperity index seeks understand economic fundamentals health freedom governance safety education entrepreneurial opportunity social capital influence country economic growth happiness citizens group says
+		united states canada represent north america australia new zealand check pacific-asia nations
+		eight bottom 10 nations africa zimbabwe coming last
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2105
+		rouge-2: 0.0000
+		rouge-l: 0.1053
+		mean: 0.1053
+	Summary: 
+		norway leads 2010 list ranking prosperity 110 world nations london analytical center legatum institute
+		norway also topped 2009 rankings
+		prosperity index seeks understand economic fundamentals health freedom governance safety education entrepreneurial opportunity social capital influence country economic growth happiness citizens group says
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 4, 6
+	Results: 
+		rouge-1: 0.3158
+		rouge-2: 0.0556
+		rouge-l: 0.2632
+		mean: 0.2115
+	Summary: 
+		norway also topped 2009 rankings
+		united states canada represent north america australia new zealand check pacific-asia nations
+		top 10
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2105
+		rouge-2: 0.0000
+		rouge-l: 0.1053
+		mean: 0.1053
+	Summary: 
+		norway leads 2010 list ranking prosperity 110 world nations london analytical center legatum institute
+		norway also topped 2009 rankings
+		prosperity index seeks understand economic fundamentals health freedom governance safety education entrepreneurial opportunity social capital influence country economic growth happiness citizens group says

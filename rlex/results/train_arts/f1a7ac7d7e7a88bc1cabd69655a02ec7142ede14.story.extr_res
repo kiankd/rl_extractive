@@ -1,0 +1,69 @@
+DOCUMENT:
+0: motogp latest branch motorsport hit global economic downturn japanese manufacturer kawasaki ended week speculation withdrawing team
+1: american john hopkins rode kawasaki 2008 season limited success
+2: aside brief spell 1970s kawasaki mainstays motorcycling elite category supporting work line-up 2009 season
+3: kawasaki heavy industries ltd announced today friday decided suspend factory motogp racing activities 2009 season read statement
+4: quick-changing business environment kawasaki promptly taking measures cope situation added
+5: kawasaki following trend set honda announcing last month quitting formula one subaru suzuki withdrawing world rally championship
+6: sums money motogp much smaller compared formula one believed kawasaki spent upwards 40 million per year running dutch-based team
+7: american john hopkins italian marco melandri due ride kawasaki next season
+8: hopkins finished 16th last year overall standings melandri transferred ducati difficult season
+9: kawasaki founder members former 500cc world championship rebranded motogp 2002 never topped podium
+
+=================================
+Gold summary:
+kawasaki quit motogp circuit blaming global economic downturn decision
+kawasaki joined japanese manufacturers pulling motorsport
+john hopkins marco melandri due ride kawasaki 2009 season
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 0, 3, 7
+	Results: 
+		rouge-1: 0.6818
+		rouge-2: 0.3478
+		rouge-l: 0.5417
+		mean: 0.5238
+	Summary: 
+		motogp latest branch motorsport hit global economic downturn japanese manufacturer kawasaki ended week speculation withdrawing team
+		kawasaki heavy industries ltd announced today friday decided suspend factory motogp racing activities 2009 season read statement
+		american john hopkins italian marco melandri due ride kawasaki next season
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5000
+		rouge-2: 0.1739
+		rouge-l: 0.4167
+		mean: 0.3635
+	Summary: 
+		motogp latest branch motorsport hit global economic downturn japanese manufacturer kawasaki ended week speculation withdrawing team
+		american john hopkins rode kawasaki 2008 season limited success
+		aside brief spell 1970s kawasaki mainstays motorcycling elite category supporting work line-up 2009 season
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 3, 7
+	Results: 
+		rouge-1: 0.6818
+		rouge-2: 0.3478
+		rouge-l: 0.5417
+		mean: 0.5238
+	Summary: 
+		motogp latest branch motorsport hit global economic downturn japanese manufacturer kawasaki ended week speculation withdrawing team
+		kawasaki heavy industries ltd announced today friday decided suspend factory motogp racing activities 2009 season read statement
+		american john hopkins italian marco melandri due ride kawasaki next season
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5000
+		rouge-2: 0.1739
+		rouge-l: 0.4167
+		mean: 0.3635
+	Summary: 
+		motogp latest branch motorsport hit global economic downturn japanese manufacturer kawasaki ended week speculation withdrawing team
+		american john hopkins rode kawasaki 2008 season limited success
+		aside brief spell 1970s kawasaki mainstays motorcycling elite category supporting work line-up 2009 season

@@ -1,0 +1,113 @@
+DOCUMENT:
+0: election night terrible democratic party hillary clinton spared
+1: clinton visited 20 states stumped 26 candidates ahead election day 2014
+2: midterm record abysmal 11 wins 14 losses one runoff according cnn projections
+3: argument clinton advisers spin context appears all-but-certain run 2016 midterm record far less important gained campaigning democrats
+4: re-learning stump
+5: going midterms clinton mostly paid speeches corporate dull
+6: addressed audiences full executive types alawys seem excited see many attending conferences connection former secretary state
+7: changed clinton time campaign trail
+8: former secretary state stretched long-dormant political legs toyed likely presidential message
+9: honed new message based women rights opposition wall street perhaps importantly got needed practice ahead possible presidential run
+10: former secretary state took stage september tom harkin steak fry iowa first real political speech year appeared reporters ground flat out-of-practice
+11: afternoon crowd responded far excitement tom harkin retiring senator bill clinton hillary husband former president
+12: time midterms clinton became comfortable stump
+13: elections come often got money peddling fear turns clinton confidently told excited audience north carolina october
+14: away hitting republican opponents drawing contrast person endorsing
+15: noticeably clinton honed focus women
+16: nearly every event clinton geared towards combination mothers grandmothers
+17: pennsylvania spoke women wolf event louisiana moms grams mary filled event space
+18: clinton seemed embrace theme recognize fact runs president historic perch possibly nation first woman president
+19: let anyone dismiss today women work told audience san francisco
+20: let anyone send back sidelines
+21: clinton grown back role retail politician though republican detractors
+22: groups like republican national committee america rising learned prod clinton poked emails reporters tweets gaffes
+23: sometimes drove media conversation seized mistakes made
+24: shortly senate officially turned red tuesday rand paul facebook page uploaded photo clinton six losing senate candidates endorsed
+25: hillaryslosers read photos went gangbusters online
+26: morning country effectively turned red republican national committee blasted email reporters hillary policies ballot
+27: bigger single surrogate
+28: clinton closest confidants also see tuesday repudiation clinton
+29: bigger single surrogate said clinton source knowledge midterm schedule requested anonymity speak candidly
+30: surrogate sort silver bullet
+31: source added going midterms realization clinton given political speech certainly regular basis six years
+32: given despite less 50 percent batting average successful candidates people close clinton felt confidant midterms time well spent former first lady
+33: think going back grimes good example -lsb- shying away tough races -rsb- going iowa twice source said
+34: oh man ought pull going loss
+35: source argued 2016 come great deal conversations go 2014
+36: growing book tour
+37: hillary clinton book tour defined gaffes interviews trying sell
+38: gate clinton slipped answering questions husband wealth pointing mega-rich couple dead broke left white house seemed like never fully able recover
+39: longtime clinton confidants concerned book tour performance
+40: book tour lot unforced errors
+41: concerning said one longtime clinton adviser
+42: open question whether going fumble wealth
+43: watching clinton stump source said seemed clinton kicked rust
+44: republicans see differently
+45: going meet reality talking war women issues raising minimum wage sufficient win national election elections states said tim miller executive director america rising said tuesday night
+46: think reality whole democratic party going meet hillary clinton gung ho message
+47: midterms also rhetorically flawless clinton
+48: boston former first lady shorthanded line seemed hint corporations business create jobs
+49: clinton went walk back comment part noticeable gaffe two months stump
+50: departure book tour two month long affair riddled slips tongue confidants happy see gaffe populist side party
+51: completely without sort perceived bumps
+52: said source knowledge clinton midterm schedule
+53: end day viewed time well spent
+
+=================================
+Gold summary:
+hillary clinton helped democrats campaign 2014 midterm
+clinton found voice campaigning democrats honed likely 2016 message
+clinton republican detractors also grew learned effectively attack clinton
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 32, 41, 27
+	Results: 
+		rouge-1: 0.0476
+		rouge-2: 0.0000
+		rouge-l: 0.0800
+		mean: 0.0425
+	Summary: 
+		given despite less 50 percent batting average successful candidates people close clinton felt confidant midterms time well spent former first lady
+		concerning said one longtime clinton adviser
+		bigger single surrogate
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1905
+		rouge-2: 0.0833
+		rouge-l: 0.1600
+		mean: 0.1446
+	Summary: 
+		election night terrible democratic party hillary clinton spared
+		clinton visited 20 states stumped 26 candidates ahead election day 2014
+		midterm record abysmal 11 wins 14 losses one runoff according cnn projections
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 3, 9, 21
+	Results: 
+		rouge-1: 0.4286
+		rouge-2: 0.1250
+		rouge-l: 0.3600
+		mean: 0.3045
+	Summary: 
+		argument clinton advisers spin context appears all-but-certain run 2016 midterm record far less important gained campaigning democrats
+		honed new message based women rights opposition wall street perhaps importantly got needed practice ahead possible presidential run
+		clinton grown back role retail politician though republican detractors
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 28
+	Results: 
+		rouge-1: 0.1905
+		rouge-2: 0.0417
+		rouge-l: 0.2400
+		mean: 0.1574
+	Summary: 
+		election night terrible democratic party hillary clinton spared
+		clinton visited 20 states stumped 26 candidates ahead election day 2014
+		clinton closest confidants also see tuesday repudiation clinton

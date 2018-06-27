@@ -1,0 +1,96 @@
+DOCUMENT:
+0: thousands americans learn painful lesson banking every day waiting check clear getting access money bank mean check really cleared
+1: harry smith new york responded ad craigslist office assistant woman e-mailed said british company starting sell product united states trouble dealing checks customers
+2: smith said woman needed someone collect checks send money company
+3: commission job deposit checks wait funds become available bank send cash minus 10 percent smith
+4: smith checked seemed like legitimate company internet started receiving checks totaling several thousand dollars deposited account
+5: bank released funds sent cash address outside country
+6: weeks smith bank notified checks deposited actually returned owed bank money withdrawn
+7: smith heard business partner since even know really
+8: still owes bank money unemployed know action bank might take
+9: happened smith one example wide range fake check scams carried united states every year
+10: consumer federation america survey estimates 1.3 million americans victim fake check scam average loss 3,000 4,000 per consumer
+11: common scams fake sweepstakes lotteries phony government sponsored grants fraudulent work-at-home opportunities survey says
+12: scams follow pattern so-called nigerian internet scams often involve accepting transfers money become obviously phony late
+13: wednesday consumer federation launched campaign combat check scams
+14: many consumers know responsible deposit bad check said susan grant federation director consumer protection
+15: grant said survey shows alarming level misinformation among consumers problem includes money orders cashier checks
+16: fifty-nine percent respondents survey incorrectly thought deposit check money order bank confirms good allowing withdraw money
+17: number goes 70 percent among adults age 18 24
+18: 40 percent surveyed also incorrectly think person gave bad check must pay back bank
+19: american consumers mostly unfamiliar time needed process checks money orders say consumer watchdogs
+20: government banking rules mandate money deposits become available within one five days
+21: however take weeks especially foreign checks money orders originating institutions get checks money orders back determine counterfeit
+22: happens scam victims rude surprise
+23: publishers clearing house runs legitimate sweepstakes warns consumers scammers might claim given advance prize fee tax payment needs sent get jackpot
+24: heart scam something real sweepstakes never ask say legitimate companies
+25: consumer protection groups state attorney generals federal trade commission government bank regulators warn consumers number fake checks money orders even cashier checks used scam victims increasing
+26: bottom line legitimate reason anyone wants give check money order something would ever ask send money anywhere return
+27: simple said grant consumer federation america
+28: smith said suspected part-time job up-and-up know fake check scams
+29: sure pay back bank hopes story help keep people becoming victims
+30: consumer federation america tips fake check scams
+31: never agree pay claim prize
+32: never agree pay grants government foundations
+33: never agree cash checks send money somewhere part job working home
+34: never agree wire money anyone met person known long time
+35: seems suspicious consult state local consumer protection agency federal trade commission u.s. postal inspection service another trusted source
+36: remember legitimate reason anyone wants give check money order would ask send money anywhere return
+
+=================================
+Gold summary:
+1 million americans victim fake check scams study finds
+experts warn accept checks someone seeking money return
+survey american consumers unfamiliar time needed process checks
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 36, 12, 15
+	Results: 
+		rouge-1: 0.2917
+		rouge-2: 0.0000
+		rouge-l: 0.2400
+		mean: 0.1772
+	Summary: 
+		remember legitimate reason anyone wants give check money order would ask send money anywhere return
+		scams follow pattern so-called nigerian internet scams often involve accepting transfers money become obviously phony late
+		grant said survey shows alarming level misinformation among consumers problem includes money orders cashier checks
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2500
+		rouge-2: 0.0000
+		rouge-l: 0.2000
+		mean: 0.1500
+	Summary: 
+		thousands americans learn painful lesson banking every day waiting check clear getting access money bank mean check really cleared
+		harry smith new york responded ad craigslist office assistant woman e-mailed said british company starting sell product united states trouble dealing checks customers
+		smith said woman needed someone collect checks send money company
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 10, 13, 19
+	Results: 
+		rouge-1: 0.6250
+		rouge-2: 0.4167
+		rouge-l: 0.5200
+		mean: 0.5206
+	Summary: 
+		consumer federation america survey estimates 1.3 million americans victim fake check scam average loss 3,000 4,000 per consumer
+		wednesday consumer federation launched campaign combat check scams
+		american consumers mostly unfamiliar time needed process checks money orders say consumer watchdogs
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2500
+		rouge-2: 0.0000
+		rouge-l: 0.2000
+		mean: 0.1500
+	Summary: 
+		thousands americans learn painful lesson banking every day waiting check clear getting access money bank mean check really cleared
+		harry smith new york responded ad craigslist office assistant woman e-mailed said british company starting sell product united states trouble dealing checks customers
+		smith said woman needed someone collect checks send money company

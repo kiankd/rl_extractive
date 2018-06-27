@@ -1,0 +1,105 @@
+DOCUMENT:
+0: hours mexico presumed president-elect enrique peña nieto said time country leave behind political rancor campaign season closest opponent polls refused concede said vote plagued irregularities
+1: andres manuel lopez obrador election authorities projected runner-up sunday presidential vote said monday awaiting official election results prepared contest judicial authorities turn favor
+2: election plagued irregularities process said lopez obrador
+3: democratic revolution party candidate declarations echoed comments made 2006 election authorities said leftist candidate narrowly lost presidential race felipe calderon
+4: lopez obrador claimed election fraud never conceded referring afterward legitimate president mexico
+5: supporters protested nationwide
+6: mexico city staged sit-ins blockades
+7: monday lopez obrador called supporters wait official results
+8: federal election institute verification individual poll results begins wednesday
+9: earlier peña nieto election authorities projected winner sunday presidential vote told cnn en español ready work across party lines build better mexico
+10: constructive put aside differences competitions electoral contests peña nieto said monday
+11: yesterday indicated tense divisive atmosphere natural democratic contests turn page move enter another chapter another moment political lives willingness spirit constructive purposeful
+12: quick count based samples polling stations throughout country gave peña nieto lead 37.93 38.55 votes federal election institute said late sunday night
+13: monday presumed president-elect said receiving congratulatory phone calls messages world leaders including u.s. president barack obama
+14: peña nieto said unfazed fact 50 mexicans voted
+15: fortunately live democratic conditions three predominant political forces makes hard party absolute majority told cnn en español
+16: projected victory peña nieto marks triumphant return power institutional revolutionary party pri lost grip mexico presidency conservative national action party 2000
+17: peña nieto profile
+18: federal election institute projections raised two key questions rooted mexico complicated political past pri political party critics accuse authoritarian corrupt changed approach
+19: supporters lopez obrador protest election results past
+20: peña nieto said sunday night looking forward back
+21: new generation
+22: return past
+23: government vision based future told reporters
+24: local level may many differences today pri political party dominated mexico decades said andrew selee director mexico institute woodrow wilson international center scholars
+25: changed national stage mexican citizens different expectations federal government going force pri govern different way 20 years ago said
+26: much pri rule political party controlled presidency also national state legislatures local governments across country
+27: country senate preliminary tally monday showed pri winning 33 128 seats
+28: house representatives pri secured seats party according preliminary tally
+29: opposition parties combined held majority seats
+30: pri really party included mexico broad patronage network tolerated little dissent outside party selee said
+31: pri today going deal opposition parties tasted power active citizenry expects involved major policies decisions vigilant press report everything happens
+32: weeks sunday vote criticisms peña nieto concerns pri possible return power fueled student movement staged demonstrations throughout country
+33: monday outraged students group marched mexico city
+34: carried signs said mexico without pri mexico voted peña win
+35: critics slam peña nieto charismatic 45-year-old former governor galvanized fervent support among residents home state party loyalists nationwide
+36: 8 things u.s. could learn mexico
+37: consulta mitofsky gea/isa parametria firms said exit poll results projected win peña nieto 40 voters saying cast ballots pri candidate
+38: peña nieto campaign platform included plans stop rise food prices promote energy reform give social security mexicans reduce violence nationwide
+39: obviously prepared
+40: obviously dirty war said martha rojas ramos 58 prepared cast ballot peña nieto mexico city elementary school sunday
+41: critics lamenting possible return pri power thinking straight said
+42: past rojas said
+43: important young ability represent us
+44: cnn mario gonzalez rafael romo miguel marquez krupskaia alis ariel crespo rey rodriguez rene hernandez cnnmexico.com tania l. montalvo arturo ascención contributed report
+
+=================================
+Gold summary:
+new peña nieto says received congratulatory messages world leaders
+lopez obrador says waiting official results prepared contest
+peña nieto apparent victory marks triumphant return power party
+analyst mexicans going force pri govern different way
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 17, 43, 20
+	Results: 
+		rouge-1: 0.0645
+		rouge-2: 0.0312
+		rouge-l: 0.1176
+		mean: 0.0711
+	Summary: 
+		peña nieto profile
+		important young ability represent us
+		peña nieto said sunday night looking forward back
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2581
+		rouge-2: 0.1250
+		rouge-l: 0.2353
+		mean: 0.2061
+	Summary: 
+		hours mexico presumed president-elect enrique peña nieto said time country leave behind political rancor campaign season closest opponent polls refused concede said vote plagued irregularities
+		andres manuel lopez obrador election authorities projected runner-up sunday presidential vote said monday awaiting official election results prepared contest judicial authorities turn favor
+		election plagued irregularities process said lopez obrador
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 16, 25
+	Results: 
+		rouge-1: 0.6452
+		rouge-2: 0.3750
+		rouge-l: 0.5588
+		mean: 0.5263
+	Summary: 
+		andres manuel lopez obrador election authorities projected runner-up sunday presidential vote said monday awaiting official election results prepared contest judicial authorities turn favor
+		projected victory peña nieto marks triumphant return power institutional revolutionary party pri lost grip mexico presidency conservative national action party 2000
+		changed national stage mexican citizens different expectations federal government going force pri govern different way 20 years ago said
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2581
+		rouge-2: 0.1250
+		rouge-l: 0.2353
+		mean: 0.2061
+	Summary: 
+		hours mexico presumed president-elect enrique peña nieto said time country leave behind political rancor campaign season closest opponent polls refused concede said vote plagued irregularities
+		andres manuel lopez obrador election authorities projected runner-up sunday presidential vote said monday awaiting official election results prepared contest judicial authorities turn favor
+		election plagued irregularities process said lopez obrador

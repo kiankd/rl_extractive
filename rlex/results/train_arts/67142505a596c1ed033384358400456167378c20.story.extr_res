@@ -1,0 +1,62 @@
+DOCUMENT:
+0: hundreds law-enforcement officers making arrests executing search warrants thursday arizona part investigation human smuggling immigration customs enforcement agency said
+1: authorities made least 40 arrests investigation suspected smuggling illegal immigrants vans took border tucson phoenix two officials immigration customs enforcement said
+2: federal authorities scheduled news conference thursday afternoon discuss called massive yearlong investigation targeting infrastructure several major arizona-based human smuggling networks
+
+=================================
+Gold summary:
+crackdown way part investigation human smuggling
+authorities made least 40 arrests thursday ice officials said
+immigrants shuttled vans border tucson phoenix officials said
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.8095
+		rouge-2: 0.4286
+		rouge-l: 0.6957
+		mean: 0.6446
+	Summary: 
+		hundreds law-enforcement officers making arrests executing search warrants thursday arizona part investigation human smuggling immigration customs enforcement agency said
+		authorities made least 40 arrests investigation suspected smuggling illegal immigrants vans took border tucson phoenix two officials immigration customs enforcement said
+		federal authorities scheduled news conference thursday afternoon discuss called massive yearlong investigation targeting infrastructure several major arizona-based human smuggling networks
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.8095
+		rouge-2: 0.4286
+		rouge-l: 0.6957
+		mean: 0.6446
+	Summary: 
+		hundreds law-enforcement officers making arrests executing search warrants thursday arizona part investigation human smuggling immigration customs enforcement agency said
+		authorities made least 40 arrests investigation suspected smuggling illegal immigrants vans took border tucson phoenix two officials immigration customs enforcement said
+		federal authorities scheduled news conference thursday afternoon discuss called massive yearlong investigation targeting infrastructure several major arizona-based human smuggling networks
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.8095
+		rouge-2: 0.4286
+		rouge-l: 0.6957
+		mean: 0.6446
+	Summary: 
+		hundreds law-enforcement officers making arrests executing search warrants thursday arizona part investigation human smuggling immigration customs enforcement agency said
+		authorities made least 40 arrests investigation suspected smuggling illegal immigrants vans took border tucson phoenix two officials immigration customs enforcement said
+		federal authorities scheduled news conference thursday afternoon discuss called massive yearlong investigation targeting infrastructure several major arizona-based human smuggling networks
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.8095
+		rouge-2: 0.4286
+		rouge-l: 0.6957
+		mean: 0.6446
+	Summary: 
+		hundreds law-enforcement officers making arrests executing search warrants thursday arizona part investigation human smuggling immigration customs enforcement agency said
+		authorities made least 40 arrests investigation suspected smuggling illegal immigrants vans took border tucson phoenix two officials immigration customs enforcement said
+		federal authorities scheduled news conference thursday afternoon discuss called massive yearlong investigation targeting infrastructure several major arizona-based human smuggling networks

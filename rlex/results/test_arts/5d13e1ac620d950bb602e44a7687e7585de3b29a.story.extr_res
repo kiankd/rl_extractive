@@ -1,0 +1,111 @@
+DOCUMENT:
+0: using available scientific evidence possible reach definitive conclusion source anthrax used 2001 anthrax letter attacks killed five people according report issued tuesday national academy sciences
+1: findings come two half years fbi said army microbiologist bruce ivins allegedly behind anthrax mailings spores could genetically traced flask labeled rmr-1029 lab
+2: scientific panel said anthrax used mailings news organizations members congress ames strain bacillus anthracis spores letters shared number genetic similarities spores ivins flask
+3: findings say fbi fully explore possible explanations similarities
+4: ivins knew suspicion fbi committed suicide july 2008 charges filed
+5: ivins involved anthrax vaccine research u.s. army medical research institute infectious diseases fort detrick frederick maryland
+6: paul kemp lawyer represented ivins said since august 2008 justice department maintained smoking gun case ivins citing flask
+7: smoking gun turned smoke mirrors kemp said report
+8: said smoking gun would convicted ivins court report shows
+9: kemp later added 200 people access anthrax came flask
+10: response report fbi said scientific investigation could pinpoint source anthrax helped agents justice department focus resources conclude ivins behind attacks
+11: ultimately late dr. bruce ivins determined perpetrator deadly mailings
+12: fbi department justice preparing prosecution time dr. ivin death fbi said
+13: ivins maintained innocence death kemp said adding tuesday report casts doubts fbi conclusion former client responsible
+14: fbi praised report highlighting value fbi called microbial forensics said proved significant solving case
+15: although great strides forensic science years rarely science alone solve investigation
+16: scientific findings case provided investigators valuable investigative leads led identification late dr. bruce ivins perpetrator anthrax attacks fbi said
+17: throughout anthrax probe investigators grappled questions much experience perpetrator would needed make anthrax whether material weaponized silicon dispersant allow float air thus making likely deadly spores would inhaled
+18: national academy sciences panel said found scientific basis accurately estimate amount time specific skill set needed prepare spore material contained letters
+19: panel said time required make anthrax could range two three days several months depending methods used make anthrax
+20: group said found evidence perpetrator intentionally added silicon-based dispersants increase flow spores air
+21: panel said silicon detected outside spores would necessary dispersant
+22: silicon found inside spores
+23: fbi conducted security review academy draft report october 2010
+24: fbi subsequently asked provide panel additional information
+25: material included analysis environmental samples taken undisclosed overseas site terrorist group anthrax program allegedly located
+26: investigators looked overseas site part anthrax letters investigation
+27: academy sciences report said samples site inconsistent evidence ames strain b anthracis review recommended
+28: fbi also told panel analysis done human remains identified belonging 9/11 hijackers united flight 93 crashed pennsylvania
+29: one test came positive anthrax results negative
+30: remains 9/11 flights tested anthrax
+31: national academy sciences report offers opinion ivins guilt innocence
+32: looks scientific underpinnings fbi investigation
+33: scientists also access classified information
+34: fbi asked national academy sciences conduct independent review science used investigation
+35: review began 2009
+36: fbi investigation anthrax attacks closed february 2010 critics said bureau delayed move release national academy sciences report
+37: rep. rush holt democrat new jersey criticized fbi investigation said re-introducing legislation calling 9/11 style commission look anthrax letter attacks
+38: would take credulous person believe circumstantial evidence fbi used draw conclusions certainty holt said press release
+39: fbi proiven open shut case
+40: anthrax letters mailed new jersey state holt represents
+41: iowa sen. charles grassley ranking republican judiciary committee said report shows science necessarily slam dunk
+42: grassley called independent review fbi investigation
+43: one time fbi used ivins one scientific consultants anthrax investigation
+44: clues led investigators focus ivins fbi performed surveillance executed search warrants studied lab records showing spent late hours alone lab prior time anthrax letters mailed
+45: death justice department fbi officials released numerous documents investigation said believed ivins bore sole responsibility attacks
+46: anthrax-laced letters mailed fall 2001 shortly 9/11 terror attacks nbc news anchor tom brokaw new york post sens. patrick leahy vermont tom daschle senate majority leader time
+47: five people died inhalation anthrax officials say caused contaminated mail
+48: two people washington area postal workers joseph curseen jr. thomas morris jr.
+49: victims bob stevens photo editor american media inc. boca raton florida kathy nguyen new york city hospital worker ottilie lundgren oxford connecticut widow
+50: seventeen people became sick either inhaling anthrax skin exposure
+
+=================================
+Gold summary:
+new legislators call independent review fbi investigation
+panel says say source anthrax used attacks
+panel offer opinion guilt innocence suspect bruce ivins
+ivins knew suspicion fbi committed suicide 2008
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 17, 42, 12
+	Results: 
+		rouge-1: 0.1923
+		rouge-2: 0.1071
+		rouge-l: 0.1724
+		mean: 0.1573
+	Summary: 
+		throughout anthrax probe investigators grappled questions much experience perpetrator would needed make anthrax whether material weaponized silicon dispersant allow float air thus making likely deadly spores would inhaled
+		grassley called independent review fbi investigation
+		fbi department justice preparing prosecution time dr. ivin death fbi said
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3077
+		rouge-2: 0.1071
+		rouge-l: 0.2414
+		mean: 0.2187
+	Summary: 
+		using available scientific evidence possible reach definitive conclusion source anthrax used 2001 anthrax letter attacks killed five people according report issued tuesday national academy sciences
+		findings come two half years fbi said army microbiologist bruce ivins allegedly behind anthrax mailings spores could genetically traced flask labeled rmr-1029 lab
+		scientific panel said anthrax used mailings news organizations members congress ames strain bacillus anthracis spores letters shared number genetic similarities spores ivins flask
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 4, 42
+	Results: 
+		rouge-1: 0.5385
+		rouge-2: 0.3571
+		rouge-l: 0.3793
+		mean: 0.4250
+	Summary: 
+		using available scientific evidence possible reach definitive conclusion source anthrax used 2001 anthrax letter attacks killed five people according report issued tuesday national academy sciences
+		ivins knew suspicion fbi committed suicide july 2008 charges filed
+		grassley called independent review fbi investigation
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3077
+		rouge-2: 0.1071
+		rouge-l: 0.2414
+		mean: 0.2187
+	Summary: 
+		using available scientific evidence possible reach definitive conclusion source anthrax used 2001 anthrax letter attacks killed five people according report issued tuesday national academy sciences
+		findings come two half years fbi said army microbiologist bruce ivins allegedly behind anthrax mailings spores could genetically traced flask labeled rmr-1029 lab
+		scientific panel said anthrax used mailings news organizations members congress ames strain bacillus anthracis spores letters shared number genetic similarities spores ivins flask

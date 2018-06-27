@@ -1,0 +1,112 @@
+DOCUMENT:
+0: mental floss ben jerry bagels
+1: sonic steakhouse
+2: glad favorite quick-service places evolved today
+3: ben jerry decided go business really wanted make bagels
+4: equipment required make bagels rather expensive researched cheaper product settled ice cream
+5: although released plenty breakfast-related ice cream flavors cinnamon buns coffee biscotti maple grape nut among yet create lox bagel-flavor
+6: maybe production
+7: glen bell founder taco bell knew bell represented person
+8: started career fast food business meager hot dog stand
+9: well sold opened bigger better stand started selling tacos 19 cents side window
+10: long hot dogs playing second banana tacos bell decided switch business
+11: mental floss 10 secret fast food menu items
+12: tim hortons timbits actually referred chicken nuggets
+13: could gone way ex-hockey player originally focused post pro-sports career hamburgers opened burger joints toronto north bay
+14: retooled concept reopened small doughnut shop housed old gas station selling coffee 25 cents doughnuts 69 cents per dozen
+15: today tim hortons employs 100,000 people 3,000 stores mostly canada company expanding u.s.
+16: donuts fleet vehicles drove around like ice cream man selling sweet sweet carbs anyone could scrounge change
+17: well used sort
+18: working ice cream company william rosenberg used war bonds borrowed money start mobile catering business delivered breakfast lunch factory workers
+19: noticed best sellers far coffee doughnuts decided base whole business around
+20: seems worked ok
+21: still like idea doughnuts coming though
+22: hand al copeland created popeyes chicken biscuits started doughnut biz ended poultry
+23: sold car purchase tastee donut franchise brother decided fry chicken instead crullers
+24: first one failed even tagline fast get chicken get change
+25: second version succeeded making multimillionaire
+26: name way came popeye doyle french connection popeye sailor man
+27: mental floss 15 companies originally sold something else
+28: sonic steakhouse
+29: founder troy smith big plans upscale steak eatery originally entered restaurant business
+30: opened small diner called troy pan full chicken generate revenue bigger steakhouse realized somewhere middle things making load money selling root beer hamburgers hot dogs every week
+31: decided stick low-brow menu scrap sirloin
+32: wilbur hardee obviously founder hardee ran several inn-style restaurants north carolina took time study habits patrons
+33: got rid inns opened first quick-service place selling 15-cent hamburgers hardee name chain purchased carl jr. 1997
+34: speaking carl jr. carl karcher came similar humble beginnings
+35: like lot great fast-food giants karcher started hot dog stand wife purchased taking 311 loan car
+36: also sold tamales
+37: somehow think paris hilton biting big juicy tamale would quite effect paris hilton biting big juicy six dollar burger
+38: chick-fil-a started dwarf grill dwarf house full-service restaurant housed tiny little building tiny little door
+39: original still found hapeville georgia complete diminutive door regular door well
+40: might shocking chick-fil-a die-hards dwarf houses offer steakburgers hamburgers
+41: gasp !! would eat mor chikin cows think ?!
+42: mental floss really granny smith
+43: fruit veggie origins
+44: finally course mcdonald
+45: like frankfurter entrepreneurs dick mac mcdonald started mere hot dog stand monrovia california
+46: upgraded burgers really main focus planned capitalize delicious bbq
+47: several years later noticed burgers item keeping store alive decided switch exclusively burgers shakes fries
+48: days suppose little bit yes even mchotdog
+49: mental_floss articles visit mentalfloss.com
+50: entire contents article copyright mental floss llc
+51: rights reserved
+
+=================================
+Gold summary:
+famous fast food joints originally planned cook something else
+high cost bagel equipment sent ben jerry ice cream business
+creator popeye chicken started selling doughnuts
+donuts founder started truck delivering breakfast lunch factories
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 25, 26, 44
+	Results: 
+		rouge-1: 0.0312
+		rouge-2: 0.0000
+		rouge-l: 0.0303
+		mean: 0.0205
+	Summary: 
+		second version succeeded making multimillionaire
+		name way came popeye doyle french connection popeye sailor man
+		finally course mcdonald
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.0625
+		rouge-2: 0.0312
+		rouge-l: 0.0606
+		mean: 0.0515
+	Summary: 
+		mental floss ben jerry bagels
+		sonic steakhouse
+		glad favorite quick-service places evolved today
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 8, 18, 27
+	Results: 
+		rouge-1: 0.3438
+		rouge-2: 0.1250
+		rouge-l: 0.2121
+		mean: 0.2270
+	Summary: 
+		started career fast food business meager hot dog stand
+		working ice cream company william rosenberg used war bonds borrowed money start mobile catering business delivered breakfast lunch factory workers
+		mental floss 15 companies originally sold something else
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 28
+	Results: 
+		rouge-1: 0.0625
+		rouge-2: 0.0312
+		rouge-l: 0.0606
+		mean: 0.0515
+	Summary: 
+		mental floss ben jerry bagels
+		sonic steakhouse
+		sonic steakhouse

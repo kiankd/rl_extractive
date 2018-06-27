@@ -1,0 +1,110 @@
+DOCUMENT:
+0: day violent protests erupted restive city daraa security forces opened fire protesters coastal city latakia witnesses said
+1: anti-government demonstrations latakia started peacefully several people wounded hail gunfire security forces tightened control access city witnesses said
+2: however presidential spokeswoman bouthaina shaaban told state media unidentified group gunmen opened fire citizens security forces
+3: although group allegedly entered latakia breaking burning shops security forces return fire shaaban told sana country official news agency
+4: gunmen killed two security force officers one demonstrator said blaming clashes attempting meddle security stability country
+5: right peaceful demonstration guaranteed citizen syria shaaban said
+6: happening attempt ignite internal strife country target security stability nation lives citizens
+7: cnn could independently confirm accounts syrian government yet grant access country
+8: meanwhile southern city daraa dozens people killed violent clashes earlier week hundreds syrians demonstrated peacefully without security forces present witness said
+9: protest also served funeral site throngs mourners remember died earlier demonstrations witness said
+10: friday marred reports casualties southern cities sanamen daraa government security forces allegedly opened fire protesters
+11: daraa dozens shot head neck hundreds wounded friday snipers rooftops began firing crowd according doctor daraa declined named security reasons
+12: protesters carrying weapons chanted need freedom need democracy doctor said
+13: neighboring city sanamen least 20 others killed 60 people wounded friday government security forces began shooting demonstrators doctor daraa told cnn
+14: thousands sanamen marched saturday appeared mixture political protest funeral procession sought bury six people killed violent clashes earlier week another witness said
+15: women chanted sacrifice blood lives martyrs walked witness said
+16: presidential spokeswoman shaaban blamed group gunmen smugglers allegedly seized police weapons began shooting
+17: actions compelled security guards fire back defense post said
+18: syrian state television later broadcast apparent confessions foreign nationals arrested syria including egyptian american citizenship worked syria according sana
+19: egyptian man said receiving e-mails external forces asking send pictures video clips syria agency reported noting man recently vsited israel jordan
+20: saturday security forces left city leaving sanamen syrian military
+21: army since surrounded city restricted access
+22: residents anticipating food shortage result describe blockade
+23: chants allah syria army seemed indicate least residents encouraged army presence witness said
+24: one soldier said would shoot would shoot protesters witness added
+25: meanwhile international concern escalating violence continued
+26: situation syria worsened considerably past week use live ammunition tear gas authorities resulted total least 37 people killed daraa including two children rupert colville spokesman office u.n. high commissioner human rights said friday
+27: among dead 15 people tried march daraa sources said nine others died security forces fired demonstrators daraa main square said wissam tarif human rights activist
+28: many casualties daraa said abdullah asked full name reported due security concerns
+29: thousands gathered moved governor building daraa burned large picture bashar al-assad toppled statue hafez al-assad center square abdullah said referring current president late father former president
+30: armed men came roof officers club front governor office started firing crowd said
+31: aman al aswad political dissident said dozens people appeared killed wounded clashes security forces square could precise totals
+32: earlier friday thousands attended anti-government demonstration town according kamal aswad political activist daraa
+33: people ridiculed recent government pronouncements reforms assertion government spokeswoman shabaan country president ordered live bullets would used demonstrators
+34: one witness said people chanted bouthaina want bread want dignity
+35: said overwhelming number protesters showed daraa support martyrs people killed recent clashes
+36: whole city street bury dead demand responsible tried crimes people daraa witness said
+37: broke barrier fear today security forces could touch us
+38: witness said security forces withdrawn center city interfere demonstrations stoked range political economic grievances
+39: government announced number measures apparently addressed protesters demands
+40: among decrees cut taxes raise government workers salaries 1,500 syrian pounds 32.60 month pledges provide press freedoms increased job opportunities curbs government corruption
+41: government said form committee contact listen citizens daraa
+42: also said would study lifting country emergency law adopting new legislation would license political parties
+43: syria emergency law effect since 1963 allows government make preventive arrests override constitutional penal code statutes
+44: also bars detainees charged filing court complaints lawyer present interrogations
+45: friday state television showed said pro-government demonstrations aleppo damascus
+46: state-run syrian arab news agency said correspondent daraa reported crowds spontaneous popular rallies chanted national slogans highly lauding president assad generous decrees decisions pledging loyalty excellency unity leadership face conspiracy syria
+47: however video also emerged protests hama government violently suppressed uprising 1982
+48: state news agency reported armed gang attacked security forces southern city sanamen resulted deaths several attackers
+49: cnn saad abedine salma abdelaziz contributed report
+
+=================================
+Gold summary:
+new syrian officials blame violence armed gangs
+new egyptian u.s. citizenship worked syria arrested state media says
+security forces fired protestors latakia leaving several wounded
+syrian state media says armed group opened fire citizens security forces
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 48, 44, 20
+	Results: 
+		rouge-1: 0.2500
+		rouge-2: 0.0312
+		rouge-l: 0.1667
+		mean: 0.1493
+	Summary: 
+		state news agency reported armed gang attacked security forces southern city sanamen resulted deaths several attackers
+		also bars detainees charged filing court complaints lawyer present interrogations
+		saturday security forces left city leaving sanamen syrian military
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3929
+		rouge-2: 0.1562
+		rouge-l: 0.3611
+		mean: 0.3034
+	Summary: 
+		day violent protests erupted restive city daraa security forces opened fire protesters coastal city latakia witnesses said
+		anti-government demonstrations latakia started peacefully several people wounded hail gunfire security forces tightened control access city witnesses said
+		however presidential spokeswoman bouthaina shaaban told state media unidentified group gunmen opened fire citizens security forces
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 2, 18
+	Results: 
+		rouge-1: 0.6071
+		rouge-2: 0.2500
+		rouge-l: 0.3056
+		mean: 0.3876
+	Summary: 
+		anti-government demonstrations latakia started peacefully several people wounded hail gunfire security forces tightened control access city witnesses said
+		however presidential spokeswoman bouthaina shaaban told state media unidentified group gunmen opened fire citizens security forces
+		syrian state television later broadcast apparent confessions foreign nationals arrested syria including egyptian american citizenship worked syria according sana
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3929
+		rouge-2: 0.1562
+		rouge-l: 0.3611
+		mean: 0.3034
+	Summary: 
+		day violent protests erupted restive city daraa security forces opened fire protesters coastal city latakia witnesses said
+		anti-government demonstrations latakia started peacefully several people wounded hail gunfire security forces tightened control access city witnesses said
+		however presidential spokeswoman bouthaina shaaban told state media unidentified group gunmen opened fire citizens security forces

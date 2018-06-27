@@ -1,0 +1,100 @@
+DOCUMENT:
+0: many people struggling provide basics days
+1: big question find joy fulfillment lean holiday times like
+2: answer look back upon philosophy mother mieke frankenberg led life brightest darkest hours
+3: philosophy originated world war ii experiences prisoner war japanese concentration camp indonesia
+4: lived country abusive husband left war broke japanese captured
+5: bleakest times reached fellow prisoners provide comfort care
+6: lack medical supplies meant care much holding someone hand sharing starvation rations
+7: nurse gave drew sustaining love return
+8: returning england war mother remarried started family grew include two sisters
+9: camp behind mother philosophy remained always keep open heart
+10: volunteered red cross regularly provided emotional support friends
+11: found love flows boundaries open heart love also finds way back
+12: gave gave received love return
+13: open heart philosophy sustained well difficult times including painful divorce 20 years ago left near penniless
+14: point life attended fundraiser childhelp usa
+15: donated last money return secured session artist drew picture two children time
+16: sitting artist saw potential finger paintings made children offered give free painting lessons
+17: started painting discovered emotional outlet
+18: began creating images hearts always open never closed
+19: hearts may appeared unfinished way
+20: brought back lessons mother reminder live lived openhearted
+21: soon changed frantic terrified angry person someone able let go past
+22: began let people life give back emotionally
+23: around time landed tv role dr. quinn medicine woman back feet
+24: embody mother belief love keep heart open best give receive love
+25: family continues mother tradition christmas open home relatives neighbors six children even friends extending family include unable head home holidays
+26: years many 50 people dinner table
+27: living open heart path rewarding holidays many people year even budgets tighten troubles mount
+28: holiday table may less bountiful
+29: may fewer presents tree
+30: open heart bring wealth love hope inspiration
+31: might think shaping gloomiest holidays ever
+32: remember mother taught someone always worse
+33: find way give even need
+34: find place provide comfort care love
+35: volunteer food bank shelter
+36: reach elderly neighbors find might make lives little easier
+37: opening heart others good things come
+38: approach hope find 2009 could become fulfilling holiday seasons
+39: opinions expressed commentary solely jane seymour
+
+=================================
+Gold summary:
+jane seymour says mother spirit openheartedness instructive lean holiday times
+mother formed philosophy helping pow wwii says
+says open hearts allow love flow freely people
+seymour people find way give even need
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 25, 10, 35
+	Results: 
+		rouge-1: 0.1111
+		rouge-2: 0.0000
+		rouge-l: 0.0938
+		mean: 0.0683
+	Summary: 
+		family continues mother tradition christmas open home relatives neighbors six children even friends extending family include unable head home holidays
+		volunteered red cross regularly provided emotional support friends
+		volunteer food bank shelter
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2593
+		rouge-2: 0.0645
+		rouge-l: 0.1250
+		mean: 0.1496
+	Summary: 
+		many people struggling provide basics days
+		big question find joy fulfillment lean holiday times like
+		answer look back upon philosophy mother mieke frankenberg led life brightest darkest hours
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 24, 33
+	Results: 
+		rouge-1: 0.4074
+		rouge-2: 0.1935
+		rouge-l: 0.3438
+		mean: 0.3149
+	Summary: 
+		big question find joy fulfillment lean holiday times like
+		embody mother belief love keep heart open best give receive love
+		find way give even need
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 24
+	Results: 
+		rouge-1: 0.3333
+		rouge-2: 0.0645
+		rouge-l: 0.1875
+		mean: 0.1951
+	Summary: 
+		many people struggling provide basics days
+		big question find joy fulfillment lean holiday times like
+		embody mother belief love keep heart open best give receive love

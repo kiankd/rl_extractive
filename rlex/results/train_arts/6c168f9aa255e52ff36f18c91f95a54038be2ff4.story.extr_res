@@ -1,0 +1,74 @@
+DOCUMENT:
+0: car bomber penetrated baghdad heavily fortified green zone week targeting iraqi prime minister authorities said saturday
+1: attack monday left two people dead seven others injured green zone houses nation government offices well u.s. embassies
+2: police said blast occurred outdoor parking lot belongs iraqi parliament
+3: details available immediately whether lawmakers among casualties
+4: initial inquiries revealed attempt kill prime minister nuri al-maliki according major gen. qassim atta baghdad security operations manager
+5: black car loaded explosives three ways detonate manual electric cell phone said
+6: intelligence information indicates vehicle supposed enter building park arrival prime minister atta said
+7: terrorists confessed car bomb targeting prime minister visits parliament upcoming session according atta name group behind attacks
+8: prime minister time attack said
+9: attacker black dodge 20 kg 44 lb explosives driving toward parliament security forces stopped proper badge
+10: driver parked parliament compound car exploded
+11: attack comes amid u.s. military withdrawal middle eastern country
+12: american troops scheduled end year
+13: iraqi security forces including army police officers assume full responsibility withdrawal
+14: cnn hamdi alkhshali contributed report
+
+=================================
+Gold summary:
+police blast occurs iraqi parliament parking lot
+terrorists confess car bomb targeting prime minister official says
+attack monday kills two people injures seven others
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 1, 5, 14
+	Results: 
+		rouge-1: 0.2917
+		rouge-2: 0.1304
+		rouge-l: 0.2500
+		mean: 0.2240
+	Summary: 
+		attack monday left two people dead seven others injured green zone houses nation government offices well u.s. embassies
+		black car loaded explosives three ways detonate manual electric cell phone said
+		cnn hamdi alkhshali contributed report
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.6667
+		rouge-2: 0.2609
+		rouge-l: 0.4167
+		mean: 0.4481
+	Summary: 
+		car bomber penetrated baghdad heavily fortified green zone week targeting iraqi prime minister authorities said saturday
+		attack monday left two people dead seven others injured green zone houses nation government offices well u.s. embassies
+		police said blast occurred outdoor parking lot belongs iraqi parliament
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 2, 7
+	Results: 
+		rouge-1: 0.7500
+		rouge-2: 0.3913
+		rouge-l: 0.4167
+		mean: 0.5193
+	Summary: 
+		attack monday left two people dead seven others injured green zone houses nation government offices well u.s. embassies
+		police said blast occurred outdoor parking lot belongs iraqi parliament
+		terrorists confessed car bomb targeting prime minister visits parliament upcoming session according atta name group behind attacks
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.6667
+		rouge-2: 0.2609
+		rouge-l: 0.4167
+		mean: 0.4481
+	Summary: 
+		car bomber penetrated baghdad heavily fortified green zone week targeting iraqi prime minister authorities said saturday
+		attack monday left two people dead seven others injured green zone houses nation government offices well u.s. embassies
+		police said blast occurred outdoor parking lot belongs iraqi parliament

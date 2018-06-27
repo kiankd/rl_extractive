@@ -1,0 +1,102 @@
+DOCUMENT:
+0: cramped loud seem care little rules road mode transportation riding tro-tro experience roller coaster ride self-respecting visitor accra check list
+1: crammed hot often rickety minivans also called troskies popular way getting around ghanaian capital
+2: picked station roadside typically seat around 15 squished passengers sometimes even swerve zigzag rush accra busy streets
+3: read forget paris fall love accra
+4: tro-tro rides might ideal travel option claustrophobic certainly appealing anyone looking navigate city cheaply
+5: like matatus east africa many similar means transport urban centers across continent tro-tros fill public demand affordable trips fee tro-tro ride around accra never cents paid arrival
+6: really want get know city take taxi take tro-tro says accra commuter maximillian effah
+7: tro-tro system work expect catch ride
+8: tro-tros might set routes absence fixed schedule vans depart full waiting times lengthy
+9: boarding right one also confusing especially picking roadside
+10: read artists take epic africa road trip
+11: cases needed mixture cunning alertness coupled determination insider knowledge
+12: tro-tro approaches fare collector mate hangs right side door shouting destination making sign indicate van direction
+13: little bit luck driver stops hop
+14: sometimes however securing spot requires physical approach
+15: situation 10 15 20 people trying enter door time see magic happening says effah
+16: people opening top car sliding side screen jumping car
+17: see car start move someone halfway car legs dangling outside car crazy
+18: en route forget seat belts spacious seating expect however bumpy ride often made easier inevitable mix shared laughs heated debates social commentary well bit singing
+19: driver tro-tro singing entire time could actually part-time job choir singing lot hymns recalls accra commuter francis kweku ansah one memorable journey
+20: really entertaining everyone car people started singing along actually really fun journey
+21: trotro diaries
+22: least four million people live around accra making one africa largest cities
+23: infrastructure like many african urban centers aged colonial era unable keep demands burgeoning population
+24: ghanaians jump behind wheel thanks growing middle class cheaper imports overseas city streets often clogged snail-paced traffic
+25: read africa new skyscraper cities
+26: experience sit tro-tro tightly packed work imagine kind pressure puts says yaw odoom creator trotro diaries online platform people share often-funny stories daily transport woes
+27: realized people go much stress get offices might affect output says odoom
+28: put bit humor people different tro-tros ghana even parts world share experience
+29: help lighten mood get office actually get happier mood able deliver
+30: encouraged friends odoom 27-year-old business development manager automotive company created blog facebook group today 1,000 people use trotro diaries platform sound
+31: aah really hate people singing troskie reads one comment
+32: like car dude
+33: talking 30 minutes non-stop
+34: says another trotro diaries user
+35: guess radio stations need talent
+36: odoom says plans also create trotro diaries app also serve help commuters find way easier around city
+37: believes creating information networks ghanaians on-the-go well making laugh positive impact
+38: future ghana hands youth already taking says
+39: crazy change want put change ghana ghana us need make things work
+40: tro-tro taken mini-van ride elsewhere africa
+41: send photos stories cnn ireport
+
+=================================
+Gold summary:
+thousands accra residents commute daily using tro-tro
+minibuses also known troskies cheap form transport
+commuters say best way knowing city also frustrating
+trotro diaries web platform collecting funny stories people journeys
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 32, 1, 12
+	Results: 
+		rouge-1: 0.1333
+		rouge-2: 0.0000
+		rouge-l: 0.0968
+		mean: 0.0767
+	Summary: 
+		like car dude
+		crammed hot often rickety minivans also called troskies popular way getting around ghanaian capital
+		tro-tro approaches fare collector mate hangs right side door shouting destination making sign indicate van direction
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1667
+		rouge-2: 0.0000
+		rouge-l: 0.1290
+		mean: 0.0986
+	Summary: 
+		cramped loud seem care little rules road mode transportation riding tro-tro experience roller coaster ride self-respecting visitor accra check list
+		crammed hot often rickety minivans also called troskies popular way getting around ghanaian capital
+		picked station roadside typically seat around 15 squished passengers sometimes even swerve zigzag rush accra busy streets
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 6, 26
+	Results: 
+		rouge-1: 0.4333
+		rouge-2: 0.0333
+		rouge-l: 0.2581
+		mean: 0.2416
+	Summary: 
+		crammed hot often rickety minivans also called troskies popular way getting around ghanaian capital
+		really want get know city take taxi take tro-tro says accra commuter maximillian effah
+		experience sit tro-tro tightly packed work imagine kind pressure puts says yaw odoom creator trotro diaries online platform people share often-funny stories daily transport woes
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 5
+	Results: 
+		rouge-1: 0.2000
+		rouge-2: 0.0000
+		rouge-l: 0.1290
+		mean: 0.1097
+	Summary: 
+		cramped loud seem care little rules road mode transportation riding tro-tro experience roller coaster ride self-respecting visitor accra check list
+		crammed hot often rickety minivans also called troskies popular way getting around ghanaian capital
+		like matatus east africa many similar means transport urban centers across continent tro-tros fill public demand affordable trips fee tro-tro ride around accra never cents paid arrival

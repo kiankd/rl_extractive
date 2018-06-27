@@ -1,0 +1,121 @@
+DOCUMENT:
+0: huge mural greets visitors reggie lewis track athletic center boston
+1: memorial building namesake died unexpectedly 1993
+2: hundreds tiles used create magic mural reggie lewis track athletic center boston
+3: young reggie lewis wearing no. 35 boston celtics jersey dominates middle 11-foot-by-14-foot artwork
+4: bottom left picture wife
+5: right face legendary celtic larry bird
+6: young men sweats sneakers make way gym something strange happens
+7: mural comes alive
+8: photo beaming lewis formal attire transforms lewis basketball player streaking court
+9: larry bird picture morphs another famous player robert parrish
+10: step mural transforms representing many scenes one man life
+11: artist rufus b. seder calls movies wall lifetiles
+12: massachusetts artist invented lifetiles medium artist world using
+13: 30 lifetiles installations around globe
+14: watch magic mural action
+15: taiwan aquarium dolphins swim wall alongside awestruck children
+16: bucking broncos line halls national cowgirl museum hall fame fort worth texas
+17: dancers spin twirl along passengers luxury cruise ships south france
+18: seder calls south san francisco california bart station personal gallery 16 installations
+19: lifetiles use electricity moving parts tricky lighting elaborate painstaking process done seder eye think inc. studio near boston
+20: trying create experience totally takes surprise said
+21: scanimation shelf
+22: technology see lifetiles looks familiar might caught something similar local bookstore
+23: popular children books gallop
+24: also written illustrated seder
+25: technique calls scanimation pictures books come alive flip page
+26: kids favorite quite parents enjoy based sales numbers
+27: currently new york times bestseller list
+28: seder originally used scanimation greeting cards sold trade shows around country
+29: workman publishing came calling asking seder develop book based eye-catching technique
+30: seder caught lightning bottle
+31: several decades somewhat unknown artist found flying china teach scanimation technique book makers
+32: years later 2 million copies gallop
+33: print 13 languages
+34: still awed popularity seder said would satisfied limited edition sold well
+35: totally blew mind happened
+36: although books success gained seder newfound publicity lifetiles truly life work
+37: relatively unknown seemingly modern form art new
+38: seder working lifetiles 20 years inspired toys 1850s called zoetropes active imagination youngster
+39: started making movies 12 years old said always motion pictures especially optical tricks techniques trick eye
+40: viewer learn see lifetile
+41: intuitive one immediately understands concept
+42: walk past mural begins move along
+43: question immediately comes mind one seder gets work
+44: short answer magic seder said
+45: longer answer like flipbook
+46: taken pages flipbook scrambled together put wall made animate
+47: lengthy process also requires attention detail
+48: much like animator creates series drawings computer
+49: strips image becomes indistinguishable picture made series vertical lines
+50: squiggly-lined image becomes equivalent photo negative
+51: negative gets sandblasted onto hand-cast glass tile made seder studio
+52: heavy 8-inch-square glass tiles get painted scraped fired kiln finally added piece piece lifetiles mural
+53: hundreds tiles work harmony create huge moving image displayed wall
+54: seder patented painstaking technique thinks artists would patience even know-how
+55: playing cards close vest said
+56: lifetiles installation conception completion take year complete
+57: labor love shares others walk magic walls
+58: love watch people react work
+59: expect wall move said
+60: walking hallway museum walking outdoors zoo suddenly realize dolphins starting move next
+
+=================================
+Gold summary:
+lifetiles murals created without electricity moving parts appear move
+rufus seder inventor lifetiles artist world using
+eye-catching lifetiles installations take year make
+seder also author two bestselling books using similar technology
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 10, 39, 55
+	Results: 
+		rouge-1: 0.0000
+		rouge-2: 0.0000
+		rouge-l: 0.0000
+		mean: 0.0000
+	Summary: 
+		step mural transforms representing many scenes one man life
+		started making movies 12 years old said always motion pictures especially optical tricks techniques trick eye
+		playing cards close vest said
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.0000
+		rouge-2: 0.0000
+		rouge-l: 0.0000
+		mean: 0.0000
+	Summary: 
+		huge mural greets visitors reggie lewis track athletic center boston
+		memorial building namesake died unexpectedly 1993
+		hundreds tiles used create magic mural reggie lewis track athletic center boston
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 12, 19, 56
+	Results: 
+		rouge-1: 0.3704
+		rouge-2: 0.1667
+		rouge-l: 0.2581
+		mean: 0.2650
+	Summary: 
+		massachusetts artist invented lifetiles medium artist world using
+		lifetiles use electricity moving parts tricky lighting elaborate painstaking process done seder eye think inc. studio near boston
+		lifetiles installation conception completion take year complete
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.0000
+		rouge-2: 0.0000
+		rouge-l: 0.0000
+		mean: 0.0000
+	Summary: 
+		huge mural greets visitors reggie lewis track athletic center boston
+		memorial building namesake died unexpectedly 1993
+		hundreds tiles used create magic mural reggie lewis track athletic center boston

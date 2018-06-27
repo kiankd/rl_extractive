@@ -1,0 +1,78 @@
+DOCUMENT:
+0: every end results new beginning start next race white house begins
+1: midterm elections barely behind dozen possible contenders 2012 gop presidential nomination longer keep charade activity campaign trail past couple months solely helping fellow republicans year nothing next race white house
+2: among considering presidential bids criss-crossing country mississippi governor republican governors association chairman haley barbour made five-day 13-state swing support gop gubernatorial candidates former massachusetts governor 2008 gop presidential candidate mitt romney campaigned republicans 25 states since august minnesota gov. tim pawlenty made seven-day eight-state tour former house speaker newt gingrich finished 12-state two-week tour
+3: potential white house hopefuls campaign trail fall fellow republicans sen. john thune south dakota former sen. rick santorum pennsylvania former arkansas governor 2008 gop presidential candidate mike huckabee talk-show host rep. mike pence indiana rep. ron paul texas also ran party last presidential nomination former alaska governor 2008 vice presidential nominee sarah palin
+4: thinking bidding white house midterms served partially pregame show
+5: potential 2012 candidates point 2010 travel fundraising efforts asked needed
+6: elected republicans activists whose support courting caucuses primaries year says kevin madden republican strategist national press secretary romney 2008 presidential campaign
+7: end 2010 election cycle mean interested running white house immediately launch bids
+8: many bigger names may announce bid presidency said wo decide white house run early next year
+9: lesser-known candidates may launch exploratory committees soon midterms last cycle
+10: get ready pickup frequency 2012 presidential polling
+11: probably agree soon start speculating 2012 starting november 3 wo stop folks anyway madden said
+12: many republican hopefuls may immediately declare candidates felt immediately battle gop presidential nomination effect tea party movement
+13: hard-charging tea party candidates came nowhere beat establishment gop candidates primaries general election contests
+14: wake-up call republican establishment candidates president says cnn contributor republican strategist alex castellanos
+15: tea party added energy enthusiasm gop may also changed way republicans choose presidential nominee
+16: always pick guy ran last time nearly
+17: election may turned dynamic head castellanos said
+18: follow paul steinhauser twitter @psteinhausercnn
+
+=================================
+Gold summary:
+contenders 2012 gop presidential nomination longer keep charade
+thinking running midterms served pregame show
+bigger names say wo decide whether run early next year
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 17, 2, 13
+	Results: 
+		rouge-1: 0.0833
+		rouge-2: 0.0435
+		rouge-l: 0.0833
+		mean: 0.0700
+	Summary: 
+		election may turned dynamic head castellanos said
+		among considering presidential bids criss-crossing country mississippi governor republican governors association chairman haley barbour made five-day 13-state swing support gop gubernatorial candidates former massachusetts governor 2008 gop presidential candidate mitt romney campaigned republicans 25 states since august minnesota gov. tim pawlenty made seven-day eight-state tour former house speaker newt gingrich finished 12-state two-week tour
+		hard-charging tea party candidates came nowhere beat establishment gop candidates primaries general election contests
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4167
+		rouge-2: 0.3043
+		rouge-l: 0.3750
+		mean: 0.3653
+	Summary: 
+		every end results new beginning start next race white house begins
+		midterm elections barely behind dozen possible contenders 2012 gop presidential nomination longer keep charade activity campaign trail past couple months solely helping fellow republicans year nothing next race white house
+		among considering presidential bids criss-crossing country mississippi governor republican governors association chairman haley barbour made five-day 13-state swing support gop gubernatorial candidates former massachusetts governor 2008 gop presidential candidate mitt romney campaigned republicans 25 states since august minnesota gov. tim pawlenty made seven-day eight-state tour former house speaker newt gingrich finished 12-state two-week tour
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 4, 8
+	Results: 
+		rouge-1: 0.8750
+		rouge-2: 0.6087
+		rouge-l: 0.8750
+		mean: 0.7862
+	Summary: 
+		midterm elections barely behind dozen possible contenders 2012 gop presidential nomination longer keep charade activity campaign trail past couple months solely helping fellow republicans year nothing next race white house
+		thinking bidding white house midterms served partially pregame show
+		many bigger names may announce bid presidency said wo decide white house run early next year
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4167
+		rouge-2: 0.3043
+		rouge-l: 0.3750
+		mean: 0.3653
+	Summary: 
+		every end results new beginning start next race white house begins
+		midterm elections barely behind dozen possible contenders 2012 gop presidential nomination longer keep charade activity campaign trail past couple months solely helping fellow republicans year nothing next race white house
+		among considering presidential bids criss-crossing country mississippi governor republican governors association chairman haley barbour made five-day 13-state swing support gop gubernatorial candidates former massachusetts governor 2008 gop presidential candidate mitt romney campaigned republicans 25 states since august minnesota gov. tim pawlenty made seven-day eight-state tour former house speaker newt gingrich finished 12-state two-week tour

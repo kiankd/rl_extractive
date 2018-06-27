@@ -1,0 +1,89 @@
+DOCUMENT:
+0: students teachers maryland private school quarantined china swine flu concerns released mother one students told cnn american morning
+1: chinese health authorities prepare take temperatures passengers plane germany week
+2: heard daughter one teacher chaperones
+3: quite excited said alesia peterson whose 15-year-old daughter erica one 21 students trip
+4: temperatures taken
+5: allowed leave
+6: boarded bus filled flowers gifts heading next destination
+7: chinese government quarantined students barrie school three teacher chaperones hotel passenger plane china suspected swine flu said vicky temple director communications school
+8: mike kennedy head barrie school said u.s. consular officials since told school plane passenger swine flu h1n1
+9: kennedy said students kept hotel rooms two floors four-star hotel kaili part guizhou province southern china since noon monday
+10: students scheduled return united states sunday
+11: missed lion share itinerary kennedy said thursday
+12: frustrating said added understand like say chinese officials kind friendly kids chaperones
+13: china state-run xinhua news agency reported guizhou province health bureau announced earlier week discovered two dozen americans within four rows suspected swine flu h1n1 case plane
+14: plane departed san francisco california friday
+15: quarantine students roommates others said peterson told cnn got information teacher chaperones
+16: kids allowed doors open speak across hall
+17: also allowed use phones e-mail access
+18: chinese authorities delivered three meals day baskets
+19: try stay entertained kids used makeshift bowling balls
+20: asked whether upset happened daughter trip peterson responded say visitors foreign country
+21: adhere whatever rules foreign country
+22: added actually concerns parent would
+23: absolute confidence teacher chaperones monitoring keeping us informed whole time
+24: peterson offered daughter future trip overseas help make one
+25: think might wait years
+26: would like go back china would love
+27: state department spokesman ian kelly said afternoon briefing aware report said details circumstances u.s. officials might
+28: cnn brian todd taylor gandossy contributed report
+
+=================================
+Gold summary:
+new group maryland private school allowed resume trip mother says
+new chinese authorities find everyone group healthy woman tells cnn
+students teachers plane passenger suspected swine flu
+quarantine hotel students used food baskets bowling balls
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 11, 18, 27
+	Results: 
+		rouge-1: 0.0938
+		rouge-2: 0.0294
+		rouge-l: 0.0857
+		mean: 0.0696
+	Summary: 
+		missed lion share itinerary kennedy said thursday
+		chinese authorities delivered three meals day baskets
+		state department spokesman ian kelly said afternoon briefing aware report said details circumstances u.s. officials might
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3750
+		rouge-2: 0.1176
+		rouge-l: 0.2000
+		mean: 0.2309
+	Summary: 
+		students teachers maryland private school quarantined china swine flu concerns released mother one students told cnn american morning
+		chinese health authorities prepare take temperatures passengers plane germany week
+		heard daughter one teacher chaperones
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 7, 19
+	Results: 
+		rouge-1: 0.5312
+		rouge-2: 0.1765
+		rouge-l: 0.3714
+		mean: 0.3597
+	Summary: 
+		students teachers maryland private school quarantined china swine flu concerns released mother one students told cnn american morning
+		chinese government quarantined students barrie school three teacher chaperones hotel passenger plane china suspected swine flu said vicky temple director communications school
+		try stay entertained kids used makeshift bowling balls
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3750
+		rouge-2: 0.1176
+		rouge-l: 0.2000
+		mean: 0.2309
+	Summary: 
+		students teachers maryland private school quarantined china swine flu concerns released mother one students told cnn american morning
+		chinese health authorities prepare take temperatures passengers plane germany week
+		heard daughter one teacher chaperones

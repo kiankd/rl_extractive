@@ -1,0 +1,82 @@
+DOCUMENT:
+0: three americans rescued last week captivity colombian jungle left medical center homes saturday hoping time spotlight reconnect loved ones
+1: left right thomas howes keith stansell marc gonsalves address reporters flying home saturday
+2: keith stansell marc gonsalves thomas howes hostages revolutionary armed forces colombia five years left brooke army medical center san antonio texas
+3: family members waiting us imagine seen family 5 1/2 years stansell said asking media allow former captives space
+4: let us go home family men
+5: going come going talk right want rest gonsalves said
+6: three headed home florida stansell howes flashed new florida driver licenses boarded plane
+7: three men undergoing reintegration process medical center
+8: farc held three u.s. government contractors since february 2003 plane went remote region south american country
+9: former colombian presidential candidate ingrid betancourt among 15 hostages rescued july 2 colombian military operation
+10: three americans arrived brooke army medical center later day
+11: three americans urged media forget hundreds hostages still held farc
+12: forget people still stansell said
+13: fellow hostages still
+14: 10 years -lsb- hostage -rsb- said
+15: right minute chains looking food run
+16: families seen 10 years
+17: estimated farc holds 750 hostages
+18: leftist rebel group took arms 1964 grew rag-tag band 48 fighters self-styled people army 21,000 combatants 2001 according colombian government figures
+19: government estimates farc fighting force dwindled around 8,000 wave desertions
+20: saturday rescued americans talked looking forward spending time relatives
+21: going go home
+22: going rest going unwind month half gonsalves said
+
+=================================
+Gold summary:
+ex-farc hostages leave texas medical center 10 days rescue
+freed men ask privacy saying want spend time relatives
+men ask media forget hostages still held colombia
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 0, 20, 22
+	Results: 
+		rouge-1: 0.1739
+		rouge-2: 0.0833
+		rouge-l: 0.1538
+		mean: 0.1370
+	Summary: 
+		three americans rescued last week captivity colombian jungle left medical center homes saturday hoping time spotlight reconnect loved ones
+		saturday rescued americans talked looking forward spending time relatives
+		going rest going unwind month half gonsalves said
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2609
+		rouge-2: 0.0417
+		rouge-l: 0.1923
+		mean: 0.1649
+	Summary: 
+		three americans rescued last week captivity colombian jungle left medical center homes saturday hoping time spotlight reconnect loved ones
+		left right thomas howes keith stansell marc gonsalves address reporters flying home saturday
+		keith stansell marc gonsalves thomas howes hostages revolutionary armed forces colombia five years left brooke army medical center san antonio texas
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 2, 11, 20
+	Results: 
+		rouge-1: 0.4783
+		rouge-2: 0.2083
+		rouge-l: 0.3077
+		mean: 0.3314
+	Summary: 
+		keith stansell marc gonsalves thomas howes hostages revolutionary armed forces colombia five years left brooke army medical center san antonio texas
+		three americans urged media forget hundreds hostages still held farc
+		saturday rescued americans talked looking forward spending time relatives
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2609
+		rouge-2: 0.0417
+		rouge-l: 0.1923
+		mean: 0.1649
+	Summary: 
+		three americans rescued last week captivity colombian jungle left medical center homes saturday hoping time spotlight reconnect loved ones
+		left right thomas howes keith stansell marc gonsalves address reporters flying home saturday
+		keith stansell marc gonsalves thomas howes hostages revolutionary armed forces colombia five years left brooke army medical center san antonio texas

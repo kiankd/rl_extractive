@@ -1,0 +1,65 @@
+DOCUMENT:
+0: world cup games watch trash talk bandwagons ride
+1: sad day twitter without world cup
+2: #piersing mexico coach miguel herrera raging enthusiasm controversial luis suarez bite competition filled moments made social media
+3: hurt united states playing well
+4: follow soccer well prepared friday silence bandwagon fans bewildered wake find alone thursday party
+5: handful suggestions pass time saturday afternoon knockout round begins
+
+=================================
+Gold summary:
+friday world cup trended hours twitter
+people posted complaints boredom loneliness
+social media played important role popularity year games
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 1, 2, 4
+	Results: 
+		rouge-1: 0.3158
+		rouge-2: 0.1111
+		rouge-l: 0.2105
+		mean: 0.2125
+	Summary: 
+		sad day twitter without world cup
+		#piersing mexico coach miguel herrera raging enthusiasm controversial luis suarez bite competition filled moments made social media
+		follow soccer well prepared friday silence bandwagon fans bewildered wake find alone thursday party
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3158
+		rouge-2: 0.1111
+		rouge-l: 0.2632
+		mean: 0.2300
+	Summary: 
+		world cup games watch trash talk bandwagons ride
+		sad day twitter without world cup
+		#piersing mexico coach miguel herrera raging enthusiasm controversial luis suarez bite competition filled moments made social media
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3158
+		rouge-2: 0.1111
+		rouge-l: 0.2632
+		mean: 0.2300
+	Summary: 
+		world cup games watch trash talk bandwagons ride
+		sad day twitter without world cup
+		#piersing mexico coach miguel herrera raging enthusiasm controversial luis suarez bite competition filled moments made social media
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3158
+		rouge-2: 0.1111
+		rouge-l: 0.2632
+		mean: 0.2300
+	Summary: 
+		world cup games watch trash talk bandwagons ride
+		sad day twitter without world cup
+		#piersing mexico coach miguel herrera raging enthusiasm controversial luis suarez bite competition filled moments made social media

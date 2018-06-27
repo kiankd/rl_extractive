@@ -1,0 +1,71 @@
+DOCUMENT:
+0: kenya president declared two days national mourning wednesday wangari maathai first woman africa win nobel peace prize died monday battle cancer
+1: announcement president mwai kibaki also said state funeral would held maathai
+2: date specified
+3: maathai 71 environmentalist long campaigned human rights empowerment africa impoverished people
+4: kibaki announcement said thursday friday would days national mourning maathai national flag flown half staff
+5: also said government nominated representatives join family committee planning funeral
+6: maathai founded green belt movement kenya tree-planting campaign simultaneously mitigate deforestation give locals especially women girls access resources like firewood cooking clean water
+7: movement since planted 40 million trees
+8: 2004 maathai awarded nobel peace prize efforts promote sustainable development democracy peace
+9: also first woman east central africa earn doctorate degree
+10: december 2002 elected kenya parliament overwhelming 98 vote
+11: honored time magazine 2005 one 100 influential people world forbes listed one 100 powerful women world
+
+=================================
+Gold summary:
+kenya announces two days mourning wangari maathai
+state funeral held environmental activist died week
+first woman africa win nobel peace prize
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 2, 5, 6
+	Results: 
+		rouge-1: 0.1429
+		rouge-2: 0.0000
+		rouge-l: 0.0476
+		mean: 0.0635
+	Summary: 
+		date specified
+		also said government nominated representatives join family committee planning funeral
+		maathai founded green belt movement kenya tree-planting campaign simultaneously mitigate deforestation give locals especially women girls access resources like firewood cooking clean water
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.8095
+		rouge-2: 0.4500
+		rouge-l: 0.6190
+		mean: 0.6262
+	Summary: 
+		kenya president declared two days national mourning wednesday wangari maathai first woman africa win nobel peace prize died monday battle cancer
+		announcement president mwai kibaki also said state funeral would held maathai
+		date specified
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 1, 11
+	Results: 
+		rouge-1: 0.8095
+		rouge-2: 0.4500
+		rouge-l: 0.6190
+		mean: 0.6262
+	Summary: 
+		kenya president declared two days national mourning wednesday wangari maathai first woman africa win nobel peace prize died monday battle cancer
+		announcement president mwai kibaki also said state funeral would held maathai
+		honored time magazine 2005 one 100 influential people world forbes listed one 100 powerful women world
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.8095
+		rouge-2: 0.4500
+		rouge-l: 0.6190
+		mean: 0.6262
+	Summary: 
+		kenya president declared two days national mourning wednesday wangari maathai first woman africa win nobel peace prize died monday battle cancer
+		announcement president mwai kibaki also said state funeral would held maathai
+		date specified

@@ -1,0 +1,116 @@
+DOCUMENT:
+0: mahmoud abbas palestinian president sit u.s. president barack obama monday discuss state fate secretary state john kerry peace process good man likely best partner peace negotiations washington israeli government likely
+1: rational enlightened leader eschews violence dream somehow sometime armed struggle demography deliver palestinians state
+2: one pesky problem current circumstances deliver side comprehensive peace agreement israel
+3: palestinian consensus
+4: abbas bind
+5: trapped traditional palestinian negotiating positions narrative almost impossible alter
+6: positions include june 1967 borders minor territorial adjustments capital east jerusalem security arrangements suck every bit sovereignty palestinian statehood acceptable answer question volatile issue right return
+7: diverge significantly would end political viability perhaps life
+8: even late palestinian leader yasser arafat whose power authority legitimacy conferred discretion flexibility would agree anything short consensus
+9: heard arafat remark camp david summit wo walk behind coffin
+10: abbas little arafat street cred
+11: head palestinian authority palestinian liberation organization executive committee master none
+12: enough urgency
+13: idea could reconcile palestinian consensus benjamin netanyahu bottom lines assuming could identify fantastical
+14: self-image become midwife father palestinian state based abbas requirements needs water u.s. help
+15: even idea prepared yield abbas borders jerusalem highly improbable
+16: history peacemaking israeli side sure history transformed hawks see menachem begin yitzhak rabin ehud barak ehud olmert
+17: netanyahu different circumstances changed
+18: region turmoil iran real priority
+19: neither enough pain prospect gain urgently make deal
+20: hamas greatly weakened
+21: ouster egypt mohammed morsy turkish prime minister recep tayyip erdogan troubles hamas need distance syria blocked options
+22: fatah hamas palestinian national movement still badly divided resembles kind palestinian noah ark two everything statelets security services patrons constitutions visions palestine even
+23: real problem reconciliation two factions likely harden palestinian positions creating tradeoff internal peace palestinian ranks tension israel probably united states
+24: yet unless palestinians find way assume control forces violence palestine short one authority one gun hard see israel even could persuaded withdraw west bank paper would ever practice
+25: obama administration understandably deal hamas issue
+26: instead seems subscribe field dreams school diplomacy build come
+27: according logic agreement israel palestinian authority would leave already weakened hamas choice put shut
+28: problem work build would agreement compelling vast majority palestinians would rally around
+29: hard see
+30: help obama
+31: president would like historic peacemaker
+32: made clear 2012 interview jeffrey goldberg frustrated prime minister netanyahu
+33: fight israeli prime minister possibility long-shot israeli-palestinian deal add
+34: productive fight israel ends producing historic peace deal everyone wins one thing
+35: right deal nowhere sight
+36: indeed right obama priorities ukraine iran preserving domestic legacy maintaining democratic control senate upcoming midterm elections
+37: little incentive capacity forcefully press netanyahu deal
+38: people may think second-term president freed need re-election free take big gamble
+39: really never absence political constraints much presence real opportunity drives presidents
+40: obama want fail
+41: cause alarm
+42: odds conflict-ending agreement netanyahu abbas core issues drive israeli-palestinian conflict resolved slim none
+43: think outcomes solutions
+44: cause despair
+45: kerry relentlessness skill engaging parties created process least survive u.s.-imposed april deadline peace deal live least year end
+46: nobody wants blamed demise kerry process netanyahu abbas likely wonder worry happen process
+47: israel probably plan b. abbas fallback go united nations rely international community boycott divestment sanctions movement offer much promise without washington pressuring israel
+48: abbas meeting white house go well enough
+49: president deeply cares palestinians cause
+50: abbas wo betray palestinian positions obama legacy neither humiliate president
+51: kerry may yet squeeze enough two sides produce piece paper
+52: event wo palestinians spoil party
+53: president abbas almost certainly tell president paper deadline damned let us continue important work israeli-palestinian peacemaking
+54: peace may around corner negotiations almost certainly
+55: opinions expressed commentary solely aaron david miller
+
+=================================
+Gold summary:
+aaron miller abbas meet obama wo able deliver side peace deal
+says abbas backs palestinian negotiating points peril netanyahu wo yield
+says fractious palestinians impede deal plus obama taken ukraine midterms
+miller parties want subvert kerry process abbas visit wo move needle
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 26, 51, 36
+	Results: 
+		rouge-1: 0.0882
+		rouge-2: 0.0000
+		rouge-l: 0.0476
+		mean: 0.0453
+	Summary: 
+		instead seems subscribe field dreams school diplomacy build come
+		kerry may yet squeeze enough two sides produce piece paper
+		indeed right obama priorities ukraine iran preserving domestic legacy maintaining democratic control senate upcoming midterm elections
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2647
+		rouge-2: 0.0244
+		rouge-l: 0.1190
+		mean: 0.1360
+	Summary: 
+		mahmoud abbas palestinian president sit u.s. president barack obama monday discuss state fate secretary state john kerry peace process good man likely best partner peace negotiations washington israeli government likely
+		rational enlightened leader eschews violence dream somehow sometime armed struggle demography deliver palestinians state
+		one pesky problem current circumstances deliver side comprehensive peace agreement israel
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 2, 45
+	Results: 
+		rouge-1: 0.2941
+		rouge-2: 0.0488
+		rouge-l: 0.1667
+		mean: 0.1699
+	Summary: 
+		mahmoud abbas palestinian president sit u.s. president barack obama monday discuss state fate secretary state john kerry peace process good man likely best partner peace negotiations washington israeli government likely
+		one pesky problem current circumstances deliver side comprehensive peace agreement israel
+		kerry relentlessness skill engaging parties created process least survive u.s.-imposed april deadline peace deal live least year end
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 50
+	Results: 
+		rouge-1: 0.2647
+		rouge-2: 0.0000
+		rouge-l: 0.1667
+		mean: 0.1438
+	Summary: 
+		mahmoud abbas palestinian president sit u.s. president barack obama monday discuss state fate secretary state john kerry peace process good man likely best partner peace negotiations washington israeli government likely
+		rational enlightened leader eschews violence dream somehow sometime armed struggle demography deliver palestinians state
+		abbas wo betray palestinian positions obama legacy neither humiliate president

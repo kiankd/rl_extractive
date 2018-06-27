@@ -1,0 +1,120 @@
+DOCUMENT:
+0: sunday night marked first time heard lindsay lohan since recent stint rehab eagerly awaited pow wow oprah winfrey
+1: course hour pow bit wow us used seeing young actress troubled starlet
+2: lohan appeared coherent comfortable answering questions oprah next chapter started clear wanted share truth
+3: filmed four days lohan left sixth rehab interview kicked winfrey network lohan programming also include reality docu-series lohan attempt get life back track
+4: looking healthier fans seen lohan wore tangerine-colored form-fitting dress hair pulled back ponytail light make-up
+5: referred addict almost immediately discussed everything drug choice relationship parents
+6: since 7 lucky number many wishing best 7 things learned show
+7: 1 lohan secretly wished go jail first time
+8: oprah reminds us july 6 2010 lohan violated probation missing alcohol counseling sessions
+9: sentenced 90 days jail served two weeks jail overcrowding
+10: actress said addict surrounded much chaos made kind want go jail
+11: think peace choice sit lohan told winfrey
+12: never forget moment sentenced
+13: 2 alcohol drug choice cocaine
+14: according lohan booze way problem cocaine despite many jokes bandied contrary
+15: lohan told winfrey done cocaine 10 15 times never really enjoyed snorting
+16: attraction drug said allowed drink
+17: cocaine like party thing
+18: people would would said
+19: went hand hand drinking
+20: lohan also revealed longer adderall use stimulant control weight
+21: said ground
+22: days lohan said pills takes vitamins nexium acid reflux
+23: 3 admits mess
+24: lohan said hates known winfrey put adjective verb bad behavior child star gone wrong
+25: lohan said aspired
+26: says reputation late set among famous complaints came distracted past point
+27: believes turn around
+28: long stay honest work willing willing nothing stand way lohan said
+29: worst enemy know
+30: 4 troubles started mean girls
+31: success multiple films including parent trap herbie fully loaded lohan making 7 million picture
+32: said hit even bigger 2004 mean girls decided move los angeles
+33: spelled trouble then-18-year-old said reckless money vulnerable hangers-on surrounded
+34: response winfrey query guide actress shrugged said one really think
+35: 5 lohan spiritual
+36: feel whole lohan told winfrey feeling post last trip rehab
+37: spiritual person become spiritual time gone lohan said
+38: really touch whether prayer meditation many powers greater world
+39: blessed lucky enough given gift share people
+40: 6 blame parents
+41: lohan maintained loves parents close despite time father secretly taped phone call lindsay accused mother drug use
+42: michael lohan made tape public quickly went viral
+43: lohan said lied father conversation
+44: fight mother lohan said acting
+45: said unsure father betrayed said parents get along
+46: hate bad rap people give parents lohan said
+47: parents really end day trying stand daughter
+48: parents responsible poor choices said
+49: still since asked parents keep lives private
+50: 7 different
+51: lohan said understands perceived someone given chance chance expressed seemed sincere desire return work lohan calls acting thing made happiest whole life
+52: told oprah ready work really hard stay focused prove way past lost
+53: regain trust people career doubts fully respect behaf
+54: oprah asked lohan upcoming trip europe whether would good idea soon rehab lohan thought could handle
+55: feel different
+56: different headspace
+57: want things wanted said
+58: days interview taped lohan canceled trip
+59: process growing recognizing tired exhausted chaos really lohan said interview
+60: right past complain followed cameras people making stories something said moving forward
+
+=================================
+Gold summary:
+lohan calls addict interview oprah winfrey
+said blame parents troubles
+lohan word believe make comeback
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 40, 45, 30
+	Results: 
+		rouge-1: 0.2857
+		rouge-2: 0.0714
+		rouge-l: 0.2000
+		mean: 0.1857
+	Summary: 
+		6 blame parents
+		said unsure father betrayed said parents get along
+		4 troubles started mean girls
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2143
+		rouge-2: 0.0714
+		rouge-l: 0.2667
+		mean: 0.1841
+	Summary: 
+		sunday night marked first time heard lindsay lohan since recent stint rehab eagerly awaited pow wow oprah winfrey
+		course hour pow bit wow us used seeing young actress troubled starlet
+		lohan appeared coherent comfortable answering questions oprah next chapter started clear wanted share truth
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 40, 51
+	Results: 
+		rouge-1: 0.5000
+		rouge-2: 0.2143
+		rouge-l: 0.4000
+		mean: 0.3714
+	Summary: 
+		sunday night marked first time heard lindsay lohan since recent stint rehab eagerly awaited pow wow oprah winfrey
+		6 blame parents
+		lohan said understands perceived someone given chance chance expressed seemed sincere desire return work lohan calls acting thing made happiest whole life
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 35, 25
+	Results: 
+		rouge-1: 0.2857
+		rouge-2: 0.0714
+		rouge-l: 0.2667
+		mean: 0.2079
+	Summary: 
+		sunday night marked first time heard lindsay lohan since recent stint rehab eagerly awaited pow wow oprah winfrey
+		5 lohan spiritual
+		lohan said aspired

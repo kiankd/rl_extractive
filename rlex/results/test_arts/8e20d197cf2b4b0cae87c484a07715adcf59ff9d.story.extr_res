@@ -1,0 +1,65 @@
+DOCUMENT:
+0: top part burning television tower collapsed netherlands leaving trail thick billowing smoke fiery flames
+1: unclear caused fiery collapse hoogersmilde friday
+2: incident disrupted television radio mobile phone networks nearby
+3: fire crews arrived collapse moved safe distance realized could extinguish blaze mayor jan broerjes said friday
+4: one injured
+5: investigation way
+6: cnn ben brumfield contributed report
+
+=================================
+Gold summary:
+cause fiery collapse hoogersmilde unclear
+incident disrupts television radio mobile networks nearby
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 0, 1, 4
+	Results: 
+		rouge-1: 0.4167
+		rouge-2: 0.1818
+		rouge-l: 0.2500
+		mean: 0.2828
+	Summary: 
+		top part burning television tower collapsed netherlands leaving trail thick billowing smoke fiery flames
+		unclear caused fiery collapse hoogersmilde friday
+		one injured
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.8333
+		rouge-2: 0.4545
+		rouge-l: 0.7500
+		mean: 0.6793
+	Summary: 
+		top part burning television tower collapsed netherlands leaving trail thick billowing smoke fiery flames
+		unclear caused fiery collapse hoogersmilde friday
+		incident disrupted television radio mobile phone networks nearby
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 2, 6
+	Results: 
+		rouge-1: 0.8333
+		rouge-2: 0.4545
+		rouge-l: 0.7500
+		mean: 0.6793
+	Summary: 
+		unclear caused fiery collapse hoogersmilde friday
+		incident disrupted television radio mobile phone networks nearby
+		cnn ben brumfield contributed report
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.8333
+		rouge-2: 0.4545
+		rouge-l: 0.7500
+		mean: 0.6793
+	Summary: 
+		top part burning television tower collapsed netherlands leaving trail thick billowing smoke fiery flames
+		unclear caused fiery collapse hoogersmilde friday
+		incident disrupted television radio mobile phone networks nearby

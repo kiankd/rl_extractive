@@ -1,0 +1,90 @@
+DOCUMENT:
+0: less six weeks president hugo chavez death venezuelans head polls sunday pick new leader
+1: second time six months voters south american country cast ballots presidential election
+2: chavez ruled venezuela 14 years celebrated triumphant re-election victory october
+3: death march 5 authorities announced new elections select successor
+4: running replace chavez
+5: nicolas maduro 50 candidate united socialist party venezuela
+6: henrique capriles radonski 40 represents coalition opposition parties
+7: maduro started career bus driver caracas rose ranks union leader eventually became part chavez inner circle
+8: interim leader since chavez death served vice president foreign minister administration
+9: capriles former governor miranda state
+10: lost chavez october presidential vote coming within 10 percentage points longtime leader
+11: significant gap closest opposition candidate ever came defeating chavez rule
+12: maduro pledged continue chavez plan build 21st century socialism
+13: capriles says pushing moderate approach promising continue social programs improve country economy
+14: read maduro bus driver presidential candidate
+15: read capriles second chance defeat chavismo
+16: key issues stake
+17: crime inflation food shortages key problems minds many nation
+18: heated rhetoric campaign trail focused personal attacks candidates sparring legacy chavez
+19: matter wins question happen venezuela without chavez helm looms large elections
+20: many people expected cast ballots
+21: 18.9 million venezuelans registered vote presidential election
+22: venezuela national electoral council estimates 100,000 venezuelans vote abroad diplomatic offices 88 countries
+23: 37,681 venezuelans registered vote united states according government figures
+24: addition representatives national organizations serving observers venezuela national electoral council says 170 foreigners invited witness elections
+25: international group includes delegations union south american nations atlanta-based carter center
+26: read chavez impact venezuela lauded funeral
+27: read next
+28: chavez death leaves many questions
+29: read hugo chavez death draws sympathy anger
+
+=================================
+Gold summary:
+maduro capriles square sunday presidential vote
+election comes less six weeks death chavez
+18.9 million venezuelans registered vote
+economy crime key issues stake
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 1, 9, 23
+	Results: 
+		rouge-1: 0.3182
+		rouge-2: 0.0909
+		rouge-l: 0.2174
+		mean: 0.2088
+	Summary: 
+		second time six months voters south american country cast ballots presidential election
+		capriles former governor miranda state
+		37,681 venezuelans registered vote united states according government figures
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4091
+		rouge-2: 0.0909
+		rouge-l: 0.2174
+		mean: 0.2391
+	Summary: 
+		less six weeks president hugo chavez death venezuelans head polls sunday pick new leader
+		second time six months voters south american country cast ballots presidential election
+		chavez ruled venezuela 14 years celebrated triumphant re-election victory october
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 16, 21
+	Results: 
+		rouge-1: 0.7273
+		rouge-2: 0.3636
+		rouge-l: 0.3913
+		mean: 0.4941
+	Summary: 
+		less six weeks president hugo chavez death venezuelans head polls sunday pick new leader
+		key issues stake
+		18.9 million venezuelans registered vote presidential election
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4091
+		rouge-2: 0.0909
+		rouge-l: 0.2174
+		mean: 0.2391
+	Summary: 
+		less six weeks president hugo chavez death venezuelans head polls sunday pick new leader
+		second time six months voters south american country cast ballots presidential election
+		chavez ruled venezuela 14 years celebrated triumphant re-election victory october

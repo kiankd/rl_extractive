@@ -1,0 +1,117 @@
+DOCUMENT:
+0: cruising along roanoke sound 20 bottlenose dolphins crisscrossed currents family toured outer banks north carolina slow-and-easy 55-foot pontoon
+1: warm summer evening joined captain johnny outer banks dolphin tours manteo north carolina across bridge roanoke island
+2: three simple words tourists encouraged shout someone spots dolphins
+3: even cautious adult sightseers ca resist yelling see dolphin skimming surf
+4: life beach cape hatteras
+5: captain johnny guarantees dolphin sightings cruise popular boat tour enterprise disappoint
+6: halfway two-hour cruise stopped counting spotting 30 playful dolphins surrounding boat
+7: active group dolphins today guide told us
+8: know many dolphins see day know find
+9: dolphin watch cruise must-do activity families leaves bayside dock manteo quaint waterfront town eastern side roanoke island late 1800s every store lining waterfront door come ashore boat
+10: roanoke island part string barrier islands stretches 200 miles along north carolina coast
+11: driving outer banks great road trip families destination something everyone inexpensive seaside restaurants serving fresh seafood burgers boutique shops outlet stores mini-golf boardwalks fishing boat tours ice cream fudge shops jet-ski rentals hang gliding range hotels bed breakfasts oceanfront rental homes condos
+12: three popular islands outer banks bodie roanoke hatteras distinct charm history common features sandy beaches spectacular ocean views
+13: bodie island includes communities duck nags head kitty hawk kill devil hills
+14: visit wright brothers national memorial kill devil hills first flight took december 17 1903
+15: stop nags head home largest sand dune east coast jockey ridge check dozens gorgeous high-end homes
+16: also visit jennette pier lunch dinner fishing great ocean scenery
+17: 1,000-foot pier oldest pier outer banks great hangout children
+18: check duck boasts seven miles pristine beaches bike paths jet skiing
+19: sure walk town pick pint homemade ice cream
+20: hatteras island visit hatteras island visitor center museum sea historic cape hatteras lighthouse double keepers quarters
+21: also tour lighthouse
+22: first cape hatteras lighthouse lit 1803 according national park service
+23: nearly 200 feet tall current structure tallest brick lighthouse united states
+24: take time climb lighthouse
+25: fun experience entire family
+26: maritime buffs also stop graveyard atlantic museum hatteras village
+27: exhibits include evidence numerous shipwrecks around outer banks result treacherous seas
+28: pirate enthusiast ocracoke island south hatteras place
+29: late 1600s early 1700s outer banks secret base pirates
+30: hijacked spanish british ships carrying gold silver stashed booty crevices outer banks
+31: famous pirate outer banks edward teach also known blackbeard frequented ocracoke
+32: blackbeard ship queen anne revenge wrecked coast outer banks 1718
+33: evening entertainment history plan see theatrical stage production lost colony dramatic story 113 colonists mysteriously disappeared roanoke island 1590
+34: musical performed amphitheater manteo roanoke island stage three times size broadway productions
+35: english families first settled outer banks 1587 many descendants early british pioneers still live roanoke island today
+36: miss north carolina aquarium roanoke island features largest collection sharks state well outstanding interactive exhibit kids called operation sea turtle rescue
+37: 68,000-square-foot aquarium features outer banks vast aquatic life including horseshoe crabs rays alligators
+38: one popular exhibits aquarium touch room children touch rays horseshoe crabs hermit crabs creatures safe controlled environment
+39: real treat aquarium visitors high-velocity hurricane simulator generates wind speeds 78 mph equivalent category 1 hurricane
+40: adults children stand line exhibit
+41: blow away
+42: stayed overnight manteo base outer banks drove places nags head duck kitty hawk southern shores kill devil hills pea island site first all-black u.s. coast guard life-saving station late 1800s
+43: couples roanoke bungalow charming bed breakfast quiet street manteo
+44: family-owned home originally built 1930s renovated transformed delightful relaxing b&b
+45: cheryl wiggins prepares outstanding continental breakfast morning
+46: also try tranquil house inn heart town
+47: second-floor room overlooked bay marina
+48: wine cheese reception every evening nice touch tasty breakfast included morning
+49: rooms spacious hotel within walking distance local activities
+50: great meal wonderful atmosphere try 1587 tranquil house inn restaurant
+51: bit pricey well worth
+52: mahi-mahi menu order
+53: ask table overlooking marina
+54: excellent traditional latin food try la cabana
+55: inexpensive great food large potions
+56: try empanadas chicken stew seafood dishes
+57: decide captain johnny outer banks dolphin tours consider 6 p.m. excursion dolphin tour also becomes fantastic sunset cruise
+
+=================================
+Gold summary:
+north carolina outer banks make fun family trip
+dolphin tours pirate history appeal visitors ages
+visit wright brothers national memorial aviation history
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 16, 18, 30
+	Results: 
+		rouge-1: 0.1429
+		rouge-2: 0.0476
+		rouge-l: 0.0909
+		mean: 0.0938
+	Summary: 
+		also visit jennette pier lunch dinner fishing great ocean scenery
+		check duck boasts seven miles pristine beaches bike paths jet skiing
+		hijacked spanish british ships carrying gold silver stashed booty crevices outer banks
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3333
+		rouge-2: 0.1429
+		rouge-l: 0.2727
+		mean: 0.2496
+	Summary: 
+		cruising along roanoke sound 20 bottlenose dolphins crisscrossed currents family toured outer banks north carolina slow-and-easy 55-foot pontoon
+		warm summer evening joined captain johnny outer banks dolphin tours manteo north carolina across bridge roanoke island
+		three simple words tourists encouraged shout someone spots dolphins
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 11, 14
+	Results: 
+		rouge-1: 0.5714
+		rouge-2: 0.3333
+		rouge-l: 0.5000
+		mean: 0.4683
+	Summary: 
+		warm summer evening joined captain johnny outer banks dolphin tours manteo north carolina across bridge roanoke island
+		driving outer banks great road trip families destination something everyone inexpensive seaside restaurants serving fresh seafood burgers boutique shops outlet stores mini-golf boardwalks fishing boat tours ice cream fudge shops jet-ski rentals hang gliding range hotels bed breakfasts oceanfront rental homes condos
+		visit wright brothers national memorial kill devil hills first flight took december 17 1903
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 12
+	Results: 
+		rouge-1: 0.3810
+		rouge-2: 0.1429
+		rouge-l: 0.3182
+		mean: 0.2807
+	Summary: 
+		cruising along roanoke sound 20 bottlenose dolphins crisscrossed currents family toured outer banks north carolina slow-and-easy 55-foot pontoon
+		warm summer evening joined captain johnny outer banks dolphin tours manteo north carolina across bridge roanoke island
+		three popular islands outer banks bodie roanoke hatteras distinct charm history common features sandy beaches spectacular ocean views

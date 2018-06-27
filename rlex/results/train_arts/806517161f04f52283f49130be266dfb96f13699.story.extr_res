@@ -1,0 +1,85 @@
+DOCUMENT:
+0: blood clots long period inactivity killed woman died last month waiting room floor new york hospital state medical examiner said friday
+1: surveillance video shows esmin green hospital floor hour anyone helps
+2: death esmin green attracted media attention worldwide security camera captured hospital employees patients appearing ignore slumped chair began convulsing floor
+3: jamaican immigrant involuntarily admitted kings county hospital brooklyn new york june 18 hospital described agitation psychosis
+4: security video released earlier month new york civil liberties union showed mother six waited chair nearly 24 hours fell floor june 19
+5: hour went hospital employee nudged green 49 foot summoned help
+6: nyclu alleged hospital records falsified show green sitting quietly waiting room little 10 minutes stopped moving 48 minutes slid floor
+7: green autopsy reveals died pulmonary thromboemboli blood clots formed legs eventually made way lungs according ellen borakove medical examiner spokeswoman
+8: clots came deep vein thrombosis complicated green chronic paranoid schizophrenia
+9: many people afflicted deep vein thrombosis unaware condition symptoms including pain swelling leg shortness breath
+10: drugs stop clots forming help also prevent existing clots growing larger
+11: doctors recommend people deep vein thrombosis avoid long periods inactivity frequently exercise legs long trips
+12: security videos released new york city health hospitals corporation oversees hospital said shocked distressed situation
+13: clear employees failed act based compassionate standards care
+14: seven workers including doctors nurses security guards fired suspended since green death corporation said
+15: clear whether employees appealed disciplinary actions
+16: agency acknowledged discrepancy hospital records said referred matter law enforcement cooperating investigation
+17: green relatives say plan file 25 million lawsuit city hospital called criminal charges hospital workers
+18: kings county hospital already subject lawsuit filed may 2007 alleging conditions facility filthy
+19: patients often forced sleep plastic chairs floors covered urine feces blood waiting beds groups allege often go without basic hygiene showers clean linens clean clothes
+20: lawsuit claims patients complain face physical abuse injected drugs keep docile
+21: hospital lacks minimal requirements basic cleanliness space privacy personal hygiene constitutionally guaranteed even convicted felons according suit
+22: video green death sent organizations back court july 1 demanding immediate reform
+23: among reforms agreed court hospital additional staffing checking patients every 15 minutes limiting 25 number patients psychiatric emergency ward officials said
+24: addition hospital said expanding crisis-prevention training staff expanding space prevent overcrowding reducing patients wait time release treatment placement inpatient bed
+
+=================================
+Gold summary:
+autopsy says blood clots caused long period inactivity killed esmin green
+video green june 19 death received worldwide attention
+video appears show hospital workers ignoring lying floor
+family says intend sue kings county hospital new york
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 0, 10, 7
+	Results: 
+		rouge-1: 0.3750
+		rouge-2: 0.1429
+		rouge-l: 0.2500
+		mean: 0.2560
+	Summary: 
+		blood clots long period inactivity killed woman died last month waiting room floor new york hospital state medical examiner said friday
+		drugs stop clots forming help also prevent existing clots growing larger
+		green autopsy reveals died pulmonary thromboemboli blood clots formed legs eventually made way lungs according ellen borakove medical examiner spokeswoman
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5000
+		rouge-2: 0.1714
+		rouge-l: 0.3333
+		mean: 0.3349
+	Summary: 
+		blood clots long period inactivity killed woman died last month waiting room floor new york hospital state medical examiner said friday
+		surveillance video shows esmin green hospital floor hour anyone helps
+		death esmin green attracted media attention worldwide security camera captured hospital employees patients appearing ignore slumped chair began convulsing floor
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 2, 3
+	Results: 
+		rouge-1: 0.5625
+		rouge-2: 0.2286
+		rouge-l: 0.4444
+		mean: 0.4118
+	Summary: 
+		blood clots long period inactivity killed woman died last month waiting room floor new york hospital state medical examiner said friday
+		death esmin green attracted media attention worldwide security camera captured hospital employees patients appearing ignore slumped chair began convulsing floor
+		jamaican immigrant involuntarily admitted kings county hospital brooklyn new york june 18 hospital described agitation psychosis
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5000
+		rouge-2: 0.1714
+		rouge-l: 0.3333
+		mean: 0.3349
+	Summary: 
+		blood clots long period inactivity killed woman died last month waiting room floor new york hospital state medical examiner said friday
+		surveillance video shows esmin green hospital floor hour anyone helps
+		death esmin green attracted media attention worldwide security camera captured hospital employees patients appearing ignore slumped chair began convulsing floor

@@ -1,0 +1,96 @@
+DOCUMENT:
+0: louisiana appeals court ruled early consider motion release black teenager allegedly took part beating white classmate jena louisiana last year
+1: mychal bell 17 accused five others severely beating justin barker school fight
+2: tuesday ruling latest turn racially charged saga group known jena 6 six black teens initially charged attempted murder allegedly knocked classmate justin barker stomped school fight
+3: five teens charged adults
+4: civil rights groups organizations marshaled thousands people march jena thursday day originally slated 17-year-old mychal bell sentencing hearing battery conspiracy convictions
+5: however district judge earlier month tossed bell conviction conspiracy commit second-degree battery saying matter handled juvenile court
+6: friday 3rd circuit court appeals lake charles louisiana bell battery conviction
+7: three-judge panel ruled tuesday however would consider motion free bell prison
+8: motion release custody filed defendant court premature panel ruled without setting date considering motion
+9: future bell case district attorney must decide whether refile charges juvenile court bell attorney bob noel said last week
+10: charges four teens bell carwin jones theodore shaw robert bailey reduced battery conspiracy
+11: shaw jones gone trial
+12: bailey pleaded guilty charges trial scheduled november 26
+13: bryant purvis unidentified juvenile remain charged attempted murder conspiracy commit murder
+14: advocates jena 6 say story began well december 4 beating
+15: say began september three white students decided hang nooses tree campus
+16: september 2006 black student asked vice principal friends could sit oak tree white students typically congregated
+17: told vice principal could sit wherever pleased student pals sat sprawling branches shade tree campus courtyard
+18: next day students arrived school find three nooses hanging branches
+19: according town talk nearby alexandria school principal recommended expulsion behind nooses
+20: instead newspaper reported school district committee suspended three white students three days hanging nooses gesture written prank
+21: racial tensions flared
+22: district attorney summoned address student body
+23: off-campus fights reported
+24: november 30 someone torched school main academic building
+25: arson remains unsolved many suspect linked discord
+26: four days arson several students jumped barker knocking unconscious stomping kicking
+27: parents jena 6 say heard barker hurling racial epithets
+28: barker parents insist nothing provoke beating
+29: barker taken hospital injuries eyes ears well cuts
+30: right eye blood clots said mother kelli barker
+31: treated released day
+32: bails jena 6 set 70,000 138,000
+33: bell posted bond
+34: judge refused lower 90,000 bail citing bell criminal record includes four juvenile offenses two simple battery charges among
+35: e-mail friend
+
+=================================
+Gold summary:
+thousands expected march jena thursday protest charges
+appeals court set date hearing motion release mychal bell
+bell one six teens charged beating white classmate
+tension jena high flared white students hung nooses campus tree
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 1, 14, 31
+	Results: 
+		rouge-1: 0.1290
+		rouge-2: 0.0303
+		rouge-l: 0.1176
+		mean: 0.0923
+	Summary: 
+		mychal bell 17 accused five others severely beating justin barker school fight
+		advocates jena 6 say story began well december 4 beating
+		treated released day
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4194
+		rouge-2: 0.1515
+		rouge-l: 0.2941
+		mean: 0.2883
+	Summary: 
+		louisiana appeals court ruled early consider motion release black teenager allegedly took part beating white classmate jena louisiana last year
+		mychal bell 17 accused five others severely beating justin barker school fight
+		tuesday ruling latest turn racially charged saga group known jena 6 six black teens initially charged attempted murder allegedly knocked classmate justin barker stomped school fight
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 4, 15
+	Results: 
+		rouge-1: 0.5806
+		rouge-2: 0.2424
+		rouge-l: 0.3529
+		mean: 0.3920
+	Summary: 
+		louisiana appeals court ruled early consider motion release black teenager allegedly took part beating white classmate jena louisiana last year
+		civil rights groups organizations marshaled thousands people march jena thursday day originally slated 17-year-old mychal bell sentencing hearing battery conspiracy convictions
+		say began september three white students decided hang nooses tree campus
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4194
+		rouge-2: 0.1515
+		rouge-l: 0.2941
+		mean: 0.2883
+	Summary: 
+		louisiana appeals court ruled early consider motion release black teenager allegedly took part beating white classmate jena louisiana last year
+		mychal bell 17 accused five others severely beating justin barker school fight
+		tuesday ruling latest turn racially charged saga group known jena 6 six black teens initially charged attempted murder allegedly knocked classmate justin barker stomped school fight

@@ -1,0 +1,80 @@
+DOCUMENT:
+0: luis suarez committed long term future liverpool friday signing new four-and-a-half year deal english premier league giants
+1: 26-year-old uruguayan international bagged league-leading 17 goals 11 epl starts season lead liverpool title challenge
+2: suarez subject two bids last transfer window arsenal currently top standings two points clear second-placed liverpool
+3: superb start current campaign chosen extend current contract due expire 2016
+4: delighted agreed new deal liverpool future secured long term suarez told liverpool official website
+5: great players team growing improving time
+6: believe achieve ambitions winning trophies playing highest level liverpool
+7: aim help get us quickly possible added
+8: manager brendan rodgers naturally delighted persuade suarez sign dotted line striker integral plans club
+9: luis world-class talent securing services crucial trying achieve said
+10: important exciting 26 years old best years still ahead know seeing reach potential liverpool shirt
+11: suarez signed liverpool manager kenny dalglish ajax amsterdam january 2011 immediately impressed observers
+12: time merseyside also marked two highly controversial incidents resulting lengthy bans
+13: found guilty english football association fa racially abusing manchester united defender patrice evra match october 2011 given eight-game suspension
+14: end last season suarez appeared bite chelsea branislav ivanovic epl game anfield banned 10 games fa violent conduct
+15: suarez set miss start new epl campaign reportedly wanting leave liverpool arsenal tabled record bid â 40 million 65.38 million plus â 1 bid designed invoke exit clause contract
+16: rejected liverpool proceeded make strong start season boosted eventual return suarez late september ban
+17: acquired hero status liverpool fans desperate success seeing arch-rivals manchester united take successful club english football
+18: suarez said support influenced decision
+19: suarez expected star uruguay next year world cup meet england group stages added special relationship love return love back
+
+=================================
+Gold summary:
+luis suarez signs new deal english premier league liverpool
+uruguayan international four-and-half-year contract 2018
+scored 17 goals 11 epl starts season
+speculation future intensified last transfer window
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 8, 3, 15
+	Results: 
+		rouge-1: 0.1852
+		rouge-2: 0.0000
+		rouge-l: 0.1481
+		mean: 0.1111
+	Summary: 
+		manager brendan rodgers naturally delighted persuade suarez sign dotted line striker integral plans club
+		superb start current campaign chosen extend current contract due expire 2016
+		suarez set miss start new epl campaign reportedly wanting leave liverpool arsenal tabled record bid â 40 million 65.38 million plus â 1 bid designed invoke exit clause contract
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.7407
+		rouge-2: 0.4615
+		rouge-l: 0.6667
+		mean: 0.6230
+	Summary: 
+		luis suarez committed long term future liverpool friday signing new four-and-a-half year deal english premier league giants
+		26-year-old uruguayan international bagged league-leading 17 goals 11 epl starts season lead liverpool title challenge
+		suarez subject two bids last transfer window arsenal currently top standings two points clear second-placed liverpool
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.7407
+		rouge-2: 0.4615
+		rouge-l: 0.6667
+		mean: 0.6230
+	Summary: 
+		luis suarez committed long term future liverpool friday signing new four-and-a-half year deal english premier league giants
+		26-year-old uruguayan international bagged league-leading 17 goals 11 epl starts season lead liverpool title challenge
+		suarez subject two bids last transfer window arsenal currently top standings two points clear second-placed liverpool
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.7407
+		rouge-2: 0.4615
+		rouge-l: 0.6667
+		mean: 0.6230
+	Summary: 
+		luis suarez committed long term future liverpool friday signing new four-and-a-half year deal english premier league giants
+		26-year-old uruguayan international bagged league-leading 17 goals 11 epl starts season lead liverpool title challenge
+		suarez subject two bids last transfer window arsenal currently top standings two points clear second-placed liverpool

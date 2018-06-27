@@ -1,0 +1,136 @@
+DOCUMENT:
+0: voice halting weak
+1: two years shot head gunman political event former u.s. rep. gabrielle giffords appeared first congressional hearing since last month connecticut school massacre urge congress act gun violence
+2: many children dying
+3: many children
+4: must something giffords said rare public appearance wednesday reading statement acknowledged injuries made difficult speak
+5: hard time told packed hearing held senate judiciary committee
+6: teen performed obama inaugural events shot dead chicago
+7: panel also heard voices sides gun control issue nearly four-hour hearing illustrated deep political ideological divisions longstanding issue
+8: national rifle association executive vice president wayne lapierre blamed government failing enforce existing gun laws said new restrictions including background checks wo stop criminals using weapons violent crime
+9: law-abiding gun owners accept blame acts violent deranged criminals believe government dictate lawfully use protect families said
+10: democratic senators led california dianne feinstein proposing ban semi-automatic rifles ammunition magazines exceeding 10 rounds argued restricting access firepower expanding background checks many gun sales possible help
+11: giffords husband retired astronaut naval aviator mark kelly called careful civil conversation new gun limits broad new acceptance society responsibility keep firearms dangerous people
+12: rights paramount
+13: responsibilities serious said
+14: nation taking responsibility gun rights founding fathers conferred upon us
+15: opinion gun makers help keep weapons criminals hands
+16: sen. patrick leahy committee democratic chairman vermont called stronger background checks crackdown so-called straw purchases people pass background checks buy weapons others
+17: leahy proposed measure increase penalties straw purchasers
+18: however leahy avoided endorsing expanded ban assault-style weapons called president barack obama feinstein
+19: second amendment rights foundation discussion rests
+20: risk leahy said
+21: lives risk responsible people fail stand laws keep guns hands use commit mass murder
+22: ask focus discussion additional statutory measures better protect children americans
+23: hearing came weeks obama announced legislative proposals aimed curbing gun violence following december 14 shootings left 20 children six adults dead sandy hook elementary school newtown
+24: shooter adam lanza also killed mother
+25: violent mentally ill buy guns
+26: obama proposals include ban popular semi-automatic rifles mimic assault weapons limit 10 rounds per magazine universal background checks anyone buying gun whether store private sale
+27: guns sold private sales currently avoid background checks so-called gun show loophole
+28: democratic sen. chuck schumer new york said wednesday hearing talks colleagues including several ranked highly nra possible legislation expand background checks private gun sales
+29: sources close schumer republican sen. tom coburn oklahoma told cnn two serious discussions co-sponsoring bill strengthen background checks
+30: nra public face powerful gun lobby opposes many government limits gun ownership violation constitutional right bear arms
+31: lapierre insisted wednesday current background check system work expanding would create unmanageable government bureaucracy instead reducing gun crime country
+32: quick draw nra lapierre keeps enemies guessing
+33: fact law right failure way working said
+34: fact 76,000-some people denied present law
+35: 44 prosecuted
+36: letting go
+37: walking streets
+38: instead called better enforcement existing gun laws creating immediate blanket security around children putting armed guards nation schools
+39: white house spokesman jay carney called lapierre statistic intentional diversion another issue part need broader universal background checks
+40: pushed reason something overwhelming majority american people support carney said later adding skepticism hearing comes want anything issue
+41: hearing exchange lapierre sen. dick durbin d-illinois showed deeply held positions side
+42: lapierre complained expanded background checks would burden law-abiding citizens said make sense criminals ignore system durbin commented nra official missed point
+43: obama gun violence measures would work
+44: criminals wo go purchase guns background check durbin said
+45: stop original purchase
+46: missed point completely
+47: think basic
+48: lapierre responded durbin failed understand adding leahy banged gavel order prosecuting even stopping
+49: opponents gun control also depicted extreme scenarios americans threat homes schools make case access semi-automatic weapons high-capacity magazines
+50: know homicidal maniacs criminals insane abide law lapierre said
+51: another witness gayle trotter independent women forum repeatedly described scenes women home children needing weapons would banned feinstein proposal fight bigger stronger male attackers
+52: assault weapon hands young woman defending babies home becomes defense weapon peace mind woman facing three four five violent attackers intruders home children screaming background peace mind knowing scary looking gun gives courage fighting hard violent criminals trotter said
+53: ban types assault weapons putting women great disadvantage
+54: witnesses senators support tougher regulations countered constitutional right bear arms limited example existing ban private citizens possessing grenade launchers military weaponry
+55: would someone military-style rifle
+56: think people believe sure could guards schools feinstein said making reference columbine colorado school massacre 1999 two students killed 13 people shooting
+57: well aware columbine deputy sheriff armed actually took shot could hit shooter
+58: question comes malls
+59: movie theaters
+60: ca totally armed society
+61: police chief baltimore county maryland james johnson endorsed called holistic approach urged obama create system reduces access guns people
+62: best way stop bad guy getting gun first place good background check said johnson chairman national law enforcement partnership prevent gun violence
+63: however denver university law professor david kopel said supreme court made clear washington d.c. case gun controls could include weapons used commonly law-abiding citizens top-selling ar-15 semi-automatic rifle feinstein legislation would ban
+64: nra chief obama makes mockery american freedoms
+65: hearing showed agreement concept issues strengthening mental health screening
+66: general though appeared little create common ground issue
+67: leahy said hopes committee begin considering legislation next month
+68: nra membership spiked 500,000 people since newtown shooting bringing number 4.5 million group said wednesday
+69: meantime kelly giffords launched americans responsible solutions push gun control
+70: tuesday kelly said despite tucson arizona shooting wounded wife killed six others giffords still support second amendment guarantees americans right possess firearms
+71: really need something safety kids communities
+72: gotten really hand said
+73: wednesday hearing kelly made point approaching lapierre shake hand media cameras recorded moment
+74: new laws could miss america bigger gun problem
+75: cnn faith karimi arielle hawkins contributed report
+
+=================================
+Gold summary:
+new sources senators parties discuss bill background checks
+senators witnesses tangle politics ideology
+senate committee holds first hearing gun violence since sandy hook massacre
+gun owners wo accept new restrictions blame crime nra official says
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 17, 13, 6
+	Results: 
+		rouge-1: 0.0000
+		rouge-2: 0.0000
+		rouge-l: 0.0000
+		mean: 0.0000
+	Summary: 
+		leahy proposed measure increase penalties straw purchasers
+		responsibilities serious said
+		teen performed obama inaugural events shot dead chicago
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1875
+		rouge-2: 0.0294
+		rouge-l: 0.1429
+		mean: 0.1199
+	Summary: 
+		voice halting weak
+		two years shot head gunman political event former u.s. rep. gabrielle giffords appeared first congressional hearing since last month connecticut school massacre urge congress act gun violence
+		many children dying
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 8, 42
+	Results: 
+		rouge-1: 0.4375
+		rouge-2: 0.1176
+		rouge-l: 0.2857
+		mean: 0.2803
+	Summary: 
+		two years shot head gunman political event former u.s. rep. gabrielle giffords appeared first congressional hearing since last month connecticut school massacre urge congress act gun violence
+		national rifle association executive vice president wayne lapierre blamed government failing enforce existing gun laws said new restrictions including background checks wo stop criminals using weapons violent crime
+		lapierre complained expanded background checks would burden law-abiding citizens said make sense criminals ignore system durbin commented nra official missed point
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 28
+	Results: 
+		rouge-1: 0.3125
+		rouge-2: 0.0588
+		rouge-l: 0.2000
+		mean: 0.1904
+	Summary: 
+		voice halting weak
+		two years shot head gunman political event former u.s. rep. gabrielle giffords appeared first congressional hearing since last month connecticut school massacre urge congress act gun violence
+		democratic sen. chuck schumer new york said wednesday hearing talks colleagues including several ranked highly nra possible legislation expand background checks private gun sales

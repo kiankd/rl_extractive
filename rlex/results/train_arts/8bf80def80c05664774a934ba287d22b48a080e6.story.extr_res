@@ -1,0 +1,71 @@
+DOCUMENT:
+0: male member tokyo metropolitan assembly apologized monday shouting sexist remarks female colleague giving speech last week
+1: akihiro suzuki assemblyman ruling ldp party admitted heckling fellow assembly member ayaka shiomura minority party speech urging increased public support pregnant japanese women
+2: suzuki initially denied involvement condemned harassment interview publicly apologized shiomura
+3: admitting making first comment get married suzuki denied making second comment ca even bear child
+4: shiomura accepted apology stated positive others besides mr. suzuki made comments
+5: said hopes others involved heckling come forward well
+6: asked whether would continue position assembly member suzuki stated plans resign
+7: stay allowed replied
+8: incident last week reignited debate sexism japanese workplace
+9: women paid average 30 less male counterparts according statistics cited japan prime minister shinzo abe editorial last year announcing launch womenomics
+10: women also hold 3 management positions japan central government according national personnel authority
+11: abe wants increase 30 2020 tokyo olympics
+
+=================================
+Gold summary:
+tokyo assembly member apologizes female colleague
+akihiro suzuki apologizes heckling assemblywoman telling get married
+heckled member accepts apology says others come forward
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 1, 2, 9
+	Results: 
+		rouge-1: 0.2500
+		rouge-2: 0.0952
+		rouge-l: 0.1818
+		mean: 0.1757
+	Summary: 
+		akihiro suzuki assemblyman ruling ldp party admitted heckling fellow assembly member ayaka shiomura minority party speech urging increased public support pregnant japanese women
+		suzuki initially denied involvement condemned harassment interview publicly apologized shiomura
+		women paid average 30 less male counterparts according statistics cited japan prime minister shinzo abe editorial last year announcing launch womenomics
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4000
+		rouge-2: 0.1429
+		rouge-l: 0.3636
+		mean: 0.3022
+	Summary: 
+		male member tokyo metropolitan assembly apologized monday shouting sexist remarks female colleague giving speech last week
+		akihiro suzuki assemblyman ruling ldp party admitted heckling fellow assembly member ayaka shiomura minority party speech urging increased public support pregnant japanese women
+		suzuki initially denied involvement condemned harassment interview publicly apologized shiomura
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 1, 5
+	Results: 
+		rouge-1: 0.5500
+		rouge-2: 0.1905
+		rouge-l: 0.5000
+		mean: 0.4135
+	Summary: 
+		male member tokyo metropolitan assembly apologized monday shouting sexist remarks female colleague giving speech last week
+		akihiro suzuki assemblyman ruling ldp party admitted heckling fellow assembly member ayaka shiomura minority party speech urging increased public support pregnant japanese women
+		said hopes others involved heckling come forward well
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4000
+		rouge-2: 0.1429
+		rouge-l: 0.3636
+		mean: 0.3022
+	Summary: 
+		male member tokyo metropolitan assembly apologized monday shouting sexist remarks female colleague giving speech last week
+		akihiro suzuki assemblyman ruling ldp party admitted heckling fellow assembly member ayaka shiomura minority party speech urging increased public support pregnant japanese women
+		suzuki initially denied involvement condemned harassment interview publicly apologized shiomura

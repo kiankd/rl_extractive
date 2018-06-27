@@ -1,0 +1,107 @@
+DOCUMENT:
+0: recent wave violence caused turf wars rival drug cartels security forces mexico kept many american international tourists away united states neighbor south
+1: recently u.s. state department broaded travel warning mexico singling 11 states warning americans drive nighttime
+2: top mexican tourism official says country major tourists spots perfectly safe
+3: mexico tourism board chief operating officer rodolfo lopez negrete recently visited united states promote mexican destinations
+4: interview cnn said confident tourists visit mexico year
+5: cnn much tourism affected violence last year
+6: rodolfo lopez negrete 2010 good year mexico
+7: considered rebound year
+8: 22 million tourists visited mexico last year
+9: cnn recently acapulco noticed lot hotels normally time year receive spring breakers mainly united states completely empty
+10: things telling correspond reality saw
+11: lopez working transformation program acapulco rehabilitate costera miguel aleman -lsb- avenue runs along bay -rsb- one landmarks acapulco
+12: working additional air connectivity u.s. market international points origin
+13: cnn mr. lopez main problem acapulco necessarily infrastructure violence
+14: mexican government tourism board solve problem
+15: lopez mexico large country
+16: take account distance ciudad juarez -lsb- violent city mexico -rsb- cancun talking 1,400 miles distance
+17: puerto vallarta 1,000 miles away los cabos 1,600 miles away
+18: equivalent distance new york houston new york dallas
+19: cnn fact still remains violence serious problem mexico
+20: would agree
+21: lopez yes agree understand fact episodes created certain level perception undesirable occurred specific pockets country
+22: opinion mexico violence america problem
+23: cnn office says 22.4 million travelers visited mexico last year
+24: expectation year
+25: lopez plan put together year 2018
+26: mexico would like become one popular destinations world
+27: although already rank among top 10 world would like escalate number
+28: 2011 goal increase business 22.4 26 million tourists
+29: cnn americans still visiting mexico
+30: lopez seventy-five percent total number last year 22.4 million visitors originated north america
+31: u.s. remains number one market followed canada
+32: cnn traveling specifically air
+33: lopez 10 million tourists get air different mexican destinations united states generates 6.5 million 10 million
+34: u.s. warns travel mexican buses
+35: cnn say people abroad watch news violence concerns traveling mexico
+36: lopez would like tell untold story
+37: although experienced violence concentrated specific parts country
+38: major tourism destinations perfectly safe whether talk sun-and-beach resorts inland destinations
+39: cnn risks traveling mexico land
+40: lopez 50 million border crossings per year
+41: take account ratio number people suffered violence really minimal
+42: cnn affordability affected recent wave violence
+43: lopez mexico diversified country
+44: believe combination fantastic sun-and-beach resorts coupled wonderful cultural wealth offer make attractive destination summer travel
+45: value perspective quality tourism options mexico last 10 years improved dramatically
+46: compare price charging right makes attractive proposition travel
+
+=================================
+Gold summary:
+week u.s. state department expanded travel warning mexico
+top tourism official recently visited u.s. promote mexico safe
+major tourism destinations perfectly safe says rodolfo lopez negrete
+lopez says country goal year increase number tourists 26 million
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 27, 11, 7
+	Results: 
+		rouge-1: 0.1333
+		rouge-2: 0.0000
+		rouge-l: 0.0833
+		mean: 0.0722
+	Summary: 
+		although already rank among top 10 world would like escalate number
+		lopez working transformation program acapulco rehabilitate costera miguel aleman -lsb- avenue runs along bay -rsb- one landmarks acapulco
+		considered rebound year
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5333
+		rouge-2: 0.2000
+		rouge-l: 0.3333
+		mean: 0.3556
+	Summary: 
+		recent wave violence caused turf wars rival drug cartels security forces mexico kept many american international tourists away united states neighbor south
+		recently u.s. state department broaded travel warning mexico singling 11 states warning americans drive nighttime
+		top mexican tourism official says country major tourists spots perfectly safe
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 2, 3
+	Results: 
+		rouge-1: 0.7333
+		rouge-2: 0.2857
+		rouge-l: 0.4167
+		mean: 0.4786
+	Summary: 
+		recently u.s. state department broaded travel warning mexico singling 11 states warning americans drive nighttime
+		top mexican tourism official says country major tourists spots perfectly safe
+		mexico tourism board chief operating officer rodolfo lopez negrete recently visited united states promote mexican destinations
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 43
+	Results: 
+		rouge-1: 0.3333
+		rouge-2: 0.1143
+		rouge-l: 0.2222
+		mean: 0.2233
+	Summary: 
+		recent wave violence caused turf wars rival drug cartels security forces mexico kept many american international tourists away united states neighbor south
+		recently u.s. state department broaded travel warning mexico singling 11 states warning americans drive nighttime
+		lopez mexico diversified country

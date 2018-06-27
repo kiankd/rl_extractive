@@ -1,0 +1,63 @@
+DOCUMENT:
+0: cnn student news january 25 2013
+1: download pdf map related today show
+2: click access transcript today cnn student news program
+3: please note may delay time video available transcript published
+
+=================================
+Gold summary:
+daily transcript written version day cnn student news program
+use transcript help students reading comprehension vocabulary
+use weekly newsquiz test knowledge stories saw cnn student news
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 0, 2, 3
+	Results: 
+		rouge-1: 0.2381
+		rouge-2: 0.1304
+		rouge-l: 0.2692
+		mean: 0.2126
+	Summary: 
+		cnn student news january 25 2013
+		click access transcript today cnn student news program
+		please note may delay time video available transcript published
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2381
+		rouge-2: 0.1304
+		rouge-l: 0.2692
+		mean: 0.2126
+	Summary: 
+		cnn student news january 25 2013
+		download pdf map related today show
+		click access transcript today cnn student news program
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 2, 3
+	Results: 
+		rouge-1: 0.2381
+		rouge-2: 0.1304
+		rouge-l: 0.2692
+		mean: 0.2126
+	Summary: 
+		cnn student news january 25 2013
+		click access transcript today cnn student news program
+		please note may delay time video available transcript published
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 2, 1
+	Results: 
+		rouge-1: 0.2381
+		rouge-2: 0.1304
+		rouge-l: 0.2692
+		mean: 0.2126
+	Summary: 
+		cnn student news january 25 2013
+		click access transcript today cnn student news program
+		download pdf map related today show

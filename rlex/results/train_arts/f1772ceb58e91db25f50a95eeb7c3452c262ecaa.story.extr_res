@@ -1,0 +1,80 @@
+DOCUMENT:
+0: looked ports europe
+1: looked street signs
+2: things menu
+3: end comedian kevin nealon wife decided name son gable
+4: clark gable
+5: simply liked sound people agree far better helsinki 43rd avenue never ending pasta bowl
+6: 4â 1/2 years ago former saturday night live star still loves talk son
+7: 2009 even published book becoming first-time dad called yes pregnant
+8: finally got pacifier away nealon says gable
+9: potty training
+10: would easier get pacifier away taught pee
+11: nealon describes hands-on father admits work much
+12: sense sort sounds like character doug wilson showtime weeds pot-smoking former cpa-drifter pretty much nonexistent moral compass
+13: however see hear recent video interview nealon doug wilson really nothing alike
+14: lot hobbies lot friends says
+15: insecure doug
+16: even greater differences everyone still loves doug
+17: faults failures fans ca get enough self-centered shamed city councilman fictional agrestic become perhaps nealon beloved character tv
+18: man spent decade snl entertaining viewers hans franz mr. subliminal
+19: days nealon mostly keeping busy road stand-up act plans record new one-hour special next year
+20: beyond nealon simply remains legendary
+
+=================================
+Gold summary:
+kevin nealon explains wife named son gable
+former saturday night live star plays doug wilson showtime weeds
+says little common pothead character plays
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 1, 10, 4
+	Results: 
+		rouge-1: 0.0455
+		rouge-2: 0.0000
+		rouge-l: 0.0435
+		mean: 0.0296
+	Summary: 
+		looked street signs
+		would easier get pacifier away taught pee
+		clark gable
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.0000
+		rouge-2: 0.0000
+		rouge-l: 0.0000
+		mean: 0.0000
+	Summary: 
+		looked ports europe
+		looked street signs
+		things menu
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 3, 6, 12
+	Results: 
+		rouge-1: 0.6818
+		rouge-2: 0.4091
+		rouge-l: 0.6087
+		mean: 0.5665
+	Summary: 
+		end comedian kevin nealon wife decided name son gable
+		4â 1/2 years ago former saturday night live star still loves talk son
+		sense sort sounds like character doug wilson showtime weeds pot-smoking former cpa-drifter pretty much nonexistent moral compass
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 15
+	Results: 
+		rouge-1: 0.0455
+		rouge-2: 0.0000
+		rouge-l: 0.0435
+		mean: 0.0296
+	Summary: 
+		looked ports europe
+		looked street signs
+		insecure doug

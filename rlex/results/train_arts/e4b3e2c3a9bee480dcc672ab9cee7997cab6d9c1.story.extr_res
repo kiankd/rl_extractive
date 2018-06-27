@@ -1,0 +1,80 @@
+DOCUMENT:
+0: cnn visitors niagara falls consider place romance
+1: ice climber gadd thinks famous falls spot adventure
+2: countless attempts daredevils ride parts niagara falls american falls u.s. side horseshoe falls canadian side
+3: earlier week gadd made history became first person climp falls
+4: canadian ice climber used ice hooks scale frozen cliffs terrapin point 147-foot section directly next horseshoe falls
+5: checked spot thinking climbing summer
+6: swept away torrential downpour gadd said redbull.com
+7: warm winter day climb
+8: cold freezing day late january wall water wall ice icing heavy area closed tourists winter months perfect scenario gadd
+9: clambered frozen walls three times taking hour trip according redbull.com
+10: gadd described ice unstable formed distinct layers ice snow made climb difficult
+11: climb beat said
+12: may reached top niagara war
+13: end day hypothermic
+14: indeed gadd biggest challenges climb seemed getting really cold really wet
+15: climbed right next 681,750 gallons water per second surged horseshoe falls
+16: close water could reach stick ice tool niagara falls gadd told redbull.com
+17: one point behind water climbing ice froze behind falls
+18: got whole lot niagara neck
+19: scaling falls latest feat gadd recently named nat geo adventurer year
+20: also three-time gold medalist x games ice climbing world cup according website
+21: free-climbers reach top el capitan yosemite national park
+
+=================================
+Gold summary:
+ice climber gadd scaled frozen cliff niagara falls
+gadd triple gold medalist x games described feeling hypothermic climb
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 16, 17, 10
+	Results: 
+		rouge-1: 0.3529
+		rouge-2: 0.1176
+		rouge-l: 0.3333
+		mean: 0.2680
+	Summary: 
+		close water could reach stick ice tool niagara falls gadd told redbull.com
+		one point behind water climbing ice froze behind falls
+		gadd described ice unstable formed distinct layers ice snow made climb difficult
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2941
+		rouge-2: 0.1765
+		rouge-l: 0.2778
+		mean: 0.2495
+	Summary: 
+		cnn visitors niagara falls consider place romance
+		ice climber gadd thinks famous falls spot adventure
+		countless attempts daredevils ride parts niagara falls american falls u.s. side horseshoe falls canadian side
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 4, 16, 20
+	Results: 
+		rouge-1: 0.5882
+		rouge-2: 0.3529
+		rouge-l: 0.5556
+		mean: 0.4989
+	Summary: 
+		canadian ice climber used ice hooks scale frozen cliffs terrapin point 147-foot section directly next horseshoe falls
+		close water could reach stick ice tool niagara falls gadd told redbull.com
+		also three-time gold medalist x games ice climbing world cup according website
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2941
+		rouge-2: 0.1765
+		rouge-l: 0.2778
+		mean: 0.2495
+	Summary: 
+		cnn visitors niagara falls consider place romance
+		ice climber gadd thinks famous falls spot adventure
+		countless attempts daredevils ride parts niagara falls american falls u.s. side horseshoe falls canadian side

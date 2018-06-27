@@ -1,0 +1,106 @@
+DOCUMENT:
+0: supreme court concluded texas execute mexican man sentenced death murder ending unusual capital appeal pitted president bush home state dispute federal authority local sovereignty foreign treaties
+1: case decided supreme court tuesday pitted president bush home state texas
+2: 6-3 vote tuesday means pending execution jose ernesto medellin proceed
+3: faces lethal injection two brutal slayings
+4: issue whether state give demand president prisoner allowed new hearings sentencing
+5: bush made demand reluctantly international court concluded medellin improperly denied access consulate original prosecution violation treaty signed united states decades ago
+6: chief justice john roberts wrote majority opinion saying international court domestic law thereby restricting president power states
+7: executive narrow strictly limited authority settle international claims disputes pursuant executive agreement stretch far support current presidential memorandum would force texas conduct new state trial wrote
+8: medellin 18 participated june 1993 gang rape murder two harris county texas girls jennifer ertman 14 elizabeth pena 16
+9: convicted crimes sentenced death
+10: medellin lawyers argued informed upon arrest right contact mexican consular officials
+11: officials never able meet conviction
+12: 43 mexican nationals awaiting execution various states including 13 texas also affected high court ruling
+13: oklahoma commuted capital inmate sentence life prison response international judgment
+14: mexican government filed appeal united states international court justice january 2003 alleging violations international law
+15: medellin filed federal state appeals based similar complaints well claim ineffective counsel
+16: medellin support european union several international human rights groups
+17: icj ruled 2004 united states violated rights mexican prisoners part officials prosecutors failed notify home countries could provided legal assistance
+18: icj judges ordered united states provide review reconsideration sentences convictions mexican prisoners
+19: court based hague netherlands resolves disputes nations treaty obligations
+20: united states one signatories 1963 vienna convention laying rights people detained nations
+21: case turned role branch government plays give force international treaty obligations
+22: roberts concluded international court judgments forced upon individual states
+23: president establish binding rules decision pre-empt contrary state law said treaty specifically require states remedy treaty violations
+24: chief justice supported position justices john paul stevens antonin scalia anthony kennedy clarence thomas samuel alito
+25: dissent justice stephen breyer said presidential memorandum case self-executing warned nation may well break word even though president seeks live word congress done nothing suggest contrary
+26: supported justice david souter ruth bader ginsburg
+27: justice john paul stevens normally opposes use death penalty agreed conservative colleagues case
+28: suggested legal responsibility falls state give medellin fresh hearing calling modest cost compliance
+29: texas duty respect greater since texas failing provide consular notice accordance geneva convention ensnared united states current controversy
+30: put nation breach one treaty texas prevent breach another
+31: lawyers administration medellin argued bush properly exercised unilateral executive authority majority justices questioned oral arguments last september
+32: mexican government filed appeal icj united states january 2003 alleging violations international law
+33: medellin filed federal state appeals based similar complaints well claim ineffective counsel
+34: medellin support european union several international human rights groups
+35: bush said disagreed international court conclusions agreed comply
+36: february 28 2005 executive order said united states discharge international obligations state courts give effect decision
+37: texas appeals court later rejected executive authority
+38: sharply worded opinion judge sharon keller concluded president unprecedented unnecessary intrusive exercise power texas court system supported foreign policy authority conferred united states constitution
+39: constitution directly give president power enforce treaties agreed united states
+40: however article vi says treaties made authority united states shall supreme law land judges every state shall bound thereby
+41: lawyers administration medellin argued bush properly exercised unilateral executive authority several justices questioned oral arguments last september
+42: texas solicitor general ted cruz told high court president action curious assertion presidential authority saying singles states commandeers judges
+43: bush white house typically backs states power carry executions justice department officials said instances president power conduct foreign policy outweighed states interests
+44: supreme court originally heard medellin case 2005 rule merits waiting instead lower courts resolve federalism angle
+45: e-mail friend
+
+=================================
+Gold summary:
+mexican national jose medellin convicted murder two texas girls
+international court concluded medellin denied access consulate
+president bush asked texas give medellin new court hearing
+supreme court supports texas refusal says bush ca force new hearing
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 44, 5, 7
+	Results: 
+		rouge-1: 0.4444
+		rouge-2: 0.1714
+		rouge-l: 0.2778
+		mean: 0.2979
+	Summary: 
+		supreme court originally heard medellin case 2005 rule merits waiting instead lower courts resolve federalism angle
+		bush made demand reluctantly international court concluded medellin improperly denied access consulate original prosecution violation treaty signed united states decades ago
+		executive narrow strictly limited authority settle international claims disputes pursuant executive agreement stretch far support current presidential memorandum would force texas conduct new state trial wrote
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3704
+		rouge-2: 0.0857
+		rouge-l: 0.1944
+		mean: 0.2168
+	Summary: 
+		supreme court concluded texas execute mexican man sentenced death murder ending unusual capital appeal pitted president bush home state dispute federal authority local sovereignty foreign treaties
+		case decided supreme court tuesday pitted president bush home state texas
+		6-3 vote tuesday means pending execution jose ernesto medellin proceed
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 5, 8
+	Results: 
+		rouge-1: 0.5556
+		rouge-2: 0.2571
+		rouge-l: 0.3056
+		mean: 0.3728
+	Summary: 
+		supreme court concluded texas execute mexican man sentenced death murder ending unusual capital appeal pitted president bush home state dispute federal authority local sovereignty foreign treaties
+		bush made demand reluctantly international court concluded medellin improperly denied access consulate original prosecution violation treaty signed united states decades ago
+		medellin 18 participated june 1993 gang rape murder two harris county texas girls jennifer ertman 14 elizabeth pena 16
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 5
+	Results: 
+		rouge-1: 0.4815
+		rouge-2: 0.2000
+		rouge-l: 0.2778
+		mean: 0.3198
+	Summary: 
+		supreme court concluded texas execute mexican man sentenced death murder ending unusual capital appeal pitted president bush home state dispute federal authority local sovereignty foreign treaties
+		case decided supreme court tuesday pitted president bush home state texas
+		bush made demand reluctantly international court concluded medellin improperly denied access consulate original prosecution violation treaty signed united states decades ago

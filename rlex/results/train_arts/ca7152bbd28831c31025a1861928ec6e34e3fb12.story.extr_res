@@ -1,0 +1,110 @@
+DOCUMENT:
+0: army maj. nidal hasan challenged witness account police shootout ended rampage fort hood left 13 people dead rare courtroom exchange man admitted opening fire soldiers deploying afghanistan iraq
+1: exchange occurred prosecution witness sgt. juan alvarado testified seeing hasan shoot police officer shoot
+2: hasan acting attorney defending 13 counts murder 32 counts attempted murder connection november 5 2009 attack
+3: want put words mouth
+4: saying disarmed continued fire
+5: hasan asked
+6: alvarado responded yes
+7: questions hasan said
+8: part hasan said little death penalty trial say shooter
+9: monday hasan appeared casting doubt alvarado testimony shot wounded unarmed female police officer
+10: officer earlier testified hasan shot kicked weapon reach
+11: hasan left doubt role telling panel 13 officers brief opening statement evidence clearly show shooter
+12: also left little question repeatedly saying trial started acting protect taliban leaders afghanistan u.s. military
+13: fast facts soldier soldier attacks
+14: military avoided labeling hasan terrorist charging prosecutors wanted use evidence show devout muslim undergone progressive radicalization going far give academic presentations defense suicide bombings
+15: hasan scheduled deploy afghanistan want fight muslims believed jihad duty kill many soldiers possible lead prosecutor col. michael mulligan said
+16: judge col. tara osborn excluded much evidence prosecution contends goes heart motive attack including e-mail communications hasan anwar al-awlaki u.s.-born cleric officials say became key member al qaeda arabian peninsula
+17: killed u.s. drone strike 2011
+18: osborn ruled e-mails would redacted prevent undue prejudice association would diminish use evidence
+19: also declined allow prosecutors use materials maintain show maj. nidal hasan interest actions army sgt. hasan akbar american soldier sentenced death killing two soldiers wounding dozen others start iraq war attack said carried stop soldiers killing muslims
+20: court believes sgt. akbar trial case osborn said
+21: would open door mini-trial confuse issue
+22: fort hood victims feel betrayed
+23: along e-mails material related akbar osborn also declined allow use hasan academic presentation suicide bombings saying motive element crime
+24: judge allow prosecutors use evidence hasan internet searches jihad taliban days hours attack
+25: two hours shooting search hasan acer netbook computer showed someone pulled read article entitled pakistan taliban chief urges taliban fight army fbi special agent charles cox iii computer forensics examiner testified
+26: prosecution expected rest early tuesday big question whether hasan take stand
+27: hasan 42 previously indicated intends call two witnesses stand
+28: testifies hasan expected discuss religious justification actions
+29: much made hasan defense stand-by attorneys said lack indicating perhaps eager prove martyr avoid death sentence
+30: hasan refused enter plea outset court-martial judge barred pleading guilty
+31: military law defendants enter guilty pleas capital punishment cases
+32: judge monday raised concerns hasan acting attorney admitted last week understand listing someone witness gave right privileged communication person
+33: remember told thought would better trained lawyer
+34: osborn asked
+35: hasan responded repeatedly
+36: advised advising good policy represent
+37: osborn said
+38: hasan said yes
+39: military death row 50 years executions
+40: last week hasan released portion mental health evaluation new york times
+41: revealed believes put death would allow become martyr
+42: paraplegic could jail rest life
+43: however died lethal injection would still martyr hasan told military panel evaluating whether fit stand trial according documents published times
+44: hasan using wheelchair since shot fort hood police
+45: paralyzed chest
+46: u.s.-born citizen palestinian descent hasan licensed psychiatrist joined army 1997
+47: telling family since 2001 wanted get military saying taunted people september 11 terror attacks year
+48: 2006 inquired possibility filing conscientious objector status
+49: go judge ruled inquiry could used prosecutors show motive
+
+=================================
+Gold summary:
+new nidal hasan challenges witness says hasan shot officer
+judge advises hasan attorney
+judge excludes e-mails nidal hasan key al qaeda member
+prosecutors hope show hasan undergone progressive radicalization
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 42, 38, 47
+	Results: 
+		rouge-1: 0.0435
+		rouge-2: 0.0000
+		rouge-l: 0.0345
+		mean: 0.0260
+	Summary: 
+		paraplegic could jail rest life
+		hasan said yes
+		telling family since 2001 wanted get military saying taunted people september 11 terror attacks year
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2174
+		rouge-2: 0.0370
+		rouge-l: 0.2414
+		mean: 0.1653
+	Summary: 
+		army maj. nidal hasan challenged witness account police shootout ended rampage fort hood left 13 people dead rare courtroom exchange man admitted opening fire soldiers deploying afghanistan iraq
+		exchange occurred prosecution witness sgt. juan alvarado testified seeing hasan shoot police officer shoot
+		hasan acting attorney defending 13 counts murder 32 counts attempted murder connection november 5 2009 attack
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 14, 16
+	Results: 
+		rouge-1: 0.5652
+		rouge-2: 0.1481
+		rouge-l: 0.3103
+		mean: 0.3412
+	Summary: 
+		army maj. nidal hasan challenged witness account police shootout ended rampage fort hood left 13 people dead rare courtroom exchange man admitted opening fire soldiers deploying afghanistan iraq
+		military avoided labeling hasan terrorist charging prosecutors wanted use evidence show devout muslim undergone progressive radicalization going far give academic presentations defense suicide bombings
+		judge col. tara osborn excluded much evidence prosecution contends goes heart motive attack including e-mail communications hasan anwar al-awlaki u.s.-born cleric officials say became key member al qaeda arabian peninsula
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2174
+		rouge-2: 0.0370
+		rouge-l: 0.2414
+		mean: 0.1653
+	Summary: 
+		army maj. nidal hasan challenged witness account police shootout ended rampage fort hood left 13 people dead rare courtroom exchange man admitted opening fire soldiers deploying afghanistan iraq
+		exchange occurred prosecution witness sgt. juan alvarado testified seeing hasan shoot police officer shoot
+		hasan acting attorney defending 13 counts murder 32 counts attempted murder connection november 5 2009 attack

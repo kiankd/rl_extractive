@@ -1,0 +1,84 @@
+DOCUMENT:
+0: nation news media sure cover one-year anniversary mass shooting sandy hook elementary school extensively saturday
+1: part news organizations say acquiesce requests local community members report newtown connecticut town adam lanza killed 20 first-graders six adults now-demolished school december 14 2012
+2: massacre second-deadliest school shooting u.s. history
+3: cnn said statement plans cover one-year anniversary across networks platforms respecting wishes families reporting newtown saturday
+4: similarly nbc spokeswoman said e-mail nbc news respecting town wishes broadcasts plans newtown anniversary
+5: television networks issued almost identical statements contacted
+6: decisions exceptionally rare news organizations underline tension necessity covering tragedy respecting people covered case parents dead children neighbors
+7: really makes schools safer
+8: run-up anniversary newtown officials said hoped press would descend small town stirring debate reporters
+9: wishing fervently many persons wish us well media allow us time alone quiet time personal communal reflection said pat llodra town first selectman role similar mayor
+10: job journalists times document reflection share public
+11: associated press said provide respectful coverage anniversary saturday since day one newtown tragedy
+12: news cooperative owned 1,400 daily newspapers across country provider news information hundreds customers worldwide ap also recognizes obligation report newtown coming together mourn heal spokesman news organization said
+13: many news organizations visited newtown ahead anniversary conduct reporting televise publish saturday
+14: cbs news among network signaled week would camera crew town saturday
+15: sensitive families concerns cover anniversary least intrusive way possible said tim gaughan director special events cbs news
+16: newtown residents plead privacy
+17: newspaper online journalists generally able maintain low profiles sensitive assignments notebooks cell phones necessary tools trade
+18: television journalists hand often accompanied intrusive cameras microphones trucks
+19: like national networks local television stations connecticut said avoid using newtown backdrop live shots
+20: kelly mcbride editor book new ethics journalism principles 21st century wrote poynter institute blog post friday would wrong leave anniversary unnoticed coverage done sensitivity
+21: live media world excess
+22: self-discipline restraint sense service audience rather ratings web metrics journalists able provide meaningful stories year newtown mcbride wrote
+23: possibly efforts set tone future tragedies
+24: u.s. school violence fast facts
+
+=================================
+Gold summary:
+saturday one-year anniversary mass shooting newtown connecticut school
+cnn news organizations say wo report town saturday
+newtown officials urged media respect families descend small town
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 9, 12, 15
+	Results: 
+		rouge-1: 0.3182
+		rouge-2: 0.0000
+		rouge-l: 0.1600
+		mean: 0.1594
+	Summary: 
+		wishing fervently many persons wish us well media allow us time alone quiet time personal communal reflection said pat llodra town first selectman role similar mayor
+		news cooperative owned 1,400 daily newspapers across country provider news information hundreds customers worldwide ap also recognizes obligation report newtown coming together mourn heal spokesman news organization said
+		sensitive families concerns cover anniversary least intrusive way possible said tim gaughan director special events cbs news
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.6364
+		rouge-2: 0.2500
+		rouge-l: 0.4400
+		mean: 0.4421
+	Summary: 
+		nation news media sure cover one-year anniversary mass shooting sandy hook elementary school extensively saturday
+		part news organizations say acquiesce requests local community members report newtown connecticut town adam lanza killed 20 first-graders six adults now-demolished school december 14 2012
+		massacre second-deadliest school shooting u.s. history
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 1, 8
+	Results: 
+		rouge-1: 0.7727
+		rouge-2: 0.3750
+		rouge-l: 0.6000
+		mean: 0.5826
+	Summary: 
+		nation news media sure cover one-year anniversary mass shooting sandy hook elementary school extensively saturday
+		part news organizations say acquiesce requests local community members report newtown connecticut town adam lanza killed 20 first-graders six adults now-demolished school december 14 2012
+		run-up anniversary newtown officials said hoped press would descend small town stirring debate reporters
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 4
+	Results: 
+		rouge-1: 0.6364
+		rouge-2: 0.2500
+		rouge-l: 0.4400
+		mean: 0.4421
+	Summary: 
+		nation news media sure cover one-year anniversary mass shooting sandy hook elementary school extensively saturday
+		part news organizations say acquiesce requests local community members report newtown connecticut town adam lanza killed 20 first-graders six adults now-demolished school december 14 2012
+		similarly nbc spokeswoman said e-mail nbc news respecting town wishes broadcasts plans newtown anniversary

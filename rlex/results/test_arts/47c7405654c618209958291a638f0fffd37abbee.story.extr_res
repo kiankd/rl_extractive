@@ -1,0 +1,72 @@
+DOCUMENT:
+0: nikolay davydenko made winning start defense qatar open title 6-1 6-4 victory italy fabio fognini monday
+1: davydenko fourth seed prestigious atp tour season-opener star attractions world top two players rafael nadal roger federer begin campaigns later week
+2: russian hoping return top form injury blighted 2010 season needed hour dispatch fognini
+3: beat two-time doha champion federer spain nadal way title last season
+4: statistics point federer nadal triumph come saturday
+5: top two seeds 66 tournaments one going win title 44 occasions
+6: third seed jo-wilfried tsonga also straight sets winner debut 1.024 million tournament
+7: frenchman blasted 10 aces breezed past ruben ramirez hidalgo 6-2 6-0
+8: tsonga dropped eight points service converted five nine break point opportunities open 2011 account style
+9: seventh seed guillermo garcia-lopez spain began proceedings 6-1 7-6 win mikhail kukushkin kazakhstan 90 minutes
+10: chennai open shock defeat reigning champion marin cilic croatia
+11: cilic upset japan kei nishikori 4-6 7-6 6-2 first round bid hat-trick titles indian tournament
+
+=================================
+Gold summary:
+nikolay davydenko beats fabio fognini 6-1 6-4 begin qatar open title defense
+third seed jo-wilfried tsonga sees ruben ramirez hidalgo opener
+rafael nadal roger federer star attractions 1.024 million tournament
+champion marin cilic knocked chennai open first round
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 2, 4, 7
+	Results: 
+		rouge-1: 0.1622
+		rouge-2: 0.0541
+		rouge-l: 0.1053
+		mean: 0.1072
+	Summary: 
+		russian hoping return top form injury blighted 2010 season needed hour dispatch fognini
+		statistics point federer nadal triumph come saturday
+		frenchman blasted 10 aces breezed past ruben ramirez hidalgo 6-2 6-0
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4865
+		rouge-2: 0.2432
+		rouge-l: 0.2632
+		mean: 0.3310
+	Summary: 
+		nikolay davydenko made winning start defense qatar open title 6-1 6-4 victory italy fabio fognini monday
+		davydenko fourth seed prestigious atp tour season-opener star attractions world top two players rafael nadal roger federer begin campaigns later week
+		russian hoping return top form injury blighted 2010 season needed hour dispatch fognini
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 1, 6
+	Results: 
+		rouge-1: 0.6486
+		rouge-2: 0.3784
+		rouge-l: 0.3421
+		mean: 0.4564
+	Summary: 
+		nikolay davydenko made winning start defense qatar open title 6-1 6-4 victory italy fabio fognini monday
+		davydenko fourth seed prestigious atp tour season-opener star attractions world top two players rafael nadal roger federer begin campaigns later week
+		third seed jo-wilfried tsonga also straight sets winner debut 1.024 million tournament
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 3
+	Results: 
+		rouge-1: 0.5135
+		rouge-2: 0.2432
+		rouge-l: 0.2895
+		mean: 0.3487
+	Summary: 
+		nikolay davydenko made winning start defense qatar open title 6-1 6-4 victory italy fabio fognini monday
+		davydenko fourth seed prestigious atp tour season-opener star attractions world top two players rafael nadal roger federer begin campaigns later week
+		beat two-time doha champion federer spain nadal way title last season

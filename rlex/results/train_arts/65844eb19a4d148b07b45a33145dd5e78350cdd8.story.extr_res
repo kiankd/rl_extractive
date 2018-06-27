@@ -1,0 +1,124 @@
+DOCUMENT:
+0: watched wounded troops brought inside hospital stretchers michael conklin could believe seeing
+1: see stuff movies watching happen said conklin recalling 2003 visit walter reed army medical center washington
+2: many casualties coming busloads
+3: conklin made visit learn needs wounded servicemen women
+4: needs overwhelming
+5: guys come back war broken said reflecting missing limbs traumatic brain injuries devastating wounds observed
+6: conklin eldest son kris treated walter reed 2003 humvee hit rocket-propelled grenade iraq
+7: recovered injuries dad heartbroken realized wounded troops support son
+8: tight cohesive family
+9: said michael conklin 59
+10: anybody come home
+11: first went walter reed visit wanted take home
+12: instead started scholarship program sentinels freedom support disabled veterans help become self-sufficient
+13: since 2003 conklin foundation assisted 100 veterans housing education jobs whatever need adapt new lives
+14: every one different conklin said
+15: need service dogs guide dogs housing assistance special equipment put house drivers
+16: hien tran 33 injured improvised explosive device five years ago iraq spent 15 months walter reed
+17: lost right eye titanium rod placed leg said much hope future
+18: conklin program tran received 60,000 vehicle housing assistance furniture household goods
+19: also received valuable mentorship advice helped make engineering building firm successful
+20: tran paying forward hiring veterans
+21: think every wounded veteran every disabled veteran drive double tran said
+22: want seen normal
+23: want successful
+24: tran thankful conklin personal guidance along way
+25: mr. conklin helped build business said
+26: go back mr. conklin say hey want gives input
+27: conklin former real estate agent san ramon california father figure many sentinels program
+28: said usually hears four five day
+29: intimate knowledge going said
+30: cell phone number
+31: conklin also teams based 28 states across country ready help veterans need
+32: teams partner local businesses individuals willing donate services time money
+33: community support crucial program success conklin said
+34: kids grew neighborhoods went schools churches played ball fields said
+35: need welcome back communities open arms
+36: conklin never served military three sons army rangers one afghanistan brothers served vietnam
+37: said always taken note treatment men women military
+38: one things bothered kid brothers vietnam nobody community knew names faces conklin said
+39: could see happening
+40: sentinels freedom program rigorously screens candidate scholarship recipients must continually provide status updates keep getting assistance
+41: money conklin said
+42: building relationships reintegrating people society
+43: write check said
+44: walk successful
+45: recently conklin picked phone heard johnny jones shaky voice end
+46: jones 27 retired marine lost legs stepped ied iraq
+47: want tell something hear someone else jones said
+48: conklin heart stopped
+49: medical scare
+50: mind racing
+51: got c one classes jones replied
+52: want explain
+53: jones pursuing bachelor degree georgetown university conklin group assisted tuition rent expenses like computer
+54: conklin heard jones news bad grade felt relief
+55: felt pride
+56: proud trusts enough give call conklin said
+57: showed tremendous character
+58: conklin program
+59: try focus future potential said
+60: ca focus injury even though hard looking young man legs arms burns
+61: really listen hard look eyes look spark says guy potential
+62: let see help get
+63: want get involved
+64: check sentinels freedom website see help
+
+=================================
+Gold summary:
+many disabled u.s. veterans family help support
+michael conklin trying fill gap help men women feel self-sufficient
+scholarship program provides housing education whatever else needed
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 3, 46, 14
+	Results: 
+		rouge-1: 0.0833
+		rouge-2: 0.0000
+		rouge-l: 0.0800
+		mean: 0.0544
+	Summary: 
+		conklin made visit learn needs wounded servicemen women
+		jones 27 retired marine lost legs stepped ied iraq
+		every one different conklin said
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1250
+		rouge-2: 0.0417
+		rouge-l: 0.0800
+		mean: 0.0822
+	Summary: 
+		watched wounded troops brought inside hospital stretchers michael conklin could believe seeing
+		see stuff movies watching happen said conklin recalling 2003 visit walter reed army medical center washington
+		many casualties coming busloads
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 12, 13, 37
+	Results: 
+		rouge-1: 0.5417
+		rouge-2: 0.1250
+		rouge-l: 0.2800
+		mean: 0.3156
+	Summary: 
+		instead started scholarship program sentinels freedom support disabled veterans help become self-sufficient
+		since 2003 conklin foundation assisted 100 veterans housing education jobs whatever need adapt new lives
+		said always taken note treatment men women military
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 58
+	Results: 
+		rouge-1: 0.1250
+		rouge-2: 0.0417
+		rouge-l: 0.1200
+		mean: 0.0956
+	Summary: 
+		watched wounded troops brought inside hospital stretchers michael conklin could believe seeing
+		see stuff movies watching happen said conklin recalling 2003 visit walter reed army medical center washington
+		conklin program

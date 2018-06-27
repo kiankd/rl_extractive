@@ -1,0 +1,97 @@
+DOCUMENT:
+0: body totally inert brain still busy
+1: even coma brain imaging technology shown people brains show blood flow patterns indicate something going inside heads although necessarily indicative awareness
+2: doctors say observed significant brain activity former israeli prime minister ariel sharon
+3: basing statement results experiments done functional magnetic resonance imaging fmri showing sharon brain behaves differently presented familiar sounds pictures unfamiliar stimuli
+4: suggests brain capability react said dr. fatta nahab neuroscientist university miami involved sharon care
+5: means terms long-term outcomes indeterminate
+6: fmri lets scientists see changes blood flow brain associated neuronal activity
+7: measure actual activity provide clues areas still functional
+8: results interpreted connection potential recovery known
+9: doctors compared sharon brain responses viewed photos random houses shown photo house
+10: observed different response brain conjunction familiar place images
+11: sharon 84 also showed distinct brain activity patterns family members spoke compared voices distorted longer familiar sounded like gibberish
+12: brain response family member voice correct location cognitively normal person hears familiar people speaking said dr. ilan shelef head medical imaging soroka university medical center involved fmri tests sharon attending physician
+13: results suggest may higher processing information going areas brain important processing complex stimuli still functioning said dr. keith l. black chairman professor department neurosurgery cedars-sinai medical center involved sharon care
+14: proof sharon conscious familiar sounds images recognizing fully healthy person would said
+15: doctors given tests sharon previously unclear whether represents improvement
+16: cnn reported since 2006 sharon coma since suffering massive stroke year
+17: longer person coma less likely recover nahab said
+18: shelef said sharon coma vegetative state somewhere coma consciousness
+19: sleeps wakes eats swallows eyes open close shelef said
+20: shelef declined comment sharon general health
+21: continuum brain death normal awareness patients sharon fall black said
+22: fmri results suggest brain dead areas brain stem showing activity
+23: also patients locked-in totally aware sights sounds around move speak
+24: brain-controlled devices may help paralyzed people
+25: clinical purposes appears sharon coma black said
+26: seen patients make remarkable improvements coma long time best prognostic indicator one time black said
+27: improvement occur within first one two years
+28: sharon coma seven years fmri evidence positive would unusual start talking example given long stayed state black said
+29: scientists likely gotten new results even person coma parts nervous system still functioning capable learning capable changing activity patterns said dr. daniel hanley professor neurology neurosurgery anesthesia johns hopkins university school medicine involved sharon care
+30: phenomenon studied described said
+31: even severe brain injury qualities human existence preserved always treat patients dignity hanley said
+32: unclear brain activity patterns would mean patient future
+33: understand small changes function linked recovery said
+34: fmri tests repeated six months nine months compare activity levels would provide indication whether sharon headed positive direction black said
+35: really want know improving extrapolate improvement period time predict well going ultimately improve
+36: comatose sharon moves home weekend
+37: cnn elizabeth cohen william hudson contributed report
+
+=================================
+Gold summary:
+known fmri results relate patient recovery coma
+continuum brain death normal awareness
+improvement patient coma occurs within one two years
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 33, 26, 37
+	Results: 
+		rouge-1: 0.1667
+		rouge-2: 0.0000
+		rouge-l: 0.1500
+		mean: 0.1056
+	Summary: 
+		understand small changes function linked recovery said
+		seen patients make remarkable improvements coma long time best prognostic indicator one time black said
+		cnn elizabeth cohen william hudson contributed report
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1667
+		rouge-2: 0.0000
+		rouge-l: 0.1500
+		mean: 0.1056
+	Summary: 
+		body totally inert brain still busy
+		even coma brain imaging technology shown people brains show blood flow patterns indicate something going inside heads although necessarily indicative awareness
+		doctors say observed significant brain activity former israeli prime minister ariel sharon
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 8, 21, 27
+	Results: 
+		rouge-1: 0.7222
+		rouge-2: 0.3158
+		rouge-l: 0.6000
+		mean: 0.5460
+	Summary: 
+		results interpreted connection potential recovery known
+		continuum brain death normal awareness patients sharon fall black said
+		improvement occur within first one two years
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1667
+		rouge-2: 0.0000
+		rouge-l: 0.1500
+		mean: 0.1056
+	Summary: 
+		body totally inert brain still busy
+		even coma brain imaging technology shown people brains show blood flow patterns indicate something going inside heads although necessarily indicative awareness
+		doctors say observed significant brain activity former israeli prime minister ariel sharon

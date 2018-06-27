@@ -1,0 +1,104 @@
+DOCUMENT:
+0: sat dr. valentin fuster exam room mount sinai hospital manhattan one word raced mind whoa
+1: really could understand happening
+2: beaten obesity first time life hitting gym regularly practicing portion control diet
+3: taken tennis fact actually pretty decent
+4: talking someone never run hit even caught ball 42
+5: even though felt looked great experiencing know classic symptoms heart disease frequent intense heart palpitations light-headedness shortness breath extreme fatigue
+6: always thought heart disease old white dude disease
+7: seen television anyway
+8: happen newly skinny black women going
+9: least thought going
+10: could wrong
+11: face heart disease
+12: doctors told going crack chest open take heart body repair aortic valve remove subaortic membrane stave future heart issues scared crap
+13: sincerely considered surgery
+14: knew needed strong
+15: got focused
+16: became determined
+17: yes times terrified
+18: anyone goes cardiac surgery tells scared lying
+19: fortunately skill level physicians resources available left encouraged prognosis recovery
+20: amazingly even though doctors stopped heart 22 minutes operating table made open-heart surgery without complications
+21: part recovery elected cardiac rehab
+22: second-best decision life
+23: three months pushing limit steadfast determination recover fully goal
+24: discipline necessary strengthen heart surgery relentless exhausting worth
+25: like blessed
+26: came heart disease today survivor
+27: recovery realized obligation reached beyond health
+28: made commitment use whatever platform public eye raise awareness heart disease women
+29: according american heart association centers disease control prevention heart disease no. 1 killer americans
+30: no. 1 killer african-americans no. 1 killer women
+31: see heart disease personal personal
+32: three years served national volunteer aha volunteer spokeswoman go red women movement
+33: movement aims dispel myths surrounding heart disease raise awareness
+34: passionate emotional social initiative designed empower women take charge heart health
+35: goal harness energy passion power women band together collectively wipe no. 1 killer
+36: national wear red day coming friday reminded bringing awareness heart disease wearing red one day year
+37: sharing story empowering make heart health priority starting
+38: thankful voice comes fighting preventable disease
+39: made mission know talk anyone listen story
+40: believe coast coast sharing story educating others along way
+41: today living best life great health
+42: proud spent past 10 years getting best physical emotional shape could
+43: learned late life health greatest asset encouraging healthy living purpose life
+44: health hope hope everything
+
+=================================
+Gold summary:
+tv personality star jones diagnosed heart disease 2010
+heart disease leading cause death men women preventable
+february american heart month friday national wear red day
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 26, 14, 30
+	Results: 
+		rouge-1: 0.1364
+		rouge-2: 0.0435
+		rouge-l: 0.1200
+		mean: 0.0999
+	Summary: 
+		came heart disease today survivor
+		knew needed strong
+		no. 1 killer african-americans no. 1 killer women
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.0000
+		rouge-2: 0.0000
+		rouge-l: 0.0000
+		mean: 0.0000
+	Summary: 
+		sat dr. valentin fuster exam room mount sinai hospital manhattan one word raced mind whoa
+		really could understand happening
+		beaten obesity first time life hitting gym regularly practicing portion control diet
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 29, 34, 36
+	Results: 
+		rouge-1: 0.4091
+		rouge-2: 0.2174
+		rouge-l: 0.4000
+		mean: 0.3422
+	Summary: 
+		according american heart association centers disease control prevention heart disease no. 1 killer americans
+		passionate emotional social initiative designed empower women take charge heart health
+		national wear red day coming friday reminded bringing awareness heart disease wearing red one day year
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 33
+	Results: 
+		rouge-1: 0.0909
+		rouge-2: 0.0435
+		rouge-l: 0.0800
+		mean: 0.0715
+	Summary: 
+		sat dr. valentin fuster exam room mount sinai hospital manhattan one word raced mind whoa
+		really could understand happening
+		movement aims dispel myths surrounding heart disease raise awareness

@@ -1,0 +1,67 @@
+DOCUMENT:
+0: paris paradise city axl rose 200,000 worth jewelry stolen guns n roses played show tuesday night police said wednesday
+1: jewelry stolen lounge guarded frontman personal security team police said
+2: invited guests members rose entourage allowed area said
+3: police say items taken
+4: police investigation way
+5: neither axl rose band immediate comment theft
+6: guns n roses touring europe late july
+7: cnn stephanie halasz contributed report
+
+=================================
+Gold summary:
+jewelry taken frontman lounge paris police say
+personal security team guarding area time
+paris olice investigating theft
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 0, 1, 7
+	Results: 
+		rouge-1: 0.5000
+		rouge-2: 0.1250
+		rouge-l: 0.2941
+		mean: 0.3064
+	Summary: 
+		paris paradise city axl rose 200,000 worth jewelry stolen guns n roses played show tuesday night police said wednesday
+		jewelry stolen lounge guarded frontman personal security team police said
+		cnn stephanie halasz contributed report
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5625
+		rouge-2: 0.1250
+		rouge-l: 0.3529
+		mean: 0.3468
+	Summary: 
+		paris paradise city axl rose 200,000 worth jewelry stolen guns n roses played show tuesday night police said wednesday
+		jewelry stolen lounge guarded frontman personal security team police said
+		invited guests members rose entourage allowed area said
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 3, 5
+	Results: 
+		rouge-1: 0.6250
+		rouge-2: 0.1875
+		rouge-l: 0.3529
+		mean: 0.3885
+	Summary: 
+		jewelry stolen lounge guarded frontman personal security team police said
+		police say items taken
+		neither axl rose band immediate comment theft
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5625
+		rouge-2: 0.1250
+		rouge-l: 0.3529
+		mean: 0.3468
+	Summary: 
+		paris paradise city axl rose 200,000 worth jewelry stolen guns n roses played show tuesday night police said wednesday
+		jewelry stolen lounge guarded frontman personal security team police said
+		invited guests members rose entourage allowed area said

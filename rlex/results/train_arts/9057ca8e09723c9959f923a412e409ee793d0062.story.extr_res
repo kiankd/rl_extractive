@@ -1,0 +1,63 @@
+DOCUMENT:
+0: pilot passenger died civilian plane crashed eglin air force base florida thursday morning air base said
+1: aero club beech aircraft belonged local flying club said federal aviation administration spokeswoman kathleen bergen
+2: said foul play suspected
+3: accident occurred around 5:30 a.m.
+
+=================================
+Gold summary:
+civilian plane crashed eglin air force base
+accident killed pilot passenger
+plane belonged local flying club faa spokeswoman said
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.8333
+		rouge-2: 0.5556
+		rouge-l: 0.6842
+		mean: 0.6910
+	Summary: 
+		pilot passenger died civilian plane crashed eglin air force base florida thursday morning air base said
+		aero club beech aircraft belonged local flying club said federal aviation administration spokeswoman kathleen bergen
+		said foul play suspected
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.8333
+		rouge-2: 0.5556
+		rouge-l: 0.6842
+		mean: 0.6910
+	Summary: 
+		pilot passenger died civilian plane crashed eglin air force base florida thursday morning air base said
+		aero club beech aircraft belonged local flying club said federal aviation administration spokeswoman kathleen bergen
+		said foul play suspected
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 1, 3
+	Results: 
+		rouge-1: 0.8889
+		rouge-2: 0.5556
+		rouge-l: 0.6316
+		mean: 0.6920
+	Summary: 
+		pilot passenger died civilian plane crashed eglin air force base florida thursday morning air base said
+		aero club beech aircraft belonged local flying club said federal aviation administration spokeswoman kathleen bergen
+		accident occurred around 5:30 a.m.
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.8333
+		rouge-2: 0.5556
+		rouge-l: 0.6842
+		mean: 0.6910
+	Summary: 
+		pilot passenger died civilian plane crashed eglin air force base florida thursday morning air base said
+		aero club beech aircraft belonged local flying club said federal aviation administration spokeswoman kathleen bergen
+		said foul play suspected

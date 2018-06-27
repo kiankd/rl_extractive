@@ -1,0 +1,104 @@
+DOCUMENT:
+0: lawyers conrad murray manslaughter trial take wednesday court prepare closing arguments day doctor declined testify defense death singer michael jackson
+1: murray announced court tuesday take stand pausing look lawyers several seconds telling judge decision testify matter
+2: decision remain silent ended defense case trial michael jackson doctor setting stage closing arguments thursday
+3: end testimony emotional dozens singer fans converged los angeles county courthouse six-week trial
+4: fan removed courthouse yelling murderer murderer murray walked hallway recess tuesday
+5: fans also surrounded yelled defense anesthesiology expert dr. paul white waited cab courthouse sidewalk
+6: others lined sides hallway held hands members jackson family walked past
+7: parents joe katherine jackson attended court tuesday along daughter latoya jackson youngest son randy jackson
+8: katherine latoya left courthouse took several signs used fans loud protests day
+9: prosecutors briefly recalled anesthesiology expert dr. steven shafer rebuttal defense propofol expert dr. paul white resting case tuesday morning
+10: los angeles county superior court judge michael pastor met lawyers sides tuesday afternoon discuss exhibits admitted evidence instructions give jurors begin deliberations thursday
+11: prosecution contends murray use surgical anesthetic propofol treat jackson insomnia home deviated standards care expected doctor egregiously made criminally responsible jackson death
+12: murray pleaded guilty
+13: murray decided tell jurors version happened day pop star died care would risk intensive cross-examination los angeles county deputy district attorney david walgren
+14: walgren proved cross-examination skills monday fiery battle white defense anesthesiology expert theory jackson died drugs gave
+15: white completed testimony tuesday morning
+16: white bruises battle walgren monday included contempt-of-court citation 1,000 fine ignored repeated warnings pastor refer personal conversations murray
+17: walgren insisted white answer questions based knew murray interview police murray told privately
+18: otherwise would way defense introduce statements defendant without testify
+19: nice try pastor told defense ruled could
+20: walgren spent much monday trying discredit white said testimony friday getting defense expert support prosecution argument murray treatment jackson reckless
+21: white conceded murray deviated standards care would agree egregious extreme make murray criminally responsible jackson death
+22: murray deviations perhaps minor serious extreme said
+23: walgren also successful getting white agree would done murray take job sedating jackson nearly every night home propofol
+24: amount money could get take job white said
+25: absolutely testified
+26: would job would never consider accepting
+27: prosecution contends greed led murray leave medical practice put ethics aside serve jackson private doctor 150,000 month
+28: biggest battle walgren white fought competing theories jackson died scientific evidence supports
+29: los angeles county coroner ruled jackson june 25 2009 death caused acute propofol intoxication combination two sedatives
+30: white concluded level drugs found jackson stomach blood urine convinced jackson died rapidly injected propofol top large dose lorazepam swallowed hours earlier
+31: shafer prosecution propofol expert concluded scenario fits scientific evidence jackson constant intravenous drip propofol three hours death
+32: shafer also testified murray must also injected jackson series large doses lorazepam sedative hours death
+33: white theorized jackson could pushed drug catheter leg using syringe 15 30-second period much faster doctor would done
+34: believe could potentially lethal consequences white testified
+35: cross-examination monday white said believed jackson used syringe murray loaded propofol hour earlier give jackson 25-milligram injection
+36: murray filled 50 milligrams initially leaving half-filled jackson bedroom white theory
+37: white ruled possibility murray would injected fatal dose unless wanted potentially harm mr. jackson
+38: walgren asked white whether thought jackson intended harm
+39: think realized potential danger white replied
+40: defense contends jackson desperate sleep fearing comeback concerts would canceled missed another rehearsal lack rest
+41: walgren pressed white opinion murray decision leave jackson alone syringe propofol considering known jackson pushed syringe propofol
+42: would leave room said
+43: prosecutors contend murray responsible jackson death even give final fatal dose reckless using surgical anesthetic help jackson sleep without proper precautions
+
+=================================
+Gold summary:
+testimony ends trial dr. conrad murray
+lawyers court wednesday prepare closing arguments
+decision testify matter murray tells judge
+closing arguments jury deliberations come thursday
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 1, 4, 28
+	Results: 
+		rouge-1: 0.3333
+		rouge-2: 0.0909
+		rouge-l: 0.2500
+		mean: 0.2247
+	Summary: 
+		murray announced court tuesday take stand pausing look lawyers several seconds telling judge decision testify matter
+		fan removed courthouse yelling murderer murderer murray walked hallway recess tuesday
+		biggest battle walgren white fought competing theories jackson died scientific evidence supports
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.6667
+		rouge-2: 0.2273
+		rouge-l: 0.5000
+		mean: 0.4646
+	Summary: 
+		lawyers conrad murray manslaughter trial take wednesday court prepare closing arguments day doctor declined testify defense death singer michael jackson
+		murray announced court tuesday take stand pausing look lawyers several seconds telling judge decision testify matter
+		decision remain silent ended defense case trial michael jackson doctor setting stage closing arguments thursday
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 1, 10
+	Results: 
+		rouge-1: 0.7143
+		rouge-2: 0.2273
+		rouge-l: 0.5000
+		mean: 0.4805
+	Summary: 
+		lawyers conrad murray manslaughter trial take wednesday court prepare closing arguments day doctor declined testify defense death singer michael jackson
+		murray announced court tuesday take stand pausing look lawyers several seconds telling judge decision testify matter
+		los angeles county superior court judge michael pastor met lawyers sides tuesday afternoon discuss exhibits admitted evidence instructions give jurors begin deliberations thursday
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 41
+	Results: 
+		rouge-1: 0.6190
+		rouge-2: 0.2273
+		rouge-l: 0.4167
+		mean: 0.4210
+	Summary: 
+		lawyers conrad murray manslaughter trial take wednesday court prepare closing arguments day doctor declined testify defense death singer michael jackson
+		murray announced court tuesday take stand pausing look lawyers several seconds telling judge decision testify matter
+		walgren pressed white opinion murray decision leave jackson alone syringe propofol considering known jackson pushed syringe propofol

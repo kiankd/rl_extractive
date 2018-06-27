@@ -1,0 +1,164 @@
+DOCUMENT:
+0: cnn student news august 20 2009
+1: afghan election day journey remote part afghanistan ahead presidential election
+2: launch delayed learn pair planned space launches u.s. south korea
+3: guitar future rock report changing technology electric guitars
+4: rush transcript
+5: copy may final form may updated
+6: carl azuz cnn student news anchor one country prepares next orbiting opportunity another wait kick-start space program
+7: launching details cnn student news
+8: carl azuz
+9: first baghdad violence
+10: azuz begin iraq series bombings rocked capital city baghdad
+11: u.s. pulled combat troops iraqi cities towns back june 30th
+12: left security responsibilities iraqis
+13: violence rise since yesterday marked deadliest day nation since end june
+14: least 95 people killed 560 others wounded six explosions across baghdad including two targeted government buildings
+15: authorities said two people believed connected attacks arrested yesterday
+16: iraq prime minister said bombings force country re-evaluate security plans
+17: american officials said attacks wo stop iraqis building peaceful society wo stop u.s. helping efforts
+18: afghan election day
+19: azuz u.s. forces also helping afghanistan today country holds second presidential election history
+20: security big concern leading event
+21: several election workers killed attacks week taliban vowed disrupt voting violence
+22: american marines afghan soldiers deployed help protect voters
+23: afghanistan independent election commission estimates 17 million registered voters country
+24: 4.6 million 2004 last election
+25: many live remote areas
+26: order get voting supplies officials using helicopters cars even donkeys
+27: ivan watson went along ride one polling places tells us preparations leading today election
+28: begin video
+29: ivan watson cnn correspondent convoy police truck
+30: escorting truck ahead us dust might able see taking ballot boxes polling stations afghanistan central bamiyan province
+31: see security important even though one safest provinces country
+32: despite good track record election workers say parts province heard armed men going house house warning people vote
+33: also spike violence insurgent attacks past three months insurgents tried disrupt election process
+34: tell roads paved
+35: despite fact bamiyan one safest provinces country spared daily car bombs roadside bombs south east country seen assassination attacks still really benefited reconstruction
+36: fewer five miles five kilometers paved road entire province
+37: makes election real logistical challenge
+38: see posters candidates provincial council president
+39: people say going participate elections
+40: lot support incumbent president hamid karzai part traditional ethnic hazara leaders predominantly ethnic hazara province endorsed incumbent president hamid karzai
+41: end video
+42: tomeka jones cnn student news see i.d.
+43: became independent country world war ii
+44: located peninsula asia
+45: capital city seoul hosted 1988 summer olympics
+46: south korea home around 48.5 million people
+47: azuz south korea space program holding pattern officials cancelled yesterday rocket launch eight minutes liftoff
+48: fact seventh time launch postponed since program started 2002
+49: engineers say week delay due technical glitch take least three days figure went wrong try
+50: south korea hoping rocket cost 400 million jump-start space program
+51: ultimate goal send unmanned probe moon 2025
+52: azuz u.s. space program running decades nasa planning latest launch next week
+53: bad weather technical concerns could cause delays everything goes according schedule space shuttle discovery go tuesday morning 37th mission space
+54: seven-person crew delivering equipment supplies international space station
+55: azuz whose current crew enjoying view
+56: looking hurricane bill seen orbiting space station
+57: first hurricane 2009 atlantic season increased category 4 storm wednesday afternoon
+58: big bad moving atlantic ocean
+59: forecasters expect affect southern united states although say early tell bill impact northeast
+60: george ramsay cnn student news today shoutout goes mr. parks government classes luverne high school luverne alabama
+61: stringed instrument would find tune-o-matic bridge tremolo pickups
+62: think know shout
+63: cello b piano c lever harp electric guitar
+64: got three seconds go
+65: find features electric guitar
+66: answer shoutout
+67: guitar future
+68: azuz electric guitars around 70 years
+69: seen changes time type strings shape instrument even made basically sounded
+70: felipe barral tells us new guitar incorporates past moves toward future
+71: begin video clip
+72: felipe barral cnn reporter last couple years guitars added mini-computers add whole new dimension
+73: john halpen guitar center attempting kind integrate digital analog signals worlds exist within
+74: barral guitar center john halpen shows latest offering
+75: gibson dark fire based famous gibson les paul classic guitar microprocessor inside taking studio effects road
+76: halpen advantage digital audio recording systems available in-house everyone
+77: allows tap abilities get sorts different sounds never possible regular guitar
+78: barral guitar tones turning master control knob one change 18 different tones
+79: small servo motor tuning key looks like magic
+80: guitar also technology called chameleon simulate several classical sounds sounds use depend different types wood guitar made like classic electric guitar acoustic guitar jazzy sound
+81: halpen guitar players generally kind looking past always liked sound wise
+82: lets get classic sounds past staples rock music jazz music one guitar
+83: barral guitar also connected nearby computer gives choices type amplifier use equalization effects even record loop play top live
+84: guitarists evolution sound endless turning possibilities cutting edge technology ability produce different sounds one click
+85: one realize creativity interesting new tool
+86: felipe barral cnn atlanta
+87: end video clip
+88: azuz showoff
+89: guess good showing
+90: tell us cool technology making something better
+91: cheating kind taking something away tuning guitar
+92: thought musicians might something say
+93: say blog
+94: head cnnstudentnews.com riff opinion
+95: azuz go want know fastest way ruin quiet summer evening
+96: guy show front porch
+97: yeah snake
+98: 11 feet long 55 pounds seem like held
+99: pesky python slithered california family front stoop week getting stuck nearby fence
+100: animal control showed took two officers wrestle rascally reptile truck
+101: azuz called shirley coen
+102: get joke watch yesterday go segment
+103: going slither away today
+104: cnn student news carl azuz
+
+=================================
+Gold summary:
+journey remote part afghanistan ahead presidential election
+learn pair planned space launches u.s. south korea
+rock report changing technology electric guitars
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 27, 63, 55
+	Results: 
+		rouge-1: 0.0952
+		rouge-2: 0.0000
+		rouge-l: 0.0952
+		mean: 0.0635
+	Summary: 
+		ivan watson went along ride one polling places tells us preparations leading today election
+		cello b piano c lever harp electric guitar
+		azuz whose current crew enjoying view
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.7143
+		rouge-2: 0.6500
+		rouge-l: 0.7143
+		mean: 0.6929
+	Summary: 
+		cnn student news august 20 2009
+		afghan election day journey remote part afghanistan ahead presidential election
+		launch delayed learn pair planned space launches u.s. south korea
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 2, 3
+	Results: 
+		rouge-1: 1.0000
+		rouge-2: 0.9000
+		rouge-l: 1.0000
+		mean: 0.9667
+	Summary: 
+		afghan election day journey remote part afghanistan ahead presidential election
+		launch delayed learn pair planned space launches u.s. south korea
+		guitar future rock report changing technology electric guitars
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.7143
+		rouge-2: 0.6500
+		rouge-l: 0.7143
+		mean: 0.6929
+	Summary: 
+		cnn student news august 20 2009
+		afghan election day journey remote part afghanistan ahead presidential election
+		launch delayed learn pair planned space launches u.s. south korea

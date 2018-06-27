@@ -1,0 +1,103 @@
+DOCUMENT:
+0: ill could move wolfgang amadeus mozart supposedly sang parts final masterpiece requiem deathbed
+1: two centuries later exact cause austrian composer premature death december 1791 age 35 still mystery
+2: portrait painter johann georg edlinger showed mozart long mysterious death 1791
+3: theories abound
+4: known entire body swollen could turn bed say jealous rivals poisoned others suggest scarlet fever tuberculosis lethal trichinosis undercooked pork
+5: new evidence points altogether different conclusion mozart may died kidney damage caused strep infection possibly strep throat
+6: health.com ca stop coughing
+7: 8 causes chronic cough
+8: dr. richard h.c. zegers university amsterdam colleagues analyzed data vienna death registry
+9: researchers previously analyzed daily death registry begun handwritten script 1607 maintained 1920 clues mozart death
+10: zegers team looked information 5,011 adults died three consecutive winters starting 1790 well eyewitness accounts mozart death according study published week annals internal medicine
+11: looking patterns death mozart time combining signs symptoms final disease one two pillars theory built said zegers
+12: although ca 100 percent conclusive convinced come near exact reason died
+13: researchers found 500 deaths related edema swelling caused fluid body tissues
+14: edema third common cause death time tuberculosis malnutrition/cachexia physical wasting-away possibly caused cancer diabetes
+15: health.com nutrition needs 30s 40s 50s
+16: winter 1791 spike edema-related deaths among younger men possibly epidemic strep throat according zegers
+17: colleagues suspect epidemic origin local military hospital since crowded quarters conducive rapid spread airborne bacteria group streptococcus cause strep throat
+18: strep throat progress rheumatic fever lead heart valve joint damage scarlet fever characterized skin rash poststreptococcal glomerulonephritis apsgn condition causes fluid buildup throughout body kidney damage
+19: health.com one doctor helps patients avoid kidney problems
+20: strep bacteria serious side effects today experts recommend testing prompt antibiotic treatment strep causes fiery red throat severe pain high fever
+21: however present-day throat infections caused viruses case antibiotics useless often go away without treatment serious complications
+22: dr. martin schreiber head nephrology hypertension department cleveland clinic ohio said researchers might right track
+23: yes said schreiber
+24: contrary previous theories suggesting mozart died extremely rare circumstances new study reasonable conclusion based happening community schreiber said
+25: using credible sources available period relying upon deductive reasoning
+26: sure scientific approach added
+27: even though death registry data helps shed light mozart cause death significant gaps still leave doubt
+28: many people witnessed composer final days accounts published decades death
+29: historians found written accounts mozart physicians relied largely medical reports doctor familiar case treat composer
+30: sources used study include biography written composer wife second husband georg nikolaus von nissen eyewitness account given mozart sister-in-law sophie haibel 33 years death
+31: dr. stephen gluck nephrologist university california san francisco finds faults new theory accounts mozart suffering sore throat last weeks life reports high blood pressure blood urine
+32: telltale signs apsgn
+33: gluck adds apsgn occurs mainly children nonfatal cases
+34: mozart cause death listed city official registry hitziges frieselfieber miliary fever condition whose symptoms include high temperature rash
+35: zegers suggested guess made layperson instead medical authority term widely used describe symptoms instead actual medical diagnosis
+36: although rash symptom scarlet fever also caused strep bacteria likely mozart death due strep throat zegers said
+37: none people last weeks life reported rash suggesting rash time death
+38: scarlet fever rash shows first second day get sick subsides within six nine days said zegers condition unlikely cause death
+39: health.com four things know natural medicine
+40: mozart reported fever fall 1791 may caused initial strep infection researchers say
+41: strep complications occur weeks initial infection possible mozart sore throat time death recorded
+42: enter win monthly room makeover giveaway myhomeideas.com
+43: copyright health magazine 2009
+
+=================================
+Gold summary:
+exact cause mozart death age 35 1791 still mystery
+1791 edema-related deaths among younger men increased due strep throat
+accounts mozart sore throat last weeks life
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 42, 20, 13
+	Results: 
+		rouge-1: 0.1304
+		rouge-2: 0.0000
+		rouge-l: 0.0769
+		mean: 0.0691
+	Summary: 
+		enter win monthly room makeover giveaway myhomeideas.com
+		strep bacteria serious side effects today experts recommend testing prompt antibiotic treatment strep causes fiery red throat severe pain high fever
+		researchers found 500 deaths related edema swelling caused fluid body tissues
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3913
+		rouge-2: 0.1200
+		rouge-l: 0.3077
+		mean: 0.2730
+	Summary: 
+		ill could move wolfgang amadeus mozart supposedly sang parts final masterpiece requiem deathbed
+		two centuries later exact cause austrian composer premature death december 1791 age 35 still mystery
+		portrait painter johann georg edlinger showed mozart long mysterious death 1791
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 16, 31
+	Results: 
+		rouge-1: 0.9130
+		rouge-2: 0.5200
+		rouge-l: 0.8462
+		mean: 0.7597
+	Summary: 
+		two centuries later exact cause austrian composer premature death december 1791 age 35 still mystery
+		winter 1791 spike edema-related deaths among younger men possibly epidemic strep throat according zegers
+		dr. stephen gluck nephrologist university california san francisco finds faults new theory accounts mozart suffering sore throat last weeks life reports high blood pressure blood urine
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3913
+		rouge-2: 0.1200
+		rouge-l: 0.3077
+		mean: 0.2730
+	Summary: 
+		ill could move wolfgang amadeus mozart supposedly sang parts final masterpiece requiem deathbed
+		two centuries later exact cause austrian composer premature death december 1791 age 35 still mystery
+		portrait painter johann georg edlinger showed mozart long mysterious death 1791

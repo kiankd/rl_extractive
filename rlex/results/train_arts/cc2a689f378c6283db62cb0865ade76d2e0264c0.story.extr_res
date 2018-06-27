@@ -1,0 +1,104 @@
+DOCUMENT:
+0: sharing wonderful thing executed correctly
+1: super fun share hugs wanted important note delicious desserts interesting thought-provoking books fun share colds stds and/or upsetting possibly dangerous secrets
+2: genres sharing however little less black white
+3: example ok share something rad found online
+4: helpful passing along/posting said tidbit slowly morphing addled mother clogging friends inboxes poems jesus kitten gifs mama dark side chain letters promising certain death passed along 200 people within hour
+5: wish mom still active
+6: weapon arsenal
+7: hard tell expansive world wide web certain tipoffs telling 1
+8: anyone respond post new favorite ukulele cover facebook
+9: whine declining quality model-train-collecting literature twitter score retweets
+10: enjoyed real substantial human interaction past month
+11: answered questions might putting precious pearls swine
+12: answered number three might want go outside
+13: maybe say hi mailman
+14: order reap praise certainly deserve expert curating abilities might recommend hitting one three social sharing networks instead appealing masses know digital face becomes one mother could love
+15: abby name antique thimbles game
+16: seriously wild whimsical little doodads
+17: sadly one pals quite ardently anti-finger-pricks
+18: sports shorts fun sun porcelain skin porcelain pointer covers much prefer quiet contemplation hot tea sipped whilst making creepy amish dolls faces
+19: fret dear abby kindred spirits waiting ooh ahh daisy-emblazoned babies
+20: well pinterest course
+21: heard pinterest locked away cave mothballs yarn 2-year-old social bookmarking site
+22: users create online idea boards sorts centered around categories like art home decor technology
+23: boards themed cat wedding ideas favorite whiskey drinks tattoos get forehead populated media collected one online travels
+24: best part service however social factor follow friends facebook twitter users share interests well re-pin like comment posts tickle fancy
+25: finally dear abby get respect deserve trove thimble snaps hoarding hard drive
+26: like antique thimbles join pinterest
+27: merely example
+28: oh ike indie-band savant
+29: always latest viral videos zipping around web
+30: mean gotye somebody used know favorite jam band covered using one guitar vid hit web super angry original tune integrity jeopardized deemed straight-up stunt first one share video
+31: still friends yet recognize video-finding genius behind times discovering bon joviver video still think rebecca black funny
+32: pity ike ca understand band witch house mighty mighty yet take either
+33: know one every truly understand get think able find kind solace chill.com video-sharing site lot like pinterest respects
+34: site allows users create categories videos share users
+35: dear ike create cache super sell-out vids songs think anarchy
+36: know videos dogs sleeping funny places inclined
+37: pinterest also follow users re-posting commenting expressing emotions via series emoticons videos
+38: site even chat feature friend ike limit rants raves confines mere comment box
+39: oh sad sarah know dumped mostly facebook tells us listened cave mumford sons 70 times row spotify jam one top breakup tunes web tells us
+40: apparently want hide shame turning private listening facebook stalkers kind bummed musical sad-making
+41: also obviously want billy break-up-er know tortured really perhaps come running open arms
+42: well make statement sad song choice share via jam social site allows choose one tune put display object musical obsession seven whole days complete description said tune struck fancy
+43: users follow fret pain full display complete comments likes
+44: oh encouraged pick new tune every week yeah six days left tears
+
+=================================
+Gold summary:
+pinterest users create online idea boards centered around art technology
+chill.com chat feature limit comments confines comment box
+make statement songs choice share via jam
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 0, 21, 38
+	Results: 
+		rouge-1: 0.2800
+		rouge-2: 0.0833
+		rouge-l: 0.2800
+		mean: 0.2144
+	Summary: 
+		sharing wonderful thing executed correctly
+		heard pinterest locked away cave mothballs yarn 2-year-old social bookmarking site
+		site even chat feature friend ike limit rants raves confines mere comment box
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.0400
+		rouge-2: 0.0000
+		rouge-l: 0.0400
+		mean: 0.0267
+	Summary: 
+		sharing wonderful thing executed correctly
+		super fun share hugs wanted important note delicious desserts interesting thought-provoking books fun share colds stds and/or upsetting possibly dangerous secrets
+		genres sharing however little less black white
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 22, 38, 42
+	Results: 
+		rouge-1: 0.8400
+		rouge-2: 0.4583
+		rouge-l: 0.8400
+		mean: 0.7128
+	Summary: 
+		users create online idea boards sorts centered around categories like art home decor technology
+		site even chat feature friend ike limit rants raves confines mere comment box
+		well make statement sad song choice share via jam social site allows choose one tune put display object musical obsession seven whole days complete description said tune struck fancy
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.0400
+		rouge-2: 0.0000
+		rouge-l: 0.0400
+		mean: 0.0267
+	Summary: 
+		sharing wonderful thing executed correctly
+		super fun share hugs wanted important note delicious desserts interesting thought-provoking books fun share colds stds and/or upsetting possibly dangerous secrets
+		genres sharing however little less black white

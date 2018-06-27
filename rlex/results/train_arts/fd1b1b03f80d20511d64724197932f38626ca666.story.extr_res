@@ -1,0 +1,79 @@
+DOCUMENT:
+0: cnn #blacklivesmatter hashtag mantra movement college course
+1: spring dartmouth college offer new class 10 weeks 10 professors #blacklivesmatter examine race violence inequality current events throughout history
+2: 2014 deaths michael brown ferguson missouri eric garner new york confrontations police sparked conversations social media protests around world including dartmouth hanover new hampshire campus
+3: even though might sort cloistered away ivory tower something felt much moved incited inspired lot activists work following failure indict darren wilson events ferguson said aimee bahng assistant professor english dartmouth
+4: wanted leave behind winter break
+5: around martin luther king jr.
+6: day missouri rev. starsky wilson co-chairman ferguson commission spoke dartmouth faculty teaching ferguson
+7: end wilson two-hour workshop faculty members already brainstorming integrate events response coursework campus life
+8: result teaching collective draws faculty geography history english math areas idea interdisciplinary course crafted taught
+9: course also expected draw outside speakers explore ways engage community beyond parading professors front lecture halls
+10: special energy around said abigail neely assistant professor geography dartmouth
+11: designed transgress boundaries disciplines effort really deep sustained critical thinking important issues country world moment
+12: course came together quickly support college leaders dartmouth african african-american studies program neely bahng said
+13: enrollment opens friday faculty members still finalizing syllabus deciding many students admitted
+14: early lesson expected focus st. louis racial history
+15: another consider poetry prose music religious sermons
+16: still others look events ferguson documented different media black activism evolved hip-hop hashtags
+17: word spread course outpouring support campus bahng neely said
+18: far 10 faculty signed wednesday 21 thinking together teaching together working together students approached ask whether sit course even enrolled
+19: planning course already begun work teaching collective neely said
+20: excited see happens students join
+
+=================================
+Gold summary:
+dartmouth offer course inspired #blacklivesmatter movement spring
+course taught faculty geography english history departments
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 16, 17, 2
+	Results: 
+		rouge-1: 0.1538
+		rouge-2: 0.0000
+		rouge-l: 0.0714
+		mean: 0.0751
+	Summary: 
+		still others look events ferguson documented different media black activism evolved hip-hop hashtags
+		word spread course outpouring support campus bahng neely said
+		2014 deaths michael brown ferguson missouri eric garner new york confrontations police sparked conversations social media protests around world including dartmouth hanover new hampshire campus
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5385
+		rouge-2: 0.0000
+		rouge-l: 0.2857
+		mean: 0.2747
+	Summary: 
+		cnn #blacklivesmatter hashtag mantra movement college course
+		spring dartmouth college offer new class 10 weeks 10 professors #blacklivesmatter examine race violence inequality current events throughout history
+		2014 deaths michael brown ferguson missouri eric garner new york confrontations police sparked conversations social media protests around world including dartmouth hanover new hampshire campus
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 3, 8
+	Results: 
+		rouge-1: 0.8462
+		rouge-2: 0.0769
+		rouge-l: 0.4286
+		mean: 0.4505
+	Summary: 
+		spring dartmouth college offer new class 10 weeks 10 professors #blacklivesmatter examine race violence inequality current events throughout history
+		even though might sort cloistered away ivory tower something felt much moved incited inspired lot activists work following failure indict darren wilson events ferguson said aimee bahng assistant professor english dartmouth
+		result teaching collective draws faculty geography history english math areas idea interdisciplinary course crafted taught
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5385
+		rouge-2: 0.0000
+		rouge-l: 0.2857
+		mean: 0.2747
+	Summary: 
+		cnn #blacklivesmatter hashtag mantra movement college course
+		spring dartmouth college offer new class 10 weeks 10 professors #blacklivesmatter examine race violence inequality current events throughout history
+		2014 deaths michael brown ferguson missouri eric garner new york confrontations police sparked conversations social media protests around world including dartmouth hanover new hampshire campus

@@ -1,0 +1,99 @@
+DOCUMENT:
+0: need social etiquette advice digital age
+1: brad pitt got back month cover story wired magazine
+2: wired new cover story brad pitt offers etiquette digital age
+3: brad people talk phone using restroom
+4: ca talk phone
+5: pitt tells magazine
+6: want guy next hear entire conversation
+7: text bathroom
+8: sure hit wrong button end putting photo junk twitter
+9: trust want followers
+10: watch cnn video cell phone etiquette
+11: humor covers pitt lack tech credentials hollywood hunk star quentin tarantino new film inglourious basterds offers range tongue-in-cheek advice wired readers
+12: touches subjects ranging managing online persona looking porn work computer
+13: wired says pitt approached magazine ideas story
+14: magazine owned conde nast cnn.com content partner collaborated pitt contributing photographer dan winters create article
+15: behave new rules highly evolved humans hits newsstands july 21
+16: wired said e-mail piece re-think celebrity magazine profile
+17: cover photo shows pitt wearing bluetooth device ear
+18: rule no. 52 ditch headset
+19: barely pull blurb magazine front says
+20: article delivered spoof question-answer format
+21: pitt contributes several answers regular wired writers
+22: one question asks person exaggerated salary online dating profile confess
+23: hell pitt writes
+24: everyone lies online
+25: fact readers expect lie
+26: think make less actually
+27: way tell truth lie
+28: question viewing pornography work paired photo pitt scanning copy hustler magazine office desk
+29: half-eaten doughnut sits table front
+30: look work bring old porn mags scan
+31: pitt writes magazine
+32: like converting vinyl mp3s
+33: fill hard drive need break spreadsheets open favorite pictorial
+34: pitt ok porn less understanding people want answer urgent cell phone calls movies
+35: may brief interruption seconds someone sitting near trying make decent bootleg
+36: ever think
+37: street-corner copies permanently defiled so-called ergency writes
+38: damn selfish
+
+=================================
+Gold summary:
+wired magazine cover story features spoof tech advice brad pitt
+hollywood hunk promoting new movie inglourious basterds
+pitt says talking phone urinal rude text instead
+pitt online communication based lies way tell truth lie
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 25, 36, 31
+	Results: 
+		rouge-1: 0.0938
+		rouge-2: 0.0000
+		rouge-l: 0.0294
+		mean: 0.0411
+	Summary: 
+		fact readers expect lie
+		ever think
+		pitt writes magazine
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2500
+		rouge-2: 0.0909
+		rouge-l: 0.1765
+		mean: 0.1725
+	Summary: 
+		need social etiquette advice digital age
+		brad pitt got back month cover story wired magazine
+		wired new cover story brad pitt offers etiquette digital age
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 11, 27
+	Results: 
+		rouge-1: 0.5312
+		rouge-2: 0.2424
+		rouge-l: 0.3529
+		mean: 0.3755
+	Summary: 
+		brad pitt got back month cover story wired magazine
+		humor covers pitt lack tech credentials hollywood hunk star quentin tarantino new film inglourious basterds offers range tongue-in-cheek advice wired readers
+		way tell truth lie
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 1, 0, 2
+	Results: 
+		rouge-1: 0.2500
+		rouge-2: 0.0909
+		rouge-l: 0.1765
+		mean: 0.1725
+	Summary: 
+		brad pitt got back month cover story wired magazine
+		need social etiquette advice digital age
+		wired new cover story brad pitt offers etiquette digital age

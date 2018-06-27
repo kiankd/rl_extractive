@@ -1,0 +1,127 @@
+DOCUMENT:
+0: never bet germany
+1: world much change quickly perhaps reassuring one constant remains
+2: nation ripped brazil dreams shreds semifinals fourth world cup tense 1-0 victory argentina sunday
+3: mario gotze strike seven minutes end extra time ensured germany ended 24-year wait glory rio de janeiro maracana stadium
+4: doubters said european side would could ever win world cup south american soil one team refused listen
+5: lazy stereotypes often abound describing german football
+6: words organized ruthless machine bandied along clichã © efficient
+7: use words describe german side would disservice would ignore wonderful talent passes veins every player
+8: germany long threatened rule world
+9: 2006 came close bowing semifinal stage painful defeat italy tournament held country
+10: two years later beaten final european championships spain opposition ended world cup dream south africa
+11: bizarre moments world cup final
+12: euro 2012 italy nemesis germany fell semifinal stage euro 2012
+13: nobody doubted germany talent critics said ability get winning line
+14: sight bastian schweinsteiger bloodied bruised provided insight needed psyche german team
+15: ugly beautiful
+16: beauty see gotze took andre schurrle cross chest volleyed ball past sergio romero despairing dive
+17: mats hummels jerome boateng steel schweinsteiger warrior thomas muller man everything
+18: could begrudge germany success team 2014 world cup
+19: germany thrilled tournament
+20: 4-0 victory portugal sublime 7-1 thrashing brazil mesmerizing
+21: win secured guts fight moment magic one bright new stars showed germany overcame difficult hurdle
+22: game deadlocked 0-0 90 minutes substitute gotze provided game defining moment touch magic
+23: bayern munich star took schurrle pass chest displaying exquisite technique volley ball past sergio romero
+24: argentina beaten west germany 1-0 1990 world cup rallied briefly failed find equalizer
+25: even mercurial lionel messi attack argentina unable take game penalties deserved
+26: talk messi left another wonderful talent left foot steal headlines decisive goal
+27: least brazil could smile enough beer entire country distract prospect argentine party copacabana
+28: argentina failed muster single shot target contest yet walk away ruing three wonderful chances tie
+29: 20 minutes played toni kroos impressive throughout tournament inexplicably headed ball defense gonzalo higuain run goal
+30: napoli striker everything right
+31: took touch allowed ball move slightly front manuel neuer beat somehow shanked effort horribly wide
+32: higuain stood still disbelief teammates held heads hands germany breathed
+33: side assured 7-1 victory brazil germany rattled couple team changes final soon game started
+34: deprived sami khedira injury midfielder suffered injury kickoff germany shape disrupted replacement christoph kramer forced following heavy clash ezequiel garay
+35: germany regrouped south american side constantly looked use flanks exploit lack pace opponents defense
+36: right flank argentina created move thought provided crucial breakthrough
+37: ezequiel lavezzi found space right delivering perfect cross higuain fire home close range
+38: higuain wheeled away celebrate draped blue white danced joy flag assistant referee held aloft forward correctly adjudged offside
+39: germany scored seven previous game brazil began wake slumber fine save romero prevented kroos fierce drive nestling corner
+40: minute first half remaining romero forced thank woodwork argentina got jail dramatic circumstances
+41: kroos corner dissected argentine defense benedikt howedes flew air sending thunderous header post
+42: forced play 120 minutes semifinal netherlands argentina showed little signs tiredness made rapid start second half
+43: messi causing problems time latching onto lucas biglia ball running clear german defense
+44: boy rosario boy left home 13 moved halfway across world barcelona become world greatest
+45: destiny beckoned
+46: many times
+47: ball stride goalkeeper advancing net supposed bulge
+48: messi dragged shot wide
+49: argentine hearts sank germans stood relieved almost open mouthed
+50: messi looked bewildered
+51: proof world best player human
+52: seen argentina contrive miss two wonderful opportunities perhaps german shirts believed would night
+53: certainly chances win contest end 90 minutes kroos firing wide 20-yards schurrle failed control ball moving goal
+54: extra day rest following semifnal victory brazil schurrle brought sharp save romero germany picked tempo
+55: argentina remained threat counter attack substitute rodrigo palacio done better hook effort high wide played goal
+56: tired limbs minds beginning show pace contest slowed sets players struggling create kind chance
+57: challenges began fly javier mascherano fortunate escape second yellow card schweinsteiger left blood pouring face clash sergio aguero
+58: penalties seemed inevitable
+59: schurrle found space left cross picked gotze took ball chest volleying ball past romero far corner
+60: goal worthy winning world cup wonderful strike came seven minutes contest remaining
+61: argentina tried respond minds willing bodies
+62: messi anonymous final effort free kick sailing high stand
+63: white turned towards center circle sight gleaming gold trophy see
+64: campaign began thrashing portugal ended victory team many tipped victory
+65: perhaps argentina known
+66: never bet germany
+
+=================================
+Gold summary:
+germany defeats argentina 1-0 world cup final
+mario gotze scored goal game 113 minutes
+contest finished 0-0 90 minutes
+gonzalo higuain wasted argentina best opportunity
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 34, 10, 53
+	Results: 
+		rouge-1: 0.3478
+		rouge-2: 0.0833
+		rouge-l: 0.2400
+		mean: 0.2237
+	Summary: 
+		deprived sami khedira injury midfielder suffered injury kickoff germany shape disrupted replacement christoph kramer forced following heavy clash ezequiel garay
+		two years later beaten final european championships spain opposition ended world cup dream south africa
+		certainly chances win contest end 90 minutes kroos firing wide 20-yards schurrle failed control ball moving goal
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2174
+		rouge-2: 0.0417
+		rouge-l: 0.1600
+		mean: 0.1397
+	Summary: 
+		never bet germany
+		world much change quickly perhaps reassuring one constant remains
+		nation ripped brazil dreams shreds semifinals fourth world cup tense 1-0 victory argentina sunday
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 22, 24, 60
+	Results: 
+		rouge-1: 0.5217
+		rouge-2: 0.1667
+		rouge-l: 0.2800
+		mean: 0.3228
+	Summary: 
+		game deadlocked 0-0 90 minutes substitute gotze provided game defining moment touch magic
+		argentina beaten west germany 1-0 1990 world cup rallied briefly failed find equalizer
+		goal worthy winning world cup wonderful strike came seven minutes contest remaining
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2174
+		rouge-2: 0.0417
+		rouge-l: 0.1600
+		mean: 0.1397
+	Summary: 
+		never bet germany
+		world much change quickly perhaps reassuring one constant remains
+		nation ripped brazil dreams shreds semifinals fourth world cup tense 1-0 victory argentina sunday

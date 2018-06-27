@@ -1,0 +1,70 @@
+DOCUMENT:
+0: two cousins convicted kidnapping gay man kentucky justice department failed case win guilty verdict first test expanded hate crimes provision covering sexual orientation
+1: jury verdict wednesday david jason jenkins 37 anthony ray jenkins 20 harlan county stemmed april 2011 kidnapping kevin pennington 29 managed escape according indictment
+2: men planned assault pennington sexual orientation indictment said part
+3: federal jury laurel county acquitted committing hate crime
+4: federal hate crimes law expanded 2009 include victim perceived sexual orientation gender disability
+5: named matthew shepard james byrd jr.
+6: men attacked killed separate incidents 1998 drew national attention toughening hate crimes laws broadly
+7: shepard gay byrd killed racially motivated attack
+8: although government failed convict kentucky men hate crime charges week justice department top civil rights official thomas perez said prosecutors would discouraged bringing cases
+9: perez called kidnapping vicious criminal act said department would vigorously investigate possible hate crimes
+10: two female relatives jenkins cousins pleaded guilty soon incident related charges
+
+=================================
+Gold summary:
+kentucky jury convicts two men kidnapping gay man acquits hate crimes count
+case first test expanded federal hate crimes law covering sexual orientation
+justice department civil rights chief says hate crimes verdict would discourage new cases
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 3, 6, 7
+	Results: 
+		rouge-1: 0.1875
+		rouge-2: 0.0303
+		rouge-l: 0.1111
+		mean: 0.1096
+	Summary: 
+		federal jury laurel county acquitted committing hate crime
+		men attacked killed separate incidents 1998 drew national attention toughening hate crimes laws broadly
+		shepard gay byrd killed racially motivated attack
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5938
+		rouge-2: 0.2424
+		rouge-l: 0.3889
+		mean: 0.4084
+	Summary: 
+		two cousins convicted kidnapping gay man kentucky justice department failed case win guilty verdict first test expanded hate crimes provision covering sexual orientation
+		jury verdict wednesday david jason jenkins 37 anthony ray jenkins 20 harlan county stemmed april 2011 kidnapping kevin pennington 29 managed escape according indictment
+		men planned assault pennington sexual orientation indictment said part
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 4, 8
+	Results: 
+		rouge-1: 0.7500
+		rouge-2: 0.3333
+		rouge-l: 0.5556
+		mean: 0.5463
+	Summary: 
+		two cousins convicted kidnapping gay man kentucky justice department failed case win guilty verdict first test expanded hate crimes provision covering sexual orientation
+		federal hate crimes law expanded 2009 include victim perceived sexual orientation gender disability
+		although government failed convict kentucky men hate crime charges week justice department top civil rights official thomas perez said prosecutors would discouraged bringing cases
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5938
+		rouge-2: 0.2424
+		rouge-l: 0.3889
+		mean: 0.4084
+	Summary: 
+		two cousins convicted kidnapping gay man kentucky justice department failed case win guilty verdict first test expanded hate crimes provision covering sexual orientation
+		jury verdict wednesday david jason jenkins 37 anthony ray jenkins 20 harlan county stemmed april 2011 kidnapping kevin pennington 29 managed escape according indictment
+		men planned assault pennington sexual orientation indictment said part

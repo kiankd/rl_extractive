@@ -1,0 +1,71 @@
+DOCUMENT:
+0: jennifer love hewitt knows keep secret
+1: 34-year-old actress appears quietly married client list co-star brian hallisay 35 ahead first child arrival wednesday
+2: rep hewitt told cnn statement star hallisay refered husband thrilled announce birth daughter autumn james hallisay mention anything wedding date
+3: hewitt hallisay first revealed expecting baby planned get married june
+4: time pair said looking forward starting family together hewitt outspoken embracing motherhood
+5: lost mom little less year half ago cancer hewitt told people magazine september
+6: obviously got lucky even though lost mother lost later life still profound effect
+7: always wanted mom
+8: great relationship mine
+9: ready pass child great love mom
+10: cnn topher gauk-roger contributed report
+
+=================================
+Gold summary:
+jennifer love hewitt brian hallisay quietly tied knot
+client list co-stars also welcomed first child
+named daughter autumn james hallisay
+couple announced engaged expecting june
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 8, 2, 10
+	Results: 
+		rouge-1: 0.2083
+		rouge-2: 0.1250
+		rouge-l: 0.2400
+		mean: 0.1911
+	Summary: 
+		great relationship mine
+		rep hewitt told cnn statement star hallisay refered husband thrilled announce birth daughter autumn james hallisay mention anything wedding date
+		cnn topher gauk-roger contributed report
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5417
+		rouge-2: 0.3333
+		rouge-l: 0.4800
+		mean: 0.4517
+	Summary: 
+		jennifer love hewitt knows keep secret
+		34-year-old actress appears quietly married client list co-star brian hallisay 35 ahead first child arrival wednesday
+		rep hewitt told cnn statement star hallisay refered husband thrilled announce birth daughter autumn james hallisay mention anything wedding date
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5417
+		rouge-2: 0.3333
+		rouge-l: 0.4800
+		mean: 0.4517
+	Summary: 
+		jennifer love hewitt knows keep secret
+		34-year-old actress appears quietly married client list co-star brian hallisay 35 ahead first child arrival wednesday
+		rep hewitt told cnn statement star hallisay refered husband thrilled announce birth daughter autumn james hallisay mention anything wedding date
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5417
+		rouge-2: 0.3333
+		rouge-l: 0.4800
+		mean: 0.4517
+	Summary: 
+		jennifer love hewitt knows keep secret
+		34-year-old actress appears quietly married client list co-star brian hallisay 35 ahead first child arrival wednesday
+		rep hewitt told cnn statement star hallisay refered husband thrilled announce birth daughter autumn james hallisay mention anything wedding date

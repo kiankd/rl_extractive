@@ -1,0 +1,66 @@
+DOCUMENT:
+0: turkish prime minister tayyip erdogan become country first directly-elected president wide margin votes according semi-official anadolu news agency
+1: erdogan stopped short declaring victory spoke sunday night
+2: continue work nation continue serve homeland erdogan told crowd istanbul
+3: continue fight advanced democracy sovereignty democracy standards
+4: nearly 98 votes counted erdogan avoided runoff winning 52 votes according cnn turk anadolu news agency
+5: diplomat ekmeleddin mehm ihsanoglu came second 38 votes.â kurdish politician selahattin demirtas distant third 9
+6: cnn hande atay chandrika narayan contributed report
+
+=================================
+Gold summary:
+erdogan avoided runoff winning 52 votes
+erdogan stopped short declaring victory spoke sunday night
+continue work nation erdogan told crowd istanbul
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 2, 5, 6
+	Results: 
+		rouge-1: 0.3684
+		rouge-2: 0.2500
+		rouge-l: 0.3333
+		mean: 0.3173
+	Summary: 
+		continue work nation continue serve homeland erdogan told crowd istanbul
+		diplomat ekmeleddin mehm ihsanoglu came second 38 votes.â kurdish politician selahattin demirtas distant third 9
+		cnn hande atay chandrika narayan contributed report
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.7895
+		rouge-2: 0.6500
+		rouge-l: 0.8095
+		mean: 0.7497
+	Summary: 
+		turkish prime minister tayyip erdogan become country first directly-elected president wide margin votes according semi-official anadolu news agency
+		erdogan stopped short declaring victory spoke sunday night
+		continue work nation continue serve homeland erdogan told crowd istanbul
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 2, 4
+	Results: 
+		rouge-1: 1.0000
+		rouge-2: 0.9000
+		rouge-l: 0.7143
+		mean: 0.8714
+	Summary: 
+		erdogan stopped short declaring victory spoke sunday night
+		continue work nation continue serve homeland erdogan told crowd istanbul
+		nearly 98 votes counted erdogan avoided runoff winning 52 votes according cnn turk anadolu news agency
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.7895
+		rouge-2: 0.6500
+		rouge-l: 0.8095
+		mean: 0.7497
+	Summary: 
+		turkish prime minister tayyip erdogan become country first directly-elected president wide margin votes according semi-official anadolu news agency
+		erdogan stopped short declaring victory spoke sunday night
+		continue work nation continue serve homeland erdogan told crowd istanbul

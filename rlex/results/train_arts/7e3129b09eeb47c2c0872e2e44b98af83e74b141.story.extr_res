@@ -1,0 +1,90 @@
+DOCUMENT:
+0: cnn sopranos theorists little chew
+1: show creator david chase went famous final scene dga quarterly revealed reasoning behind shot
+2: reveal however whether series protagonist tony soprano lives dies
+3: chase details master class build tension seemingly nondescript situation however
+4: sopranos ending
+5: recall finale aired june 2007 mobster tony soprano meeting family dinner holsten real-life diner ice cream parlor bloomfield new jersey
+6: picks song jukebox journey stop believin
+7: music plays waits booth watching wife later son come front door
+8: daughter running late
+9: seemingly harmless get-together one could happened time tony life fraught tension chase observes
+10: journey song starts build build something bell rings every time someone walks door tony looks time
+11: man members jacket walks ahead a.j. tony son
+12: could anybody given tony life could hitman assigned kill tony
+13: tension quite high think real reason chase told dga quarterly
+14: guy jacket cub scouts young couple trucker hat couple black guys buy candy
+15: real reason tension ratchet
+16: love make
+17: nods films chase observed
+18: way scene cut recalls final bedroom scene stanley kubrick 2001 space odyssey tony seeing next spot time
+19: members guy going bathroom nod famous scene godfather michael corleone shoots sollozzo mccluskey
+20: scene ends course tony looking journey steve perry sings stop cut black
+21: public reaction caught chase surprise
+22: thought ending would somewhat jarring sure
+23: extent subject discussion said
+24: biggest feeling going honestly stop believing
+25: still anybody hoping chase reveals whether tony survives keep digging
+26: end deliberately uncertain existential chase said
+27: whether end going come point rest us said
+28: saying killed
+29: obviously stood chance getting shot rival gang mob put situation
+30: know added end coming us
+
+=================================
+Gold summary:
+david chase walks ending sopranos
+use particular shots stop believin build tension
+chase still reveal tony soprano fate
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 11, 28, 15
+	Results: 
+		rouge-1: 0.1765
+		rouge-2: 0.0000
+		rouge-l: 0.1111
+		mean: 0.0959
+	Summary: 
+		man members jacket walks ahead a.j. tony son
+		saying killed
+		real reason tension ratchet
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3529
+		rouge-2: 0.1176
+		rouge-l: 0.2778
+		mean: 0.2495
+	Summary: 
+		cnn sopranos theorists little chew
+		show creator david chase went famous final scene dga quarterly revealed reasoning behind shot
+		reveal however whether series protagonist tony soprano lives dies
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 3, 5, 6
+	Results: 
+		rouge-1: 0.4118
+		rouge-2: 0.1765
+		rouge-l: 0.2778
+		mean: 0.2887
+	Summary: 
+		chase details master class build tension seemingly nondescript situation however
+		recall finale aired june 2007 mobster tony soprano meeting family dinner holsten real-life diner ice cream parlor bloomfield new jersey
+		picks song jukebox journey stop believin
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3529
+		rouge-2: 0.1176
+		rouge-l: 0.2778
+		mean: 0.2495
+	Summary: 
+		cnn sopranos theorists little chew
+		show creator david chase went famous final scene dga quarterly revealed reasoning behind shot
+		reveal however whether series protagonist tony soprano lives dies

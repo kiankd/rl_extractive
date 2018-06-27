@@ -1,0 +1,77 @@
+DOCUMENT:
+0: manchester united came goal behind shrugged early loss michael owen injury beat german champions wolfsburg 2-1 second victory champions league group b.
+1: giggis congratulated teammates scoring 150th goal united
+2: owen looking impress watching england manager fabio capello survived 20 minutes old trafford going groin strain
+3: replacement dimitar berbatov proved highly effective enterprising visitors went ahead edin dzeko header 56th minute
+4: ryan giggs equalized three minutes later 150th goal red devils deflected shot finding way home
+5: evergreen giggs set michael carrick 76th minute winner curled home shot edge penalty area
+6: united manager alex ferguson paid compliment welsh wizard reflected hard-fought home victory
+7: unbelievable infinitives praise years know add
+8: marvellous player
+9: ferguson also revealed owen would two three weeks latest injury
+10: three points leave united top group two wins two games eighth victory row competitions
+11: group b action wednesday cska moscow bounced back 2-1 defeat wolfsburg first round matches see turkish champions besiktas 2-1
+12: midfielders alan dzagoev milos krasic scored hosts either side half time besiktas beaten first two games pulling goal back thorugh ismail koybasi
+13: group heavyweight clash bayern munich juventus ended goalless draw
+14: munich several chances home allianz arena failed convert although top group four points
+15: french champions bordeaux second place goal difference 1-0 home win israeli counterparts maccabi haifa
+16: drawn juventus group opener laurent blanc men wait 83rd minute vital breakthrough michael ciani headed home gregory sertic corner
+17: juventus third group two draws maccabi bottom drawing blank
+
+=================================
+Gold summary:
+manchester united beat vfl wolfsburg 2-1 champions league group b
+michael carrick scores winner ryan giggs equalizes red devils
+bayern juventus draw 0-0 group clash munich
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 17, 14, 7
+	Results: 
+		rouge-1: 0.1200
+		rouge-2: 0.0000
+		rouge-l: 0.1154
+		mean: 0.0785
+	Summary: 
+		juventus third group two draws maccabi bottom drawing blank
+		munich several chances home allianz arena failed convert although top group four points
+		unbelievable infinitives praise years know add
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3600
+		rouge-2: 0.1600
+		rouge-l: 0.3077
+		mean: 0.2759
+	Summary: 
+		manchester united came goal behind shrugged early loss michael owen injury beat german champions wolfsburg 2-1 second victory champions league group b.
+		giggis congratulated teammates scoring 150th goal united
+		owen looking impress watching england manager fabio capello survived 20 minutes old trafford going groin strain
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 4, 13
+	Results: 
+		rouge-1: 0.7200
+		rouge-2: 0.2400
+		rouge-l: 0.5769
+		mean: 0.5123
+	Summary: 
+		manchester united came goal behind shrugged early loss michael owen injury beat german champions wolfsburg 2-1 second victory champions league group b.
+		ryan giggs equalized three minutes later 150th goal red devils deflected shot finding way home
+		group heavyweight clash bayern munich juventus ended goalless draw
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 4
+	Results: 
+		rouge-1: 0.5200
+		rouge-2: 0.2400
+		rouge-l: 0.4615
+		mean: 0.4072
+	Summary: 
+		manchester united came goal behind shrugged early loss michael owen injury beat german champions wolfsburg 2-1 second victory champions league group b.
+		giggis congratulated teammates scoring 150th goal united
+		ryan giggs equalized three minutes later 150th goal red devils deflected shot finding way home

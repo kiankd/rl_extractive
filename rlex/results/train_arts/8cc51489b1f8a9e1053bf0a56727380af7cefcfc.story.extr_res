@@ -1,0 +1,75 @@
+DOCUMENT:
+0: arvind mahankali 13-year-old eighth-grader bayside hills new york scripps national spelling bee thursday correctly spelling word knaidel
+1: means retiring good note said mahankali attends nathaniel hawthorne middle school 74 last year eligibility
+2: shall spend summer maybe entire day studying physics
+3: mahankali wants become physicist finished third two previous national bees eliminated misspelling words german roots
+4: thought german curse turned german blessing said asked thought heard final word german-derived yiddish word type dumpling
+5: pranav sivakumar 13-year-old tower lakes illinois finished second
+6: missed cyanophycean mahankali nailed tokonoma knaidel victory
+7: annual contest offers winner healthy dose classroom cred 32,500 cash savings bonds trophy library reference materials
+8: contest bee-all end-all
+9: eleven million schoolchildren participated preliminaries leading national contest week
+10: 281 children made trip oxon hill maryland outside washington national bee
+11: eleven spellers made finals
+12: among 63 children least one national bee prepare changes rules year events
+13: first time participants demonstrate proficiency vocabulary addition spelling
+14: organizers also added additional computer test semifinals imposed time limits computer-based spelling vocabulary tests added rule resulted automatic elimination participant misspelled word stage second third rounds
+15: cnn athena jones michael pearson contributed report
+
+=================================
+Gold summary:
+arvind mahankali twice finished third place
+winner correctly spells tokonoma knaidel
+prize package includes 32,500 cash savings bonds
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 2, 12, 7
+	Results: 
+		rouge-1: 0.2778
+		rouge-2: 0.1765
+		rouge-l: 0.2778
+		mean: 0.2440
+	Summary: 
+		shall spend summer maybe entire day studying physics
+		among 63 children least one national bee prepare changes rules year events
+		annual contest offers winner healthy dose classroom cred 32,500 cash savings bonds trophy library reference materials
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2222
+		rouge-2: 0.0588
+		rouge-l: 0.2222
+		mean: 0.1678
+	Summary: 
+		arvind mahankali 13-year-old eighth-grader bayside hills new york scripps national spelling bee thursday correctly spelling word knaidel
+		means retiring good note said mahankali attends nathaniel hawthorne middle school 74 last year eligibility
+		shall spend summer maybe entire day studying physics
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 3, 7
+	Results: 
+		rouge-1: 0.6111
+		rouge-2: 0.2941
+		rouge-l: 0.5000
+		mean: 0.4684
+	Summary: 
+		arvind mahankali 13-year-old eighth-grader bayside hills new york scripps national spelling bee thursday correctly spelling word knaidel
+		mahankali wants become physicist finished third two previous national bees eliminated misspelling words german roots
+		annual contest offers winner healthy dose classroom cred 32,500 cash savings bonds trophy library reference materials
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2222
+		rouge-2: 0.0588
+		rouge-l: 0.2222
+		mean: 0.1678
+	Summary: 
+		arvind mahankali 13-year-old eighth-grader bayside hills new york scripps national spelling bee thursday correctly spelling word knaidel
+		means retiring good note said mahankali attends nathaniel hawthorne middle school 74 last year eligibility
+		shall spend summer maybe entire day studying physics

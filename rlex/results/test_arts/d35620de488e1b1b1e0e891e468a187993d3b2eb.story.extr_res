@@ -1,0 +1,86 @@
+DOCUMENT:
+0: thousand muscovites braved police subzero temperatures mark first anniversary russia anti-putin movement unsanctioned protest central moscow
+1: turnout significantly lower last winter rallies one point attracted 100,000 people came faced serious consequences including jail fines 9,500 nearly average monthly russian salary
+2: hundreds riot police cordoned protesters gathered next headquarters russia fsb security service former home kgb soviet union
+3: alexei navalny popular anti-corruption blogger sergei udaltsov leftist activist detained police immediately upon arriving ksenia sobchak socialite turned opposition leader boyfriend activist ilya yashin
+4: four taken police station south moscow released within hours
+5: police initially allowed crowd gather peacefully hour began closing specific protesters arrested often brutal scenes
+6: estimated 40 people detained
+7: rally first major protest receive approval moscow authorities sign hardening relations city government opposition leaders refused hold rally alternative locations suggested state
+8: demonstration unlikely breathe new life opposition struggled find direction since vladimir putin re-election march
+9: yet turnout arguably higher expected given threat violence fines
+10: days rally state appeared issue warning demonstrators announcing criminal investigation opened mr navalny brother raiding home associate mr udaltsov
+11: scary come
+12: cried morning said tatiana 52 want give last name fear getting trouble employer
+13: said arrived rally become confident dared affix coat lapel pin read bolotnya arrest
+14: reference first major protest last year
+15: say exist today showed
+16: laws created illegitimate regime illegitimate president order us
+17: charge come streets said
+18: speeches performances protest lacked euphoria coloured demonstrations year ago
+19: present insisted optimistic change reform would come matter gradual
+20: past year nothing particularly changed politics
+21: however think society started thinking bit needs done said ivan kosnisky designer
+22: need change within
+23: know universal recipe
+24: need stop indifferent start thinking things located outside apartments
+25: added see faces usually see moscow conservatory tretyakovsky art gallery
+26: simply pleasant chat people clearly mind
+
+=================================
+Gold summary:
+demonstrators mark anniversary anti-putin movement unsanctioned protest
+turnout significantly lower last winter rallies attracted 100,000
+ksenia sobchak socialite turned opposition leader boyfriend among detained
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 9, 26, 14
+	Results: 
+		rouge-1: 0.1250
+		rouge-2: 0.0000
+		rouge-l: 0.0833
+		mean: 0.0694
+	Summary: 
+		yet turnout arguably higher expected given threat violence fines
+		simply pleasant chat people clearly mind
+		reference first major protest last year
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5833
+		rouge-2: 0.3913
+		rouge-l: 0.5833
+		mean: 0.5193
+	Summary: 
+		thousand muscovites braved police subzero temperatures mark first anniversary russia anti-putin movement unsanctioned protest central moscow
+		turnout significantly lower last winter rallies one point attracted 100,000 people came faced serious consequences including jail fines 9,500 nearly average monthly russian salary
+		hundreds riot police cordoned protesters gathered next headquarters russia fsb security service former home kgb soviet union
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 1, 3
+	Results: 
+		rouge-1: 0.9167
+		rouge-2: 0.6522
+		rouge-l: 0.8750
+		mean: 0.8146
+	Summary: 
+		thousand muscovites braved police subzero temperatures mark first anniversary russia anti-putin movement unsanctioned protest central moscow
+		turnout significantly lower last winter rallies one point attracted 100,000 people came faced serious consequences including jail fines 9,500 nearly average monthly russian salary
+		alexei navalny popular anti-corruption blogger sergei udaltsov leftist activist detained police immediately upon arriving ksenia sobchak socialite turned opposition leader boyfriend activist ilya yashin
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5833
+		rouge-2: 0.3913
+		rouge-l: 0.5833
+		mean: 0.5193
+	Summary: 
+		thousand muscovites braved police subzero temperatures mark first anniversary russia anti-putin movement unsanctioned protest central moscow
+		turnout significantly lower last winter rallies one point attracted 100,000 people came faced serious consequences including jail fines 9,500 nearly average monthly russian salary
+		hundreds riot police cordoned protesters gathered next headquarters russia fsb security service former home kgb soviet union

@@ -1,0 +1,70 @@
+DOCUMENT:
+0: top ugandan opposition leader arrested thursday walk work campaign protest rising food prices increased cost living
+1: kizza besigye detained day freed bail following another arrest
+2: spent easter holiday detention
+3: besigye vowed walk work protest every monday thursday contending government manipulating prices fuel commodities
+4: arrested number times month
+5: latest arrest thursday men civilian clothing smashed car pepper-sprayed
+6: loaded police car
+7: president yoweri museveni warned anyone taking part walk breaking law prosecuted
+8: leader forum democratic change lost february election museveni
+9: incumbent led east african nation 25 years
+10: besigye former doctor museveni lost previous presidential bids 2001 2006
+
+=================================
+Gold summary:
+arrested number times year
+besigye vowed walk work every monday thursday
+walk work campaign protest high cost living
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 1, 10, 4
+	Results: 
+		rouge-1: 0.2500
+		rouge-2: 0.1250
+		rouge-l: 0.1667
+		mean: 0.1806
+	Summary: 
+		kizza besigye detained day freed bail following another arrest
+		besigye former doctor museveni lost previous presidential bids 2001 2006
+		arrested number times month
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.5625
+		rouge-2: 0.3125
+		rouge-l: 0.4444
+		mean: 0.4398
+	Summary: 
+		top ugandan opposition leader arrested thursday walk work campaign protest rising food prices increased cost living
+		kizza besigye detained day freed bail following another arrest
+		spent easter holiday detention
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 3, 4
+	Results: 
+		rouge-1: 0.8750
+		rouge-2: 0.6875
+		rouge-l: 0.4444
+		mean: 0.6690
+	Summary: 
+		top ugandan opposition leader arrested thursday walk work campaign protest rising food prices increased cost living
+		besigye vowed walk work protest every monday thursday contending government manipulating prices fuel commodities
+		arrested number times month
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 5
+	Results: 
+		rouge-1: 0.5625
+		rouge-2: 0.3125
+		rouge-l: 0.4444
+		mean: 0.4398
+	Summary: 
+		top ugandan opposition leader arrested thursday walk work campaign protest rising food prices increased cost living
+		kizza besigye detained day freed bail following another arrest
+		latest arrest thursday men civilian clothing smashed car pepper-sprayed

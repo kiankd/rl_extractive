@@ -1,0 +1,76 @@
+DOCUMENT:
+0: united states might replace ambassador libya wikileaks published colorful cables washington eccentricities libyan leader moammar gadhafi complicating relations notoriously sensitive regime
+1: ambassador gene cretz career diplomat named post 2008 back washington consultations state department
+2: senior u.s. official speaking background diplomatic sensitivity issue said one issues evaluating ability serve interests ambassador light happened
+3: cables refer gadhafi mercurial eccentric describe voluptuous blonde ukrainian nurse companion
+4: libyans expressed concerns us wikileaks
+5: yes official said
+6: relationship libya complex
+7: complex wikileaks complex wikileaks perhaps complex
+8: publicly state department says request libya remove cretz p.j. crowley state department spokesman insisted daily briefing still ambassador libya
+9: crowley however added one issues discussing ambassador cretz return libya
+10: fallout wikileaks continues roil u.s. diplomatic relations according senior official speaking background libya country affected
+11: unique libya said
+12: look globally relationship ambassadors number governments affected disclosure cables
+13: ongoing basis evaluating whether changes made
+14: secretary state hillary clinton however wants u.s. diplomats continue providing candid unvarnished feedback washington official said
+15: going change official said adding concerned candor ongoing day-to-day dialogue governments
+16: governments told us going less candid future something secretary made clear work time
+
+=================================
+Gold summary:
+ambassador gene cretz filed colorful cables regarding moammar gadhafi
+officials evaluating ability serve interests senior u.s. official says
+libyans expressed concerns official says
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 2, 10, 15
+	Results: 
+		rouge-1: 0.3810
+		rouge-2: 0.2381
+		rouge-l: 0.3043
+		mean: 0.3078
+	Summary: 
+		senior u.s. official speaking background diplomatic sensitivity issue said one issues evaluating ability serve interests ambassador light happened
+		fallout wikileaks continues roil u.s. diplomatic relations according senior official speaking background libya country affected
+		going change official said adding concerned candor ongoing day-to-day dialogue governments
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.6667
+		rouge-2: 0.4286
+		rouge-l: 0.3913
+		mean: 0.4955
+	Summary: 
+		united states might replace ambassador libya wikileaks published colorful cables washington eccentricities libyan leader moammar gadhafi complicating relations notoriously sensitive regime
+		ambassador gene cretz career diplomat named post 2008 back washington consultations state department
+		senior u.s. official speaking background diplomatic sensitivity issue said one issues evaluating ability serve interests ambassador light happened
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 2, 4
+	Results: 
+		rouge-1: 0.7143
+		rouge-2: 0.4286
+		rouge-l: 0.5217
+		mean: 0.5549
+	Summary: 
+		united states might replace ambassador libya wikileaks published colorful cables washington eccentricities libyan leader moammar gadhafi complicating relations notoriously sensitive regime
+		senior u.s. official speaking background diplomatic sensitivity issue said one issues evaluating ability serve interests ambassador light happened
+		libyans expressed concerns us wikileaks
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.6667
+		rouge-2: 0.4286
+		rouge-l: 0.3913
+		mean: 0.4955
+	Summary: 
+		united states might replace ambassador libya wikileaks published colorful cables washington eccentricities libyan leader moammar gadhafi complicating relations notoriously sensitive regime
+		ambassador gene cretz career diplomat named post 2008 back washington consultations state department
+		senior u.s. official speaking background diplomatic sensitivity issue said one issues evaluating ability serve interests ambassador light happened

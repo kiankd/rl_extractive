@@ -1,0 +1,95 @@
+DOCUMENT:
+0: cnn america national parks welcomed record-breaking 292.8 million visits 2014 shattering previous record 287.1 million visits set 1999
+1: golden gate national recreation area took top spot national park service list visited places national park system second year row great smoky mountain national park popular national park
+2: national park service 405 park sites include 59 headliner national parks national seashores national monuments designations
+3: national park service strives share inclusive well-rounded version american story places care gratifying see people ever coming national parks enjoy nature learn history spend time families said national park service director jonathan b. jarvis press statement
+4: look ahead centennial 2016 looking forward announcing new record-breaking number visitors coming experience national parks next year beyond
+5: popular national park sites
+6: national park sites saw 20.2 million visits 2014 previous year according national park service visitation data
+7: 2013 national park sites counted 273 million visits due 16-day u.s. government shutdown forced many national sites close
+8: golden gate national recreation area 15 million visits last year second-place blue ridge parkway hosted 13.9 million visits
+9: great smoky mountains national park came third place list visited park sites 10 million visits
+10: 59 specially designated national parks great smoky mountains visited grand canyon national park came second place 4.8 million visitors
+11: yosemite came third place 3.9 million visitors
+12: 50 spots 50 states 2014
+13: visitors certainly love national park sites favorites 2014
+14: top 10 most-visited national park service sites
+15: golden gate national recreation area 15 million
+16: blue ridge parkway 13.9 million
+17: great smoky mountains national park 10 million
+18: george washington memorial parkway 7.5 million
+19: lincoln memorial 7.1 million
+20: lake mead national recreation area 6.9 million
+21: gateway national recreation area 6 million
+22: natchez trace parkway 5.8 million
+23: chesapeake ohio canal national historic park 5 million
+24: grand canyon national park 4.8 million
+25: top 10 most-visited national parks
+26: great smoky mountains national park 10 million
+27: grand canyon national park 4.8 million
+28: yosemite national park 3.9 million
+29: yellowstone national park 3.5 million
+30: rocky mountain national park 3.4 million
+31: olympic national park 3.2 million
+32: zion national park 3.2 million
+33: grand teton national park 2.8 million
+34: acadia national park 2.6 million
+35: glacier national park 2.3 million
+
+=================================
+Gold summary:
+national park service hosts record-breaking number visits
+golden gate national recreational area popular site
+great smoky mountain popular national park
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 24, 9, 1
+	Results: 
+		rouge-1: 0.6875
+		rouge-2: 0.4444
+		rouge-l: 0.6500
+		mean: 0.5940
+	Summary: 
+		grand canyon national park 4.8 million
+		great smoky mountains national park came third place list visited park sites 10 million visits
+		golden gate national recreation area took top spot national park service list visited places national park system second year row great smoky mountain national park popular national park
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.7500
+		rouge-2: 0.3889
+		rouge-l: 0.6500
+		mean: 0.5963
+	Summary: 
+		cnn america national parks welcomed record-breaking 292.8 million visits 2014 shattering previous record 287.1 million visits set 1999
+		golden gate national recreation area took top spot national park service list visited places national park system second year row great smoky mountain national park popular national park
+		national park service 405 park sites include 59 headliner national parks national seashores national monuments designations
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 1, 4
+	Results: 
+		rouge-1: 0.8125
+		rouge-2: 0.4444
+		rouge-l: 0.6500
+		mean: 0.6356
+	Summary: 
+		cnn america national parks welcomed record-breaking 292.8 million visits 2014 shattering previous record 287.1 million visits set 1999
+		golden gate national recreation area took top spot national park service list visited places national park system second year row great smoky mountain national park popular national park
+		look ahead centennial 2016 looking forward announcing new record-breaking number visitors coming experience national parks next year beyond
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 1, 0, 2
+	Results: 
+		rouge-1: 0.7500
+		rouge-2: 0.3889
+		rouge-l: 0.5000
+		mean: 0.5463
+	Summary: 
+		golden gate national recreation area took top spot national park service list visited places national park system second year row great smoky mountain national park popular national park
+		cnn america national parks welcomed record-breaking 292.8 million visits 2014 shattering previous record 287.1 million visits set 1999
+		national park service 405 park sites include 59 headliner national parks national seashores national monuments designations

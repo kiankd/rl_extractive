@@ -1,0 +1,118 @@
+DOCUMENT:
+0: questions bruises body actress natalie wood whose body found floating catalina island 1981 led los angeles county coroner office change cause death accidental drowning drowning undetermined factors
+1: presence fresh bruises upper extremities right forearm/left wrist area small scratch anterior neck examiner unable exclude non-accidental mechanism causing injuries wrote dr. lakshmanan sathyavagiswaran chief medical examiner
+2: location bruises multiplicity bruises lack head trauma facial bruising support bruising occurred prior entry water
+3: since unanswered questions limited additional evidence available evaluation opined medical examiner manner death left undetermined
+4: read accidental removed natalie wood death certificate
+5: based number factors including lack life jacket lack suicide note medical examiner unable exclude non-volitional unplanned entry water report says
+6: injury occurred listed found floating ocean adds
+7: circumstances clearly established
+8: change cause death made public last year report outlining reasons dated june 15 2012 made public monday
+9: case open ongoing nothing definitive closed said los angeles county sheriff department spokesman steve whitmore
+10: said wood widower actor robert wagner suspect
+11: security hold placed report came concern frenzy surrounding could contaminate investigation whitmore said
+12: hold lifted last week report made public monday next kin notified
+13: homicide investigators decided take new look one hollywood enduring mysteries november 2011 contacted people said additional information actress death sheriff department said last summer
+14: announcement persuaded tipsters come forward additional intriguing information sheriff spokesman whitmore told cnn last january
+15: investigators comment directly statements made news reports november dennis davern captain yacht owned wood husband
+16: davern offered previously unreported account wood death reported saying wagner waited hours call coast guard wood went missing catalina island following argument couple
+17: wood died november 29 1981 isthmus catalina island
+18: dressed flannel nightgown socks jacket body found floating mile yacht according police reports
+19: autopsy report showed 43-year-old actress two dozen bruises body including facial abrasion left cheek bruises arms
+20: sister swimmer know swim would never go another boat shore dressed nightgown socks said lana wood referring theories actress may voluntarily jumped boat last year
+21: although county coroner office ruled time wood death accident others said made sense
+22: read mysterious celebrity deaths
+23: 2010 lana wood told cnn believed argument sister wagner yacht back deck preceded wood drowning
+24: told cnn 2011 suspect foul play
+25: want truth come real story said
+26: davern former captain yacht splendour broke silence account day goodbye natalie goodbye splendour book co-wrote published 2009
+27: davern said believes wood death direct result fight wagner
+28: interview cnn 2010 davern said believed investigation incompetent suggested cover-up
+29: said regretted misleading investigators keeping quiet wagner request
+30: wood wagner married 1957 divorced 1962 remarried 1972
+31: invited wood brainstorm co-star christopher walken join thanksgiving weekend sail preceded death
+32: hollywood rumor mill abuzz speculation wagner jealous walken authorities said walken witnessed events leading argument couple
+33: pieces heart also published september 2009 wagner acknowledged jealous fought wood
+34: wagner argued walken broke wine bottle wood left disgust went stateroom davern told cnn
+35: walken also retired guest room davern added wagner followed wife room
+36: minutes later davern said could hear couple fighting
+37: embarrassed davern said turned volume stereo
+38: one point davern recalled glanced pilot house window saw wagner wood yacht aft deck
+39: moved fight outside could tell animated gestures still arguing said
+40: short time later wagner appearing distraught told davern could find wood
+41: davern searched boat could find
+42: noticed rubber dinghy also missing
+43: wagner shrugged poured drinks davern said
+44: suggested wife probably gone temper
+45: read natalie wood star power lasted decades
+46: wagner story told book differs davern
+47: maintains argument walken wood went room prepared bed walken sat deck cooling
+48: wagner writes went check wood
+49: maintains davern searched boat noticed dinghy missing
+50: wagner assumed wife gone ashore wrote
+51: radioed restaurant shore dinner called harbor master see anyone seen wood
+52: dinghy found mile yacht mile wood body found
+53: wood first starring role child miracle 34th street 1947 played alongside hollywood top leading men james dean rebel without cause warren beatty splendor grass
+54: nominated oscars films well love proper stranger 1963 according imdb
+55: one memorable roles maria west side story
+56: wagner landed roles dozens films 1950s hit big television
+57: starred two series takes thief 1968-70 hart hart 1979-84 recently number two austin powers spy spoofs
+58: cnn kyung lah contributed report
+
+=================================
+Gold summary:
+found floating ocean circumstances clearly established report says
+case open ongoing sheriff spokesman says
+wood widower actor robert wagner suspect spokesman whitmore adds
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 16, 24, 38
+	Results: 
+		rouge-1: 0.1429
+		rouge-2: 0.0000
+		rouge-l: 0.1304
+		mean: 0.0911
+	Summary: 
+		davern offered previously unreported account wood death reported saying wagner waited hours call coast guard wood went missing catalina island following argument couple
+		told cnn 2011 suspect foul play
+		one point davern recalled glanced pilot house window saw wagner wood yacht aft deck
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1429
+		rouge-2: 0.0455
+		rouge-l: 0.0870
+		mean: 0.0918
+	Summary: 
+		questions bruises body actress natalie wood whose body found floating catalina island 1981 led los angeles county coroner office change cause death accidental drowning drowning undetermined factors
+		presence fresh bruises upper extremities right forearm/left wrist area small scratch anterior neck examiner unable exclude non-accidental mechanism causing injuries wrote dr. lakshmanan sathyavagiswaran chief medical examiner
+		location bruises multiplicity bruises lack head trauma facial bruising support bruising occurred prior entry water
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 6, 9, 10
+	Results: 
+		rouge-1: 0.7619
+		rouge-2: 0.4091
+		rouge-l: 0.6087
+		mean: 0.5932
+	Summary: 
+		injury occurred listed found floating ocean adds
+		case open ongoing nothing definitive closed said los angeles county sheriff department spokesman steve whitmore
+		said wood widower actor robert wagner suspect
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 43
+	Results: 
+		rouge-1: 0.1905
+		rouge-2: 0.0455
+		rouge-l: 0.1304
+		mean: 0.1221
+	Summary: 
+		questions bruises body actress natalie wood whose body found floating catalina island 1981 led los angeles county coroner office change cause death accidental drowning drowning undetermined factors
+		presence fresh bruises upper extremities right forearm/left wrist area small scratch anterior neck examiner unable exclude non-accidental mechanism causing injuries wrote dr. lakshmanan sathyavagiswaran chief medical examiner
+		wagner shrugged poured drinks davern said

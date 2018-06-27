@@ -1,0 +1,81 @@
+DOCUMENT:
+0: comedian-actor patton oswalt may seem likely person soothe wounded national psyche deadly bombs struck boston marathon
+1: oswalt obvious ties boston makes living telling jokes comforting afflicted
+2: oswalt eloquent thoughts attacks posted monday afternoon facebook page widely passed around internet inspiring testament humankind inherent goodness face evil
+3: warning uses strong language
+4: remember 9/11 went reaction well humanity
+5: wrong wrote oswalt best known voice remy rat ratatouille playing spencer tv king queens
+6: giant planet lucky live prices penalties incurred daily miracle existence
+7: one every awhile wiring tiny sliver species gets snarled pointed towards darkness wrote
+8: vast majority stands darkness like white blood cells attacking virus dilute weaken eventually wash away evil doers importantly damage wreak
+9: beyond religion creed nation
+10: would humanity inherently evil
+11: eaten alive long ago
+12: spot violence bigotry intolerance fear garden-variety misogyny hatred ignorance look eye think good outnumber always
+13: tuesday afternoon oswalt post received 300,000 likes shared 220,000 times
+14: also garnered 12,000 comments facebook
+15: among one woman annapolis maryland
+16: sharing message
+17: exactly told children last night
+18: good always outnumber bad
+19: husband safe
+20: heart broken
+
+=================================
+Gold summary:
+comedian patton oswalt facebook post boston bombings gone viral
+oswalt 9/11 went reaction well humanity wrong
+oswalt post shared 200,000 times
+comic actor voiced remy rat film ratatouille
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 8, 9, 13
+	Results: 
+		rouge-1: 0.1600
+		rouge-2: 0.0370
+		rouge-l: 0.1429
+		mean: 0.1133
+	Summary: 
+		vast majority stands darkness like white blood cells attacking virus dilute weaken eventually wash away evil doers importantly damage wreak
+		beyond religion creed nation
+		tuesday afternoon oswalt post received 300,000 likes shared 220,000 times
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1600
+		rouge-2: 0.0370
+		rouge-l: 0.1786
+		mean: 0.1252
+	Summary: 
+		comedian-actor patton oswalt may seem likely person soothe wounded national psyche deadly bombs struck boston marathon
+		oswalt obvious ties boston makes living telling jokes comforting afflicted
+		oswalt eloquent thoughts attacks posted monday afternoon facebook page widely passed around internet inspiring testament humankind inherent goodness face evil
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 4, 5
+	Results: 
+		rouge-1: 0.4800
+		rouge-2: 0.2593
+		rouge-l: 0.4643
+		mean: 0.4012
+	Summary: 
+		comedian-actor patton oswalt may seem likely person soothe wounded national psyche deadly bombs struck boston marathon
+		remember 9/11 went reaction well humanity
+		wrong wrote oswalt best known voice remy rat ratatouille playing spencer tv king queens
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.1600
+		rouge-2: 0.0370
+		rouge-l: 0.1786
+		mean: 0.1252
+	Summary: 
+		comedian-actor patton oswalt may seem likely person soothe wounded national psyche deadly bombs struck boston marathon
+		oswalt obvious ties boston makes living telling jokes comforting afflicted
+		oswalt eloquent thoughts attacks posted monday afternoon facebook page widely passed around internet inspiring testament humankind inherent goodness face evil

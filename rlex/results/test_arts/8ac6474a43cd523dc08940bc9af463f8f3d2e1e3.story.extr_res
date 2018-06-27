@@ -1,0 +1,99 @@
+DOCUMENT:
+0: jerusalem cnn prayed best feared worst gunman stormed jewish store east paris unleashed terror hours shabbat friday
+1: four days yoav hattab 21 yohan cohen 22 philippe braham 45 françois-michel saada 63 shot dead hyper cacher kosher supermarket final tragic chapter charlie hebdo terror attacks french capital shocked world devastated families laid rest givat shaul cemetery jerusalem
+2: family members wrapped coats ward chill sunny tuesday morning embraced wept bodies loved ones arrived
+3: joined hundreds people many traveled france mourn deadliest attack country jewish community since 2012
+4: draped israeli flag others carried signs bearing faces dead words french declaring dead jewish charlie jewish israeli french enough
+5: wife braham thanked crowds gathered pay tribute fallen
+6: philippe dear love
+7: perfect person always husband father lived children
+8: today son
+9: crying know cry thank
+10: philippe protect protect
+11: helicopters flew overhead soldiers stood guard among headstones prime minister benjamin netanyahu addressed families speech
+12: hugged paris said know hurt hurt fathers parents boys girls sons daughters brothers sisters lost dearest said
+13: people israel state israel hug love dark day four souls came jerusalem final resting place philippe yohan yoav françois-michel
+14: may souls rest peace
+15: netanyahu also called unified response face last week terror attacks enemies israel enemies world time come civilized people come together uproot enemies amongst us
+16: bodies four men flown israel ben gurion airport convoy ambulances carried coffins waiting crowds mourners jerusalem
+17: sephardi chief rabbi yitzhak yosef led state ceremony reading book psalms rending garments symbolic act jewish funerals mourners cut clothes
+18: tearful family members recited mourner kaddish israeli french dignitaries helped light candles honor dead
+19: jonathan saada lit candle father nir barkat mayor jerusalem
+20: braham widow lit another nathan sharansky chairman jewish agency
+21: hattab father chief rabbi tunis tunisia lit candle joel mergui jewish central consistory president
+22: cohen sister joined haïm korsia chief rabbi france lighting one memory brother
+23: emotional speech israeli president reuven rivlin called european leaders take steps wipe anti-semitism
+24: ca get away fact terror particularly harsh jewish people said
+25: would dangerous get away fact anti-semitism whether old anti-semitism new anti-semitism
+26: matter terrorists think
+27: leaders europe take active part strong hand ensure security jewish people europe
+28: unacceptable 2015 people israel unable wear skullcap streets europe cemeteries synagogues protected get away anymore
+29: killings four hostages amedy coulibaly came two days terrorist associates massacred 12 people attack french satirical magazine charlie hebdo paris
+30: charlie hebdo attacks 17 victims
+31: hattab one seven children student paris traveled often see family tunisia according facebook page
+32: magnificent tunisian treasure forever
+33: rest peace fatma ben hamouda wrote page
+34: cohen student working hyper cacher market
+35: parents algeria settled sarcelles 1960s according french news outlets rtl afp
+36: apparent facebook page lists french translation favorite quote shakespeare stuff dreams made
+37: françois-michel saada retired senior executive whose children live israel
+38: married laurence saada psychomotor therapist 30 years according rtl afp
+39: braham worshipped synagogue paris suburb montrouge children attended jewish school far police officer killed last thursday day life taken allegedly man supermarket siege
+40: cnn michael martinez dominique debucquoy-dodley ray sanchez contributed report
+
+=================================
+Gold summary:
+four hostages shot dead paris kosher store siege laid rest jerusalem cemetery
+israeli prime minister benjamin netanyahu top officials speak state ceremony
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 32, 8, 24
+	Results: 
+		rouge-1: 0.0000
+		rouge-2: 0.0000
+		rouge-l: 0.0000
+		mean: 0.0000
+	Summary: 
+		magnificent tunisian treasure forever
+		today son
+		ca get away fact terror particularly harsh jewish people said
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4545
+		rouge-2: 0.0952
+		rouge-l: 0.3182
+		mean: 0.2893
+	Summary: 
+		jerusalem cnn prayed best feared worst gunman stormed jewish store east paris unleashed terror hours shabbat friday
+		four days yoav hattab 21 yohan cohen 22 philippe braham 45 françois-michel saada 63 shot dead hyper cacher kosher supermarket final tragic chapter charlie hebdo terror attacks french capital shocked world devastated families laid rest givat shaul cemetery jerusalem
+		family members wrapped coats ward chill sunny tuesday morning embraced wept bodies loved ones arrived
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 11, 17
+	Results: 
+		rouge-1: 0.6364
+		rouge-2: 0.2857
+		rouge-l: 0.5909
+		mean: 0.5043
+	Summary: 
+		four days yoav hattab 21 yohan cohen 22 philippe braham 45 françois-michel saada 63 shot dead hyper cacher kosher supermarket final tragic chapter charlie hebdo terror attacks french capital shocked world devastated families laid rest givat shaul cemetery jerusalem
+		helicopters flew overhead soldiers stood guard among headstones prime minister benjamin netanyahu addressed families speech
+		sephardi chief rabbi yitzhak yosef led state ceremony reading book psalms rending garments symbolic act jewish funerals mourners cut clothes
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 4
+	Results: 
+		rouge-1: 0.5000
+		rouge-2: 0.0952
+		rouge-l: 0.3636
+		mean: 0.3196
+	Summary: 
+		jerusalem cnn prayed best feared worst gunman stormed jewish store east paris unleashed terror hours shabbat friday
+		four days yoav hattab 21 yohan cohen 22 philippe braham 45 françois-michel saada 63 shot dead hyper cacher kosher supermarket final tragic chapter charlie hebdo terror attacks french capital shocked world devastated families laid rest givat shaul cemetery jerusalem
+		draped israeli flag others carried signs bearing faces dead words french declaring dead jewish charlie jewish israeli french enough

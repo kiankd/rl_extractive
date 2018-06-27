@@ -1,0 +1,78 @@
+DOCUMENT:
+0: cnn seem like fair fight
+1: one side hulking football players pro wrestlers competing teams two eat many pounds steak could combined one hour
+2: another lone 124-pound mother four
+3: sure enough end sunday contest big texan steak ranch amarillo texas even close
+4: molly schuyler scarfed three 72-ounce steaks three baked potatoes three side salads three rolls three shrimp cocktails far outpacing heftier rivals
+5: 13 pounds steak counting sides
+6: 20 minutes setting record process
+7: contest since 1960 time never anybody come actually eat many steaks one time bobby lee co-owns big texan told cnn affiliate kvii
+8: first us 55 years big deal
+9: fairness schuyler typical 124-pound person
+10: nebraska native 35 professional competitive-eating circuit gobbled 363 chicken wings 30 minutes
+11: wearing shades black hoodie schuyler beat four teams sunday including pairs football players pro wrestlers two married competitive eaters
+12: also broke big texan record two 72-ounce steaks sides set last year bested previous record-holder joey jaws chestnut
+13: landmark big texan restaurant offers 72-ounce challenge daily anyone eat massive steak plus fixings hour
+14: ca must pay 72 meal
+15: schuyler lives sacramento california 5,000 efforts
+16: feat submitted guinness world records
+17: mostly seemed pleased enjoy hearty meal house
+18: free pretty happy told kvii
+19: otherwise would cost 300 bucks
+
+=================================
+Gold summary:
+molly schuyler scarfed three 72-ounce steaks sunday amarillo texas
+sacramento woman 35 professional competitive-eating circuit
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 13, 5, 15
+	Results: 
+		rouge-1: 0.2000
+		rouge-2: 0.0000
+		rouge-l: 0.1333
+		mean: 0.1111
+	Summary: 
+		landmark big texan restaurant offers 72-ounce challenge daily anyone eat massive steak plus fixings hour
+		13 pounds steak counting sides
+		schuyler lives sacramento california 5,000 efforts
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.0000
+		rouge-2: 0.0000
+		rouge-l: 0.0000
+		mean: 0.0000
+	Summary: 
+		cnn seem like fair fight
+		one side hulking football players pro wrestlers competing teams two eat many pounds steak could combined one hour
+		another lone 124-pound mother four
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 3, 4, 10
+	Results: 
+		rouge-1: 0.8667
+		rouge-2: 0.6429
+		rouge-l: 0.6667
+		mean: 0.7254
+	Summary: 
+		sure enough end sunday contest big texan steak ranch amarillo texas even close
+		molly schuyler scarfed three 72-ounce steaks three baked potatoes three side salads three rolls three shrimp cocktails far outpacing heftier rivals
+		nebraska native 35 professional competitive-eating circuit gobbled 363 chicken wings 30 minutes
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.0000
+		rouge-2: 0.0000
+		rouge-l: 0.0000
+		mean: 0.0000
+	Summary: 
+		cnn seem like fair fight
+		one side hulking football players pro wrestlers competing teams two eat many pounds steak could combined one hour
+		another lone 124-pound mother four

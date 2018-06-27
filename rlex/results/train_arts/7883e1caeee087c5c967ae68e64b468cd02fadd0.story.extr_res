@@ -1,0 +1,77 @@
+DOCUMENT:
+0: ew.com man give guy seat america got talent judging panel suddenly thinks take everything
+1: radio show morning sirius xm stern casually mentioned going take tonight show addressing public drubbing matt lauer received ann curry departure last summer
+2: stern also refers bob greenblatt â nbc entertainment chairman â told got take show
+3: hear exchange click
+4: insider told ew talks happening â makes sense considering leno continues dominate 11:30 p.m.
+5: february sweeps tonight show beat jimmy kimmel live late show david letterman among adults 18-49 1.003 million versus letterman 920,000 kimmel 898,000 attracted bigger audience 3.5 million viewers versus letterman 3.2 million kimmel 2.5 million
+6: still rumors persist possible succession plan 2014 would involve jimmy fallon assuming 11:30 p.m. time slot
+7: enlightened canceled hbo
+8: stern likes talk trash leno
+9: last august stern claimed reports leno taking pay cut limit staff reductions entire truth
+10: jay wanted cut staff
+11: want come bad guy
+12: nbc took hit corporation bullsh-t meter going place said
+13: stern also said feuding leno years
+14: see original article ew.com
+15: click try 2 risk free issues entertainment weekly
+16: © 2011 entertainment weekly time inc.
+17: rights reserved
+
+=================================
+Gold summary:
+radio show howard stern mentioned taking tonight show
+stern also said nbc entertainment chairman told got take show
+august stern claimed leno taking pay cut limit staff reductions entirely true
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 9, 11, 13
+	Results: 
+		rouge-1: 0.4800
+		rouge-2: 0.3448
+		rouge-l: 0.3333
+		mean: 0.3861
+	Summary: 
+		last august stern claimed reports leno taking pay cut limit staff reductions entire truth
+		want come bad guy
+		stern also said feuding leno years
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4800
+		rouge-2: 0.2759
+		rouge-l: 0.5000
+		mean: 0.4186
+	Summary: 
+		ew.com man give guy seat america got talent judging panel suddenly thinks take everything
+		radio show morning sirius xm stern casually mentioned going take tonight show addressing public drubbing matt lauer received ann curry departure last summer
+		stern also refers bob greenblatt â nbc entertainment chairman â told got take show
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 2, 9
+	Results: 
+		rouge-1: 0.8400
+		rouge-2: 0.5517
+		rouge-l: 0.8333
+		mean: 0.7417
+	Summary: 
+		radio show morning sirius xm stern casually mentioned going take tonight show addressing public drubbing matt lauer received ann curry departure last summer
+		stern also refers bob greenblatt â nbc entertainment chairman â told got take show
+		last august stern claimed reports leno taking pay cut limit staff reductions entire truth
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.4800
+		rouge-2: 0.2759
+		rouge-l: 0.5000
+		mean: 0.4186
+	Summary: 
+		ew.com man give guy seat america got talent judging panel suddenly thinks take everything
+		radio show morning sirius xm stern casually mentioned going take tonight show addressing public drubbing matt lauer received ann curry departure last summer
+		stern also refers bob greenblatt â nbc entertainment chairman â told got take show

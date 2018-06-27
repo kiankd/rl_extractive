@@ -1,0 +1,107 @@
+DOCUMENT:
+0: tea party leader tied alleged political dirty tricks rattled republicans mississippi beyond dead shot head apparent suicide according police
+1: police officers ridgeland mississippi found mark mayfield body shortly 9 a.m. friday floor storage room garage
+2: indications appears suicide still got things look ridgeland police chief jimmy houston told cnn
+3: left suicide note verifying validity
+4: authorities disclosed contents note mayfield might taken life
+5: yet lawyer mississippi tea party leader fire past month charged three others according clarion-ledger newspaper connection blogger accused taking picture sen. thad cochran wife nursing home bed
+6: came week blogger clayton kelly charged
+7: apparent allies conservative state sen. chris mcdaniel engaged ugly primary battle see would gop senate candidate mississippi
+8: photo cochran wife suffers dementia lived nursing home 14 years surfaced political attack ad youtube aimed smear cochran clarion-ledger reported
+9: unclear photo used ad removed within hours posted according newspaper
+10: episode others inflamed rhetoric primary fight
+11: cochran spokesman jordan russell example said last month mayfield others arrests raises even questions mcdaniel campaign needs answer
+12: friday cochran narrowly edged mcdaniel tuesday primary team showed sympathy upon hearing mayfield death
+13: much tragic sad situation said austin barbour senior adviser cochran campaign
+14: mark really good guy
+15: behalf sen. cochran us campaign thoughts prayers go family friends
+16: report mayfield faced conspiracy charges
+17: mark mayfield leaves behind wife two children
+18: also leaves legacy mississippi ways lawyer political leader
+19: mississippi tea party remembered one founding members one biggest cheerleaders
+20: patriot soul smile big day group said website
+21: outside mississippi mayfield became part bigger national story one week authorities arrested political blogger clayton kelly allegedly exploiting vulnerable adult illegally improperly obtaining photo without consent benefit according madison mississippi police department
+22: blogger arrest shakes mississippi gop primary
+23: mayfield later arrested along richard sager elementary school p.e. teacher high school coach according clarion-ledger newspaper
+24: police also charged third individual john beachman mary take custody extensive medical conditions
+25: three face conspiracy charges newspaper reported
+26: mayfield death came two days runoff decide state gop senate nominee election necessitated since neither cochran mcdaniel cracked 50 june 3 primary
+27: cochran latest contest fewer 7,000 votes aided african-american democrats actively courted runoff campaign pro-cochran forces
+28: according mississippi law voters required register political party anyone vote primary election cast ballot either party runoff
+29: mcdaniel repeated vow use every legal maneuver available fight runoff results
+30: lawyer friend heart completely broken
+31: still political fight continues focus thursday mayfield family
+32: wife robin person family ridgeland residence time also one alerted authorities
+33: 57-year-old mayfield found dead lone gunshot wound alongside large caliber revolver
+34: mayfield attorney merrida coxwell said statement e-mailed cnn client importantly friend almost 34 years
+35: heart completely broken
+36: beyond tragic people community state lost good man citizen
+37: phone call cnn coxwell added important happened
+38: happened today
+39: mark wife called texted mark deceased
+40: mcdaniel posted statement facebook page saying regardless recent allegations made character mark mayfield fine christian man always respectful kind
+41: one polite humble men ever met politics state senator added
+42: loving husband father pillar community missed
+43: mcdaniel says irregularities found
+44: thad cochran
+45: blogger arrest shakes mississippi republican primary
+46: cnn carma hassan alan silverleib contributed report
+
+=================================
+Gold summary:
+police mayfield wife alerted authorities body revolver nearby
+sen. cochran adviser much tragic sad situation
+mississippi tea party laments loss cheerleader patriot soul
+mayfield charged picture-taking incident involving senator wife
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 24, 15, 7
+	Results: 
+		rouge-1: 0.1786
+		rouge-2: 0.0345
+		rouge-l: 0.1333
+		mean: 0.1155
+	Summary: 
+		police also charged third individual john beachman mary take custody extensive medical conditions
+		behalf sen. cochran us campaign thoughts prayers go family friends
+		apparent allies conservative state sen. chris mcdaniel engaged ugly primary battle see would gop senate candidate mississippi
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2143
+		rouge-2: 0.0345
+		rouge-l: 0.1000
+		mean: 0.1163
+	Summary: 
+		tea party leader tied alleged political dirty tricks rattled republicans mississippi beyond dead shot head apparent suicide according police
+		police officers ridgeland mississippi found mark mayfield body shortly 9 a.m. friday floor storage room garage
+		indications appears suicide still got things look ridgeland police chief jimmy houston told cnn
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 5, 13
+	Results: 
+		rouge-1: 0.5357
+		rouge-2: 0.1724
+		rouge-l: 0.3000
+		mean: 0.3360
+	Summary: 
+		police officers ridgeland mississippi found mark mayfield body shortly 9 a.m. friday floor storage room garage
+		yet lawyer mississippi tea party leader fire past month charged three others according clarion-ledger newspaper connection blogger accused taking picture sen. thad cochran wife nursing home bed
+		much tragic sad situation said austin barbour senior adviser cochran campaign
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 44
+	Results: 
+		rouge-1: 0.2500
+		rouge-2: 0.0345
+		rouge-l: 0.1333
+		mean: 0.1393
+	Summary: 
+		tea party leader tied alleged political dirty tricks rattled republicans mississippi beyond dead shot head apparent suicide according police
+		police officers ridgeland mississippi found mark mayfield body shortly 9 a.m. friday floor storage room garage
+		thad cochran

@@ -1,0 +1,87 @@
+DOCUMENT:
+0: sleeping victoria azarenka woke time beat ana ivanovic u.s. open keep alive chances reaching fourth consecutive hard-court grand slam final
+1: azarenka dropped first set former world no. 1 struggled put serbian away eventually prevailed 4-6 6-3 6-4 hard-hitting fourth-round encounter pushed back tuesday rain
+2: second straight match world no. 2 former no. 1 needed stage comeback following sluggish start
+3: france alize cornet tiebreak first set third round
+4: men no. 1 novak djokovic troubles routing spaniard marcel granollers one hour 20 minutes
+5: azarenka struck mere four winners first set ivanovic combined nine unforced errors
+6: ivanovic certainly asleep crushing 17 winners
+7: ana came firing played amazing first set felt like little place azarenka said interview court
+8: sleeping ripping winners serving great really wake second set fight points
+9: second set determined focused taking opportunities
+10: numbers much better second set ivanovic cooled thanks part azarenka changing pace times drop shot
+11: seesaw third set four straight breaks one stage azarenka blew two match points serving 5-3 let hook ivanovic dumped backhand fourth match point
+12: although ivanovic put brave fight ultimately slumped 3-20 top-two opposition
+13: match points pretty bad azarenka lost last year final serena williams said
+14: really go shots
+15: kept waiting mistake
+16: played really great
+17: especially tough moments felt raising game
+18: stay tough well
+19: azarenka meets pal daniela hantuchova quarterfinals captured two four previous encounters
+20: three matches gone distance
+21: former french open winner li na china achieved first u.s. open semifinal overcoming tricky russian ekaterina makarova 6-4 6-7 6-2 drama men fourth round russia mikhail youzhny outlasted fellow veteran lleyton hewitt australia
+22: youzhny previously semifinalist new york upended 2001 champion 6-3 3-6 6-7 6-4 7-5 four hours
+23: blown 5-2 lead fourth hewitt broke youzhny get back serve fifth
+24: youzhny subsequently broke 5-5 served match
+25: youzhny next confronts djokovic 6-3 6-0 6-0 winner seemingly weakened granollers
+26: granollers first three matches went five sets also played doubles new york
+
+=================================
+Gold summary:
+victoria azarenka beats ana ivanovic three sets reach u.s. open quarterfinals
+azarenka also needed three sets beat france alize cornet previous round
+azarenka favorite bottom half draw make final new york
+li na advanced u.s. open semifinals first time topping ekaterina makarova
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 8, 20, 13
+	Results: 
+		rouge-1: 0.0833
+		rouge-2: 0.0000
+		rouge-l: 0.0714
+		mean: 0.0516
+	Summary: 
+		sleeping ripping winners serving great really wake second set fight points
+		three matches gone distance
+		match points pretty bad azarenka lost last year final serena williams said
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.3056
+		rouge-2: 0.0769
+		rouge-l: 0.1905
+		mean: 0.1910
+	Summary: 
+		sleeping victoria azarenka woke time beat ana ivanovic u.s. open keep alive chances reaching fourth consecutive hard-court grand slam final
+		azarenka dropped first set former world no. 1 struggled put serbian away eventually prevailed 4-6 6-3 6-4 hard-hitting fourth-round encounter pushed back tuesday rain
+		second straight match world no. 2 former no. 1 needed stage comeback following sluggish start
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 0, 3, 21
+	Results: 
+		rouge-1: 0.5000
+		rouge-2: 0.1795
+		rouge-l: 0.3810
+		mean: 0.3535
+	Summary: 
+		sleeping victoria azarenka woke time beat ana ivanovic u.s. open keep alive chances reaching fourth consecutive hard-court grand slam final
+		france alize cornet tiebreak first set third round
+		former french open winner li na china achieved first u.s. open semifinal overcoming tricky russian ekaterina makarova 6-4 6-7 6-2 drama men fourth round russia mikhail youzhny outlasted fellow veteran lleyton hewitt australia
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 5
+	Results: 
+		rouge-1: 0.2778
+		rouge-2: 0.0769
+		rouge-l: 0.2143
+		mean: 0.1897
+	Summary: 
+		sleeping victoria azarenka woke time beat ana ivanovic u.s. open keep alive chances reaching fourth consecutive hard-court grand slam final
+		azarenka dropped first set former world no. 1 struggled put serbian away eventually prevailed 4-6 6-3 6-4 hard-hitting fourth-round encounter pushed back tuesday rain
+		azarenka struck mere four winners first set ivanovic combined nine unforced errors

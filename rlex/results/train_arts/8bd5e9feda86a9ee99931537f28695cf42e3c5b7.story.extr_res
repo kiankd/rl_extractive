@@ -1,0 +1,78 @@
+DOCUMENT:
+0: running mate one kenya two frontrunners presidential election said thursday vote tallying stop doctored lacks integrity
+1: day announcement election officials said new electronic voting system broke snarling process forcing tallying done manually
+2: running mate kalonzo musyoka described transmission system failure
+3: said cord coalition evidence vote doctored coalition looking options including court injunction
+4: musyoka running mate kenyan prime minister raila odinga said announcement call protests urged supporters maintain peace
+5: deputy prime minister uhuru kenyatta ahead musyoka boss vote count three days election monday
+6: kenyatta son kenya founding father maintained lead part since polls closed
+7: odinga team one expressing discontent
+8: kenyatta jubilee coalition wednesday accused britain interfering election according kenyan media
+9: accusations prompted uk foreign office release statement wednesday
+10: claims british interference including high commission electoral process entirely false misleading statement said
+11: election officials urged citizens calm patient hoping avoid tension distrust system contributed post-election violence december 2007
+12: time nation plunged ethnic violence odinga disputed results declared incumbent president mwai kibaki winner alleging election rigged
+13: time protesters took streets supporters camps fought one another
+14: 1,200 people killed hundreds thousands displaced worst violence since nation gained independence britain 1963
+15: clashes ended formation power-sharing government kibaki president odinga prime minister
+16: kenya election carries significance far beyond borders
+17: largest economy east africa crucial trade route rest continent provides important buffer stability region includes fledgling somali government politically tense sudan south sudan
+18: kenya also major u.s. ally war islamist militants region remained relatively peaceful amid civil wars neighboring nations
+
+=================================
+Gold summary:
+running mate raila odinga says transmission system failure
+day election officials said new electronic voting system broke
+kenyans held general election monday
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 16, 18, 4
+	Results: 
+		rouge-1: 0.3000
+		rouge-2: 0.0952
+		rouge-l: 0.2273
+		mean: 0.2075
+	Summary: 
+		kenya election carries significance far beyond borders
+		kenya also major u.s. ally war islamist militants region remained relatively peaceful amid civil wars neighboring nations
+		musyoka running mate kenyan prime minister raila odinga said announcement call protests urged supporters maintain peace
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.6500
+		rouge-2: 0.4762
+		rouge-l: 0.5000
+		mean: 0.5421
+	Summary: 
+		running mate one kenya two frontrunners presidential election said thursday vote tallying stop doctored lacks integrity
+		day announcement election officials said new electronic voting system broke snarling process forcing tallying done manually
+		running mate kalonzo musyoka described transmission system failure
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 1, 2, 5
+	Results: 
+		rouge-1: 0.7000
+		rouge-2: 0.5238
+		rouge-l: 0.5000
+		mean: 0.5746
+	Summary: 
+		day announcement election officials said new electronic voting system broke snarling process forcing tallying done manually
+		running mate kalonzo musyoka described transmission system failure
+		deputy prime minister uhuru kenyatta ahead musyoka boss vote count three days election monday
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.6500
+		rouge-2: 0.4762
+		rouge-l: 0.5000
+		mean: 0.5421
+	Summary: 
+		running mate one kenya two frontrunners presidential election said thursday vote tallying stop doctored lacks integrity
+		day announcement election officials said new electronic voting system broke snarling process forcing tallying done manually
+		running mate kalonzo musyoka described transmission system failure

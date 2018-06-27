@@ -1,0 +1,111 @@
+DOCUMENT:
+0: mysterious deaths 21 prized polo horses sunday club florida provides peek inside private world sport generally limits wealthy
+1: lechuza caracas polo team may recover loss 21 ponies years polo executive says
+2: university florida college veterinary medicine gainesville state-run kissimmee diagnostic laboratories near orlando conducting necropsies animals
+3: initial tests failed reveal cause said liz compton representative florida department agriculture consumer services
+4: tissues organ samples blood screened toxic agents said
+5: scientists ruled contagious disease animals died quickly said state agriculture department spokesman mark fagan
+6: authorities initially requested necropsies eight horses insured according sarah carey representative veterinary school got bodies 15 horses
+7: later order expanded 15 horses said
+8: u.s. polo association among parties cooperating investigation
+9: meantime mourn loss horses u.s. polo association executive director peter rizzo said news release
+10: words describe grief sadness shared everyone particularly devastated owners magnificent horses
+11: watch investigators studying
+12: players form strong emotional bonds horses ride said john wash operations president international polo club palm beach wellington florida horses fell ill
+13: heard couple polo players affected loss day couple think left house since sunday night wash said
+14: lot tears big tough guys hands knees crying happened
+15: u.s. open polo championship interrupted tragedy resume wednesday semifinal matches wash said
+16: lechuza caracas team whose horses died offered spare mounts competitors could remain competition devastated team chose withdraw wash said
+17: wellington tournament one sport three major championships par u.s. open tennis golf
+18: authorities say believe competition facility safe horses whatever killed 21 horses entered bodies away site
+19: fifteen animals fell ill shortly compete sunday died immediately others lingered almost hour
+20: six others died overnight sunday monday kept trailer wellington
+21: animals kept overnight competition site special precautions place regarding food water bedding wash said
+22: organizers planning short memorial laying wreaths honor horses said
+23: grief counselors hand facility help employees deal trauma wash said
+24: scene described almost like airplane crash involved human life horses said
+25: polo ponies united states drug-tested u.s. polo association considering taking practice several years wash said
+26: people calling reform maybe needs happen toxicology reports come back autopsy reports even know -lsb- sunday incident -rsb- anything related
+27: humane society united states record abuse polo ponies may function sport exclusive nature society spokeswoman holly hazard said
+28: learning everyone else said
+29: may perhaps televised popular sports something either constituents program particularly focused
+30: either performance-enhancing drugs problem associated investigate offer reward bring whoever responsible justice
+31: keith dane director humane society equine protection program en route florida tuesday interview people involved incident keep eye investigation hazard said
+32: evidence brought forth suggesting someone deliberately poisoned animals
+33: guess everything possible wash said
+34: heard different rumors
+35: know even want go think
+36: compton florida department agriculture consumer services representative said authorities seen evidence criminal activity case
+37: clearly law enforcement gotten involved given complexity scope deaths fact-finding gathering information specific cause death determine investigation go said
+38: devastated team lechuza caracas one top teams world
+39: loss could set back years wash said
+40: like baseball basketball football said
+41: taking years grooming training nurturing create really first string horses
+42: four polo players takes anywhere six eight horses per polo player play game polo
+43: taking 21 horses probably 21 first-string horses lost every one best players
+44: like could go buy 21 new horses start point
+45: polo ponies thoroughbreds many former racehorses retrained game cover wide range ages wash said
+46: get old play retired pasture stud said
+47: polo horse treated quite well wash said
+48: fact polo horse might play three months palm beach might take three months might play another three months say argentina england take three months
+49: pushed 12 months year
+50: cnn kim segal john couwels contributed report
+
+=================================
+Gold summary:
+investigators try determine killed 21 polo ponies florida
+contagious disease ruled tissue samples sent study
+players form close bonds horses club executive says
+humane society united states sends official watch investigation
+
+=================================
+Random_seed-1848 predicted the following:
+	Sentences: 2, 26, 30
+	Results: 
+		rouge-1: 0.0323
+		rouge-2: 0.0000
+		rouge-l: 0.0323
+		mean: 0.0215
+	Summary: 
+		university florida college veterinary medicine gainesville state-run kissimmee diagnostic laboratories near orlando conducting necropsies animals
+		people calling reform maybe needs happen toxicology reports come back autopsy reports even know -lsb- sunday incident -rsb- anything related
+		either performance-enhancing drugs problem associated investigate offer reward bring whoever responsible justice
+
+=================================
+Lead-3 predicted the following:
+	Sentences: 0, 1, 2
+	Results: 
+		rouge-1: 0.2581
+		rouge-2: 0.0333
+		rouge-l: 0.1935
+		mean: 0.1616
+	Summary: 
+		mysterious deaths 21 prized polo horses sunday club florida provides peek inside private world sport generally limits wealthy
+		lechuza caracas polo team may recover loss 21 ponies years polo executive says
+		university florida college veterinary medicine gainesville state-run kissimmee diagnostic laboratories near orlando conducting necropsies animals
+
+=================================
+GreedyOracle-mean predicted the following:
+	Sentences: 5, 12, 27
+	Results: 
+		rouge-1: 0.4839
+		rouge-2: 0.2333
+		rouge-l: 0.3548
+		mean: 0.3573
+	Summary: 
+		scientists ruled contagious disease animals died quickly said state agriculture department spokesman mark fagan
+		players form strong emotional bonds horses ride said john wash operations president international polo club palm beach wellington florida horses fell ill
+		humane society united states record abuse polo ponies may function sport exclusive nature society spokeswoman holly hazard said
+
+=================================
+v_lr-0.05__p_lr-0.15 predicted the following:
+	Sentences: 0, 1, 12
+	Results: 
+		rouge-1: 0.3548
+		rouge-2: 0.1000
+		rouge-l: 0.2581
+		mean: 0.2376
+	Summary: 
+		mysterious deaths 21 prized polo horses sunday club florida provides peek inside private world sport generally limits wealthy
+		lechuza caracas polo team may recover loss 21 ponies years polo executive says
+		players form strong emotional bonds horses ride said john wash operations president international polo club palm beach wellington florida horses fell ill
